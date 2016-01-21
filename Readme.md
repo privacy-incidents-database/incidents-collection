@@ -1,3 +1,5 @@
 ## Readme
 
-In order to use the script, **export** your api key as *NY_TIMES_API_KEY*.
+In order to use the script, Create an Environment variable using the following command
+
+**export** *NY_TIMES_API_KEY* = "Your API key"
