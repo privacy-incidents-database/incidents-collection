@@ -1,0 +1,501 @@
+
+
+
+
+THE MEDIA BUSINESS -  ADVERTISING -  New Billboards Sample Radios As Cars Go By, Then Adjust - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.NYT5Style .masthead-tools #bar1-button  {
+    display: inline;
+    vertical-align: top;
+}
+#bar1-button {
+    border:none;
+    position: relative;
+}
+.bar1_hover {
+    opacity: 0;
+}
+.sub_small_hide {
+    display: none;
+}
+#bar1-button > a {
+    -moz-box-sizing: border-box;
+    background-color: #6288A5;
+    border: 1px solid #4D7B9F;
+    border-radius: 3px;
+    color: #fff !important;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: nyt-franklin,nyt-franklin-1,'Helvetica Neue',Arial,sans-serif;
+    padding: 7px 10px 6px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#bar1-button > a:hover {
+    background-color: #326891;
+    border: 1px solid #265E8B;
+    text-decoration: none;
+}
+
+/* EXCLUDING NYT4 INTERACTIVES */
+#interactiveABC #bar1-button {
+   display: none;
+}
+
+
+Subscribe Now
+
+
+Subscribe
+
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/archive/article/business, targetedPage: www.nytimes.com/archive/article/business, position: Bar1
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+NYTD.loadEditionToggle();
+
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+Business Day
+
+
+
+
+
+World
+ 
+U.S.
+ 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+International
+DealBook
+Markets
+Economy
+Energy
+Media
+Technology
+Personal Tech
+Entrepreneurship
+Your Money
+
+
+
+        NYTD.require(NYTD.Hosts.jsHost + "/js/section/business/subnavigation.js");
+    
+
+
+
+
+
+
+
+THE MEDIA BUSINESS: ADVERTISING
+THE MEDIA BUSINESS: ADVERTISING; New Billboards Sample Radios As Cars Go By, Then Adjust
+
+
+By MATT RICHTEL
+
+
+Published: December 27, 2002
+
+
+
+
+
+
+
+
+
+SAN FRANCISCO, Dec. 26— 
+                    Tom Langeland cannot hear your car radio. But he purports to be able to figure out what you're listening to -- whether rock 'n' roll, sports, talk or news -- in the privacy of your speeding automobile.        
+
+                    Pursuing a business plan that has a science fiction bent but also some skeptics, Mr. Langeland intends to modify electronic freeway billboard advertisements by remote control to reflect your tastes, and those of thousands of other drivers.        
+
+                    As part of a $20 million investment, Mr. Langeland, a Sacramento-based entrepreneur, has erected 10 billboards that can display both video and text and can be programmed with changing messages and images. In addition, the billboards include fledgling technology that is designed to identify the radio frequencies of passers-by.        
+
+                    Mr. Langeland, chief executive of the Alaris Media Network, intends to deduce demographic information from the radio stations drivers are listening to and then display advertising aimed at them based on income, sex, race and buying habit data. He said the idea was not to single out individuals, but drivers en masse. For instance, if a preponderance of rush-hour drivers are tuned to a radio station known to have affluent or educated listeners, then the advertisements at that time would be aimed at them.        
+
+                    Within the next three weeks, Mr. Langeland said, he will begin modifying the content on the billboards as often as once an hour, based on the radio-listening patterns.        
+
+                    The concept is catching the attention of a handful of advertisers. But at least some prospective advertisers are waiting to see whether the technology really can pick up what radio stations people are tuned into and provide superior opportunities for messages.        
+
+                    ''It's a stretch to get an advertiser to change their message based on who they say is driving by,'' said John Winkel, president of an advertising agency that represents major car dealerships in Northern California and who has been negotiating to buy space on the billboards. Moreover, Mr. Winkel said, he is not clear about what information can be drawn from radio-listening patterns.        
+
+                    ''There are way too many people driving by to make that conclusion,'' he said. He added that he was waiting for more evidence before deciding how heavily to get involved.        
+
+                    The technology designed to pick up radio-listening patterns and match them against demographic information is the creation of an Alaris partner, MobilTrak, which is based in Chandler, Ariz. Phyllis R. Neill, chief operating officer of the company, said the technology worked by detecting radiation leakage that is emitted when antennae are tuned to a given radio station.        
+
+                    Ms. Neill said the sensors, positioned on the billboard poles, could capture the signals of 60 to 85 percent of the passing cars. Mr. Langeland is promising advertisers the technology will capture the listening patterns of 60 percent of the cars.        
+
+                    Before the so-called smart billboards were developed, 90 percent of MobilTrak's customers were car dealerships. The dealers put sensors on their lots to find out what radio stations customers, and prospective customers, were tuned into, Ms. Neill said.        
+
+                    In the case of the billboards, Alaris and MobilTrak use data from Media Audit, which studies demographic patterns of radio listeners, to infer information about them. ''We can tell you the percentage of people who drove past that were married, shop at Petsmart, that make over $100,000,'' Ms. Neill said.        
+
+                    Mr. Langeland said the advertising would not necessarily try to single out listeners to a particular station, but would come up with a composite of those listening to a mix of stations at a particular hour.        
+
+                    Mr. Langeland said the advertisements would not change instantaneously based on the listening patterns of drivers. Rather, he said, the company will try to determine the demographics of drivers at given hours of the day, then modify the message as frequently as every hour based on the patterns.        
+
+                    ''There are different people on the roads on a Sunday than on a Monday or Tuesday,'' he said. ''We'll analyze our data by hour and day by day.''        
+
+                    He said the company had signed up the Peppermill Casino Hotel in Reno, Nev., as its exclusive casino advertiser in Northern California. Kim R. Stoll, the casino's corporate director for advertising, said it planned to promote room rates and entertainment on the billboards in Northern California. It also wants to try to single out younger audiences with advertisements that focus on specific lounges or restaurants.        
+
+                    For now, Alaris has four billboards in Los Angeles; two each in San Francisco and Sacramento; one in Mantica, Calif.; and one in Louisville, Tex. It expects to add four in the San Jose area soon.        
+
+                    Mr. Langeland, 33, a native of Norway who came to the United States to attend California State University at Fresno, said that he hoped the technology would help advertisers focus their radio advertising as well as their billboard marketing. ''That is our ultimate goal,'' he said, noting that the company would try to tell advertisers which stations people were listening to at what times of the day.        
+
+                    He said he also hoped to sign up a radio group to advertise on the billboards. ''We now have the power to change listenership,'' he contended.        
+
+                    Photo: As motorists drive past a billboard on the Capital City Freeway in Sacramento, the radio stations they are listening to are identified. (John Decker for The New York Times)(pg. C5)                
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+var dcsvid = "";
+var regstatus = "non-registered";
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/business, targetedPage: www.nytimes.com/archive/article/business, position: Inv1

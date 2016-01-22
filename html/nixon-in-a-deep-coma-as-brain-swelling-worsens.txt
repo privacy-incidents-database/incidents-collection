@@ -1,0 +1,473 @@
+
+
+
+
+Nixon in a Deep Coma as Brain Swelling Worsens - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.NYT5Style .masthead-tools #bar1-button  {
+    display: inline;
+    vertical-align: top;
+}
+#bar1-button {
+    border:none;
+    position: relative;
+}
+.bar1_hover {
+    opacity: 0;
+}
+.sub_small_hide {
+    display: none;
+}
+#bar1-button > a {
+    -moz-box-sizing: border-box;
+    background-color: #6288A5;
+    border: 1px solid #4D7B9F;
+    border-radius: 3px;
+    color: #fff !important;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: nyt-franklin,nyt-franklin-1,'Helvetica Neue',Arial,sans-serif;
+    padding: 7px 10px 6px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#bar1-button > a:hover {
+    background-color: #326891;
+    border: 1px solid #265E8B;
+    text-decoration: none;
+}
+
+/* EXCLUDING NYT4 INTERACTIVES */
+#interactiveABC #bar1-button {
+   display: none;
+}
+
+
+Subscribe Now
+
+
+Subscribe
+
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/archive/article/us, targetedPage: www.nytimes.com/archive/article/us, position: Bar1
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+NYTD.loadEditionToggle();
+
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+U.S.
+
+
+
+
+
+World
+ 
+U.S.
+PoliticsEducationTexas 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+Nixon in a Deep Coma as Brain Swelling Worsens
+
+
+By LAWRENCE K. ALTMAN
+
+
+Published: April 22, 1994
+
+
+
+
+
+
+
+
+
+                    Former President Richard M. Nixon slipped into a deep coma and was near death last night, three days after suffering a devastating stroke, officials at New York Hospital-Cornell Medical Center said.        
+
+                    A two-sentence statement issued by the hospital yesterday afternoon said the 81-year-old Mr. Nixon was resting comfortably, but it provided no other details about his condition or whether he remained in an intensive-care unit. No further statements were issued as of 1 A.M.        
+
+                    Though the statement was terse in describing a further deterioration in Mr. Nixon's condition, the fact that it was made at all indicated that the change was substantive. On Wednesday, the hospital said it would provide no further details about Mr. Nixon's condition unless it changed significantly. In keeping with his wishes, Mr. Nixon was not receiving extraordinary life-support measures.        
+
+                    The statement yesterday also said that Mr. Nixon's family was at his bedside. His daughters, Tricia Nixon Cox and Julie Nixon Eisenhower, have been at the hospital most of the week. Mr. Nixon's wife, Pat, died of lung cancer last June at the age of 81.        
+
+                    Reporters saw two marine sergeants arrive at the hospital yesterday, then leave, apparently ready to serve as an honor guard if the former President died. In Washington, a spokesman for House Speaker Thomas S. Foley, Democrat of Washington, said in response to a question that the Capitol's Rotunda would be available for Mr. Nixon's body to lie in state if his family made the request.        
+
+                    At the Richard Nixon Presidential Library and Birthplace in Yorba Linda, Calif., well-wishers lined up to sign a get-well message to the President. Speaking to reporters on Tuesday in Los Angeles, Henry A. Kissinger, who was Mr. Nixon's national security adviser and Secretary of State, said of his former boss's determination, "If this is something that can be licked by will power, by tenacity, then he can lick it."        
+
+                    The immediate effect of the stroke on Monday was to paralyze Mr. Nixon's right arm and leg, impair his speech and cause some loss of vision. But by Wednesday the stroke had also led to severe swelling of the brain, a life-threatening condition.  The swelling, cerebral edema, caused compression of the healthy portions of his brain, including the brain stem, which produced an increasing loss of consciousness.        
+
+                    The new development of a deep coma indicated a worse prognosis. If Mr. Nixon were to survive, he would probably suffer major brain damage, said neurologists not connected with the case.        
+
+                    A stroke causes brain swelling when damaged arteries begin to break down and fluid leaks into the brain tissue. This leakage further damages cells that have already been harmed by a lack of oxygen when a stroke occurs. The amount of swelling is generally related directly to the severity of a stroke.        
+
+                    As the brain's neuron cells die and fluid leaks into the brain tissue, the swelling increases. Because the brain is essentially confined to a box created by the skull, the organ comes under increased pressure and compresses healthy areas of brain. Swelling Within the Skull        
+
+                    Such swelling is a major cause of death in strokes, because the skull prevents expansion and results in pressure on the brain stem, where such vital functions as breathing and heartbeat are controlled.        
+
+                    Eventually, swelling can cause portions of the soft brain tissue to herniate, or expand, through a small hole at the base of the skull into the area normally occupied by the spinal cord.        
+
+                    Treatment for cerebral edema is limited. Brain swelling from a stroke generally does not respond to treatment with steroid drugs, as brain swelling from a tumor often does, said Dr. H. Royden Jones Jr. chairman of neurology at the Lahey Clinic in Burlington, Mass.        
+
+                    Initially, the swelling may make the patient drowsy. But as the damage worsens, changes in levels of consciousness can occur. The patient becomes increasingly less responsive, gradually losing consciousness and slipping into a coma. Checking Patient's Pupils        
+
+                    As doctors monitor such a patient, they check the size of the pupils in the eyes and their ability to contract when a bright light is flashed in them. When the damage is severe, the pupil widens and no longer contracts in response to a flash of light.        
+
+                    The changes can occur abruptly or over a period of hours to days, and breathing is often the last function lost, said Dr. Marc Fisher, a professor of neurology at University of Massachusetts Medical Center in Worcester.        
+
+                    Dr. Fisher is among the neurologists who are conducting trials to find ways to prevent or contain damage to the brain resulting from strokes. Dr. Fisher said stroke victims tended to have a better chance of surviving with less permanent damage if they are taken to a hospital immediately after symptoms develop.        
+
+                    Mr. Nixon was taken to the hospital late Monday afternoon, after he had the stroke at his home in Park Ridge, N.J. In the hospital, his condition progressively declined, and yesterday afternoon it deteriorated further. No Extraordinary Measures        
+
+                    Long before he suffered the stroke, Mr. Nixon expressed "some fairly strong intentions about the kind of treatment he wishes," said a health worker who is involved in his care and who did not want to be identified.        
+
+                    Thus, Mr. Nixon has not received extraordinary medical measures like a mechanical respirator, which is often used in treating cerebral edema that develops as a complication of a stroke.        
+
+                    Mr. Nixon's doctors believe his stroke resulted from his damaged heart. For many years, Mr. Nixon's heart beat irregularly. This abnormal rhythm, atrial fibrillation, increases the risk of a blood clot's forming in an upper chamber of the heart. Such clots can break off, travel in the blood through the arteries and lodge in the brain.        
+
+                    In Mr. Nixon's case, the clot apparently lodged in the middle cerebral artery, affecting a wide area of brain functions.        
+
+                    On Tuesday, Mr. Nixon showed enough improvement that his doctors moved him from an intensive-care unit to a private room, chiefly out of respect for his and his family's wishes for privacy.        
+
+                    But two hours later, Mr. Nixon's condition took a turn for the worse. A CAT scan X-ray showed that the stroke had affected a large area of the brain that is nourished by the middle cerebral artery. Mr. Nixon was rushed back to the same intensive-care unit that he had left a short time before for treatment of the brain swelling.        
+
+                    Photo: Former President Richard M. Nixon, who had a stroke on Monday, was near death last night at New York Hospital-Cornell Medical Center. In Yorba Linda, Calif., well-wishers signed get-well messages at the Richard Nixon Presidential Library and Birthplace, where Mr. Nixon's wife, Pat, is buried. (Associated Press) (pg. A20)        
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+var dcsvid = "";
+var regstatus = "non-registered";
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/us, targetedPage: www.nytimes.com/archive/article/us, position: Inv1

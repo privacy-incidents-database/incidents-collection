@@ -1,36 +1,36 @@
-Health Web Sites Fail to Keep Personal Data Private, Study Finds
+health web sites fail to keep personal data private, study finds
 
 
-By JERI CLAUSING
+by jeri clausing
 
 
-Published: February 2, 2000
-
-
-
+published: february 2, 2000
 
 
 
 
 
 
-WASHINGTON, Feb. 1— 
-                    Internet health sites collect some of the most personal information about their users, but few follow their own declared policies about maintaining the privacy of that data, according to a survey made public today.        
 
-                    The survey, by the California HealthCare Foundation, found that 19 of the top 21 health sites had privacy policies but that most failed to live up to promises not to share information with third parties. And none of the sites followed guidelines like those recommended by the Federal Trade Commission on collection and use of personal data.        
 
-                    The survey comes as policy makers are more closely scrutinizing the privacy practices of Web sites to determine whether new laws are needed to regulate online marketers. Privacy advocates immediately cited the findings as proof that the Internet industry had failed in its efforts to police itself.        
 
-                    ''This is about the 7,000th piece of conclusive evidence that self-regulation is not working,'' said Jason Catlett, founder of the Junkbusters Corporation, a company that helps people protect their privacy online.        
+washington, feb. 1— 
+                    internet health sites collect some of the most personal information about their users, but few follow their own declared policies about maintaining the privacy of that data, according to a survey made public today.        
 
-                    The study's authors were less judgmental, comparing the online health industry to an awkward adolescent. Richard M. Smith, an Internet security analyst, and Janlori Goldman, director of the project, said health sites were well aware that consumers expected the information they supplied to be confidential. They said they believed that many sites were unaware that third parties could gain access to the information they were collecting.        
+                    the survey, by the california healthcare foundation, found that 19 of the top 21 health sites had privacy policies but that most failed to live up to promises not to share information with third parties. and none of the sites followed guidelines like those recommended by the federal trade commission on collection and use of personal data.        
 
-                    The main reason for the privacy violations, Mr. Smith said, is the use of so-called cookies, which track consumers' movements on the Internet, and other advanced technology that delivers advertising to Web pages and can pick up information entered by users on pages where the advertisements are displayed. The combination allows advertisers to build detailed profiles of consumers.        
+                    the survey comes as policy makers are more closely scrutinizing the privacy practices of web sites to determine whether new laws are needed to regulate online marketers. privacy advocates immediately cited the findings as proof that the internet industry had failed in its efforts to police itself.        
 
-                    For example, Mr. Smith said a site promising not to share its users' names, addresses or other information had contracted with a company to administer a health assessment test on the site, providing that company with access to the data.        
+                    ''this is about the 7,000th piece of conclusive evidence that self-regulation is not working,'' said jason catlett, founder of the junkbusters corporation, a company that helps people protect their privacy online.        
 
-                    Mr. Catlett said it was plausible that many sites were unknowingly violating their own privacy policies.        
+                    the study's authors were less judgmental, comparing the online health industry to an awkward adolescent. richard m. smith, an internet security analyst, and janlori goldman, director of the project, said health sites were well aware that consumers expected the information they supplied to be confidential. they said they believed that many sites were unaware that third parties could gain access to the information they were collecting.        
 
-                    ''A lot of these sites are being set up in great haste, and often without sufficient knowledge or attention to the leakage that takes place with online advertising,'' Mr. Catlett said.        
+                    the main reason for the privacy violations, mr. smith said, is the use of so-called cookies, which track consumers' movements on the internet, and other advanced technology that delivers advertising to web pages and can pick up information entered by users on pages where the advertisements are displayed. the combination allows advertisers to build detailed profiles of consumers.        
 
-                    Although privacy advocates for years have been calling on Congress to pass a law setting standards for Internet sites to follow when collecting personal information, the Clinton administration and the Federal Trade Commission have sided with the industry in its call for a chance to prove that marketers and online merchants can police themselves.
+                    for example, mr. smith said a site promising not to share its users' names, addresses or other information had contracted with a company to administer a health assessment test on the site, providing that company with access to the data.        
+
+                    mr. catlett said it was plausible that many sites were unknowingly violating their own privacy policies.        
+
+                    ''a lot of these sites are being set up in great haste, and often without sufficient knowledge or attention to the leakage that takes place with online advertising,'' mr. catlett said.        
+
+                    although privacy advocates for years have been calling on congress to pass a law setting standards for internet sites to follow when collecting personal information, the clinton administration and the federal trade commission have sided with the industry in its call for a chance to prove that marketers and online merchants can police themselves.

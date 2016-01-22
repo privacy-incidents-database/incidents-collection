@@ -1,0 +1,464 @@
+
+
+
+
+Rough Passage - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.NYT5Style .masthead-tools #bar1-button  {
+    display: inline;
+    vertical-align: top;
+}
+#bar1-button {
+    border:none;
+    position: relative;
+}
+.bar1_hover {
+    opacity: 0;
+}
+.sub_small_hide {
+    display: none;
+}
+#bar1-button > a {
+    -moz-box-sizing: border-box;
+    background-color: #6288A5;
+    border: 1px solid #4D7B9F;
+    border-radius: 3px;
+    color: #fff !important;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: nyt-franklin,nyt-franklin-1,'Helvetica Neue',Arial,sans-serif;
+    padding: 7px 10px 6px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#bar1-button > a:hover {
+    background-color: #326891;
+    border: 1px solid #265E8B;
+    text-decoration: none;
+}
+
+/* EXCLUDING NYT4 INTERACTIVES */
+#interactiveABC #bar1-button {
+   display: none;
+}
+
+
+Subscribe Now
+
+
+Subscribe
+
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/archive/article/magazine, targetedPage: www.nytimes.com/archive/article, position: Bar1
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+NYTD.loadEditionToggle();
+
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+Magazine
+
+
+
+
+
+World
+ 
+U.S.
+ 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+Rough Passage
+
+
+By Tom Wicker; Tom Wicker is a columnist for The New York Times.
+
+
+Published: July 24, 1988
+
+
+
+
+
+
+
+
+    
+            Correction Appended        
+    
+                                            
+                    ANY GRANDFATHER might be pleased to be invited to join his son's family on a sailing expedition. Any 62-year-old man contemplating mortality and Social Security might leap at the chance for a late-life adventure - three weeks on a 38-foot boat, crossing the Pacific Ocean from Hawaii to Tahiti.        
+
+                    But on May 20, seven days out of Honolulu, with nothing but ocean for hundreds of miles in any direction, I was no longer thinking of adventure or of grandfatherly acquaintance. After a hurried inspection below, my son Grey climbed into the cockpit of his sloop Vamonos and gave us the bad news in a carefully restrained voice: ''The sleeve's cracked and moving, and we're taking water below the waterline.''        
+
+                    It was late afternoon, and the relentless Pacific sun was mercifully far down the western sky. My 3-year-old granddaughter, Stacey Kathleen, was playing quietly in her safety harness beside Sarah, her mother, who was at the wheel. I, more than half-seasick and a total newcomer to any but the most sedate forms of sailing, did not have to be told that a leak below the waterline was a serious matter, especially on a small boat alone in the middle of the ocean. I had no idea what ''sleeve'' Grey was talking about except that it had something to do with the steering gear and was causing the wheel on deck to feel ''stiff.''        
+
+                    Grey and Sarah stared at each other, and I looked at both of them in consternation. Though my son had suffered nearly as much as I from seasickness -Sarah and Stacey seemed to have ''iron stomachs'' - Grey went immediately into action. First, by radio, he alerted a ham network that keeps track of sailing traffic in that part of the Pacific, establishing our position, reporting our problem, seeking advice on emergency procedures, courses and weather conditions.        
+
+                    Next, he and Sarah hauled into the cockpit the heavy bundle that, when opened and put overboard, would be our well-equipped life raft, together with a waterproof container of extra life-raft supplies. Then Grey took the wheel and sent Sarah below to tighten the cracked and leaking sleeve, through which, I later learned, ran the boat's vital steering post connecting the rudder to the wheel. (Grey is bulky; Sarah's small size made it easier for her to work below.) Darkness came on and rain began to fall; Vamonos was tossing about in winds of more than 15 knots. There was nothing I could do but keep out of the way - not always easy on a small vessel - though I also tried, without much success, to ease things for little Stacey. Normally unintimidated by life at sea, she had sensed the tension of the adults, as children will, and was upset and crying.        
+
+                    With more time to think than I wanted, and a crying child to goad me, I could not escape the incongruity of a sedentary grandfather and a frightened 3-year-old harnessed side by side to a tiny fiberglass platform at sea, a good bit closer to the Equator than to the assurances and comforts of everyday life. And as I watched my son moving about his boat, the darkening hours began to pose not only the seagoing emergency with which he was dealing, but a hard passage for me in my sense of myself as his father.        
+
+                    MORE THAN two years earlier, I had agreed to make the Hawaii-Tahiti trip with Grey and Sarah.        
+
+                    After delaying it until 1988, while they built up their savings, we settled on May, the time of best sailing weather in that part of the Pacific. I scheduled a month's vacation, laid in outsize supplies of seasick medicine and suntan lotion, purchased a yachting cap, and arrived in Honolulu on April 30.        
+
+                    My son and his wife had been living in Hawaii for several years, after sailing on Vamonos from Catalina in 1984. That year, Grey earned a history degree from the University of California at Berkeley and Sarah -a paleontology student to whom he had been married for a year -dropped out to be with him. Using funds from Grey's substantial earnings as electronics expert and soundman for the Lemmings, a Berkeley rock group, they had bought at a firesale price an old sailboat that was tied up and deteriorating in a local marina.        
+
+                    Sarah Austin is a West Coast fishing captain's daughter who grew up on and knows a lot about boats. Grey had had summer sailing experience and had attended an advanced and demanding French sailing school on the English Channel. Together, over many months and mostly by their own labor, he and Sarah had redeemed that first boat, then sold it for enough to make a substantial down payment on the craft they first named Sarah, later Vamonos - a sleek Canadian-built ocean racer, 38-feet long, sloop-rigged, and light in the water.        
+
+                    After they sailed to Hawaii, the Berkeley history graduate first worked as an assistant in a diving shop on Maui, becoming a licensed diving instructor; then, moving to Honolulu, he worked in the boatyard at the Keehi Marine Center. The erstwhile paleontology student, meanwhile, brought my first grandchild into the world in 1985, and still managed to work most nights in various island restaurants.        
+
+
+
+
+
+
+
+1
+
+2
+
+
+3
+
+
+4
+
+
+Next Page >
+
+
+Correction: July 31, 1988, Sunday, Late City Final Edition  	
+	
+	
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+var dcsvid = "";
+var regstatus = "non-registered";
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/magazine, targetedPage: www.nytimes.com/archive/article, position: Inv1
