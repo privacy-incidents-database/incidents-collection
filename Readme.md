@@ -16,3 +16,7 @@
 
 
 ### Run the script
+
+- python collect.py [query keywords]
+
+
