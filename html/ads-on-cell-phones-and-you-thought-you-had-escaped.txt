@@ -1,4 +1,223 @@
-IT'S a Saturday night and all the tables at the hot new restaurant in town are reserved. But you're in the neighborhood when suddenly your cell phone chirps, alerting you of a table that is available at the last minute along with a coupon for a free drink. A few minutes later, you are being seated.        
+
+
+
+
+Ads on Cell Phones (And You Thought You Had Escaped) - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.NYT5Style .masthead-tools #bar1-button  {
+    display: inline;
+    vertical-align: top;
+}
+#bar1-button {
+    border:none;
+    position: relative;
+}
+.bar1_hover {
+    opacity: 0;
+}
+.sub_small_hide {
+    display: none;
+}
+#bar1-button > a {
+    -moz-box-sizing: border-box;
+    background-color: #6288A5;
+    border: 1px solid #4D7B9F;
+    border-radius: 3px;
+    color: #fff !important;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: nyt-franklin,nyt-franklin-1,'Helvetica Neue',Arial,sans-serif;
+    padding: 7px 10px 6px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#bar1-button > a:hover {
+    background-color: #326891;
+    border: 1px solid #265E8B;
+    text-decoration: none;
+}
+
+/* EXCLUDING NYT4 INTERACTIVES */
+#interactiveABC #bar1-button {
+   display: none;
+}
+
+
+Subscribe Now
+
+
+Subscribe
+
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/archive/article/technology, targetedPage: www.nytimes.com/archive/article/technology, position: Bar1
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+NYTD.loadEditionToggle();
+
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+Business Day
+Technology
+
+
+
+
+
+World
+ 
+U.S.
+ 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+Ads on Cell Phones (And You Thought You Had Escaped)
+
+
+By JEFFREY SELINGO
+
+
+Published: September 28, 2000
+
+
+
+
+
+
+
+
+    
+            Correction Appended        
+    
+                                            
+                    IT'S a Saturday night and all the tables at the hot new restaurant in town are reserved. But you're in the neighborhood when suddenly your cell phone chirps, alerting you of a table that is available at the last minute along with a coupon for a free drink. A few minutes later, you are being seated.        
 
                     That could happen with the next ring of your cell phone. Advertisers are beginning to tap into the country's 101 million cell phones with text messages to reach customers in a more direct and timely way. For marketers, a wireless pitch is unlike any other because it can be aimed at certain people and particular locations. Technology can track a user's position to within 100 feet.        
 
@@ -41,3 +260,241 @@ IT'S a Saturday night and all the tables at the hot new restaurant in town are r
                     But for many cell phone users, the advertising is not worth the annoyance of unwanted rings. ''My privacy is very important,'' said Laurie Ann Ryan, who received unsolicited advertising from Plugout.com in April. The ad arrived in the middle of the day, and she said the chirp had sounded like a low-battery alert. ''I have become so dependent on my cell phone that I don't want people using it as an advertising tool,'' Ms. Ryan said, ''even if they're giving me something for it.'        
 
                     Photo: John Siewierski, of Colorado, said wireless advertising worked with his customers. (Stephen Collector for The New York Times)        
+
+
+
+
+
+
+Correction: October 5, 2000, Thursday  An article in Circuits last Thursday about text advertisements on cellular telephones misstated the performance of Advertising.com, an Internet advertising company. Its wireless advertising growth has increased, not slowed.          	
+	
+	
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to Technology RSS Feeds
+
+
+
+
+
+Technology News
+
+Internet
+Start-Ups
+Business Computing
+Companies
+
+
+
+
+
+
+
+
+Bits Blog
+Personal Tech
+Pogue’s Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+var dcsvid = "";
+var regstatus = "non-registered";
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/technology, targetedPage: www.nytimes.com/archive/article/technology, position: Inv1

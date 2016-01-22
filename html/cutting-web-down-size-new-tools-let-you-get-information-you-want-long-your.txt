@@ -1,4 +1,220 @@
-THE average Web surfer opens the Netscape or Internet Explorer browser, punches in a Web address, comes to a Web page, then clicks from page to page. When lost, the person tries to maneuver through an array of bookmarks or, more often than not, resorts to the Back button.        
+
+
+
+
+Cutting The Web Down to Size -  New Tools Let You Get the Information You Want (as Long as Your Computer Doesn't Crash) - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.NYT5Style .masthead-tools #bar1-button  {
+    display: inline;
+    vertical-align: top;
+}
+#bar1-button {
+    border:none;
+    position: relative;
+}
+.bar1_hover {
+    opacity: 0;
+}
+.sub_small_hide {
+    display: none;
+}
+#bar1-button > a {
+    -moz-box-sizing: border-box;
+    background-color: #6288A5;
+    border: 1px solid #4D7B9F;
+    border-radius: 3px;
+    color: #fff !important;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: nyt-franklin,nyt-franklin-1,'Helvetica Neue',Arial,sans-serif;
+    padding: 7px 10px 6px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#bar1-button > a:hover {
+    background-color: #326891;
+    border: 1px solid #265E8B;
+    text-decoration: none;
+}
+
+/* EXCLUDING NYT4 INTERACTIVES */
+#interactiveABC #bar1-button {
+   display: none;
+}
+
+
+Subscribe Now
+
+
+Subscribe
+
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/archive/article/technology, targetedPage: www.nytimes.com/archive/article/technology, position: Bar1
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+NYTD.loadEditionToggle();
+
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+Business Day
+Technology
+
+
+
+
+
+World
+ 
+U.S.
+ 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+Cutting The Web Down to Size; New Tools Let You Get the Information You Want (as Long as Your Computer Doesn't Crash)
+
+
+By LISA GUERNSEY
+
+
+Published: October 12, 2000
+
+
+
+
+
+
+
+
+
+                    THE average Web surfer opens the Netscape or Internet Explorer browser, punches in a Web address, comes to a Web page, then clicks from page to page. When lost, the person tries to maneuver through an array of bookmarks or, more often than not, resorts to the Back button.        
 
                     In 1994, that page-turning process seemed revolutionary. Today, it not only sounds run-of-the-mill but is also considered by many new Internet companies to be, well, ridiculous. Why should a person who wants a few headlines have to open a full page of information? Why should anyone have to click on link after link to get to the right information? And how many people really go back to all those Web sites they bookmark?        
 
@@ -23,3 +239,248 @@ THE average Web surfer opens the Netscape or Internet Explorer browser, punches 
                     Of course, some would argue that this is not a new mission. In the early days of the Web, a company called Pointcast offered users a non-Web toolbar that included streaming news feeds. About the same time, America Online started to feature some personalization, like ZIP-code-specific data on weather reports. And officials for My Yahoo and My Excite, some of the earliest iterations of personalized Web-clipping programs, say that Web users are still signing up for their services in droves.        
 
                     But the developers of the new options say they offer more time savings and flexibility. Imagine, for example, that you simply want to know how cold it is outside. If you have a Snippets taskbar and an always-on Internet connection, you can simply glance at the bar's weather icon, where the local temperature is displayed and updated continually, even when you are working offline in an application like Microsoft Word.        
+
+
+
+
+
+
+
+1
+
+2
+
+
+Next Page >
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe to Technology RSS Feeds
+
+
+
+
+
+Technology News
+
+Internet
+Start-Ups
+Business Computing
+Companies
+
+
+
+
+
+
+
+
+Bits Blog
+Personal Tech
+Pogue’s Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+var dcsvid = "";
+var regstatus = "non-registered";
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/technology, targetedPage: www.nytimes.com/archive/article/technology, position: Inv1

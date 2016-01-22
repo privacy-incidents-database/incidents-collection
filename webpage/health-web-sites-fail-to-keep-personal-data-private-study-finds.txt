@@ -1,4 +1,21 @@
-Internet health sites collect some of the most personal information about their users, but few follow their own declared policies about maintaining the privacy of that data, according to a survey made public today.        
+Health Web Sites Fail to Keep Personal Data Private, Study Finds
+
+
+By JERI CLAUSING
+
+
+Published: February 2, 2000
+
+
+
+
+
+
+
+
+
+WASHINGTON, Feb. 1— 
+                    Internet health sites collect some of the most personal information about their users, but few follow their own declared policies about maintaining the privacy of that data, according to a survey made public today.        
 
                     The survey, by the California HealthCare Foundation, found that 19 of the top 21 health sites had privacy policies but that most failed to live up to promises not to share information with third parties. And none of the sites followed guidelines like those recommended by the Federal Trade Commission on collection and use of personal data.        
 
@@ -16,4 +33,4 @@ Internet health sites collect some of the most personal information about their 
 
                     ''A lot of these sites are being set up in great haste, and often without sufficient knowledge or attention to the leakage that takes place with online advertising,'' Mr. Catlett said.        
 
-                    Although privacy advocates for years have been calling on Congress to pass a law setting standards for Internet sites to follow when collecting personal information, the Clinton administration and the Federal Trade Commission have sided with the industry in its call for a chance to prove that marketers and online merchants can police themselves.        
+                    Although privacy advocates for years have been calling on Congress to pass a law setting standards for Internet sites to follow when collecting personal information, the Clinton administration and the Federal Trade Commission have sided with the industry in its call for a chance to prove that marketers and online merchants can police themselves.

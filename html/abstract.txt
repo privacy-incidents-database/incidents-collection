@@ -1,0 +1,508 @@
+
+
+
+
+Letters -  Search for a Non-Marxist Solution in Nicaragua Even Homer Nods New York's Few 'Simple' Transit Needs The Too-Gentle Label To Protect the Privacy of Physicians and Patients France's Nuclear Decision Inaction on Grain Dust Dangers - Letter - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+campaign: nyt2014_bar1_digihd_regi_BAU -- 268632, creative: nyt2015_bar1_digihd_BAU_4JQ88_4JQ8F_4JQ8J_4JQ8L -- 399712, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
+.NYT5Style .masthead-tools #bar1-3panel{display:inline;vertical-align:top;background-image:none}#bar1-3panel{border:0;position:relative}.bar1_hover{opacity:0}.sub_small_hide{display:none}#bar1-3panel>a{-moz-box-sizing:border-box;background-color:#6288a5;border:1px solid #4d7b9f;border-radius:3px;color:#fff!important;display:inline-block;font-size:1em;font-weight:700;font-family:nyt-franklin,nyt-franklin-1,'Helvetica Neue',Arial,sans-serif;padding:7px 10px 6px;text-transform:uppercase;text-decoration:none}#bar1-3panel>a:hover{background-color:#326891;border:1px solid #265e8b;text-decoration:none}#hovercard{width:345px;height:148px;margin-left:100%;z-index:99999999;background-color:#fff;border:1px solid #ccc;border-radius:3px;position:absolute;left:-305px;top:33px;text-align:left;-moz-box-shadow:0 0 5px #888;-webkit-box-shadow:0 0 5px #888;box-shadow:0 0 5px #888;white-space:normal;display:none}#top-panels{width:335px;height:116px;background-color:#fff;border-radius:3px;position:absolute;padding:4px}#hovercard:before{content:url(http://static01.nyt.com/marketing/bar1jsimages/arrowup.png);position:absolute;left:180px;top:-16px;width:140px;height:18px;display:block;text-align:center;z-index:1}.split-content{padding-top:6px;padding-left:6px}.split-offer{min-width:330px;padding:0;min-height:50px;margin-left:2px;position:relative}.split-offer:hover{background-color:#f7f8f8}#hovercard hr{margin:4px;width:320px;opacity:.5;color:#000}.hover-subhead{font-family:nyt-franklin,nyt-franklin-1,'Helvetica Neue',Arial,sans-serif;font-weight:400;font-size:11px;line-height:13px;color:#333;margin:1px 0 0;width:170px;position:absolute;top:10px}#hovercard h3 a,#hovercard p a{color:#000!important;text-decoration:none;display:block}a.nyt-button-actions{background:#f7f7f5;color:#58595b!important;width:126px;-webkit-border-radius:3px;-moz-border-radius:3px;border-radius:3px;border:1px solid #ccc!important;text-transform:uppercase;font-weight:400;font:11px nyt-franklin,nyt-franklin-1,"Helvetica Neue",Arial,sans-serif;text-align:center;padding:6px 0;cursor:pointer;display:block;position:absolute;left:194px;top:10px;text-decoration:none!important}#hovercard a.nyt-button-actions:hover{background:#3c6791;color:#fff!important;text-decoration:none!important}#hovercard a.nyt-button-actions.highlightButton:link,#hovercard a.nyt-button-actions.highlightButton:visited{color:#fff!important;background:#3c6791;text-decoration:none!important}a.split-all-button{background:#f3f3f4;width:345px;height:30px;position:absolute;bottom:0;font:11px nyt-franklin,nyt-franklin-1,"Helvetica Neue",Arial,sans-serif;line-height:30px;margin:0;border:1px solid #CCC;text-align:center;vertical-align:middle}#hovercard a.split-all-button:hover{background:#fff;color:#004276!important;text-decoration:underline!important}.NYT5Style #hovercard{top:26px}@media screen and (-webkit-min-device-pixel-ratio:0){.NYT5Style #hovercard{left:-302px;top:33px}.NYT5Style #hovercard:before{top:-14px}}#interactiveABC #bar1-3panel{display:none}
+Subscribe
+Now
+
+
+
+Want both newspaper
+deliveryand free, unlimited digital access?50% OFF FOR 12
+WEEKS
+
+
+
+
+
+Want unlimited access
+to NYTimes.com and our apps?99¢
+FOR 4 WEEKS
+
+
+See All Subscriptions
+
+Subscribe
+
+
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+NYTD.loadEditionToggle();
+
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+World
+ 
+U.S.
+ 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+
+Article Preview
+Letters; Search for a Non-Marxist Solution in Nicaragua Even Homer Nods New York's Few 'Simple' Transit Needs The Too-Gentle Label To Protect the Privacy of Physicians and Patients France's Nuclear Decision Inaction on Grain Dust Dangers
+
+
+
+
+
+Sign In to E-Mail
+
+
+
+                        function submitCCCForm() {
+                            var PopUp = window.open('', '_Icon','location=no,toolbar=no,status=no,width=650,height=550,scrollbars=yes,resizable=yes');
+                            var form = document.forms["cccform"];
+                            // ensure that we are operating on the Form, not a NodeList
+                            if (form.nodeName == "FORM") {
+                              form.submit();
+                            } else if (form[0] && form[0].nodeName == "FORM") {
+                              form[0].submit();
+                            }
+                        }
+                    
+
+
+
+
+
+
+
+
+
+
+Permissions
+
+
+
+
+
+
+        VERONICA WHITE DE MUNIZARTHUR J. MORGANMAX M. TAMIRALEXANDER HAMMIDGEORGE T.C. WAY, M.D.ROBERT F. HARBRANT ();     
+
+        July 09, 1979,     
+
+        , Section , Page A16, Column ,  words
+    
+
+[ DISPLAYING ABSTRACT ]
+
+    The first paragraph is not available for this article.    
+
+
+
+
+
+July 09, 1979
+
+
+
+            Thank you for visiting The New York Times archive.
+            
+
+            New York Times subscribers* enjoy full access to TimesMachine—view 129 years of New York Times journalism, as it originally appeared. 99¢ for your first  4 weeks.
+            
+            Or, purchase this article individually for $3.95 and download a high-resolution PDF.
+
+Subscribe
+
+Buy Article
+
+
+* Does not include NYT Now or Premium Crosswords subscribers.
+Already a subscriber? Log in to view this article »
+
+
+
+
+
+
+
+
+
+
+
+
+
+ var movieWidth = 300;
+ var movieHeight = 250;
+ var altSrc = "http://graphics.nytimes.com/adx/images/ADS/40/23/ad.402373/CRS-5112_digi_core_300x250_DM.jpg";
+ var swfFile = "http://graphics.nytimes.com/adx/images/ADS/40/23/ad.402373/CRS-5112_digi_core_300x250_DM.swf";
+ var altClickThru = "http://www.nytimes.com/adx/bin/adx_click.html?type=goto&opzn&page=www.nytimes.com/archive/article&pos=MiddleRight&sn2=2fe8d1fd/26ad35ec&sn1=a8b5275/1494459&camp=nyt2015_300x250_digi_ros_evergreen&ad=CRS-5112_digi_core_300x250_46Y8F_402373&goto=http%3A%2F%2Fwww%2Enytimes%2Ecom%2Fsubscriptions%2FMultiproduct%2Flp5558%2Ehtml%3Fadxc%3D275057%26adxa%3D402373%26page%3Dwww.nytimes.com/archive/article/archives%26pos%3DMiddleRight%26campaignId%3D46Y8F";
+ var swfSrc = swfFile + "?clicktag=" + escape(altClickThru);
+
+
+
+ 
+
+
+
+
+
+
+MOST POPULAR
+
+
+E-Mailed
+Searched
+Viewed
+
+
+
+
+The Most Mystifying Lines of Sarah Palin’s Endorsement Speech
+Op-Ed Columnist: Palin, Trump, Cruz and Corn
+In Canada, the 8-Dollar Cauliflower Shows the Pain of Falling Oil Prices
+Op-Ed Columnist: America the Unfair?
+Zika Virus May be Linked to Surge in Rare Syndrome in Brazil
+Prehistoric Massacre Hints at War Among Hunter-Gatherers
+‘The X-Files’: David Duchovny and Gillian Anderson Return to the Paranormal Beat
+Centenarians Proliferate, and Live Longer
+Is Fish Oil Helpful or Harmful?
+Colleagues Express Disbelief Over Arrest of Doctor With Picture-Perfect Life
+
+Go to Complete List »
+
+
+
+june 10, 2012
+china
+teacher job bill
+google
+facebook
+food and fadwa
+tony awards
+mad men
+maureen dowd
+paul krugman
+
+Go to Complete List »
+
+
+
+The Most Mystifying Lines of Sarah Palin’s Endorsement Speech
+First Draft: Bob Dole Warns of ‘Cataclysmic’ Losses With Ted Cruz, and Says Donald Trump Would Do Better
+Colleagues Express Disbelief Over Arrest of Doctor With Picture-Perfect Life
+As Water Problems Grew, Officials Belittled Complaints From Flint
+Bracing for a Blizzard, From the Deep South to the Northeast
+Ross Douthat: My Sarah Palin Romance
+Putin ‘Probably Approved’ Litvinenko Poisoning, British Inquiry Says
+Gail Collins: Palin, Trump, Cruz and Corn
+Economic Scene: America’s Best Days May Be Behind It
+Donald Trump or Ted Cruz? Republicans Argue Over Who Is Greater Threat
+
+Go to Complete List »
+
+
+
+
+
+
+    new Accordian('mostPopWidget');
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+var dcsvid = "";
+var regstatus = "non-registered";
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Inv1

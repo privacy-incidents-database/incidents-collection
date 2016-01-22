@@ -1,0 +1,445 @@
+
+
+
+
+Health Web Sites Fail to Keep Personal Data Private, Study Finds - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.NYT5Style .masthead-tools #bar1-button  {
+    display: inline;
+    vertical-align: top;
+}
+#bar1-button {
+    border:none;
+    position: relative;
+}
+.bar1_hover {
+    opacity: 0;
+}
+.sub_small_hide {
+    display: none;
+}
+#bar1-button > a {
+    -moz-box-sizing: border-box;
+    background-color: #6288A5;
+    border: 1px solid #4D7B9F;
+    border-radius: 3px;
+    color: #fff !important;
+    display: inline-block;
+    font-size: 1em;
+    font-weight: bold;
+    font-family: nyt-franklin,nyt-franklin-1,'Helvetica Neue',Arial,sans-serif;
+    padding: 7px 10px 6px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+#bar1-button > a:hover {
+    background-color: #326891;
+    border: 1px solid #265E8B;
+    text-decoration: none;
+}
+
+/* EXCLUDING NYT4 INTERACTIVES */
+#interactiveABC #bar1-button {
+   display: none;
+}
+
+
+Subscribe Now
+
+
+Subscribe
+
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/archive/article/us, targetedPage: www.nytimes.com/archive/article/us, position: Bar1
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+NYTD.loadEditionToggle();
+
+window.setTimeout(function() {
+  var login = document.getElementById('memberToolsLogin');
+  if (login) {
+    login.href += "?URI=" + window.location.href;
+  }
+}, 0)
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+U.S.
+
+
+
+
+
+World
+ 
+U.S.
+PoliticsEducationTexas 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+Health Web Sites Fail to Keep Personal Data Private, Study Finds
+
+
+By JERI CLAUSING
+
+
+Published: February 2, 2000
+
+
+
+
+
+
+
+
+
+WASHINGTON, Feb. 1— 
+                    Internet health sites collect some of the most personal information about their users, but few follow their own declared policies about maintaining the privacy of that data, according to a survey made public today.        
+
+                    The survey, by the California HealthCare Foundation, found that 19 of the top 21 health sites had privacy policies but that most failed to live up to promises not to share information with third parties. And none of the sites followed guidelines like those recommended by the Federal Trade Commission on collection and use of personal data.        
+
+                    The survey comes as policy makers are more closely scrutinizing the privacy practices of Web sites to determine whether new laws are needed to regulate online marketers. Privacy advocates immediately cited the findings as proof that the Internet industry had failed in its efforts to police itself.        
+
+                    ''This is about the 7,000th piece of conclusive evidence that self-regulation is not working,'' said Jason Catlett, founder of the Junkbusters Corporation, a company that helps people protect their privacy online.        
+
+                    The study's authors were less judgmental, comparing the online health industry to an awkward adolescent. Richard M. Smith, an Internet security analyst, and Janlori Goldman, director of the project, said health sites were well aware that consumers expected the information they supplied to be confidential. They said they believed that many sites were unaware that third parties could gain access to the information they were collecting.        
+
+                    The main reason for the privacy violations, Mr. Smith said, is the use of so-called cookies, which track consumers' movements on the Internet, and other advanced technology that delivers advertising to Web pages and can pick up information entered by users on pages where the advertisements are displayed. The combination allows advertisers to build detailed profiles of consumers.        
+
+                    For example, Mr. Smith said a site promising not to share its users' names, addresses or other information had contracted with a company to administer a health assessment test on the site, providing that company with access to the data.        
+
+                    Mr. Catlett said it was plausible that many sites were unknowingly violating their own privacy policies.        
+
+                    ''A lot of these sites are being set up in great haste, and often without sufficient knowledge or attention to the leakage that takes place with online advertising,'' Mr. Catlett said.        
+
+                    Although privacy advocates for years have been calling on Congress to pass a law setting standards for Internet sites to follow when collecting personal information, the Clinton administration and the Federal Trade Commission have sided with the industry in its call for a chance to prove that marketers and online merchants can police themselves.        
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+var dcsvid = "";
+var regstatus = "non-registered";
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/us, targetedPage: www.nytimes.com/archive/article/us, position: Inv1
