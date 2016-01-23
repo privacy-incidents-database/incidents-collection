@@ -67,13 +67,13 @@ def get_articles(hits):
                             continue
 
                         print "Fetching Article: " + filename
-                        dic ={}
-                        dic['filename'] = filename
-                        dic['headline'] = d['headline']['main']
-                        fetch_url(d['web_url'], dic)
+                        metadata ={}
+                        metadata['filename'] = filename
+                        metadata['headline'] = d['headline']['main']
+                        fetch_url(d['web_url'], headline = metadata['headline'], filename = metadata['filename'] )
 
 
-def fetch_url(url,**keywords):
+def fetch_url(url, **keywords):
     try:
     # use urllib2 to read the html content instead of using
     # wget to fetch local
