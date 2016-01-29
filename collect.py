@@ -77,9 +77,13 @@ def fetch_url(url, **keywords):
     try:
     # use urllib2 to read the html content instead of using
     # wget to fetch local
+    # Add cookie to solve 303 problem.
+        from cookielib import CookieJar
+        cj = CookieJar()
+        opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
         headline = keywords.get('headline')
         filename = keywords.get('filename')
-        response = urllib2.urlopen(url)
+        response = opener.open(url)
         html = response.read()
         clean(html, headline, filename)
     except Exception, e:
@@ -88,6 +92,8 @@ def fetch_url(url, **keywords):
 
 def clean(string, headline, filename):
     remove_tag = clean_html(string)  # remove tags
+    print "#####", headline
+    print remove_tag.find(headline)
     whtml = open("html/%s.txt" % filename, 'w')
     whtml.write(remove_tag.encode('utf-8') + "\n")
     # find start point according to lead_paragraph
@@ -102,7 +108,7 @@ def clean(string, headline, filename):
     end = remove_start.find("inside nytimes.com")
 
     final = remove_start[:end].rstrip()  # final ver
-
+    print start, end, final
     wr = open("webpage/%s.txt" % filename, 'w')  # write into txt file.
     wr.write(final.encode('utf-8') + "\n")
     return final
