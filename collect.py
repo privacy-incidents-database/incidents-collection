@@ -25,6 +25,7 @@ API_KEY = os.environ.get("NY_TIMES_API_KEY")
 keywordstr = get_keywords()
 abstractindex = 0
 
+
 def collect():
     url = build_url(0)
     r = requests.get(url)
@@ -36,15 +37,17 @@ def collect():
             if hits > 0:
                 get_articles(hits)
 
+
 def build_url(pageno):
     url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + keywordstr + \
     "&page=" + str(pageno) + "&fl=abstract,byline,headline,web_url,word_count&api-key=" + API_KEY
     return url
 
+
 def get_articles(hits):
     global abstractindex
     cnt = 0
-    while(cnt < hits):
+    while cnt < hits:
         if cnt%10 == 0:
             pageno = cnt/10
             url = build_url(pageno)
@@ -67,13 +70,18 @@ def get_articles(hits):
                             continue
 
                         print "Fetching Article: " + filename
-                        metadata ={}
+                        metadata={}
                         metadata['filename'] = filename
                         metadata['headline'] = d['headline']['main']
-                        fetch_url(d['web_url'], headline = metadata['headline'], filename = metadata['filename'] )
+                        html = fetch_url(d['web_url'])
+                        clean(html, headline=metadata['headline'], filename=metadata['filename'])
 
 
-def fetch_url(url, **keywords):
+def fetch_url(url):
+    """
+    @param string url
+    @return string raw_html
+    """
     try:
     # use urllib2 to read the html content instead of using
     # wget to fetch local
@@ -81,16 +89,24 @@ def fetch_url(url, **keywords):
         from cookielib import CookieJar
         cj = CookieJar()
         opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
-        headline = keywords.get('headline')
-        filename = keywords.get('filename')
         response = opener.open(url)
         html = response.read()
-        clean(html, headline, filename)
+        return html
     except Exception, e:
         print e
         print "not valid"
 
-def clean(string, headline, filename):
+
+def clean(string, **kwargs):
+    """
+    @param string raw_html
+    @param dict
+        headline: headline of news
+        filename: filename of the output file
+    @return
+    """
+    headline = kwargs.get('headline')
+    filename = kwargs.get('filename')
     remove_tag = clean_html(string)  # remove tags
     print "#####", headline
     print remove_tag.find(headline)
@@ -106,7 +122,6 @@ def clean(string, headline, filename):
     remove_start = remove_tag[start:]  # start from the lead para_graph
     # mark the end using string Inside NYTimes.com
     end = remove_start.find("inside nytimes.com")
-
     final = remove_start[:end].rstrip()  # final ver
     print start, end, final
     wr = open("webpage/%s.txt" % filename, 'w')  # write into txt file.
@@ -115,8 +130,23 @@ def clean(string, headline, filename):
 
 
 def clean_html(fragment):
+    """
+    @param string raw_html
+    @return string html_with plain text
+    """
     soup = BeautifulSoup(fragment, 'html.parser')
-    return soup.get_text()
+    # kill all script and style elements
+    for script in soup(["script", "style"]):
+        script.extract()    # rip it out
+    text = soup.get_text()
+
+    # # break into lines and remove leading and trailing space on each
+    # lines = (line.strip() for line in text.splitlines())
+    # # break multi-headlines into a line each
+    # chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+    # # drop blank lines
+    # text = '\n'.join(chunk for chunk in chunks if chunk)
+    return text
 
 
 collect()
