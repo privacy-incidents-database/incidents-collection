@@ -1,0 +1,85 @@
+Target Data Breach - FAQ - What to Do Now - Tom’s Guide
+Checkout counters at a Target store in 2008. Credit: Marlith/Creative Commons
+UPDATED Jan. 19 with information about KAPTOXA and its possible creator. Updated Jan. 31 with information on the penetration of Target's network and a possible tie to the Neiman Marcus breach.
+Over the past month, the Target data breach initially disclosed in December, which affected 40 million credit and debit cards, has been widened to include 70 million more Target customers.
+Meanwhile, department store Neiman Marcus has disclosed that it was also recently hit with a breach that included an unspecified number of stolen credit cards, and reports say at least three more retailers, as yet unnamed, were also affected by similar thefts of customer credit cards.
+We don't have anything close to the whole story, but so far, here's what we know, or can reasonably guess.
+A data breach is when an organization that's been entrusted with sensitive data loses control of that data. A breach doesn't necessarily involve theft; some data breaches occur when hard drives or spools of tape get lost during transport.
+Beginning Nov. 29, 2013, or "Black Friday," the start of the post-Thanksgiving U.S. shopping season, an unknown group or groups of hackers penetrated or infected at least two Target computer systems. That intrusion continued until Dec. 15, when Target discovered the penetration and shut it down.
+At around the same time, another attack infected or penetrated a Neiman Marcus computer system that processed credit- and debit-card transactions. (Update: The New York Times has heard from unnamed sources who said the Neiman Marcus breach may have begun in July 2013.)
+At least three other U.S. retailers, as yet unnamed, were also affected. It's possible there were many more.
+How many people were affected by these data breaches?
+Right now, we don't know, because other than Target, the affected retailers are not telling us.
+Following a report by security blogger Brian Krebs, Target disclosed on Dec. 18, 2013 that approximately 40 million credit and debit cards used at Target retail stores in the U.S. were affected, but not credit cards used in Canadian stores, or on the Target retail websites for either country. Target Australia is a different company and was also unaffected.
+On Jan. 10, 2014, Target disclosed that personal information pertaining to 70 million Target customers was also compromised. This information seems to have come from a separate set of data than the credit-card data. There are probably many individuals whose information appears in both data sets, but it's theoretically possible that 110 million people were affected by the Target breaches.
+Also on Jan. 10, Neiman Marcus disclosed to Krebs that an unspecified number of credit cards used at its stores had been affected by a data breach similar to Target's initial breach.
+On Jan. 12, Reuters reported that, according to its unnamed sources in law enforcement and the financial industry, three more U.S. retailers had been hit in similar breaches during the 2013 holiday shopping season.
+So far, there have been two kinds of information compromised.
+The first kind is credit- and debit-card data of the kind found on the magnetic stripes on the back of the cards, plus the four-digit personal identification numbers (PINs) of debit cards, which are not on the magnetic stripes.
+Magnetic-stripe data, known as "track data," replicates some of the information printed on the front of the card, including cardholder name, card number and expiration date. Track data does not include the CVV2, or "card not present" verification number, that websites often demand of online shoppers.
+Debit-card PINs are not stored on the cards. The fact that the Target thieves were able to steal PINs — in heavily encrypted form, according to Target — indicates that Target's point-of-sale payment system, which transmits PINs upstream to centralized servers as customers type them in, was successfully attacked.
+Neiman Marcus has also disclosed that credit-card information was stolen in its data breach, but has given no further details.
+The second kind of data taken from Target was personally identifiable information, which in this case consisted of the names, addresses, email addresses and telephone numbers for 70 million individuals. Such information is typically found in a customer-loyalty or frequent-shopper program.
+Target has said that no Social Security numbers or dates of birth were compromised, and that credit- and debit-card information was not part of the second data set.
+(Update: In a private notification to retailers Jan. 17 about point-of-sale malware, the FBI said "an inordinate amount of premier, high-limit credit accounts" were among a batch of stolen cards posted to cybercrime online forums on Jan. 4. The FBI did not identify the source of the cards, but the timing implies a connection to the Neiman Marcus breach.)
+Reuters' sources say online criminals from Eastern Europe are behind the two disclosed and three rumored data breaches. There's been no independent confirmation of that claim.
+Eastern European online criminals are very active, but Americans led the group of hackers who carried out the biggest data breaches ever, which affected TJX Corporation and Heartland Payment Systems in 2007 and 2009 respectively.
+Credit- and debit-card account information has some value in online criminal marketplaces, though prices vary widely according to the type of card stolen, the credit limit on the card and the geographical location of the legitimate cardholder.
+An unusual number of high-limit cards, such as American Express platinum or black cards, were among those believed to have been stolen from Neiman Marcus.
+Full track data plus PINs would enable the original thieves to sell the account data to street-level criminals, who would use the track data to "clone" cards by copying the track data to blanks. The blanks could then be "busted out," racking up many purchases in a few hours before the card was blocked by the legitimate card issuer.
+Personally identifiable information of the sort stolen in the second Target breach could be used to steal identities, though the addition of Social Security numbers or dates of birth would have made that data more valuable.  Stolen identities can be used to fraudulently open bank accounts, secure loans or obtain identification documents such as drivers' licenses.
+(Update: Krebs' sources told him the attackers may have gotten into Target's computer network through a compromised Web server, and from there infiltrated the network connecting point-of-sale terminals in Target stores across the United States. Israeli security firm Seculert said the stolen information was first collected on a compromised server within Target's network, then sent several days later to another server in Russia.)
+(Update: On Jan. 29, Target said "the intruder stole a vendor's credentials, which were used to access our system." The Wall Street Journal's sources told it Target had tightened up access to two entry points, one used by staffers to access human-resources records and the other used by outside vendors.On the same day, Krebs reported that the intruders may have leveraged server-management software for which default administrative logins had not been changed after implementation.)
+On Jan. 12, Target CEO Gregg Steinhafel told CNBC that "malware in the access point" — the point-of-sale terminals at checkout counters into which customers swipe credit and debit cards — was involved. There are several strains of malware that infect point-of-sale terminals, but Target has not provided more specific details.
+In its Jan. 12 story, Reuters reported that its sources said there were several common features among the data breaches at Target, Neiman Marcus and the three undisclosed retailers. Among the common features was the use of "RAM scraping," a little-known technique that captures data while it is in a computer's working memory, before it is encrypted for storage or transmission.
+Because two different sets of data were taken from Target, it's likely that the attackers were able to move freely around Target's internal computer network after their initial network penetration.
+Other than that, the public doesn't know how the attackers got into any of the affected retailers' systems.  Some security experts initially speculated that the Target breaches were the result of an inside job, but if five or more retailers indeed were hit in the same wave of attacks, it's more likely that the attackers found a common vulnerability in the retailers' systems through which they were able to insert malware.
+The fact that so many Target stores were affected implies that the infection took place on a centralized payment-processing system, and was then distributed out through the network to Target retail stores in the United States. It's noteworthy that Target Canada, an independent subsidiary, was not affected.
+KAPTOXA, pronounced "kar-toe-sha" or "kar-toe-kha," is a Russian slang term for "potato," akin to "spud" or "tater." (The proper Russian word is "kartofel.") Experts on cybercrime say "kartosha" is sometimes used to describe a stolen credit card.
+Dallas security firm iSight Partners used the word "kartosha" in a Jan. 16 report, posted on the firm's website but since taken down, to describe a credit-card-stealing Trojan (a type of malware) that was infecting point-of-sale systems at unnamed retailers.
+The malware that hit Target is thought by many experts to be a derivation of BlackPOS, a RAM-scraping Trojan active since March 2013. In its redacted report, iSight Partners said Kartosha was BlackPOS modified to avoid detection by anti-virus software.
+iSight Partners also calls the Target malware POSRAM; Symantec calls it Reedum. "Kartoxa" turns up in a May 2013 report on BlackPOS by a French security blogger calling himself Steven K.
+Russian malicious hackers using the pseudonyms "Antkiller," "ree4" and "Wagner Richard" have been named by different experts as the creator of BlackPOS. It's not clear whether they are the same person.
+Media reports based on a press statement by IntelCrawler, a small security company in Los Angeles, have named a Russian 17-year-old as the author; Krebs disputes that identification and says IntelCrawler has fingered the wrong guy.
+It's unlikely that Antkiller/ree4, who was selling copies of BlackPOS in cybercrime chat rooms for about $2,000 in the spring of 2013, is the actual Target hacker.
+Krebs thinks a Ukrainian cybercriminal associated with the online-crime website Rescator may be among the Target hackers, or may know who they are.
+(Update: In its private notification to retailers Jan. 17, the FBI said KAPTOXA had first been spotted in 2011, but that the most recent variant had been modified to evade signature detection against the older version.)
+Target is attempting to contact all affected customers for which it has an email address.  Neiman Marcus said it is doing the same. In addition, some banks are independently notifying their own customers whose cards were involved in the first Target breach, and JPMorgan Chase went so far as to replace the debit cards of its affected customers.
+If you shopped at a Target or Neiman Marcus store during the 2013 holiday shopping season, contact your bank or credit-card issuer and alert the company that you may be affected. Ask for a list of recent card transactions, and examine the transactions for anything that seems fishy.
+As stated above, anyone who shopped at a Target or Neiman Marcus store during the 2013 holiday shopping season should alert his or her bank or card issuer, and also examine all recent transactions for suspicious activity. The bank or card issuer should be able to provide an up-to-date activity record, including transactions that occurred after the latest monthly statement.
+If you have a debit card that may have been affected in the Target or Neiman Marcus breaches, change your card's PIN. It's probably not necessary to ask your bank or card issuer for a new card, since you won't be liable for any fraudulent charges, but it couldn't hurt. If your card is indeed on the list of compromised cards, your bank has almost certainly taken steps to prevent its fraudulent use.
+If you have a Target REDcard or other Target customer-loyalty or frequent-shopper card, you may be among the 70 million people whose personally identifiable information was compromised in the second Target breach. (This is true whether or not you shopped at a Target store during the 2013 holiday season.) If so, you're at a heightened risk of identity theft.
+Target is offering a year of free credit monitoring for anyone who feels they may have been involved in either Target breach, and is signing people up at creditmonitoring.target.com.
+Credit monitoring will alert you immediately if there is suspicious financial activity involving your name, such as someone trying to open a bank account while posing as you.
+Is there any way I can prevent this from happening again?
+Not really, unless you stop using credit cards entirely. It's up to the retailers to protect card transactions, and by some accounts Target had pretty good corporate data security. In the U.S., cardholders are almost never liable for fraudulent transactions, as long as they report stolen cards and suspicious activity in a timely manner.
+Some experts recommend against enrolling in retailer customer-loyalty programs, partly because unnecessary distribution of personal information increases the chances that it can be compromised in data breaches such as the second Target breach.
+How could Target or Neiman Marcus have prevented this from happening?
+Without knowing exactly how the attackers got in, we can only speculate on what might have prevented the intrusions. Because more than one retailer was affected, it's possible that a spear-phishing campaign was used to infect corporate networks through emails sent to company employees, in which case phishing-awareness campaigns might have prevented the breaches.
+However, assuming that the five companies involved had different methods and protocols of network security, it's also possible that the criminals figured out a way into the networks that no one had thought of before, in which case nothing would have prevented the initial penetration.
+Security experts recommend that corporate networks be strictly controlled so that intruders have limited movement within the network once they're inside. It's not clear what kind of internal controls Target and Neiman Marcus had.
+The public doesn't know, and may never know.  Data breaches often go unreported, and with good reason — following the disclosure of its first data breach a week before Christmas, Target's sales substantially dropped off. Both breaches will cost Target tens, if not hundreds, of millions of dollars to settle lawsuits, reimburse banks and implement new security systems.
+There are laws that require at least partial disclosure to affected customers in many states, but enforcement is haphazard. Federal laws on breach disclosures cover only the health and financial industries.
+Publicly traded companies are required to disclose anything that affects business performance in quarterly shareholder statements, but data breach cleanups can be masked with euphemisms or lumped together with other unspecified expenses.
+Follow Paul Wagenseil at @snd_wagenseil. Follow Tom's Guide at @tomsguide, on Facebook and on Google+.
+3 Tech Concepts from CES 2014 You Might Actually Use12 More Things You Didn't Know Could Be Hacked11 Best Identity Theft Protection Services
+@snd_wagenseil Paul Wagenseil is a senior editor at Tom's Guide focused on security, privacy and gaming. That's all he's going to tell you unless you meet him in person.
+Create a new thread in the Streaming Video & TVs forum about this subject
+Good article , I add more article on this topic on my blog . See my Blog..http://www.technicaldr.com/tdr/hipaa-theft-and-fines/
+Microsoft Patches Windows XP for Possibly Last Time
+Target, Neiman Marcus and More: This Isn't the Last Data Breach
+Microsoft Patches Windows XP for Possibly Last Time
+Target, Neiman Marcus and More: This Isn't the Last Data Breach
+Target Data Breach Widens to 70 Million More Individuals
+Why Google Is Letting Strangers Email You – and How to Make It Stop
+Microsoft Ending Anti-Virus Protection for Windows XP
+Kurio Phone Hands-On: Kids Phone With Parental Controls
+Microsoft Patches Windows XP for Possibly Last Time
+Target, Neiman Marcus and More: This Isn't the Last Data Breach
+Apple VR Rumors: Secret Team Building Headset Prototype...
+Is T-Mobile's Binge On Legal? Law Professor Says No
+Smartwatch Buying Guide: Everything You Need to Know
+Trending in Tech: Huge iPhone 7s Rumor, Bernie Sanders...
+iPhone May Get Long-Range Wireless Charging in 2017
+Facebook Live Video vs Periscope: What's Right for You?
+Copyright © 2016 Purch Group, Inc. All Rights Reserved

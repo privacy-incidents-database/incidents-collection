@@ -1,0 +1,57 @@
+ICO investigating 56 Dean Street clinic for disclosing details of 780 HIV patients in data breach - 02 Sep 2015
+ICO investigating 56 Dean Street clinic for disclosing details of 780 HIV patients in data breach
+A data breach at of the leading sexual health clinics in Britain has revealed the names and contact details of almost 800 HIV positive patients.
+The 56 Dean Street clinic in London, part of the Chelsea and Westminster NHS Trust, accidentally disclosed the information when an email newsletter for the clinic's Option E online service was sent out en masse, rather than to individual recipients.
+ICO granted new powers to audit NHS organisations for data protection
+ICO to examine data protection and privacy implications of connected medical devices
+Names and email addresses of the 780 recipients of the list were not hidden in the email. The incident represents a massive breach of patient privacy.
+The privacy breach is suspected to be one of the biggest of its kind and is already being investigated by the Information Commissioner's Office (ICO).
+"We are aware of an incident regarding the 56 Dean Street clinic and are making enquiries" an ICO spokesperson told Computing.
+The clinic has already stated that it is examining how the breach occurred, with a "human mistake" thought to be the cause.
+56 Dean Street clinic has apologised to patients affected by the breach and set up a helpline to aid those who have had their privacy breached.
+"I'm writing to apologise to you. This morning at around 11.30am at we sent you the latest edition of OptionE newsletter," Dr Alan McOwan, Chelsea and Westminster hospital NHS Trust's director for sexual health wrote in an email to patients.
+"This is normally sent to individuals on an individual basis but unfortunately we sent out today's email to a group of email addresses. We apologise for this error," he said.
+"We recalled/deleted the email as soon as we realised what had happened," Dr McOwan continued, adding "If it is still in your inbox please delete it immediately."
+"Clearly this is completely unacceptable. We are urgently investigating how this has happened and I promise you that we will take steps to ensure it never happens again. We will send you the outcome of the investigation," he concluded.
+Complaints about the breach have already been made to the NHS patient advice and liaison service on behalf of those who've been affected.
+"This is serious breach of data protection. There are several names I recognise from the list, and while I am of course being discreet, I am not sure I trust every other person on the list to do the same," Elliot Herman from London wrote in an email of complaint seen by The Guardian.
+"I feel bad making this complaint, because I have a great deal of respect and admiration for the excellent service provided by the clinic and my own doctor, Alan McOwan, who has always provided superb clinical care. I have never had cause to complain in the past. However, I feel this is important enough to bring to official attention," he added.
+NHSInformation Commissioner's OfficeICOData breachPrivacy56 Dean StreetChelsea and Westminster NHS Trust
+Please enable JavaScript to view the comments powered by Disqus.
+Security by design - an essential requirement for privacy
+Employee who sold 28,000 Enterprise Rent-A-Car customers records for £5,000 fined £1,000
+Scottish government challenged to reveal plans for 'super ID database' before election
+How can businesses avoid the pitfalls of ‘big data discrimination’?
+Watch Accenture MD Bob Paton receive the UK IT Industry Award 2015 for Outstanding Contribution to the Profession
+Watch Content Guru walk away with UK IT Industry Awards 2015 Cloud Provider of the Year
+ICO fines sexual health clinic £250 for data breach
+ICO investigates illegal data sharing in charity sector
+£1m ransomware demand from previously unknown malware took down Lincolnshire County Council network
+HSBC online banking taken down in denial-of-service attack
+The software vendor hall of shame, who's top of the heap?
+At software licence auditing time, which firm's practices most leave you palpitating with rage and despair?
+Your personal nightmare of a vendor not listed? Email graeme.burton@computing.co.uk with your best software licensing stories!
+Oracle - I'd like to wring Ellison's neck every time
+SAP - In my mind it stands for Software Always Pricey
+Microsoft - There's nothing 'Micro' about their costs
+HP - Well I suppose they've got to claw back that Autonomy money somehow...
+VMWare - I'd like to virtualise the sales rep who sold me this stuff
+EMC - They've got a (software) licence to print money. (Sorry)
+Symantec - They make the cyber crooks look positively modest
+Register to Computing to receive the UK's leading information resource for UK technology decision makers.
+By registering you can gain access to all our premium subscriber-only content for FREE.
+Industry leading content delivered in print, online and via our iOS and Android Live app.
+Have the latest news delivered to you with Computing's range of editorial newsletters. Register to keep up-to-date with the latest industry trends.
+Daily Update – Be first to the day’s breaking news, opinion, analysis and features
+Weekly Update – A roundup of the week’s most important articles for IT decision makers
+Total IT shut down at Lincolnshire County Council over zero-day attack
+BBC selects BT in £100m broadcast networking deal to replace Vodafone
+£1m ransomware demand from previously unknown malware took down Lincolnshire County Council network
+HSBC online banking taken down in denial-of-service attack
+Watch Accenture MD Bob Paton receive the UK IT Industry Award 2015 for Outstanding Contribution to the Profession
+Watch Content Guru walk away with UK IT Industry Awards 2015 Cloud Provider of the Year
+The GDPR is coming into force to plug the gaps in data transfer legislation. Watch this discussion to learn how to ensure that your data management practices...
+IT Security and Ease of Use: Why Simplicity Makes For Better Business Security
+What do users and businesses desire in cloud storage? Join us to unlock whether improved ease of use guarantees improved security.
+© Incisive Business Media (IP) Limited, Published by Incisive Business Media Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, are companies registered in England and Wales with company registration numbers 9177174 & 9178013
+Address to send the article (seperate multiple addresses with commas):

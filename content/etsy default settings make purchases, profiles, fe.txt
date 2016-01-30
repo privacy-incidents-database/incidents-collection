@@ -1,0 +1,27 @@
+Etsy Privacy Debacle: Site Changes Defaults After Exposing Users' Real Names, Purchases (UPDATED)
+Etsy Privacy Debacle: Site Changes Defaults After Exposing Users' Real Names, Purchases (UPDATED)
+[NOTE: An earlier version of this post incorrectly stated that Etsy had revealed users' email addresses. Etsy does not publicly display the email addresses of its users. We regret the error.]
+Online vintage and craft marketplace Etsy recently sparked outrage after the site's buyers suddenly discovered that their feedback posts, purchases, user profiles and, in some cases, their real names had been made public and searchable.
+On Tuesday, Etsy bowed to customers' demands and tweaked its privacy defaults after users took to the the site's public forums with complaints and concerns about their intimate purchases popping up in Google searches.
+Ars Technica highlights some of the extreme cases, in which users were able to uncover the real-world identities of Etsy users who had recently purchased or left feedback for sex toy listings. Writes one user, according to Ars Technica: "Found an XXL glass dildo with veins and swirled gold coloring (beautiful piece really) and checked to see if anyone favorited it. Someone did. She also favorited some cosplay cat eat hats [sic] and a bell collar/necklace thing. Then I found her on Facebook."
+"I just found a woman who's Etsy profile comes up on Google as the 5th link. I was expecting 6 or 7 pages down, but it's on the very first page, right after her online resumes," wrote one concerned user on the Penny Arcade forums. "She signed up a year ago, under the old privacy policy, and hasn't logged in since 2010. And now I know what dildo she uses. Right down to the curvature and coloring."
+Last week the site rolled out a People Search tool, which let users search for other users by name. Designed to make Etsy more "social," the new search feature was intended to help users create "Circles" of friends, who could view one another's purchased and "favorited" items. Users' purchasing histories had previously been public on Etsy, but only sellers were searchable by name, writes Gothamist. The People Search feature apparently made everyone searchable--buyers and sellers alike.
+Buyers are claiming that Etsy did not give adequate notification before making the change, according to Ars Technica.
+Etsy CEO Rob Kalin and COO Adam Freed responded to the controversy in a post on the Etsy Blog. They wrote:
+Were there changes to Etsy that made my purchases public?
+No. The issue here is our Feedback system, which has not changed in six years. We do not directly publish your purchases on Etsy. However, when a seller leaves feedback for an item you bought, or you leave feedback for an item you purchased, we would link to the item. Our Feedback system has always worked this way; our original thinking was that it's important to know more about the transaction, to better establish trust in the marketplace.
+We added the option to enter your real name when registering. Right next to this text field, it says: "Your full name will appear on your public profile. This is optional." Some people enter their name, some don't. As of right now, 25% of people (including us) have entered their real name.
+It is the confluence of these two things that led us to this position: if you enter your real name, purchase an item, and the seller leaves feedback for this item, this purchase will be publicly visible via our Feedback system. Search engines index our site, which means this data can turn up there, too. It's been this way since October. [...]
+We believe that markets are conversations. We want people to discuss what they purchase, although this will often mean discussing it in private. As such, we have removed the link from a piece of feedback (which is public) to the item that was purchased (which is now private).
+UPDATE: Etsy further clarified how it has revised its privacy policy, following outcry, in a Q&A; post in the site's forums. Writes Etsy,
+From now on, all purchases and feedback are set to private. [...] When others view your feedback, they will not see your username, real name, or details about the item you purchased.
+Purchases and feedback will be private for both buyers and sellers. Sellers' feedback ratings will still be visible, as will a seller's feedback left for others.
+Etsy is also working to mitigate the damage done by the indexing of users' feedback in search, information that linked to details about users' purchases and personal information.
+"We are working to remove existing Etsy feedback pages from Google’s index. Feedback pages will not be indexed by Google and other search engines going forward," according to the post.
+In addition, the Q&A; post also includes a direct link to the privacy settings, which users can modify according to preference. We have contacted Etsy for comment.
+Etsy, Etsy Privacy Policy, Etsy Privacy, Etsy Privacy Issue, Etsy People Search
+Enter your email address to get top stories and blog posts emailed to you each day.
+Get top stories and blog posts emailed to me each day.
+Newsletters may offer personalized content or advertisements.
+Enter your email address to get top stories and blog posts emailed to you each day.
+"The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc.

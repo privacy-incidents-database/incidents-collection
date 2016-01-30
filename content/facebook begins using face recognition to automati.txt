@@ -1,0 +1,67 @@
+Automatic photo tagging: Facebook friendships get creepier – Naked Security
+Automatic photo tagging: Facebook friendships get creepier
+Previous: Free farm cash from Zynga? No, it’s another viral Facebook scamNext: Crowd sourcing the fight against cybercrime?
+The latest enhancement – or, at least, the latest new feature – announced by Facebook is increased automation for photo tagging.
+Unlike graffiti tagging, where you spray-paint your name onto someone else’s property, Facebook lets you paint other people’s names onto your pictures.
+So even people who aren’t on Facebook, or who choose not to identify themselves openly in uploaded photos, may nevertheless end up easy-to-find online.
+At the end of September, Facebook made it easier to tag individuals en masse, by allowing you to select and annotate a whole group of uploaded photos at once.
+Now, you won’t need to select or group the photos yourself. Facebook will use facial recognition to match the people in your photos with other images in which they appear. It’s not yet completely automatic – the tags are just suggestions – but it sounds creepy nevertheless.
+You can opt out of auto-suggestion (no pun intended), but it sounds as though this feature is going to be enabled by default, since Facebook’s announcement advises that “you will be able to disable suggested tags in your Privacy Settings.” And you will be notified whenever you’re tagged, but only in case you want to untag yourself, not in order to confirm that you want to be tagged in the first place.
+A small mercy is that tagging only works between friends, or what Facebook calls friends, which limits the creepiness somewhat. Nevertheless, it does mean that once you’ve been identified to Facebook by one friend, you run the risk of being identified by Facebook to other friends – even those very loose friends who might not otherwise have remembered you, let alone your name.
+If that’s not something you’re comfortable with, then be sure to watch out for this new feature (it’s coming to US users first), and turn it off.
+Perhaps, indeed, like the vast majority of readers in our recent poll on this issue, you think that Facebook features should by opt-in by default, rather than opt-out. If so, why not write to Facebook and tell them so?
+In fact, here are some words, from an earlier post of mine about Facebook and privacy, which you are welcome to use:
+Become truly opt-in - not just on the basis that a new user opts in altogether by joining up in the first place, but on the basis that everything is locked down until a new user opens up each feature.
+Don't wait until the regulators in the world's developed economies start legislating to make you do so. Take the lead. People will love you all the more in the end.
+More than a decade ago, Scott McNealy, then CEO of then-Sun, famously said, “You have zero privacy anyway. Get over it.”
+Don’t let this throw-away remark come true. Privacy matters.
+If you’re on Facebook and want to stay ahead of the curve on security threats, join the thriving community on the Sophos Facebook page.
+automationFacebookfacial recognitionphotosPrivacytagtagging
+Previous: Free farm cash from Zynga? No, it’s another viral Facebook scamNext: Crowd sourcing the fight against cybercrime?
+Paul Ducklin is a passionate security proselytiser. (That's like an evangelist, but more so!) He lives and breathes computer security, and would be happy for you to do so, too.
+12 comments on “Automatic photo tagging: Facebook friendships get creepier”
+I used to enjoy the legitimate security concerns raised on this blog (blogs when they were separate) about a variety of things. However, you've really gone over the top with you Facebook "series."
+It seems that you simply have something against everything Facebook does. Whenever they announce a new feature, a new campaign and whatnot you immediately make up an excuse to pick on them.
+Don't get me wrong. Some concerns posted here about Facebook features were very legitimate, but for example when I read you post picking on the "Facebook Hacker Cup" I went like: "Seriously?! WTF?"
+You say things like "their hacker contest is really just a coding competition – not hacking in the most general sense" when in fact the term hacking in the sense you know it today (not referring to modifying hardware, but to software) originated IN programming.
+Programmers (coders) have every right to keep referring to themselves as hackers, regardless of how security companies and the media wants to use the term. In addition, "hacking" has been a term at the core of Facebook development since the very beginning. They constantly have internal hackatons and timed code hacking races. "Facebook Hacker Cup" has a lot of meaning to them and no they shouldn't have called it "Facebook Coders' Cup" or whatever else lame term you want, just to satisfy stupidity and disinformation. The people to whom this cup is addressed know very well the meaning of hacker in that context.
+But returning to this post. You say that Facebook should be opt-in, which sure, would be great for privacy. But you do realize that had it been opt-in, Facebook would have probably been a failed experiment today, right?
+So you're asking Facebook to cut back on the very thing that fuels their growth and therefore their revenue – information sharing – just to become a more secure platform. Hmmm. Ok. Why doesn't Sophos release a free antivirus for small businesses then, if it's all for increasing security and no money? Or at least Windows home users then (yes not Mac with its marginal market share), where it doesn't have much to loose.
+I personally don't like Facebook. They screw-up things badly pretty often, but man, give them a break. Don't try to find flaws in simply everything they do just so you can make a new post bashing them. Everything is flawed.
+Of course, this is your blog and you're entitled to write whatever you please. I'm just saying that you lost one reader, at least when it comes to your and your colleagues' opinions about Facebook. It has become clear to me in the past couple of days that you guys are biased.
+In the "Hacker Cup" post and its comments – the one that really seems to have got your goat – I think I made it quite clear that I accept the use of "hacker" in a sense that is positive. But it _is_ a contranym – that's a word which means two opposite things, like "cleave", which can mean to chop in half or to stick together – and thus ambiguous.
+So for an organisation as popular as Facebook, it would have been more responsible, IMO, to see them avoid that ambiguity altogether – especially when most of its 100s of 1,000,000s of users are probably more likely to think of "hacker" in the Hollywood sense than in the "digging into the Linux kernel" sense.
+As for Facebook's "hackathons" and all-night coding sessions…hmmm.
+Been there, done that. Pulling a coding all-nighter is a right of passage for a programmer. Always has been, probably always will be. But you'll struggle to convince me that this is a way of producing _good_ code, rather than what might be just "a hack".
+As for "finding flaws in simply everything they do" – that's not my goal. They produce new features way more frequently than I blog about them, anyway. And if you watch some of my recent videos you'll know that I do praise them when they do something good (like putting their money where their mouth is to sue scammers), and that I exonerate them when their own users run headlong against common sense (such as Liking a site to all their friends before even looking at it).
+I think you miss the point. The idea that a Photo of me or my kids was shared to Facebook and automatically tagged astounds me.
+You should remind yourself that ANYTHING which is uploaded to Facebook is automatically given to them to use as they see fit. My images and those of my children are our property as long as we live, not some method of driving revenue for Facebook and their connections.
+Why should we have to "opt-out" of this, why shouldn't Facebook ask us to "opt-in"?
+I value Facebook as a tool for communicating with Friends, I don't value it as an untrustworthy new-media network playing on old-media rules.
+Creepy indeed, how far will they go. Brave New World is getting closer any minute.
+I still do not understand why it is shocking that a social networking technology should be networking socially.
+I am beginning to come around to the notion that new users should follow the paradigm you suggest, but there are now so many layers of features and what not that sign up and adjusting your settings becomes quite an involved process.
+Also, there is already a privacy control for who can view tagged photos of you; depending on how you have that set, this becomes something of a non-issue. In combination with the ability to create lists and alter your privacy settings in tandem with those… Well, personally, I think all this paranoia becomes a might silly.
+I think we have reached and crossed overload when it comes to trusting facebook with out data. This just shows how insecure facebook messages is. No content is safe on facebook and I have become sick of this. I have quit facebook and will be joining MyCube or Diaspora when they release as they promise to be much safer
+last night FB was closed down for a while because prototypes were shown by mistake to external people….profiles were automatically changed to the new layout and some privacy settings over-rode….whatever next…….opps sorry we seem to have passed all your personal info to external people, get a grip facebook sort out the pedos and porn rife on site instead of messing about with layouts
+This new feature has made Facebook way too dangerous for me and I have quit the site because im not sure i would like my face been recognised at all. Facebook now holds way too much information on its users and given its recent controversy about selling this information I would think its safer to quit the site and look for secure sites.
+So…. I wanted to send this suggested message to the folks at FACEBOOK……
+Errrrrr, that's quite hard to find out from their site, isn't it :-) According to the FB privacy policy pages, you can use the form here:
+But this form is expressly "for questions or clarification about its policy". Doesn't sound like a place for suggestions. Anyway, the field for "question or concern" is just 40 characters wide :-)
+The only other contact details I can find are that "you may … contact us by mail at 1601 S. California Avenue, Palo Alto, CA 94304."
+My name was submitted by my aunt to become her friend and view her pages on FACEBOOK.
+FACEBOOK sent me an invitation to view her site and sent an additional nine (9) names of people I might know.
+I have never visited FACEBOOK yet they were able to make the connection between me and my friends.
+I, too, could not find a way to contact FACEBOOK from there website (without registering myself first) —seems they have secured themselves, but no one else.
+Thanks for submitting your question on how to contact them—and thanks to Paul for his reply
+Fill in your details below or click an icon to log in:
+You are commenting using your WordPress.com account. ( Log Out / Change )
+You are commenting using your Twitter account. ( Log Out / Change )
+You are commenting using your Facebook account. ( Log Out / Change )
+You are commenting using your Google+ account. ( Log Out / Change )
+Facebook introduces “Moments” – supposedly a safer way to share photos
+Facebook’s DeepFace facial recognition technology has human-like accuracy
+Facebook to include profile photos in its facial recognition database?
+Facebook is turning facial recognition back on – so here’s how to check your “photo tagging” settings
+Want to disable Facebook facial recognition? Read this
+Facebook changes privacy settings for millions of users – facial recognition is enabled

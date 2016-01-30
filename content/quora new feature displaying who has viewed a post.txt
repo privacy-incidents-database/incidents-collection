@@ -1,0 +1,32 @@
+After Privacy Uproar, Quora Feeds Will No Longer Show Data On What Other Users Have Viewed
+9th Annual CrunchiesPrices Increase On Wednesday For The Tech Awards Show Of The Year
+After Privacy Uproar, Quora Feeds Will No Longer Show Data On What Other Users Have Viewed
+Posted Aug 14, 2012 by Colleen Taylor (@loyalelectron), Contributor
+MetaLab Relaunches A Sexy New Ballpark, Officially Becomes A “Design Capital” Investor
+Updated. Earlier this month, Q&A site Quora unveiled a new feature, Views. One of the most noticeable aspects of Views was that it displayed information about the exact posts that other users of the site had looked at in its user feeds. At the time, we noted that it could certainly rub some folks the wrong way — Quora is a site that definitely plays into natural human curiosity, but what you view on the web is a pretty personal thing.
+After a significant uproar from users (documented quite well on Hacker News) Quora has opted to shut off the feature in Views that shows data about what others are viewing in the main Quora feed. Other parts of Views, such as viewership data inside posts themselves and analytics reported to post authors, will remain active.
+In some ways, this could be seen as a failure of communication more than anything. Many people who objected to the feature did not seem to be aware that from the get-go, topics such as adult content were omitted from Quora’s Views feature, and Views were only tabulated on topics that people were following — posts that users came across via search, for example, were never public. But Views in feeds omitted the “via” details that let others know why that view was being shown to others — so the folks at Quora are taking it out altogether.
+“A big part of Views was having that ‘via’ reason that says, ‘Mark viewed this thing because he’s following ‘Movies’ or ‘Personal Finance.’ If you see anything [as a View on Quora] the ‘via’ should show you that it’s a result of that,” Quora product manager Sandra Liu Huang told me in a phone call today. “Our feed stories didn’t show that ‘via’ reason, and that confused people.”
+This is breaking news, and we’ll update this post with more information as it is available. For now, here is the official blog post from Quora:
+We launched Views a couple weeks ago to offer a new way of discovering content on Quora and to let writers get a sense of who they can reach through Quora. While many were really interested in these new stories, we also got a lot of feedback that people weren’t comfortable having what they viewed shared broadly with people following them. So we’re going to stop showing stories in feed about what people are viewing.
+The rest of the Views product remains the same — when Quora shows you content in feed (based on the topics and people you publicly follow), we record those views and display them on the question, answer or post page.
+The topics and people you follow are displayed as the “Via” reason next to each of your views. E.g. if I follow “Job Interviews and see What are the best questions to ask a potential employer in a job interview? in my feed then my name will be listed as seeing this question “Via Job Interviews.”
+The only views we ever record are: views from feed, topic pages you follow and clicks on digest emails.
+﻿Not incl﻿uded: anything you get to from searches; looking at other user’s profiles; and any adult content. Read more.
+You can still delete any individual view or turn off views from your Settings (www.quora.com/settings) page.
+We’ve appreciated your feedback and interest in Views as well as your encouragement to the writers who create great content on Quora.
+Quora is a question-and-answer website created, edited, and organized by its owners. It was founded in 2009 and is based in Palo Alto, California.
+Curated Web, 																													Semantic Search
+Apple Reportedly Creating Long-Range Wireless Charging Tech | Crunch Report
+China Just Released True Color HD Photos Of The Moon
+President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12 School
+Onfleet Has Powered Over 1 Million On-Demand Deliveries
+How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of The Workplace
+Telegraph Academy Bootcamp Teaches People Of Color How To Code
+China Just Released True Color HD Photos Of The Moon
+MetaLab Relaunches A Sexy New Ballpark, Officially Becomes A “Design Capital” Investor
+Subscribe to <span class="no-mobile">Subscribe to </span>TechCrunch Daily
+China Just Released True Color HD Photos Of The Moon
+How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of The Workplace
+Onfleet Has Powered Over 1 Million On-Demand Deliveries
+Tesla Says CEO Elon Musk Just Bought More of The Company

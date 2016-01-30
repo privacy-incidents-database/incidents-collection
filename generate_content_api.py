@@ -8,26 +8,24 @@ def get_content_from_json():
     """
     generate content from input json
     """
-    with open ('urls/url.json') as data_file:
+    with open('urls/url.json') as data_file:
         data = json.load(data_file)
         for d in data:
-            meta_data = {}
-            meta_data['filename'] = d['Descr']
-            url = d['link']
-            raw_html = fetch(url)
-            clean(raw_html)
-            # final = clean_html(raw_html)
-            # wr = open("webpage/%s.txt" % "jesse", 'w')  # write into txt file.
-            # wr.write(url+"\n")
-            # wr.write(final.encode('utf-8') + "\n")
-            # break
-
-
-def test():
-    with open('webpage/jesse.txt') as data_file:
-        data = data_file.read()
-        print data.find("NHS-accredited health apps found to be sending unencrypted personal information")
-
+            try:
+                url = str(d['link'])
+                if url.startswith("http") == False and url.startswith("https") == False:
+                    url = "http://"+url
+                filename = str(d['Descr'].lower())
+                filename = filename.encode('utf-8')
+                filename = filename.translate(None, '!@#$/\\')
+                if len(filename) > 50:
+                    filename = filename[0:50]
+                raw_html = fetch(url)
+                if raw_html is not None:
+                    clean(raw_html, filename=filename)
+            except Exception, e:
+                print "Not successful url", url
+                print e
+    print "finished"
 
 get_content_from_json()
-# test()

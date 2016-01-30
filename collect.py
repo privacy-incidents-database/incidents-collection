@@ -94,7 +94,7 @@ def fetch_url(url):
         return html
     except Exception, e:
         print e
-        print "not valid"
+        print "Not successful url", url
 
 
 def clean(string, **kwargs):
@@ -108,25 +108,28 @@ def clean(string, **kwargs):
     headline = kwargs.get('headline')
     filename = kwargs.get('filename')
     remove_tag = clean_html(string)  # remove tags
-    print "#####", headline
-    print remove_tag.find(headline)
-    whtml = open("html/%s.txt" % filename, 'w')
-    whtml.write(remove_tag.encode('utf-8') + "\n")
-    # find start point according to lead_paragraph
-    headline = headline + "\n\n\nBy"
-    remove_tag = remove_tag.lower()
-    headline = headline.lower()
-    start = remove_tag.find(headline)
-    # start = start + len(headline)
-    #start = remove_tag.find(headline, start)
-    remove_start = remove_tag[start:]  # start from the lead para_graph
-    # mark the end using string Inside NYTimes.com
-    end = remove_start.find("inside nytimes.com")
-    final = remove_start[:end].rstrip()  # final ver
-    print start, end, final
-    wr = open("webpage/%s.txt" % filename, 'w')  # write into txt file.
+    if headline is not None or remove_tag.lower().find(filename) != -1:
+        if remove_tag.lower().find(filename) != -1:
+            headline = filename
+        headline += "\n\n\nBy"
+        remove_tag = remove_tag.lower()
+        headline = headline.lower()
+        start = remove_tag.find(headline)
+        remove_start = remove_tag[start:]  # start from the lead para_graph
+        # mark the end using string Inside NYTimes.com
+        end = remove_start.find("inside nytimes.com")
+        final = remove_start[:end].rstrip()  # final ver
+    else:
+        # # break into lines and remove leading and trailing space on each
+        lines = (line.strip() for line in remove_tag.splitlines())
+        # # break multi-headlines into a line each
+        chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+        # # drop blank lines
+        final = '\n'.join(chunk for chunk in chunks if len(chunk) > 50) #if chunk is longer than 50 chars, think it is valid.
+        # find start point according to lead_paragraph
+    wr = open("content/%s.txt" % filename, 'w')  # write into txt file.
     wr.write(final.encode('utf-8') + "\n")
-    return final
+    # return final
 
 
 def clean_html(fragment):
@@ -140,12 +143,6 @@ def clean_html(fragment):
         script.extract()    # rip it out
     text = soup.get_text()
 
-    # # break into lines and remove leading and trailing space on each
-    # lines = (line.strip() for line in text.splitlines())
-    # # break multi-headlines into a line each
-    # chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
-    # # drop blank lines
-    # text = '\n'.join(chunk for chunk in chunks if chunk)
     return text
 
 

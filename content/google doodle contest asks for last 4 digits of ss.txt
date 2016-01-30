@@ -1,0 +1,40 @@
+Why Has Google Been Collecting Kids' Social Security Numbers Under the Guise of an Art Contest?
+Why Has Google Been Collecting Kids' Social Security Numbers Under the Guise of an Art Contest?
+Director of 'The Cartel,' a documentary about corruption in American public education, and Executive Director of ChoiceMedia.TV, an education reform news service
+As the director of The Cartel documentary, one of the things I learned was how poorly the traditional news media cover issues pertaining to children, in that case corruption in public education.
+Since the film's release, I often get contacted about other aspects of child protection that I would have never imagined -- stories that don't seem to get attention elsewhere.  Like this.
+What you're about to read hasn't been reported anywhere, and when it was brought to my attention, I could hardly believe it.
+It turns out that the company sporting the motto "don't be evil" has been asking parents nationwide to disclose their children's personal information, including Social Security Numbers, and recruiting schools to help them do it -- all under the guise of an art contest.
+It's called, "Doodle-4-Google," a rather catchy, kid-friendly name if I do say so myself. The company is even offering prize money to schools to enlist their help with the promotion. Doesn't it sound like fun?  Don't you want your kid to enter too?
+What could be wrong with filling out a few entry forms?
+A national, commercial database of names and addresses of American children, especially one that includes their dates of birth and SSNs, would be worth many millions to marketing firms and retailers.
+Of course, data collection is not the reason Google gives for doing this competition. Their FAQ says it's because "We love to encourage and celebrate the creativity of young people..." etc. If that's so, then why on earth would the contest's original Parent Consent Form ask for the child's city of birth, date of birth and last four digits of the child's SSN?  Along with complete contact info of the parents.
+You see what Google knows and many parents don't know is that a person's city of birth and year of birth can be used to make a statistical guess about the first five digits of his/her social security number.  Then, if you can somehow obtain those last four SSN digits explicitly -- voila, you've unlocked countless troves of personal information from people who didn't even understand that such a disclosure was happening.
+This kind of data can be linked with other databases to target advertising. It's worth many times more than what Google will spend on prizes (each State Finalist gets a T-shirt!).
+In fairness, we have no evidence that Google will use or sell this information for marketing purposes. For that matter, it's possible they could throw the data away. (Care to guess the odds?) But to be absolutely clear, there's no evidence Google has done anything with this information at all, nefarious or otherwise.
+It's also clear that children's social security numbers shouldn't be required for an art contest.
+There's a second chapter to this story. Some of the people who tipped me off to it were wondering if the solicitation of children's Social Security Numbers was even legal. And so they sent emails to the Federal Trade Commission, the website InsideGoogle.com and a couple of other places. That email went out on February 17.  Twenty-six hours later Google released an updated Parental Consent form without requiring the last four digits of the child's SSN, although the form still inexplicably asks for the child's city of birth.
+Meanwhile, the original PDF can still be found on lots of school websites, like this one. In other words, many schools are still distributing the original form, and many parents are no doubt still forking over their kids' social security numbers to Google.
+At least the contest "privacy notice" is clear enough: "participation constitutes consent to the storage, use and disclosure of the Entrant's entry details...."  It should really be called the "privacy waiver."
+I sent all of this to Google's press office, and after 48 hours, they had offered no response.
+So in closing, three simple ideas for you, gentle reader, to take away.  (1) City of birth, when coupled with year of birth, can be correlated to social security numbers, so don't give it out just because a box appears on a form. (2) No public contest should ask for any part of a social security number, especially involving kids. (3) For internet searches, have you tried Yahoo! or Bing lately?
+(They're probably both improved since you last tried them.)
+Google's Spokesperson just contacted me with the following response:
+This year we started accepting doodles from kids even if their school hadn't registered for the contest. To help us keep entries distinct and remove duplicate entries from any particular student, we asked parents for limited information, including the last 4 digits of a student's social security number. We later updated our forms when we recognized that we could sufficiently separate legitimate contest entries while requesting less information. To be clear, these last 4 digits were not entered into our records and will be safely discarded.
+The city of birth helps us identify whether contestants are eligible for the contest, as winners must be either U.S. citizens or permanent legal residents of the U.S. The information isn't used for any other purpose.
+1.) I'm not much of a conspiracy theorist by disposition, but doesn't "these last 4 digits were not entered into our records and will be safely discarded," sound like a contradiction?
+(How can they delete something that is not in their records?)
+Even taking just the first part, we're supposed to believe Google didn't enter
+Isn't this the same Google that promotes itself as the master of targeted marketing campaigns?
+2.) If they simply want to limit the contest to citizens and permanent legal residents, why not ask that question as a "yes/no"?
+Then, they could ask more specific questions of the winners, right?
+Instead, Google's wants every child's city of birth upfront?
+A follow-up clarification came from a Google spokesperson:
+To be clear, all data concerning students that is collected by Doodle 4 Google is used only to administer the contest. We received this information on paper because parents who downloaded the original Parent Consent form had to print it, fill it out, and mail it to us. The last 4 digits of the social security number were not entered into our contest records, and as indicated, any forms containing this information will be safely discarded.
+We have asked for city of birth all 4 years of the contest to date, as it helps us determine eligibility. For example, if the city is not in the U.S., we can flag it for possible future follow-up. The question also gives us a higher degree of confidence at this early stage that an actual parent or guardian is completing the form (it's easier to check 'Yes' than to know an actual city of birth). As indicated previously, this information is not used for any other purpose.
+Fr éducation, Art, Google, Public Schools, High School, Middle School, Elementary School, Bob Bowdon, Bobbowdon
+Enter your email address to get top stories and blog posts emailed to you each day.
+Get top stories and blog posts emailed to me each day.
+Newsletters may offer personalized content or advertisements.
+Enter your email address to get top stories and blog posts emailed to you each day.
+"The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc.

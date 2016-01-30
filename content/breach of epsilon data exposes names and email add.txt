@@ -1,0 +1,40 @@
+The 15 worst data security breaches of the 21st Century | CSO Online
+Data destruction 101: There's more to it than wiping your drive [Infographic]
+5 ways to kickstart your infosec job search in 2016
+Reporting to CEO reduces risks and costs, but change comes slowly
+REVIEW: Cyphort makes advanced threat protection easier than ever
+The 15 worst data security breaches of the 21st Century
+Why and how does AOL still exist...and earn money!?
+Sony Corp's Executive Deputy President Kazuo Hirai speaks at a news conference to apologise for a massive security breach of its PlayStation Network in Tokyo May 1, 2011.
+Security practitioners weigh in on the 15 worst data security breaches in recent memory.
+Data security breaches happen daily in too many places at once to keep count. But what constitutes a huge breach versus a small one? For some perspective, we take a look at 15 of the biggest incidents in recent memory. Helping us out are security practitioners from a variety of industries, including more than a dozen members of LinkedIn's Information Security Community, who provided nominations for the list.
+See our photo gallery of the 15 worst data breaches in recent history
+MORE ON CSO:Lost in the clouds: Your private data has been indexed by Google
+Impact: 134 million credit cards exposed through SQL injection to install spyware on Heartland's data systems.
+A federal grand jury indicted Albert Gonzalez and two unnamed Russian accomplices in 2009. Gonzalez, a Cuban-American, was alleged to have masterminded the international operation that stole the credit and debit cards. In March 2010 he was sentenced to 20 years in federal prison. The vulnerability to SQL injection was well understood and security analysts had warned retailers about it for several years. Yet, the continuing vulnerability of many Web-facing applications made SQL injection the most common form of attack against Web sites at the time.
+There are conflicting accounts about how this happened. One supposes that a group of hackers took advantage of a weak data encryption system and stole credit card data during a wireless transfer between two Marshall's stores in Miami, Fla. The other has them breaking into the TJX network through in-store kiosks that allowed people to apply for jobs electronically. According to KNOS Project cofounder and chief architect Kevin McAleavey, this was possible because TJX's network wasn't protected by any firewalls. Albert Gonzalez, hacking legend and ringleader of the Heartland breach, was convicted and sentenced to 40 years in prison, while 11 others were arrested.
+Impact: Exposed names and e-mails of millions of customers stored in more than 108 retail stores plus several huge financial firms like CitiGroup Inc. and the non-profit educational organization, College Board.
+The source of the breach is still undetermined, but tech experts say it could lead to numerous phishing scams and countless identity theft claims. There are different views on how damaging the Epsilon breach was. Bruce Schneier, chief security technology officer at BT and a prolific author, wrote in a blog post at the time that, "Yes, millions of names and e-mail addresses (and) other customer information might have been stolen. Yes, this personal information could be used to create more personalized and better-targeted phishing attacks. So what? These sorts of breaches happen all the time, and even more personal information is stolen." Still, Kevin McAleavey of the KNOS Project says the breach is being estimated as a $4 billion dollar loss. Since Epsilon has a client list of more than 2,200 global brands and handles more than 40 billion e-mails annually, he says it could be, "the biggest, if not the most expensive, security breach of all-time."
+Insider: 10 Tough Security Interview Questions, and How to Answer Them
+Be the first to comment on this article. Our Commenting Policies
+New threats and vulnerabilities are always emerging. Are your security policies keeping pace? CSO's...
+Increasingly popular update technique for iOS apps puts users at risk
+Top five U.S. defense contractors bungle commercial cybersecurity market
+Newsletters Get the latest security news and analysis.Sign up for our CSO Update newsletter
+Researchers uncover new delivery tactics used by BlackEnergy
+Researchers at SentinelOne have discovered a new delivery tactic being used to spread BlackEnergy, the...
+LG patches data theft bug affecting millions of Android phones
+LG has patched a security flaw in an application preinstalled on millions of its Android G3 smartphones...
+3 Questions to Ask When Developing an Adaptive Security Awareness Program
+3 Reasons Why Enterprises are Deploying More Flash Storage
+Worried about possible privacy problems in Windows 10? We offer some quick and easy ways to protect...
+Breaking encryption technology used by terrorists and criminals poses a frustrating dilemma for...
+7 security backdoors that heped kill faith in security
+Do backdoors offer a valuable security guarantee or the slow implosion of security?
+Identity theft victim? This site helps you reclaim your life
+A revamped government website will offer consumers personalized, step-by-step guidance to reclaim their...
+(ISC)² / CSA develop cloud security certification - CCSP. Download Exam Outline.
+Free Phish Alert for Outlook: Users Can Report Phishing With One Click!
+CSO provides news, analysis and research on security and risk management
+Copyright © 1994 - 2016 CXO Media, Inc. a subsidiary of IDG Enterprise. All rights reserved.
+This ad will close in 20 seconds. Continue to site »

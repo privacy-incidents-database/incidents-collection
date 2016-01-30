@@ -1,0 +1,71 @@
+Is AVG planning to sell user data to advertisers following privacy policy change? - 17 Sep 2015
+Is AVG planning to sell user data to advertisers following privacy policy change?
+Czech Republic-based security software vendor AVG, producer of one of the world's most popular anti-virus software suites, has come under fire over it's privacy policy, which appears to allow it to sell users' data to advertisers.
+The company, though, in a blog posting and an email to Computing, denies that it is planning to sell "personally identifiable data" to anyone.
+EU agrees data protection regulation – despite cloud computing warnings from Amazon, Cisco, IBM and SAP
+Microsoft warns of 'global free for all' that will destroy personal privacy
+Privacy concerns prevent Facebook from releasing 'Moments' face-recognition technology in Europe
+New UN privacy chief calls for Geneva Convention on internet privacy
+The new policy, which AVG's website says will come into effect in October 2015, has apparently been changed to explicitly allow the collection and sale of personal information relating to browsing history, searches, location and meta-data. Previous policies indicated that the firm only collected browsing data when a person used their their web site as well as information about any malware on the user's machine.
+The site does not offer a list of changes made to the policy other than to provide a link to PDFs of previous versions.
+Under the heading "What do you collect that cannot identify me" AVG's new policy states:
+"We collect non-personal data to make money from our free offerings so we can keep them free, including: Advertising ID associated with your devices Browsing and search history, including meta data; Internet service provider or mobile network you use to connect to our products; and Information regarding other applications you may have on your device and how they are used.
+"Sometimes browsing history or search history contains terms that might identify you. If we become aware that part of your browsing history might identify you, we will treat that portion of your history as personal data, and will anonymize this information. We may also aggregate and/or anonymize personal data we collect about you.
+"For instance, although we would consider your precise location to be personal data if stored separately, if we combined the locations of our users into a data set that could only tell us how many users were located in a particular country, we would not consider this aggregated information to be personally identifiable."
+The company says it will share "certain personal data" with affiliated partners, search providers and resellers. If, as the latest privacy policy seems to indicate, AVG has altered its terms to allow its anti-virus or other software to harvest user data from the machine on which it is installed, this has serious implications, says privacy campaigner Alexander Hanff.
+"Anti-virus software runs on our devices with elevated privileges so it can detect and block malware and other threats," he says. "It is wholly unacceptable for an anti-virus software vendor to abuse those privileges to build detailed browsing, location and search profiles. It places AVG squarely into the category of spyware - which is what they are supposed to stop not what they are supposed to be."
+Hanff goes on to say that the terms of the policy may also put AVG in contravention of forthcoming EU data-protection legislation.
+"AVG's definition of identifiable data does not match the official opinion of the Article 29 Working Party, which states that any data that can be used to single out an individual (such as a user ID, IP address or device fingerprint) is classed as identifiable information," he told Computing.
+"Secondly, under Article 5(3) of the ePrivacy Directive, any company that collects data about individuals by accessing files on their device must obtain the informed consent of that individual.
+It is unlikely that a change to a privacy policy to which many users may never be exposed if they are already using the product would meet the necessary notice and consent requirements of many jurisdictions in the EU, and it would certainly seem to be incompatible with the upcoming GDPR [General Data Protection Regulation] soon to be finalised in Europe."
+Hanff goes on to mention possible antitrust issues, given that AVG actively blocks other companies who collect data to profile users' behaviour for the purpose of selling it to advertisers. This could potentially be used to give the company a competitive advantage, he argues, urging users to uninstall the product.
+Computing has asked AVG to clarify its new privacy policy and the changes it represents. We will publish its response when we receive it.
+In response to our request AVG sent a link to a new blog post which seeks to clarify the company's intentions. It says:
+"We do not, and will not, sell personally identifiable data to anyone, including advertisers. AVG has continually challenged the industry to simplify its privacy policies and provide an informative, one-page view. We are proud of our new privacy policy and intend to continue our drive for more transparency and greater user choice."
+Stating that its intention has been to clarify its privacy policy to make it easier to understand, AVG says:
+"When creating our new policy format, we decided that our customers should have the ability to choose whether or not to participate in our anonymized data collection program. We are currently adding this option to some of our FREE consumer products, and we can confirm that no sharing of data will happen until our customers are able to make this choice."
+Computing has asked for further clarification as to which products (free or paid for) are affected and what constitutes personally identifiable data in the light of Hanff's comments above.
+1) We have been very clear that we do not, and will not, sell personally identifiable data to anyone. We welcome the attention our privacy policy is receiving as it highlights the industry need for simpler privacy policies. We are delivering on our promises of simplifying our privacy policy and in continuing to give our customers clear choice.
+2) Our customers have already seen great benefit from reports we've generated, such as the AVG App Report, which identifies the top battery, data and storage consuming apps. This data has been well received by our customers and well publicized by the media, who find such information extremely valuable for managing their mobile devices.
+Please enable JavaScript to view the comments powered by Disqus.
+Government should adopt blockchain to improve public services, claims UK's chief scientist
+Trustwave sued by casino company for failure to contain security breach
+Over half of UK banks have insecure SSL implementations associated with login functions
+UK government plans to weaken encryption ‘threatens way of life, privacy and economic stability’, warns Apple
+Entrust Authority Security Manager: Managing an In-House Certification Authority with Ease
+What is the biggest issue facing the data centre industry today?
+Is Elon Musk's 'space internet' more promising than previous attempts?
+Computing retail data roundtable - delegates' key take-aways
+AVG puts Chrome users at risk with security-compromising browser extension, says Google
+'Let's be really clear - we're not selling your personal data' says AVG
+GCHQ 'Karma Police' system to track everyone's internet browsing revealed
+Backlash grows over privacy in 'freemium' Windows 10
+£1m ransomware demand from previously unknown malware took down Lincolnshire County Council network
+HSBC online banking taken down in denial-of-service attack
+The software vendor hall of shame, who's top of the heap?
+At software licence auditing time, which firm's practices most leave you palpitating with rage and despair?
+Your personal nightmare of a vendor not listed? Email graeme.burton@computing.co.uk with your best software licensing stories!
+Oracle - I'd like to wring Ellison's neck every time
+SAP - In my mind it stands for Software Always Pricey
+Microsoft - There's nothing 'Micro' about their costs
+HP - Well I suppose they've got to claw back that Autonomy money somehow...
+VMWare - I'd like to virtualise the sales rep who sold me this stuff
+EMC - They've got a (software) licence to print money. (Sorry)
+Symantec - They make the cyber crooks look positively modest
+Register to Computing to receive the UK's leading information resource for UK technology decision makers.
+By registering you can gain access to all our premium subscriber-only content for FREE.
+Industry leading content delivered in print, online and via our iOS and Android Live app.
+Have the latest news delivered to you with Computing's range of editorial newsletters. Register to keep up-to-date with the latest industry trends.
+Daily Update – Be first to the day’s breaking news, opinion, analysis and features
+Weekly Update – A roundup of the week’s most important articles for IT decision makers
+Total IT shut down at Lincolnshire County Council over zero-day attack
+£1m ransomware demand from previously unknown malware took down Lincolnshire County Council network
+BBC selects BT in £100m broadcast networking deal to replace Vodafone
+HSBC online banking taken down in denial-of-service attack
+Watch Accenture MD Bob Paton receive the UK IT Industry Award 2015 for Outstanding Contribution to the Profession
+Watch Content Guru walk away with UK IT Industry Awards 2015 Cloud Provider of the Year
+The GDPR is coming into force to plug the gaps in data transfer legislation. Watch this discussion to learn how to ensure that your data management practices...
+IT Security and Ease of Use: Why Simplicity Makes For Better Business Security
+What do users and businesses desire in cloud storage? Join us to unlock whether improved ease of use guarantees improved security.
+© Incisive Business Media (IP) Limited, Published by Incisive Business Media Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, are companies registered in England and Wales with company registration numbers 9177174 & 9178013
+Address to send the article (seperate multiple addresses with commas):

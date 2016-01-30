@@ -1,0 +1,19 @@
+NHS-accredited health apps putting users’ privacy at risk, study finds | Society | The Guardian
+NHS-accredited health apps putting users’ privacy at risk, study finds
+Researchers found some of the smartphone apps sent unencrypted personal and medical details over the internet – putting users at risk of identity theft and fraud
+Earlier this month, the health secretary said he wanted to get 15% of NHS patients checking medical records on apps within next 12 months.
+Last modified on Friday 25 September 2015 06.15 EDT
+Smartphone health apps backed by the NHS could be putting users’ privacy unnecessarily at risk, according to a study.
+Researchers from Imperial College London investigated how data was handled by apps endorsed by the NHS health apps library and found several sent unencrypted personal and medical information over the internet – putting users at risk of identity theft and fraud.
+They said the findings questioned the trustworthiness of NHS accreditation at a time when health apps covering a wide range of topics from weight loss to pregnancy were used by an estimated half a billion people across the world.
+It comes after the government announced that patients could soon access their medical records by smartphone and urged the NHS to adopt more mobile technology.
+The library features applications reviewed by the health service “to ensure they are clinically safe” and comply with the Data Protection Act, according to the NHS Choices website.
+But a test of 79 apps listed on the service over a six-month period in 2013 found that 70 transmitted data over the internet and 38 had a specific privacy policy that did not state what information would be sent.
+The study, published in the journal BMC Medicine, also found 23 sent identifying details without protection, of which four apps sent both personal and medical information unencrypted.
+The researchers used a form of hack known as a “man-in-the-middle attack” to capture the data sent by an app over the internet.
+Lead researcher Kit Huckvale said: “It is known that apps available through general marketplaces had poor and variable privacy practices, for example, failing to disclose personal data collected and sent to a third party.
+“However, it was assumed that accredited apps – those that had been badged as trustworthy by organisational programmes such as the UK’s NHS health apps library – would be free of such issues.”
+“Our study suggests that the privacy of users of accredited apps may have been unnecessarily put at risk, and challenges claims of trustworthiness offered by the current national accreditation scheme being run through the NHS.
+“The results of the study provide an opportunity for action to address these concerns, and minimise the risk of a future privacy breach. To help with this, we have already supplied our findings and data to the NHS health apps library.”
+Earlier this month, the health secretary, Jeremy Hunt, said his ambition was to get 15% of NHS patients routinely reading and adding to their online medical records using smartphones apps within the next 12 months.
+© 2016 Guardian News and Media Limited or its affiliated companies. All rights reserved.

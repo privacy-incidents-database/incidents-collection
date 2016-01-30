@@ -1,0 +1,82 @@
+Fancy a little kinky sex? GCHQ+NSA will know - thanks to ANGRY BIRDS • The Register
+Why a detachable cabin probably won’t save your life in a plane crash
+Seagate’s triple whammy: Disk numbers, costs, and flash
+State Department finds 22 classified emails in Hillary’s server, denies wrongdoing
+Seagate’s triple whammy: Disk numbers, costs, and flash
+Give me POWER! Under resourced, overloaded - a moving story
+Intel and Micron's XPoint: Is it PCM? We think it is
+The Quantum of solace: Well, at least the scale-out storage revenues were up
+You've seen things people wouldn't believe – so tell us your programming horrors
+Can't upgrade, won't upgrade: Windows Mobile's user problem
+Loons in balloons: Google asks FCC to approve Net plan
+BT scoops £100m network provision deal from the BBC
+'Printer Ready'. Er… you actually want to print? What, right now?
+Israeli drones and jet signals slurped by UK and US SIGINT teams
+US police contracts and private forum posts dumped online
+Two-thirds of Android users vulnerable to web history sniff ransomware
+HSBC online services still offline following 'attack' on bank
+Is hybrid cloud fundamental for your organisation? Tell us, readers!
+Serving up IT on a silver platter, also known as ITSM
+Improve, automate, rinse and repeat: All aboard the starship DevOps
+Cloudbees banks on Jenkins 2.0 to help double revs this year
+Continuous Lifecycle: Bursting with DevOps and CD goodness
+State Department finds 22 classified emails in Hillary’s server, denies wrongdoing
+Cloud growth? Take a number, Microsoft. Two engines have stalled
+Ginni Rometty to pocket $4.5m bonus for IBM leadership
+Apple yanks international travel plugs over shock worries
+AI no longer needs to fake it. Just don't try talking to your robots
+OnePlus ends rationing. You can now buy its phones just like that!
+Why a detachable cabin probably won’t save your life in a plane crash
+I love you. I will kill you! I want to make love to you: The evolution of AI in pop culture
+Original USS Enterprise model set to boldly go… on display
+Back to the Future's DeLorean is coming back to the future
+Fancy a little kinky sex? GCHQ+NSA will know - thanks to ANGRY BIRDS
+Evil spooks slurped EVERYTHING about your life from app's phone-home data
+At last: Boffins have an answer to EXPLODING Li-ion, Earth-poisoning alkaline batteries
+Samsung Bend-ghazi blast: We DEMAND a do-over on Galaxy S6 Edge
+Don't be stiffed by spies, stand up to Uncle Sam with your proud d**k pics – says Snowden
+Some of the world's most popular smartphone applications are telling British and American intelligence agencies everything about you – from your location to your politics or whether you're part of the swinging set.
+That's according to classified documents leaked by NSA whistleblower Edward Snowden.
+The dossier, published today by ProPublica and The New York Times, show the NSA and its Brit counterpart GCHQ were working together on exploiting smartphones in 2007, the same year as the first iPhone launched. The NSA nearly quadrupled its budgets for such monitoring from $204m to $767m that year.
+A top-secret report compiled by the NSA shortly after that time boasted the agency had collected so much information from phones running Google's mapping applications that "you'll be able to clone Google's database." In 2008 British intelligence reported "anyone using Google Maps on a smartphone is working in support of a GCHQ system."
+Poorly secured mobile apps have proved to be a "golden nugget," according to a May 2010 NSA presentation: harvesting sensitive data sent over public networks by applications is not a problem, but it was a little trickier to tag the intercepted information in the agency's XKeyscore database so that analysts could easily pull up a person's records. In the same year a British analyst described the development of smartphone slurping as a "mobile surge," comparing it to the surge of US and allied troops into Iraq and Afghanistan.
+A 2012 British intelligence document states that the immensely popular Angry Birds game from Finnish developer Rovio had become a useful source thanks to advertising code added by US firm Millennial Media.
+Millennial's tracking software generates a personal record for each user that can store information from their political affiliation and sexual orientation to whether their marital state was single, married, divorced, engaged or "swinger." This information is used to target in-app ads more effectively, and can be collected by UK and US intelligence agencies for analysis, we're told.
+The documents don't suggest that NSA and GCHQ staffers are directly hacking mobile applications. Instead it's made clear the snoopers are simply skimming and decoding sensitive data the apps collect and transmit back to their developers. One report noted that anyone updating Android on a device will leak about 500 slurpable records describing how the gadget was used by its owner.
+“NSA does not profile everyday Americans as it carries out its foreign intelligence mission,” the agency said in a statement. “Because some data of US persons may at times be incidentally collected in NSA's lawful foreign intelligence mission, privacy protections for US persons exist across the entire process,” with similar protections for “innocent foreign citizens.”
+GCHQ declined to comment on the allegations, but said its activities were compliant with today's UK law. Google and Millennial Media haven’t commented as yet.
+Your tinfoil hat is useless – your browser lets spies into your mind
+Other Snowden-sourced information published by NBC News today revealed [PDF] that in 2012 GCHQ developed technology, code named Squeaky Dolphin, to spy on people en masse as they used social networks and other big-name websites.
+The British tapped into internet data cables running though the UK and scooped out Facebook, Twitter, YouTube, and Blogger visits to see what's trending online and where hotspots of interest spring up around the world in various topics.
+The Human Science Operations Cell also compiled data on what a particular browser choice told them about a user's behavior. Internet Explorer users scored lowest in being open to new experiences but highest in "agreeableness" and "conscientiousness," while Firefox users are the most neurotic, apparently.
+But Snowden, who gave his first TV interview for German network ARD on Sunday, claims that the NSA wasn't above hacking business systems if it felt the information would further US interests. He said that the German manufacturer Siemens was a particular favorite among spies in this regard, and that non-key German government targets may also have been infiltrated.
+"What I can say is that we know that [German Chancellor] Angela Merkel was monitored by the NSA. But the question is how logical is it that she's the only one who was monitored, how likely is it that she was the German person the NSA was watching?" he said, Reuters reports.
+"I'd say that it's not very likely that anyone who was watching the German government was only watching Merkel and not her advisers nor other government officials nor ministers, heads of industries or even local government officials."
+Snowden said he no longer had any NSA documents himself, having passed them all on to journalists around the world. Despite death threats from certain excitable US intelligence operatives, Snowden said he was unconcerned for his safety.
+"I'm still alive and don't lose sleep for what I did because it was the right thing to do," he added. ®
+Transform and protect your customers' mobile moments
+Court to Wikimedia: Your NSA spying evidence is inadmissable, so you can't prove NSA spying
+Future Snowden hunt starts with audit of NSA spooks' privileges
+LG picks up US smartphone crumbs, gains on Apple and Samsung
+How NSA continued to spy on American citizens' email traffic – from overseas
+Cops hate encryption but the NSA loves it when you use PGP
+It lights you up like a Vegas casino, says compsci boffin
+Hewlett Packard Enterprise Security Intelligence and Operations Consulting has assessed the capabilities of 87 security operations centers worldwide. This updated report bring you the latest information.
+HP Data Protector reduces backup administration from over 4 hours per week to 20 minutes.
+According to Gartner analyst Allan Daley, we are living in an unstructured, data nightmare.
+This data theft prevention report focuses on how to stay secure while you innovate from a broader, in-scope, more intelligent in application perspective.
+Land Rover Defender dies: Production finally halted by EU rules
+BOFH: In-depth IT training needs a single-malt distillery
+Oracle kicks Amazon after Glacier download bill shock
+'Printer Ready'. Er… you actually want to print? What, right now?
+Techie on the ground disputes BlackEnergy Ukraine power outage story
+Asda slammed for letting vulns fester on its cyber shelves
+What if China went all GitHub on your website? Grab this coding tool
+Invite-only bug bounty criticised for turning up the heat on Tor
+Law enforcement versus Silicon Valley's idle problem children
+Predictable: How AV flaw hit Microsoft's Windows defences
+Is ATM security threatened by Windows XP support cutoff? Well, yes, but …
+Are you the keymaster? Alternatives in a LogMeIn/LastPass universe
+AliCloud Cloud Computing Services. Global. Reliable. Powered by Intel Xeon processors
+Sign up to The Register to receive newsletters and alerts
+Independent news, views, opinions and reviews on the latest in the IT industry. Offices in London, San Francisco and Sydney.
