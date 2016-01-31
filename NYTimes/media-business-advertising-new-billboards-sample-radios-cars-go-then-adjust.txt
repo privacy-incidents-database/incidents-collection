@@ -1,0 +1,56 @@
+new billboards sample radios as cars go by, then adjust
+
+
+by matt richtel
+
+
+published: december 27, 2002
+
+
+
+
+
+
+
+
+
+san francisco, dec. 26— 
+                    tom langeland cannot hear your car radio. but he purports to be able to figure out what you're listening to -- whether rock 'n' roll, sports, talk or news -- in the privacy of your speeding automobile.        
+
+                    pursuing a business plan that has a science fiction bent but also some skeptics, mr. langeland intends to modify electronic freeway billboard advertisements by remote control to reflect your tastes, and those of thousands of other drivers.        
+
+                    as part of a $20 million investment, mr. langeland, a sacramento-based entrepreneur, has erected 10 billboards that can display both video and text and can be programmed with changing messages and images. in addition, the billboards include fledgling technology that is designed to identify the radio frequencies of passers-by.        
+
+                    mr. langeland, chief executive of the alaris media network, intends to deduce demographic information from the radio stations drivers are listening to and then display advertising aimed at them based on income, sex, race and buying habit data. he said the idea was not to single out individuals, but drivers en masse. for instance, if a preponderance of rush-hour drivers are tuned to a radio station known to have affluent or educated listeners, then the advertisements at that time would be aimed at them.        
+
+                    within the next three weeks, mr. langeland said, he will begin modifying the content on the billboards as often as once an hour, based on the radio-listening patterns.        
+
+                    the concept is catching the attention of a handful of advertisers. but at least some prospective advertisers are waiting to see whether the technology really can pick up what radio stations people are tuned into and provide superior opportunities for messages.        
+
+                    ''it's a stretch to get an advertiser to change their message based on who they say is driving by,'' said john winkel, president of an advertising agency that represents major car dealerships in northern california and who has been negotiating to buy space on the billboards. moreover, mr. winkel said, he is not clear about what information can be drawn from radio-listening patterns.        
+
+                    ''there are way too many people driving by to make that conclusion,'' he said. he added that he was waiting for more evidence before deciding how heavily to get involved.        
+
+                    the technology designed to pick up radio-listening patterns and match them against demographic information is the creation of an alaris partner, mobiltrak, which is based in chandler, ariz. phyllis r. neill, chief operating officer of the company, said the technology worked by detecting radiation leakage that is emitted when antennae are tuned to a given radio station.        
+
+                    ms. neill said the sensors, positioned on the billboard poles, could capture the signals of 60 to 85 percent of the passing cars. mr. langeland is promising advertisers the technology will capture the listening patterns of 60 percent of the cars.        
+
+                    before the so-called smart billboards were developed, 90 percent of mobiltrak's customers were car dealerships. the dealers put sensors on their lots to find out what radio stations customers, and prospective customers, were tuned into, ms. neill said.        
+
+                    in the case of the billboards, alaris and mobiltrak use data from media audit, which studies demographic patterns of radio listeners, to infer information about them. ''we can tell you the percentage of people who drove past that were married, shop at petsmart, that make over $100,000,'' ms. neill said.        
+
+                    mr. langeland said the advertising would not necessarily try to single out listeners to a particular station, but would come up with a composite of those listening to a mix of stations at a particular hour.        
+
+                    mr. langeland said the advertisements would not change instantaneously based on the listening patterns of drivers. rather, he said, the company will try to determine the demographics of drivers at given hours of the day, then modify the message as frequently as every hour based on the patterns.        
+
+                    ''there are different people on the roads on a sunday than on a monday or tuesday,'' he said. ''we'll analyze our data by hour and day by day.''        
+
+                    he said the company had signed up the peppermill casino hotel in reno, nev., as its exclusive casino advertiser in northern california. kim r. stoll, the casino's corporate director for advertising, said it planned to promote room rates and entertainment on the billboards in northern california. it also wants to try to single out younger audiences with advertisements that focus on specific lounges or restaurants.        
+
+                    for now, alaris has four billboards in los angeles; two each in san francisco and sacramento; one in mantica, calif.; and one in louisville, tex. it expects to add four in the san jose area soon.        
+
+                    mr. langeland, 33, a native of norway who came to the united states to attend california state university at fresno, said that he hoped the technology would help advertisers focus their radio advertising as well as their billboard marketing. ''that is our ultimate goal,'' he said, noting that the company would try to tell advertisers which stations people were listening to at what times of the day.        
+
+                    he said he also hoped to sign up a radio group to advertise on the billboards. ''we now have the power to change listenership,'' he contended.        
+
+                    photo: as motorists drive past a billboard on the capital city freeway in sacramento, the radio stations they are listening to are identified. (john decker for the new york times)(pg. c5)

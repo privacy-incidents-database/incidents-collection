@@ -1,0 +1,54 @@
+report rings alarm bells about privacy on the internet
+
+
+by jeri clausing
+
+
+published: february 7, 2000
+
+
+
+
+
+
+
+
+
+washington, feb. 6— 
+                    a report last week that most health-related web sites were not honoring their promises to keep personal information about visitors private offered a somewhat alarming snapshot of the state of privacy on the internet.        
+
+                    the group that conducted the survey from which the report was drawn, the california healthcare foundation, said its intent was to help health sites live up to their promises and win the trust of consumers.        
+
+                    but it caught government officials and privacy enforcement groups off guard with disclosures that confidential information was being disseminated through banner ads and third-party service providers. and it underscored the growing policy debate over whether federal officials and private groups can adequately police such a fast-growing and constantly changing new medium as the net.        
+
+                    in the five years since the federal trade commission began monitoring electronic commerce about five years ago, few privacy violations have come to light. and none of the major groups formed to certify and oversee privacy practices has ever pulled a seal of approval from a member web site.        
+
+                    so when the california foundation said its study had determined that all but 3 of 19 sites surveyed were violating their own stated practices, privacy advocates held up the results as proof of their longtime assertions that self-regulation of online privacy, as promoted by the f.t.c. and the clinton administration, defies effective enforcement.        
+
+                    ''they are not keeping pace with the internet explosion,'' said jason catlett, president of the junkbusters corporation, a privacy consulting concern in new jersey. ''if you count the number of people in charge of enforcement and look at the growth of e-commerce sites, any way you measure it you'd come to the conclusion that protection is not keeping up -- if indeed it ever was adequate.''        
+
+                    the california study said the problems stemmed mostly from new technology that enables some banner advertisers to pick up any personal information a customer enters on the page where an ad is displayed. in addition, the study's internet security consultant, richard m. smith, said he found a leakage of information between the web sites that promise to keep information confidential and the third-party companies that gain access to that information while running services on the sites.        
+
+                    truste, one of the first and largest privacy certification programs, acknowledged on friday that it was surprised and alarmed to read the study, which identified potential violations by seven members of truste.        
+
+                    dave steer, a spokesman for truste, said it was investigating the sites identified in the study and was doing random audits of other members to see if they were disclosing information to advertisers and other third parties without saying so in their posted privacy policies.        
+
+                    truste said last week that it would alert all 1,300 of its members that they must include in their posted privacy policies disclosures of any contracts with third parties that could track the members or gain access to their personal data.        
+
+                    the f.t.c. declined to comment on the health survey. but an agency employee who spoke on condition of anonymity said the agency was ''taking these concerns very seriously.''        
+
+                    on friday, a special 40-member advisory committee held its first meeting at the f.t.c. it will help write a report to congress on what steps companies should take to keep their databases secure and how much access consumers should have to the data collected about them.        
+
+                    further, the commission announced that it was planning a third annual internet sweep to survey privacy practices on the web. but as with past studies, the f.t.c.'s announcement indicated that the agency would analyze only stated policies, not the actual practices that the california healthcare foundation examined.        
+
+                    though the california study looked only at health sites, mr. catlett and mr. smith both said it begged the question whether privacy problems on the internet were widespread.        
+
+                    ''there are similar problems on other sites,'' mr. smith said. ''when you have one company working with another, that's when privacy tends to fall by the wayside.''        
+
+                    despite the troubling indicators, mr. steer of truste said the government should maintain its hands-off approach to the internet since laws can be quickly outdated by new technologies. in contrast, he said, truste requires its members to undergo annual reviews, a process that allows truste to educate sites about challenges posed by new technologies.        
+
+                    mr. catlett, however, said baseline laws were needed to spell out for companies what they can and cannot do with private information they collect online and to allow consumers to take civil action when they think their rights have been violated.        
+
+                    ''at the moment, with the clinton administration saying self-regulation is the way we are going to go, that basically says, 'do whatever you want or do as little as you want,' '' mr. catlett said. ''that's exactly the wrong message to send to companies that have strong economic incentives to collect and use personal information.''        
+
+                    photo: in an overflow room at the f.t.c., visitors watched on friday as a panel that will write a report on internet privacy met for the first time. (carol t. powers for the new york times)

@@ -5,23 +5,35 @@ import sys
 import urllib2
 # use this package to get rid of the html and js tags.
 import getopt
+import argparse
 from bs4 import BeautifulSoup
 
+def get_args():
+    global args
+    parser = argparse.ArgumentParser(description="Script for collecting data from Articles")
+    parser.add_argument("destination", help = 'Destination to store the Articles')
+    parser.add_argument('-k', '--keywords', nargs = '+', metavar = 'N', help = 'Keywords for fetching the Articles')
+    parser.add_argument('-l', '--limit', type = int, help = 'Limit of the number of Articles to be fetched, must be a multiple of 10')
+    args = parser.parse_args()
+    return args
+
 def get_keywords():
-    keywords = sys.argv[1:]
+    keywords = args.keywords
     keywordstr = ""
     cnt = 0
 
-    for keyword in keywords:
-        keywordstr += keyword
-        if cnt < len(keywords) - 1 :
-            keywordstr += "+"
-        cnt += 1
+    if keywords is not None:
+        for keyword in keywords:
+            keywordstr += keyword
+            if cnt < len(keywords) - 1 :
+                keywordstr += "+"
+            cnt += 1
 
     return keywordstr
 
 # Global variables
 API_KEY = os.environ.get("NY_TIMES_API_KEY")
+args = get_args()
 keywordstr = get_keywords()
 abstractindex = 0
 
@@ -35,12 +47,20 @@ def collect():
             hits = w['response']['meta']['hits']
             print "Number of articles for the current Query = " + str(hits)
             if hits > 0:
+                if args.limit is not None:
+                    if args.limit < hits:
+                        hits = args.limit
+
                 get_articles(hits)
 
 
 def build_url(pageno):
-    url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + keywordstr + \
-    "&page=" + str(pageno) + "&fl=abstract,byline,headline,web_url,word_count&api-key=" + API_KEY
+    if not keywordstr:
+        url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?&page=" \
+        + str(pageno) + "&fl=abstract,byline,headline,web_url,word_count&api-key=" + API_KEY
+    else:
+        url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + keywordstr + \
+        "&page=" + str(pageno) + "&fl=abstract,byline,headline,web_url,word_count&api-key=" + API_KEY
     return url
 
 
@@ -74,7 +94,8 @@ def get_articles(hits):
                         metadata['filename'] = filename
                         metadata['headline'] = d['headline']['main']
                         html = fetch_url(d['web_url'])
-                        clean(html, headline=metadata['headline'], filename=metadata['filename'])
+                        if html != -1:
+                            clean(html, headline=metadata['headline'], filename=metadata['filename'])
 
 
 def fetch_url(url):
@@ -93,8 +114,8 @@ def fetch_url(url):
         html = response.read()
         return html
     except Exception, e:
-        print e
         print "Not successful url", url
+        return -1
 
 
 def clean(string, **kwargs):
@@ -127,9 +148,12 @@ def clean(string, **kwargs):
         # # drop blank lines
         final = '\n'.join(chunk for chunk in chunks if len(chunk) > 50) #if chunk is longer than 50 chars, think it is valid.
         # find start point according to lead_paragraph
-    wr = open("content/%s.txt" % filename, 'w')  # write into txt file.
+
+    # Get folder name to store the articles
+    folderName = args.destination
+    wr = open("%s/%s.txt" % (folderName, filename), 'w')  # write into txt file.
     wr.write(final.encode('utf-8') + "\n")
-    # return final
+    # # return final
 
 
 def clean_html(fragment):
