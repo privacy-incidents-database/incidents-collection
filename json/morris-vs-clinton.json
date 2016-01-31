@@ -1,0 +1,61 @@
+{
+  "type_of_material": "Op-Ed", 
+  "blog": [], 
+  "news_desk": "Editorial Desk", 
+  "lead_paragraph": "Dick Morris is hopping mad. Not so much at ''yellow journalism'' or the woman who gave prostitution a bad name, but at the vindictive bunch in the Clinton White House who have been violating his privacy with leaks from his confidential file. Let's face it: After all the lurid detail about the architect of Mr. Clinton's family-values strategy as a result of his own extraordinary folly, not much is left of Morris's privacy.", 
+  "headline": {
+    "main": "Morris vs. Clinton", 
+    "kicker": "Essay"
+  }, 
+  "abstract": "W Safire Op-Ed column discusses possibility that confidential contents of confidential files of former White House Presidendential campaign strategist Dick Morris were deliberately leaked by vengeful Clinton aides, in possible violation of privacy rights (M)", 
+  "print_page": "23", 
+  "word_count": 698, 
+  "_id": "4fd1cbcc8eb7c8105d70149e", 
+  "snippet": "Dick Morris is hopping mad. Not so much at ''yellow journalism'' or the woman who gave prostitution a bad name, but at the vindictive bunch in the Clinton White House who have been violating his privacy with leaks from his confidential file.    Let's...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1996/09/12/opinion/morris-vs-clinton.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "CLINTON, BILL"
+    }, 
+    {
+      "name": "persons", 
+      "value": "MORRIS, DICK"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOGRAPHICAL INFORMATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVACY, RIGHT OF"
+    }, 
+    {
+      "name": "subject", 
+      "value": "DISCLOSURE OF INFORMATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRESIDENTIAL ELECTION OF 1996"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "William", 
+        "lastname": "SAFIRE"
+      }
+    ], 
+    "original": "BY WILLIAM SAFIRE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1996-09-12T00:00:00Z", 
+  "section_name": "Opinion"
+}

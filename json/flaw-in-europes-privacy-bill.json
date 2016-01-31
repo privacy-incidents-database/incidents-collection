@@ -1,0 +1,40 @@
+{
+  "type_of_material": "Letter", 
+  "blog": [], 
+  "news_desk": "Letters", 
+  "lead_paragraph": "A reader says the \u201cright to be forgotten\u201d should have a cutoff date.", 
+  "headline": {
+    "main": "Flaw in Europe\u2019s Privacy Bill", 
+    "kicker": "Letter", 
+    "print_headline": "Flaw in Privacy Bill", 
+    "content_kicker": "Letter"
+  }, 
+  "abstract": null, 
+  "print_page": "22", 
+  "word_count": "146", 
+  "_id": "568c187c79881016d3291ce3", 
+  "snippet": "A reader says the \u201cright to be forgotten\u201d should have a cutoff date.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/06/opinion/flaw-in-europes-privacy-bill.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Europe", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": [], 
+  "document_type": "article", 
+  "pub_date": "2016-01-06T00:00:00Z", 
+  "section_name": "Opinion"
+}

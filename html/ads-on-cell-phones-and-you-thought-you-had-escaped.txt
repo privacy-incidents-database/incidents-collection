@@ -1,0 +1,454 @@
+
+
+
+
+ads on cell phones (and you thought you had escaped) - nytimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+campaign: abtest_bar1_ft_upsell_inyt_0116 -- 282944, creative: abtest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/archive/article/technology, targetedpage: www.nytimes.com/archive/article/technology, position: bar1
+
+
+
+
+
+
+
+
+
+
+
+
+log in
+register now
+help
+
+
+
+home page
+today's paper
+video
+most popular
+
+
+
+    edition: u.s. / global
+
+
+
+
+
+
+
+
+search all nytimes.com
+
+
+
+
+
+
+
+
+
+
+business day
+technology
+
+
+
+
+
+world
+ 
+u.s.
+ 
+n.y. / region
+ 
+business
+ 
+technology
+ 
+science
+ 
+health
+ 
+sports
+ 
+opinion
+ 
+arts
+ 
+style
+ 
+travel
+ 
+jobs
+ 
+real estate
+ 
+autos
+
+
+
+
+
+
+
+
+ads on cell phones (and you thought you had escaped)
+
+
+by jeffrey selingo
+
+
+published: september 28, 2000
+
+
+
+
+
+
+
+
+    
+            correction appended        
+    
+                                            
+                    it's a saturday night and all the tables at the hot new restaurant in town are reserved. but you're in the neighborhood when suddenly your cell phone chirps, alerting you of a table that is available at the last minute along with a coupon for a free drink. a few minutes later, you are being seated.        
+
+                    that could happen with the next ring of your cell phone. advertisers are beginning to tap into the country's 101 million cell phones with text messages to reach customers in a more direct and timely way. for marketers, a wireless pitch is unlike any other because it can be aimed at certain people and particular locations. technology can track a user's position to within 100 feet.        
+
+                    ''no one really wants advertising,'' said daren tsui, chief executive of skygo inc., a wireless-advertising company. ''but consumers see advertising as information if it's focused, convenient and personalized, and that's what wireless ads can do.''        
+
+                    beginning tomorrow, skygo will deliver pitches to 1,000 test users in boulder, colo., on behalf of more than two dozen local and national businesses, including compusa and goodyear. in exchange for sharing their personal information and accepting several messages a day during the four-month trial, the testers will receive a $100 ericsson phone free and subsidized wireless service from at&t.        
+
+                    the goal of the boulder test, mr. tsui said, is to determine what consumers like and dislike about wireless advertising: how often and when should messages be delivered? how long should text ads be on tiny screens? what type of ad generates the most response from customers?        
+
+                    john siewierski, a boulder businessman, said wireless ads were a ''dream realized'' for his specialty outdoor sporting goods store, geardirect.com. ''it allows me to focus on certain consumers at a certain moment,'' he said. he likes the concept so much that he signed on to the skygo trial as both a user and an advertiser.        
+
+                    ''my clientele is incredibly wired,'' mr. siewierski said. ''they always come into the store with their cell phones.'        
+
+                    he pictured himself zapping a message to potential customers stuck in traffic on their way to the mountains for the weekend. the text ad could remind them that his store is right off the highway in boulder.        
+
+                    but not everyone is so enthusiastic about wireless ads, particularly those people who have received them without choosing to have them, which is called ''opting in.''        
+
+                    in april, plugout.com, a company that sells cell-phone accessories, sent a text ad to some 10,000 at&t wireless customers, most of them in washington, d.c. -- to say,  ''check out plugout.com and save 50 percent off cell phone accessories.''        
+
+                    one of those users was michael c. malarkey, who heard his nokia cell phone chirp while he was in a morning meeting. he checked it immediately because only a few people have his cell phone number.        
+
+                    ''once i read the message, i realized i was spammed,'' mr. malarkey said. he then fired off an e-mail note to plugout.com and called at&t to complain.        
+
+                    ''there are only a few places for privacy these days,'' said mr. malarkey, who has not been hit with an ad since then. ''and now you can cross the cell phone off that list.''        
+
+                    representative rush holt, democrat of new jersey, said he planned to introduce a bill soon that would expand federal legislation that already protects consumers from unwanted faxes to include wireless spam.        
+
+                    but beyond the privacy concerns are the technical hurdles that companies like skygo have to overcome. there is room for only about 100 characters on a cell phone screen, and there are more than 200 different cell phone models sold in the united states. and only 5 percent of cell phone users have phones that can show web pages with graphics, according to the strategis group, a washington-based consulting firm.        
+
+                    still, ovum, a research company based in boston, predicts that by 2005, wireless advertising will be a $16 billion market, up from just $1.2 billion in 2003. as the number of cell phone users grows (it is currently increasing by 50,000 people a day), mr. tsui said, he expects wireless-advertising firms to lure customers in the future not only with offers of free phones or free air time, but also with frequent flyer miles, chances for free trips or even cash as they try to persuade consumers to view or respond to ads.        
+
+                    adbroadcast, a service of advertising.com, based in baltimore, already pays users 5 cents to 50 cents every time they view an ad. while 150,000 people signed up on the company's web site for the free cash, the  company can communicate with only 27,000 of them because users have either failed to activate their text messaging service or have changed their phone numbers.        
+
+                    ''there's a lot of leakage,'' said john ferber, co-founder of adbroadcast. in addition, he said, only a small segment of the population is willing to view ads to save a few dollars. as a result, the company's growth in wireless advertising has already slowed.        
+
+                    so far, wireless advertising is a text-based medium, said rob middleton, national media director of sf interactive, a san francisco marketing company that has purchased wireless ads for clients. ''it has lots of limitations,'' he said. ''so it's really not for companies that can't take advantage of the medium.''        
+
+                    still, several marketing executives said that the potential for location-based advertising outweighed any limitations on graphics and text. for instance, retailers could sell their goods based on the weather in their neighborhood, or professional sports teams could unload unsold tickets at the last minute to people near the stadium.        
+
+                    but for many cell phone users, the advertising is not worth the annoyance of unwanted rings. ''my privacy is very important,'' said laurie ann ryan, who received unsolicited advertising from plugout.com in april. the ad arrived in the middle of the day, and she said the chirp had sounded like a low-battery alert. ''i have become so dependent on my cell phone that i don't want people using it as an advertising tool,'' ms. ryan said, ''even if they're giving me something for it.'        
+
+                    photo: john siewierski, of colorado, said wireless advertising worked with his customers. (stephen collector for the new york times)        
+
+
+
+
+
+
+correction: october 5, 2000, thursday  an article in circuits last thursday about text advertisements on cellular telephones misstated the performance of advertising.com, an internet advertising company. its wireless advertising growth has increased, not slowed.          	
+	
+	
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+subscribe to technology rss feeds
+
+
+
+
+
+technology news
+
+internet
+start-ups
+business computing
+companies
+
+
+
+
+
+
+
+
+bits blog
+personal tech
+pogue’s posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            inside nytimes.com        
+
+
+
+
+
+
+
+
+health » 
+
+
+
+too hot to handle
+
+
+
+
+
+arts » 
+
+
+
+the harmony of liberty
+
+
+
+
+opinion »
+should beach privatization be allowed?
+room for debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+sports » 
+
+
+
+a woman’s leadership may steady murray
+
+
+
+
+
+
+
+
+
+
+opinion » 
+
+
+
+menagerie: streaming eagles
+
+
+
+
+
+u.s. »
+
+
+
+
+curlers’ aim: sweep to a win over the heat
+
+
+
+
+
+television » 
+
+
+
+the cold war brews anew in prime time
+
+
+
+
+
+book review » 
+
+
+
+command performance
+
+
+
+
+
+opinion » 
+
+
+
+op-ed: fooling mexican fans
+
+
+
+
+
+world »
+
+
+
+
+reading, writing and allegations
+
+
+
+
+opinion »
+op-ed: elite, separate, unequal
+new york city’s top public schools must become more diverse.
+
+
+
+
+
+business »
+
+
+
+
+vice has media giants salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 the new york times company
+site map
+privacy
+your ad choices
+advertise
+terms of sale
+terms of service
+work with us
+rss
+help
+contact us
+site feedback
+
+
+
+
+
+
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/technology, targetedpage: www.nytimes.com/archive/article/technology, position: inv1

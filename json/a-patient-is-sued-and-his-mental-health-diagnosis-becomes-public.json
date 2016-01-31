@@ -1,0 +1,111 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "A federal patient privacy law has failed to prevent some health providers from making patient information available in suits for unpaid bills.", 
+  "headline": {
+    "main": "A Patient Is Sued, and His Mental Health Diagnosis Becomes Public", 
+    "print_headline": "Patient Is Sued, and His Diagnosis Becomes Public"
+  }, 
+  "abstract": "Loopholes in the Health Insurance Portability and Accountability Act are allowing health providers to disclose potentially damaging information about patients as they pursue debts; problem is exemplified by actions of Short Hills Associates in Clinical Psychology, New Jersey group that has filed dozens of lawsuits against patients that disclosed diagnoses and treatments.  ", 
+  "print_page": "16", 
+  "word_count": "1401", 
+  "_id": "567a70aa7988102bb6a3c437", 
+  "snippet": "A federal patient privacy law has failed to prevent some health providers from making patient information available in suits for unpaid bills.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/12/24/nyregion/a-patient-is-sued-and-his-mental-health-diagnosis-becomes-public.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2015/12/23/nyregion/PATIENTweb1/PATIENTweb1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2015/12/23/nyregion/PATIENTweb1/PATIENTweb1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2015/12/23/nyregion/PATIENTweb1/PATIENTweb1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2015/12/23/nyregion/PATIENTweb1/PATIENTweb1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2015/12/23/nyregion/PATIENTweb1/PATIENTweb1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2015/12/23/nyregion/PATIENTweb1/PATIENTweb1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Medicine and Health", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Short Hills Associates in Clinical Psychology (New Jersey)", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Mental Health and Disorders", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New Jersey", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Health Insurance and Managed Care", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "<em>Charles Ornstein is a senior reporter for ProPublica, an independent, nonprofit newsroom that produces investigative journalism in the public interest. <a title=\"ProPublica series on patient privacy.\" href=\"http://www.propublica.org/series/patient-privacy\">More on the issue of patient privacy</a>. <br /></em>", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Charles", 
+        "lastname": "ORNSTEIN"
+      }
+    ], 
+    "original": "By CHARLES ORNSTEIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-12-24T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

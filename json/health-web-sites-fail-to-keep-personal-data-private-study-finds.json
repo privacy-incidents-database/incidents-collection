@@ -1,0 +1,52 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "Internet health sites collect some of the most personal information about their users, but few follow their own declared policies about maintaining the privacy of that data, according to a survey made public today. The survey, by the California HealthCare Foundation, found that 19 of the top 21 health sites had privacy policies but that most failed to live up to promises not to share information with third parties. And none of the sites followed guidelines like those recommended by the Federal Trade Commission on collection and use of personal data.", 
+  "headline": {
+    "main": "Health Web Sites Fail to Keep Personal Data Private, Study Finds"
+  }, 
+  "abstract": "California HealthCare Foundation survey finds that Internet health sites collect some of most personal information about their users, but few follow their own declared policies about maintaining privacy of that data (M)", 
+  "print_page": "19", 
+  "word_count": 434, 
+  "_id": "4fd2033b8eb7c8105d7696ad", 
+  "snippet": "Internet health sites collect some of the most personal information about their users, but few follow their own declared policies about maintaining the privacy of that data, according to a survey made public today.     The survey, by the California...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2000/02/02/us/health-web-sites-fail-to-keep-personal-data-private-study-finds.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "CALIFORNAI HEALTHCARE FOUNDATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "MEDICINE AND HEALTH"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVACY"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jeri", 
+        "lastname": "CLAUSING"
+      }
+    ], 
+    "original": "By JERI CLAUSING"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2000-02-02T00:00:00Z", 
+  "section_name": "Technology; Health; U.S."
+}

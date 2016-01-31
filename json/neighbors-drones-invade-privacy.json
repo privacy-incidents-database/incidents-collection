@@ -1,0 +1,106 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "Spats over trespassing, privacy and air rights are heating up as the little copters become more popular.", 
+  "headline": {
+    "main": "When Your Neighbor\u2019s Drone Pays an Unwelcome\u00a0Visit", 
+    "kicker": "Disruptions", 
+    "print_headline": "When Peeping Tom Takes to the Skies", 
+    "content_kicker": "Disruptions"
+  }, 
+  "abstract": "Nick Bilton Disruptions column examines growing controversy over drone use and outrage from neighbors of drone owners who feel spied upon; recounts his own experience of having his privacy invaded when drone with camera flew close to his window.", 
+  "print_page": "2", 
+  "word_count": "886", 
+  "_id": "56a925677988104b8055625f", 
+  "snippet": "Spats over trespassing, privacy and air rights are heating up as the little copters become more popular.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/28/style/neighbors-drones-invade-privacy.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/28/fashion/28DISRUPTIONS/28DISRUPTIONS-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/28/fashion/28DISRUPTIONS/28DISRUPTIONS-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/28/fashion/28DISRUPTIONS/28DISRUPTIONS-articleLarge.jpg", 
+      "height": 370, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/28/fashion/28DISRUPTIONS/28DISRUPTIONS-articleLarge.jpg", 
+        "xlargeheight": "370"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/28/fashion/28DISRUPTIONS/28DISRUPTIONS-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/28/fashion/28DISRUPTIONS/28DISRUPTIONS-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Drones (Pilotless Planes)", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cameras", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Congressional Research Service", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Law and Legislation", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "BILTON"
+      }
+    ], 
+    "original": "By NICK BILTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-28T00:00:00Z", 
+  "section_name": "Style"
+}

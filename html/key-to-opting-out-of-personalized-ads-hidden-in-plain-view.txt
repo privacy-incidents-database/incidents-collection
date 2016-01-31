@@ -1,17 +1,747 @@
+
+  
+
+
+
+
 Key to Opting Out of Personalized Ads, Hidden in Plain View - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
 Media|Key to Opting Out of Personalized Ads, Hidden in Plain View
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/22jfzTy
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Media 
 Key to Opting Out of Personalized Ads, Hidden in Plain View
+
+
+
+Advertising 
+By                     
+ ALINA TUGEND
+ 
+DEC. 20, 2015
+
+
+
+Inside
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
 A 2012 campaign for AdChoices, which offers a way for consumers to opt out of receiving interest-based ads, concentrated on the benefits of those ads.
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+Continue reading the main story
+
+
+
 It has been seen countless times, yet it may be the advertising industry’s best-kept secret. What exactly is that small turquoise triangle, often in the upper right corner, that appears in many online ads?
+
+
+
+
+
+
+
 It is the logo for AdChoices, and the idea is that if consumers do not like the personalized ads they are seeing — those that pop up based on information gathered from their browsing history or habits — they can click on the symbol, and it will take them to a page that explains how they can opt out of seeing them.The Digital Advertising Alliance, the organization behind AdChoices, likes to boast that the AdChoices logo is seen more than a trillion times every month and that it is “a great, effective program that’s one of its kind,” said Lou Mastria, executive director of the organization. He added that there have been eight million unique opt-outs since AdChoices began.
+
+
+
+
+Advertising
 The companies, people and new technologies that are shaping the marketing and advertising business.
-Marketing in the Moments, to Reach Customers Online
-Super Bowl 50 Commercials Are Expected to Have a Lighter Tone
-Girl Scout Cookie Sales Go Digital, With Help From Visa and Dell
-Target’s Dog Mascot Learns New Tricks in Marketing Blitz
-God May Forgive Ads That Offend, but Customers Probably Won’t
+
+
+
+
+
+
+
+                                Marketing in the Moments, to Reach Customers Online            
+
+
+
+
+
+
+
+
+                                Super Bowl 50 Commercials Are Expected to Have a Lighter Tone            
+
+
+
+
+
+
+
+
+                                Girl Scout Cookie Sales Go Digital, With Help From Visa and Dell            
+
+
+
+
+
+
+
+
+                                Target’s Dog Mascot Learns New Tricks in Marketing Blitz            
+
+
+
+
+
+
+
+
+                                God May Forgive Ads That Offend, but Customers Probably Won’t            
+
+
+
+
+
+
+See More »
+
+
+
 But a study this year by the advertising agency Kelly Scott Madison found that while 26 percent of web users said they were familiar with the AdChoices logo, only 9 percent of those understood what it meant.“I think the intent of AdChoices was really good, and the purpose was very well intentioned, but the consumer education piece never happened,” said Kay Wesolowski, digital media director of Kelly Scott Madison.The AdChoices program was started in 2010 by the alliance, a group of more than 400 organizations and companies involved in the advertising industry.Opting out does not necessarily stop companies from tracking users’ information, but it does stop them from targeting those users with what are known as interest-based ads.Privacy groups say the program is flawed.“It puts the burden on consumers, it’s hard to use, and most people don’t know what it does,” said Claire Gartland, a consumer protection lawyer for the nonprofit Electronic Privacy Information Center.The reality is that most consumers are ambivalent: They want content to be free, which ads allow for, and many like targeted ads that speak to their interests. On the other hand, web users in general are very nervous — and unclear — about what information is being collected about them, Ms. Wesolowski said.The idea behind AdChoices is that it provides an option to forgo the targeted ads.It works like this: A user searches for, say, the best ice cream in New York. Up comes a Yelp page that also features an ad for Macy’s, because the ice cream lover recently bought something online from the department store.If users want to get rid of these targeted ads, they can click on the triangle — its size is small so that it does not use up too much valuable ad real estate — and will then be taken to a page from the advertising network that Macy’s paid to place the ad. This page explains what AdChoices does and how to opt out of targeted ads.There is also a page that tells users how many advertising networks are following them — often many more than expected. A way to opt out of these networks is provided.
+Advertisement
+
+Continue reading the main story
+
+
+Advertisement
+
+Continue reading the main story
 There is a technical hitch, though. If users decide at any point to delete all their cookies — the small text files used to track web preferences — then the AdChoices opt-out function, which is also a cookie, will be deleted. One way to ensure the opt-out stays on a browser is to click Protect My Choices on the choices page.For some, the process seems too complicated.“It should take the average consumer a millisecond to opt out, rather than having to look around for the appropriate icon,” said Julia Zukina, a lawyer who published a paper on the issue.The Digital Advertising Alliance did offer a public education program a few years ago that largely emphasized the benefits of targeted ads; the ad campaign the group ran in 2012 and 2013 used the slogan “Will the right ads find you?”Mr. Mastria said his organization would begin a new education initiative next year. It offers an AdChoices app called AppChoices, which is available in English and Spanish.He also pointed to another study released this year by Truste, a company that certifies websites for compliance with privacy standards. The study said that 37 percent of web users were aware of the AdChoices icon and that 19 percent of those aware of the icon (or 7 percent of the total) had clicked on it.Tracking companies are collecting information primarily about hobbies and shopping tendencies, and not identifiable personal or financial information, Mr. Mastria said. Often, in fact, the tracker does not even know if someone bought a specific item from a retailer — that is why people are sometimes shown ads for items they have already purchased.But Ms. Gartland, the consumer protection lawyer, said the United States needed a system more like the European Union’s, in which customers are notified that a website is using cookies to track them and the user needs to opt in. She said advertisers opposed an opt-in program because they would lose revenue, while Mr. Mastria said most consumers in the United States would not want the European model because they preferred targeted ads over more general ones and liked the convenience of the American system.Consumers can install a plug-in in their browser that sends a signal to a website telling it not to track them, but not all websites honor that request, Ms. Gartland said.Although AdChoices has many critics, “At least now when people say, ‘I’m tired of having ads following me around — how do I get rid of them?’ we have an answer,” said JC Cannon, who worked for Microsoft for 16 years and is now an independent online-privacy consultant. “We didn’t have an answer 10 years ago. For the average consumer, this is the best available today.”
-A version of this article appears in print on December 21, 2015, on page B6 of the New York edition with the headline: Key to Opting Out of Personalized Ads, Hidden in Plain View.
+
+
+A version of this article appears in print on December 21, 2015, on page B6 of the New York edition with the headline: Key to Opting Out of Personalized Ads, Hidden in Plain View.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
 Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

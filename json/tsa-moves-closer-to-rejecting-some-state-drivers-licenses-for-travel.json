@@ -1,0 +1,148 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The Department of Homeland Security said airport screeners may soon start accepting only licenses that meet federal standards, despite resistance from privacy advocates.", 
+  "headline": {
+    "main": "T.S.A. Moves Closer to Rejecting Some State Driver\u2019s Licenses for Travel", 
+    "kicker": "Itineraries", 
+    "print_headline": "U.S. May Soon Reject Some Driver&#8217;s Licenses as Air Travel ID ", 
+    "content_kicker": "Itineraries"
+  }, 
+  "abstract": "Homeland Security Dept says it will decide whether Transportation Security Administration agents will begin enforcing 10-year-old law requiring states to comply with federal standards when issuing driver's licenses; some licenses may not be valid ID for air travel.", 
+  "print_page": "1", 
+  "word_count": "1273", 
+  "_id": "5681083a79881067a39354b7", 
+  "snippet": "The Department of Homeland Security said airport screeners may soon start accepting only licenses that meet federal standards, despite resistance from privacy advocates.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/12/29/business/tsa-moves-closer-to-rejecting-some-state-drivers-licenses-for-travel.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2015/12/28/business/29itineraries-web/29itineraries-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2015/12/28/business/29itineraries-web/29itineraries-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2015/12/28/business/29itineraries-web/29itineraries-articleLarge.jpg", 
+      "height": 398, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2015/12/28/business/29itineraries-web/29itineraries-articleLarge.jpg", 
+        "xlargeheight": "398"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2015/12/28/business/29itineraries-web/29itineraries-web-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2015/12/28/business/29itineraries-web/29itineraries-web-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Identification Devices", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New Mexico", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Washington (State)", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Drivers Licenses", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Identity Theft", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal-State Relations (US)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Electronic Privacy Information Center", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Minnesota", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jad", 
+        "lastname": "MOUAWAD"
+      }
+    ], 
+    "original": "By JAD MOUAWAD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-12-29T00:00:00Z", 
+  "section_name": "Business Day"
+}

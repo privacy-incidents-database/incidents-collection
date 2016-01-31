@@ -1,0 +1,399 @@
+
+
+
+
+health web sites fail to keep personal data private, study finds - nytimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+campaign: abtest_bar1_ft_upsell_inyt_0116 -- 282944, creative: abtest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/archive/article/us, targetedpage: www.nytimes.com/archive/article/us, position: bar1
+
+
+
+
+
+
+
+
+
+
+
+
+log in
+register now
+help
+
+
+
+home page
+today's paper
+video
+most popular
+
+
+
+    edition: u.s. / global
+
+
+
+
+
+
+
+
+search all nytimes.com
+
+
+
+
+
+
+
+
+
+
+u.s.
+
+
+
+
+
+world
+ 
+u.s.
+politicseducationtexas 
+n.y. / region
+ 
+business
+ 
+technology
+ 
+science
+ 
+health
+ 
+sports
+ 
+opinion
+ 
+arts
+ 
+style
+ 
+travel
+ 
+jobs
+ 
+real estate
+ 
+autos
+
+
+
+
+
+
+
+
+health web sites fail to keep personal data private, study finds
+
+
+by jeri clausing
+
+
+published: february 2, 2000
+
+
+
+
+
+
+
+
+
+washington, feb. 1— 
+                    internet health sites collect some of the most personal information about their users, but few follow their own declared policies about maintaining the privacy of that data, according to a survey made public today.        
+
+                    the survey, by the california healthcare foundation, found that 19 of the top 21 health sites had privacy policies but that most failed to live up to promises not to share information with third parties. and none of the sites followed guidelines like those recommended by the federal trade commission on collection and use of personal data.        
+
+                    the survey comes as policy makers are more closely scrutinizing the privacy practices of web sites to determine whether new laws are needed to regulate online marketers. privacy advocates immediately cited the findings as proof that the internet industry had failed in its efforts to police itself.        
+
+                    ''this is about the 7,000th piece of conclusive evidence that self-regulation is not working,'' said jason catlett, founder of the junkbusters corporation, a company that helps people protect their privacy online.        
+
+                    the study's authors were less judgmental, comparing the online health industry to an awkward adolescent. richard m. smith, an internet security analyst, and janlori goldman, director of the project, said health sites were well aware that consumers expected the information they supplied to be confidential. they said they believed that many sites were unaware that third parties could gain access to the information they were collecting.        
+
+                    the main reason for the privacy violations, mr. smith said, is the use of so-called cookies, which track consumers' movements on the internet, and other advanced technology that delivers advertising to web pages and can pick up information entered by users on pages where the advertisements are displayed. the combination allows advertisers to build detailed profiles of consumers.        
+
+                    for example, mr. smith said a site promising not to share its users' names, addresses or other information had contracted with a company to administer a health assessment test on the site, providing that company with access to the data.        
+
+                    mr. catlett said it was plausible that many sites were unknowingly violating their own privacy policies.        
+
+                    ''a lot of these sites are being set up in great haste, and often without sufficient knowledge or attention to the leakage that takes place with online advertising,'' mr. catlett said.        
+
+                    although privacy advocates for years have been calling on congress to pass a law setting standards for internet sites to follow when collecting personal information, the clinton administration and the federal trade commission have sided with the industry in its call for a chance to prove that marketers and online merchants can police themselves.        
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            inside nytimes.com        
+
+
+
+
+
+
+
+
+health » 
+
+
+
+too hot to handle
+
+
+
+
+
+arts » 
+
+
+
+the harmony of liberty
+
+
+
+
+opinion »
+should beach privatization be allowed?
+room for debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+sports » 
+
+
+
+a woman’s leadership may steady murray
+
+
+
+
+
+
+
+
+
+
+opinion » 
+
+
+
+menagerie: streaming eagles
+
+
+
+
+
+u.s. »
+
+
+
+
+curlers’ aim: sweep to a win over the heat
+
+
+
+
+
+television » 
+
+
+
+the cold war brews anew in prime time
+
+
+
+
+
+book review » 
+
+
+
+command performance
+
+
+
+
+
+opinion » 
+
+
+
+op-ed: fooling mexican fans
+
+
+
+
+
+world »
+
+
+
+
+reading, writing and allegations
+
+
+
+
+opinion »
+op-ed: elite, separate, unequal
+new york city’s top public schools must become more diverse.
+
+
+
+
+
+business »
+
+
+
+
+vice has media giants salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 the new york times company
+site map
+privacy
+your ad choices
+advertise
+terms of sale
+terms of service
+work with us
+rss
+help
+contact us
+site feedback
+
+
+
+
+
+
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/us, targetedpage: www.nytimes.com/archive/article/us, position: inv1

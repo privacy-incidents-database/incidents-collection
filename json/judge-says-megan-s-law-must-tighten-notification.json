@@ -1,0 +1,72 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metropolitan Desk", 
+  "lead_paragraph": "New Jersey, one of the first states to require that the public be alerted to the presence of paroled sex offenders, now appears to be the first to face a new type of legal hurdle: a ruling that its ''Megan's Law'' is failing to keep information about the offenders from reaching people not entitled to it. Ruling in a two-and-a-half-year-old lawsuit by the New Jersey public defender, long a foe of the 1994 law, a federal judge in Camden said this week that New Jersey's rules on public notification infringed on the privacy rights of some paroled sex offenders by not preventing the unauthorized disclosure of their names, addresses and other personal information to people not legally authorized to have it.", 
+  "headline": {
+    "main": "Judge Says 'Megan's Law' Must Tighten Notification"
+  }, 
+  "abstract": "Federal District Court Judge Joseph E Irenas, ruling in lawsuit by deputy public defender Michael Z Buncher, says New Jersey law requiring that public be alerted to presence of paroled sex offender, infringes on privacy rights of some paroled sex offenders by not preventing unauthorized disclosure of their names and other personal information to people not legally authorized to have it; orders state Atty Gen John J Farmer Jr to redraw rules (M)", 
+  "print_page": "5", 
+  "word_count": 894, 
+  "_id": "4fd203398eb7c8105d7694fb", 
+  "snippet": "New Jersey, one of the first states to require that the public be alerted to the presence of paroled sex offenders, now appears to be the first to face a new type of legal hurdle: a ruling that its ''Megan's Law'' is failing to keep information about...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2000/01/28/nyregion/judge-says-megan-s-law-must-tighten-notification.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "IRENAS, JOSEPH E"
+    }, 
+    {
+      "name": "persons", 
+      "value": "FARMER, JOHN J JR"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BUNCHER, MICHAEL Z"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW JERSEY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PROBATION AND PAROLE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SEX CRIMES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SUITS AND CLAIMS AGAINST GOVERNMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LAW AND LEGISLATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVACY"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Robert", 
+        "lastname": "HANLEY"
+      }
+    ], 
+    "original": "By ROBERT HANLEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2000-01-28T00:00:00Z", 
+  "section_name": "New York and Region"
+}

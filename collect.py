@@ -60,7 +60,7 @@ def build_url(pageno):
         + str(pageno) + "&fl=abstract,byline,headline,web_url,word_count&api-key=" + API_KEY
     else:
         url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + keywordstr + \
-        "&page=" + str(pageno) + "&fl=abstract,byline,headline,web_url,word_count&api-key=" + API_KEY
+        "&page=" + str(pageno) + "&api-key=" + API_KEY
     return url
 
 
@@ -76,13 +76,23 @@ def get_articles(hits):
         if r.status_code == 200:
             w = r.json()
             if w.has_key('response'):
+
                 docs = w['response']['docs']
                 for d in docs:
-                    if d['web_url'] is not None and d['headline']['main'] is not None:
-                        cnt += 1
+                    cnt += 1
+                    if d['web_url'] is not None \
+                    and d['headline']['main'] is not None \
+                    and d['type_of_material'] == "News":
+
                         #Extract the file name from the url
                         filename = d['web_url'].rsplit('/', 1)[1]
                         filename = filename.rsplit('.', 1)[0]
+
+                        #Write json
+                        wr = open("json/%s.json" % filename, 'w')
+                        json.dump(d , wr, indent = 2)
+                        wr.close()
+
                         if filename == "abstract":
                             filename = filename + str(abstractindex)
                             abstractindex += 1
@@ -110,6 +120,7 @@ def fetch_url(url):
         from cookielib import CookieJar
         cj = CookieJar()
         opener = urllib2.build_opener(urllib2.HTTPCookieProcessor(cj))
+        opener.addheaders = [('User-agent', 'Mozilla/5.0')]
         response = opener.open(url)
         html = response.read()
         return html
@@ -129,31 +140,34 @@ def clean(string, **kwargs):
     headline = kwargs.get('headline')
     filename = kwargs.get('filename')
     remove_tag = clean_html(string)  # remove tags
-    if headline is not None or remove_tag.lower().find(filename) != -1:
-        if remove_tag.lower().find(filename) != -1:
-            headline = filename
-        headline += "\n\n\nBy"
-        remove_tag = remove_tag.lower()
-        headline = headline.lower()
-        start = remove_tag.find(headline)
-        remove_start = remove_tag[start:]  # start from the lead para_graph
-        # mark the end using string Inside NYTimes.com
-        end = remove_start.find("inside nytimes.com")
-        final = remove_start[:end].rstrip()  # final ver
-    else:
-        # # break into lines and remove leading and trailing space on each
-        lines = (line.strip() for line in remove_tag.splitlines())
-        # # break multi-headlines into a line each
-        chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
-        # # drop blank lines
-        final = '\n'.join(chunk for chunk in chunks if len(chunk) > 50) #if chunk is longer than 50 chars, think it is valid.
-        # find start point according to lead_paragraph
+    # if headline is not None or remove_tag.lower().find(filename) != -1:
+    #     if remove_tag.lower().find(filename) != -1:
+    #         headline = filename
+    #     headline += "\n\n\nBy"
+    #     remove_tag = remove_tag.lower()
+    #     headline = headline.lower()
+    #     start = remove_tag.find(headline)
+    #     remove_start = remove_tag[start:]  # start from the lead para_graph
+    #     # mark the end using string Inside NYTimes.com
+    #     end = remove_start.find("inside nytimes.com")
+    #     final = remove_start[:end].rstrip()  # final ver
+    # else:
+
+    # # break into lines and remove leading and trailing space on each
+    lines = (line.strip() for line in remove_tag.splitlines())
+    # # break multi-headlines into a line each
+    chunks = (phrase.strip() for line in lines for phrase in line.split("  "))
+    # # drop blank lines
+    final = '\n'.join(chunk for chunk in chunks if len(chunk) > 50) #if chunk is longer than 50 chars, think it is valid.
+    # find start point according to lead_paragraph
 
     # Get folder name to store the articles
     folderName = args.destination
     wr = open("%s/%s.txt" % (folderName, filename), 'w')  # write into txt file.
     wr.write(final.encode('utf-8') + "\n")
     # # return final
+    wr2 = open("html/%s.txt" % filename, 'w')  # write into txt file.
+    wr2.write(remove_tag.encode('utf-8') + "\n")
 
 
 def clean_html(fragment):
