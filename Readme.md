@@ -20,14 +20,18 @@
 Script for collecting data from Articles
 
 positional arguments:
+
   destination           Destination to store the Articles
 
 optional arguments:
+
   -h, --help            show this help message and exit
+  
   -k N [N ...], --keywords N [N ...]
                         Keywords for fetching the Articles
+                        
   -l LIMIT, --limit LIMIT
-                        Limit of the number of Articles to be fetched, must be
-                        a multiple of 10
+      Limit of the number of Articles to be fetched, must be a multiple of 10
+      
   -j JSON, --json JSON  Name of the Json file containing the urls
 
