@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "The New York Public Library is celebrating the authors who have spent time there writing or researching their works.", 
+  "headline": {
+    "main": "\u2018Made at NYPL\u2019 Features Robert Caro and Other Writers"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "391", 
+  "_id": "56afa0857988105fa9a9c23d", 
+  "snippet": "The New York Public Library is celebrating the authors who have spent time there writing or researching their works.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/arts/design/made-at-nypl-features-robert-caro-and-other-writers.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/arts/02artsbeat-caro/02artsbeat-caro-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/arts/02artsbeat-caro/02artsbeat-caro-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/arts/02artsbeat-caro/02artsbeat-caro-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/arts/02artsbeat-caro/02artsbeat-caro-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/arts/02artsbeat-caro/02artsbeat-caro-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/arts/02artsbeat-caro/02artsbeat-caro-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Art & Design", 
+  "keywords": [
+    {
+      "value": "Libraries and Librarians", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New York Public Library", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Caro, Robert A", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Trotsky, Leon", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Sam", 
+        "lastname": "ROBERTS"
+      }
+    ], 
+    "original": "By SAM ROBERTS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Arts"
+}

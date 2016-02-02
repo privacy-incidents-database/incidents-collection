@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "Also, chocolates for the Lunar New Year and treats for the Super Bowl and Valentine\u2019s Day.", 
+  "headline": {
+    "main": "In Williamsburg, Falafel in the Tel Aviv Style", 
+    "content_kicker": "Front Burner"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "587", 
+  "_id": "56afa3b97988105fa9a9c24a", 
+  "snippet": "Also, chocolates for the Lunar New Year and treats for the Super Bowl and Valentine\u2019s Day.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/03/dining/falafel-williamsburg-brooklyn-12-chairs-cafe.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/03/dining/03BURNER1/03BURNER1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/03/dining/03BURNER1/03BURNER1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/03/dining/03BURNER1/03BURNER1-articleLarge.jpg", 
+      "height": 397, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/03/dining/03BURNER1/03BURNER1-articleLarge.jpg", 
+        "xlargeheight": "397"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/03/dining/03BURNER1/03BURNER1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/03/dining/03BURNER1/03BURNER1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "New York City", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Guggenheim, Solomon R, Museum", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Dickson's Farmstand Meats (Manhattan, NY, Retailer)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Toro (Manhattan, NY, Restaurant)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Florence", 
+        "lastname": "FABRICANT"
+      }
+    ], 
+    "original": "By FLORENCE FABRICANT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-03T00:00:00Z", 
+  "section_name": "Food"
+}

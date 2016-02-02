@@ -1,0 +1,92 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A huge blaze reduced Edwards Virginia Smokehouse to rubble, and the loss of its famed hams has had ripple effects far beyond the state.", 
+  "headline": {
+    "main": "Fire at Virginia Smokehouse Leaves Farm-to-Table Movement Reeling"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1188", 
+  "_id": "56afa9027988105fa9a9c26b", 
+  "snippet": "A huge blaze reduced Edwards Virginia Smokehouse to rubble, and the loss of its famed hams has had ripple effects far beyond the state.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/us/from-smoked-ham-to-a-charred-culinary-institution-in-virginia.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/us/01virginia-web01/01virginia-web01-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/us/01virginia-web01/01virginia-web01-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/us/01virginia-web01/01virginia-web01-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/us/01virginia-web01/01virginia-web01-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/us/01virginia-web01/01virginia-web01-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/us/01virginia-web01/01virginia-web01-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Ham", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Fires and Firefighters", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "James River (Va)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Sheryl", 
+        "middlename": "Gay", 
+        "lastname": "STOLBERG", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By SHERYL GAY STOLBERG"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "U.S."
+}

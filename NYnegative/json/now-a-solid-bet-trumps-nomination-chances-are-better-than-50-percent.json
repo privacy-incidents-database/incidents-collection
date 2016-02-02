@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Upshot", 
+  "lead_paragraph": "Political prediction markets, where traders bet on the outcome of the election, give him a 51 percent chance of becoming the Republican nominee.", 
+  "headline": {
+    "main": "Now a Solid Bet: Donald Trump\u2019s Nomination Chances Are Better Than 50 Percent", 
+    "kicker": "The Upshot", 
+    "content_kicker": "The 2016 Race"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "463", 
+  "_id": "56af6c9c79881036ff1c9e59", 
+  "snippet": "Political prediction markets, where traders bet on the outcome of the election, give him a 51 percent chance of becoming the Republican nominee.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/upshot/now-a-solid-bet-trumps-nomination-chances-are-better-than-50-percent.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/upshot/02UP-WOlfers/02UP-WOlfers-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/upshot/02UP-WOlfers/02UP-WOlfers-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/upshot/02UP-WOlfers/02UP-WOlfers-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/upshot/02UP-WOlfers/02UP-WOlfers-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/upshot/02UP-WOlfers/02UP-WOlfers-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/upshot/02UP-WOlfers/02UP-WOlfers-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Primaries and Caucuses", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Republican Party", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Justin", 
+        "lastname": "WOLFERS"
+      }
+    ], 
+    "original": "By JUSTIN WOLFERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "The Upshot"
+}

@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "Whether crimson or burgundy, pointy or curly fingered, chicory brings a pleasant, bittersweet flavor to a salad.", 
+  "headline": {
+    "main": "Chicory Rocks the Salad Bowl", 
+    "print_headline": "Chicory Rocks the Salad Bowl", 
+    "content_kicker": "City Kitchen"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "366", 
+  "_id": "56abc4ed7988105ff640ba62", 
+  "snippet": "Whether crimson or burgundy, pointy or curly fingered, chicory brings a pleasant, bittersweet flavor to a salad.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/03/dining/chicory-radicchio-endive-salad.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/03/dining/03KITCHEN1/03KITCHEN1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/03/dining/03KITCHEN1/03KITCHEN1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/03/dining/03KITCHEN1/03KITCHEN1-articleLarge.jpg", 
+      "height": 899, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/03/dining/03KITCHEN1/03KITCHEN1-articleLarge.jpg", 
+        "xlargeheight": "899"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/03/dining/03KITCHEN1/03KITCHEN1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/03/dining/03KITCHEN1/03KITCHEN1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Salads", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Chicory (Vegetable)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "David", 
+        "lastname": "TANIS"
+      }
+    ], 
+    "original": "By DAVID TANIS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-03T00:00:00Z", 
+  "section_name": "Food"
+}

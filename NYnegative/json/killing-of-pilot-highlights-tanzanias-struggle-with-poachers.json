@@ -1,0 +1,128 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Officials said they were closing in on the poachers who shot and killed a British helicopter pilot, in a country whose elephant population has declined drastically.", 
+  "headline": {
+    "main": "Killing of Pilot Highlights Tanzania\u2019s Struggle With Poachers"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "510", 
+  "_id": "56afb1e27988105fa9a9c28d", 
+  "snippet": "Officials said they were closing in on the poachers who shot and killed a British helicopter pilot, in a country whose elephant population has declined drastically.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/world/africa/killing-of-pilot-highlights-tanzanias-struggle-with-poachers.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/world/02Tanzania-web/02Tanzania-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/world/02Tanzania-web/02Tanzania-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/world/02Tanzania-web/02Tanzania-web-articleLarge.jpg", 
+      "height": 398, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/world/02Tanzania-web/02Tanzania-web-articleLarge.jpg", 
+        "xlargeheight": "398"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/world/02Tanzania-web/02Tanzania-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/world/02Tanzania-web/02Tanzania-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Africa", 
+  "keywords": [
+    {
+      "value": "Poaching (Wildlife)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Tanzania", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Elephants", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Ivory", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Serengeti National Park (Tanzania)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Aviation Accidents, Safety and Disasters", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Pilots", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Deaths (Fatalities)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Willy", 
+        "lastname": "LOWRY"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Jeffrey", 
+        "lastname": "GETTLEMAN"
+      }
+    ], 
+    "original": "By WILLY LOWRY and JEFFREY GETTLEMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "World"
+}

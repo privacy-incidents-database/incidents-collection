@@ -1,0 +1,91 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Michael J. Feeney, 32, was about to start a new job at CNN but fell ill and abruptly died from complications from a staph infection.", 
+  "headline": {
+    "main": "Set to Start Dream Job, Reporter Dies at 32"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "409", 
+  "_id": "56af8a5179881036ff1c9ec5", 
+  "snippet": "Michael J. Feeney, 32, was about to start a new job at CNN but fell ill and abruptly died from complications from a staph infection.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/nyregion/former-daily-news-reporter-dies-abruptly.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/nyregion/02xp-feeney/02xp-feeney-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/nyregion/02xp-feeney/02xp-feeney-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/nyregion/02xp-feeney/02xp-feeney-articleLarge.jpg", 
+      "height": 900, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/nyregion/02xp-feeney/02xp-feeney-articleLarge.jpg", 
+        "xlargeheight": "900"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/nyregion/02xp-feeney/02xp-feeney-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/nyregion/02xp-feeney/02xp-feeney-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "New York Daily News", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Deaths (Fatalities)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Newspapers", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Christine", 
+        "lastname": "HAUSER"
+      }
+    ], 
+    "original": "By CHRISTINE HAUSER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

@@ -1,0 +1,94 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "BookReview", 
+  "lead_paragraph": "Two decades after it was published, Wallace\u2019s novel still feels transcendentally, electrically alive.", 
+  "headline": {
+    "main": "Everything About Everything: David Foster Wallace\u2019s \u2018Infinite Jest\u2019 at 20", 
+    "kicker": "Essay", 
+    "print_headline": "Everything About Everything", 
+    "content_kicker": "Essay"
+  }, 
+  "abstract": null, 
+  "print_page": "16", 
+  "word_count": "2323", 
+  "_id": "56af33b179881036ff1c9dc0", 
+  "snippet": "Two decades after it was published, Wallace\u2019s novel still feels transcendentally, electrically alive.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/07/books/review/everything-about-everything-david-foster-wallaces-infinite-jest-at-20.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/07/books/review/0207-BKS-BISSELL/0207-BKS-BISSELL-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/07/books/review/0207-BKS-BISSELL/0207-BKS-BISSELL-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/07/books/review/0207-BKS-BISSELL/0207-BKS-BISSELL-articleLarge.jpg", 
+      "height": 885, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/07/books/review/0207-BKS-BISSELL/0207-BKS-BISSELL-articleLarge.jpg", 
+        "xlargeheight": "885"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/07/books/review/0207-BKS-BISSELL/0207-BKS-BISSELL-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/07/books/review/0207-BKS-BISSELL/0207-BKS-BISSELL-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Sunday Book Review", 
+  "keywords": [
+    {
+      "value": "Wallace, David Foster", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Books and Literature", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Writing and Writers", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Tom", 
+        "lastname": "BISSELL"
+      }
+    ], 
+    "original": "By TOM BISSELL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-07T00:00:00Z", 
+  "section_name": "Books"
+}

@@ -1,0 +1,45 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Science", 
+  "lead_paragraph": "By wiring up the insect-eating plant, scientists found that it counted the electrical impulses that came from trigger hairs on its leafy jaws.", 
+  "headline": {
+    "main": "The Venus Flytrap, a Plant That Can Count", 
+    "kicker": "ScienceTake", 
+    "print_headline": "The Venus Flytrap, a Plant That Can Count", 
+    "content_kicker": "ScienceTake"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "612", 
+  "_id": "56af3acc79881036ff1c9dd7", 
+  "snippet": "By wiring up the insect-eating plant, scientists found that it counted the electrical impulses that came from trigger hairs on its leafy jaws.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/science/the-venus-flytrap-a-plant-that-can-count.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Flowers and Plants", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "James", 
+        "lastname": "GORMAN"
+      }
+    ], 
+    "original": "By JAMES GORMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Science"
+}

@@ -1,0 +1,101 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Science", 
+  "lead_paragraph": "In a cave near Tel Aviv, researchers found evidence of what the inhabitants ate more than 400,000 years ago.", 
+  "headline": {
+    "main": "Some Hunter-Gatherers Had a Taste for Tortoises, Study Says", 
+    "kicker": "Observatory", 
+    "print_headline": "Hunter-Gatherers With a Taste for Tortoise", 
+    "content_kicker": "Observatory"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "226", 
+  "_id": "56af8e3879881036ff1c9ed1", 
+  "snippet": "In a cave near Tel Aviv, researchers found evidence of what the inhabitants ate more than 400,000 years ago.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/science/hunter-gatherers-turtle-qesem-cave-israel.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/science/02OBS-TURTLE2/02OBS-TURTLE2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/science/02OBS-TURTLE2/02OBS-TURTLE2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/science/02OBS-TURTLE2/02OBS-TURTLE2-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/science/02OBS-TURTLE2/02OBS-TURTLE2-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/science/02OBS-TURTLE2/02OBS-TURTLE2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/science/02OBS-TURTLE2/02OBS-TURTLE2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Turtles and Tortoises", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Caves and Caverns", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Archaeology and Anthropology", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Israel", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Sindya", 
+        "middlename": "N.", 
+        "lastname": "BHANOO", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By SINDYA N. BHANOO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Science"
+}

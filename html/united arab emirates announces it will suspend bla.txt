@@ -1,0 +1,700 @@
+
+  
+
+
+
+
+U.A.E. Moves to Block BlackBerry Services - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Global Business|Emirates to Cut Data Services of BlackBerry
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+
+
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Global Business 
+Emirates to Cut Data Services of BlackBerry
+
+By BARRY MEIER and ROBERT F. WORTHAUG. 1, 2010
+
+
+Inside
+
+
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+About 500,000 people in the United Arab Emirates use BlackBerrys, many of them in Dubai, a major business hub.  
+
+Credit
+            Kamran Jebreili/Associated Press        
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+Continue reading the main story
+
+
+
+The United Arab Emirates, citing security concerns, said Sunday that it would suspend BlackBerry mobile services like e-mail and text messaging beginning in October, the latest high-stakes clash between governments and communications providers over the flow of digital information.
+
+
+
+
+
+
+
+The Emirates have  been in a long dispute with Research In Motion, the smartphone’s producer, over the BlackBerry’s highly encrypted data system, which offers security to users but makes it more difficult for governments to monitor communications.The decision could have significant implications for BlackBerry use in the Persian Gulf region, where Saudi Arabia has been closely studying the issue and may follow suit. Other countries, including  Kuwait and Bahrain, have also raised concerns.
+
+Disputes involving privacy and censorship have flared more frequently between governments and communications providers as the Internet connects people worldwide. In July,  China and Google settled a standoff over access to  information.  YouTube has been periodically blocked in countries like Turkey and Pakistan, and Pakistan temporarily blocked Facebook in May because of what it called offensive, anti-Islamic content.Officials of Research In Motion, which is based in Waterloo, Ontario, and the company’s outside public relations firm did not respond Sunday to telephone calls and e-mail.The monitoring of information is a particularly thorny issue for autocratic regimes in the Persian Gulf  worried that the Internet might be used for antigovernment purposes — a concern heightened by the passionate online response in Iran to the 2009 presidential election that helped energize the opposition and led to weeks of unrest.The United Arab Emirates, in particular, were alarmed by the killing in January of a Palestinian operative in a Dubai hotel, possibly by a hit team from the Mossad, the Israeli intelligence agency. The episode infuriated the government, which wants to encourage tourism and business, and heightened its desire for increased electronic surveillance and security.
+Advertisement
+
+Continue reading the main story
+“The U.A.E. has never been a place that offered much in the way of electronic privacy,” said Jim Krane, author of “City of Gold,” a history of Dubai. “The government makes no secret that it monitors electronic communication, including text messages, phone calls and e-mail. The revelation that secure BlackBerry data is frustratingly out of the government’s reach only confirms this.”Other smartphones, like the Apple iPhone, are not tied to one e-mail service. In general, that means e-mail to and from the devices mostly travels over the open Internet and can be relatively easily monitored.But the BlackBerry uses highly encrypted data that is received by wireless carriers’ towers and is immediately routed through a closed, global network operated by the company. To enforce the ban, the carriers will stop forwarding that data.Because of this level of security, the United States government allows many military and law enforcement employees to send confidential messages by BlackBerry, but it also makes surveillance correspondingly difficult.
+Advertisement
+
+Continue reading the main story
+As a result, R.I.M. officials have clashed with officials elsewhere in recent years.In 2008, security agencies in India suggested that BlackBerry service might be shut down there unless R.I.M. installed servers in that country to allow them to intercept messages. The company refused, but sent representatives to meet with the Indian government. Indian regulators, while expressing reservations, have said they have no plans to restrict the service.Analysts and telecommunications experts also believe that security concerns delayed the arrival of BlackBerry service in China. It is unclear what actions the company took, if any, to alleviate those worries.
+
+There were conflicting reports Sunday about whether Saudi Arabia had also decided to ban the BlackBerry services. Some news agencies cited an interview with a Saudi Telecom official on the Al Arabiya television network that confirmed the decision, but in other Al Arabiya news reports company officials denied the service would be blockedThe Saudi authorities released no official statement, and an adviser to the Saudi government, speaking on the condition of anonymity, said no decision had been made as far as he knew.  But one prominent Saudi economist, Ihsan Ali Bu-Hulaiga, said “it seems to me a number of other countries in the region will follow the lead of the U.A.E.” for the same security-related reasons.In the emirates, concerns are also fueled by the fact that native Emiratis are a minority there, and the government regards electronic surveillance as an important tool against would-be terrorists, swindlers and other potential troublemakers drawn to the country’s relatively unfettered environment.The United Arab Emirates is a federation of seven emirates in the southeastern corner of the Arabian Peninsula bordering Saudi Arabia. Among the seven states are Abu Dhabi and Dubai, both economic centers that encourage international trade and discourage financing of radical Islamic movements. Because of this, Mr. Krane suggested, the security concerns are not unfounded.
+
+“The U.A.E. is an open country, a key travel and business hub, with one of the world’s largest airports and airlines,” he said. “It welcomes just about anyone to visit, and even to settle and work. Nationals of many countries don’t even need entry visas. In this environment, the government probably feels that electronic eavesdropping and surveillance are key to maintaining internal security.”In a statement Sunday, a government body in the Emirates, the Telecommunications Regulatory Authority, said officials were prepared to block BlackBerry data service beginning Oct. 11 because it was the only service in the Emirates that exported mobile data to servers outside its borders. It will not affect phone service.The agency also said that it had been trying since 2007 to strike a deal under which it would assume authority over BlackBerry services within that country.“In their current form, certain BlackBerry services allow users to act without any legal accountability, causing judicial, social and national security concerns for the U.A.E.,” the agency said.
+Advertisement
+
+Continue reading the main story
+
+
+Advertisement
+
+Continue reading the main story
+While the company has disclosed little information about the centers that manage BlackBerry services, it is widely believed that data from the Middle East is handled by a company operations center in Slough, England.There are about 500,000 BlackBerry users in the United Arab Emirates, a large number of them in the business hub of Dubai.
+
+“R.I.M. has had three years to address these security concerns,” said a U.A.E. government official, who declined to be identified because he was not authorized to speak publicly.The dispute between the United Arab Emirates and R.I.M. took an unusual turn about a year ago when the company warned users that software described as a BlackBerry upgrade by an Emirates carrier, Etisalat,  was actually spyware.“Independent sources have concluded that Etisalat’s ‘Registration’ software application is not actually designed to improve performance of a BlackBerry Handheld, but rather to send received messages back to a central server,” R.I.M. warned customers in an online posting that included directions on removing the software.
+
+
+ Correction: August 2, 2010  
+An earlier version of this article misidentified Dubai as the capital of the United Arab Emirates. 
+
+
+
+Reporting was contributed by Ian Austen, Landon Thomas Jr., Mona El-Naggar, Joseph Berger, Miguel Helft and Kareem Fahim.
+A version of this article appears in print on August 2, 2010, on page A1 of the New York edition with the headline: Emirates to Cut Data Services Of BlackBerry.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

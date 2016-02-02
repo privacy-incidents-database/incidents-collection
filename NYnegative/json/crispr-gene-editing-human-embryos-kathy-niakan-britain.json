@@ -1,0 +1,91 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Researchers worldwide have been observing a voluntary moratorium on changes to DNA that could be passed down to subsequent generations.", 
+  "headline": {
+    "main": "British Researcher Gets Permission to Edit Genes of Human Embryos"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "652", 
+  "_id": "56afbb6a7988105fa9a9c2aa", 
+  "snippet": "Researchers worldwide have been observing a voluntary moratorium on changes to DNA that could be passed down to subsequent generations.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/health/crispr-gene-editing-human-embryos-kathy-niakan-britain.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/science/01GENE1/01GENE1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/science/01GENE1/01GENE1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/science/01GENE1/01GENE1-articleLarge.jpg", 
+      "height": 502, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/science/01GENE1/01GENE1-articleLarge.jpg", 
+        "xlargeheight": "502"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/science/01GENE1/01GENE1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/science/01GENE1/01GENE1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Genetic Engineering", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Pregnancy and Childbirth", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicholas", 
+        "lastname": "WADE"
+      }
+    ], 
+    "original": "By NICHOLAS WADE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Health"
+}

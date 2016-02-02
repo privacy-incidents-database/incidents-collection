@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Parties built around the big game can give you more than just heartburn, research shows.", 
+  "headline": {
+    "main": "Your Team Made the Super Bowl? Better Get a Flu Shot", 
+    "kicker": "The Upshot", 
+    "content_kicker": "The New Health Care"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "696", 
+  "_id": "56af56d779881036ff1c9e16", 
+  "snippet": "Parties built around the big game can give you more than just heartburn, research shows.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/upshot/super-bowl-denver-broncos-carolina-panthers-flu.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/upshot/01up-healthsuper/01up-healthsuper-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/upshot/01up-healthsuper/01up-healthsuper-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/upshot/01up-healthsuper/01up-healthsuper-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/upshot/01up-healthsuper/01up-healthsuper-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/upshot/01up-healthsuper/01up-healthsuper-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/upshot/01up-healthsuper/01up-healthsuper-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Influenza", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Super Bowl", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hygiene and Cleanliness", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Research", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Austin", 
+        "lastname": "FRAKT"
+      }
+    ], 
+    "original": "By AUSTIN FRAKT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "The Upshot"
+}

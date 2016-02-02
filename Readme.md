@@ -17,8 +17,6 @@
 
 ### Run the script
 
-usage: collect.py [-h] [-k N [N ...]] [-l LIMIT] destination
-
 Script for collecting data from Articles
 
 positional arguments:
@@ -31,3 +29,5 @@ optional arguments:
   -l LIMIT, --limit LIMIT
                         Limit of the number of Articles to be fetched, must be
                         a multiple of 10
+  -j JSON, --json JSON  Name of the Json file containing the urls
+

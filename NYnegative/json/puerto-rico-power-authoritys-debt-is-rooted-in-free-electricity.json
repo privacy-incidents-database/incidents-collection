@@ -1,0 +1,110 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "With Puerto Rico\u2019s power authority $9 billion in debt and the commonwealth owing $72 billion, free electricity may end.", 
+  "headline": {
+    "main": "Puerto Rico Power Authority\u2019s Debt Is Rooted in Free Electricity"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1402", 
+  "_id": "56afab087988105fa9a9c279", 
+  "snippet": "With Puerto Rico\u2019s power authority $9 billion in debt and the commonwealth owing $72 billion, free electricity may end.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/business/dealbook/puerto-rico-power-authoritys-debt-is-rooted-in-free-electricity.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/business/02db-rico-web1/02db-rico-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/business/02db-rico-web1/02db-rico-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/business/02db-rico-web1/02db-rico-web1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/business/02db-rico-web1/02db-rico-web1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/business/02db-rico-web1/02db-rico-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/business/02db-rico-web1/02db-rico-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Electric Light and Power", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Local Government", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sales and Excise Taxes", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Puerto Rico Electric Power Authority", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Puerto Rico Power Authority", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Puerto Rico", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Mary", 
+        "middlename": "Williams", 
+        "lastname": "WALSH", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MARY WILLIAMS WALSH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Business Day"
+}

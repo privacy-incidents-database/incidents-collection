@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The cheaper, lower-quality item can be a bad deal if you\u2019ll have to replace it several times before the more expensive, higher-quality one would wear out.", 
+  "headline": {
+    "main": "Spend the Money for the Good Boots, and Wear Them Forever", 
+    "kicker": "Sketch Guy", 
+    "content_kicker": "Sketch Guy"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "668", 
+  "_id": "56af87c679881036ff1c9ebb", 
+  "snippet": "The cheaper, lower-quality item can be a bad deal if you\u2019ll have to replace it several times before the more expensive, higher-quality one would wear out.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/your-money/spend-the-money-for-the-good-boots-and-wear-them-forever.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/business/020116bucks-carl-sketch/020116bucks-carl-sketch-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/business/020116bucks-carl-sketch/020116bucks-carl-sketch-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/business/020116bucks-carl-sketch/020116bucks-carl-sketch-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/business/020116bucks-carl-sketch/020116bucks-carl-sketch-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/business/020116bucks-carl-sketch/020116bucks-carl-sketch-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/business/020116bucks-carl-sketch/020116bucks-carl-sketch-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Shopping and Retail", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Personal Finances", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Luxury Goods and Services", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Carl", 
+        "lastname": "RICHARDS"
+      }
+    ], 
+    "original": "By CARL RICHARDS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Your Money"
+}

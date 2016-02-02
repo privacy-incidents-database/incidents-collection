@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Twenty-First Century Fox said it would offer some of its employees voluntary exit options with \"generous\" benefit packages, with the aim of reducing costs.", 
+  "headline": {
+    "main": "Fox to Offer Some Employees Buyouts to Save Costs", 
+    "print_headline": "Fox to Offer Some Employees Buyouts to Save Costs"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "89", 
+  "_id": "56afbfb67988105fa9a9c2bc", 
+  "snippet": "Twenty-First Century Fox said it would offer some of its employees voluntary exit options with \"generous\" benefit packages, with the aim of reducing costs.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/02/01/business/01reuters-twenty-first-fox-redundancies.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-01T15:25:09Z", 
+  "section_name": "Business Day"
+}

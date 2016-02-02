@@ -1,0 +1,49 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "Inviting readers to taste fresh, energetic reds that are pure, elegant, subtle and vivacious.", 
+  "headline": {
+    "main": "Your Next Lesson: Etna Rosso", 
+    "content_kicker": "Wine School"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "343", 
+  "_id": "56aa40497988104b805565c6", 
+  "snippet": "Inviting readers to taste fresh, energetic reds that are pure, elegant, subtle and vivacious.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/03/dining/wine-school-assignment-etna-rosso.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Wines", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sicily (Italy)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "ASIMOV"
+      }
+    ], 
+    "original": "By ERIC ASIMOV"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-03T00:00:00Z", 
+  "section_name": "Food"
+}

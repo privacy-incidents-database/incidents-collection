@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "A Marine general fired the commander of a Hawaii helicopter squadron days before two of the unit's helicopters crashed and killed all 12 Marines on board.", 
+  "headline": {
+    "main": "Leader of Marine Helicopter Squadron Fired Days Before Crash", 
+    "print_headline": "Leader of Marine Helicopter Squadron Fired Days Before Crash"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "136", 
+  "_id": "56afbe697988105fa9a9c2b6", 
+  "snippet": "A Marine general fired the commander of a Hawaii helicopter squadron days before two of the unit's helicopters crashed and killed all 12 Marines on board.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/02/01/us/ap-us-hawaii-helicopter-collision.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-01T15:20:19Z", 
+  "section_name": "U.S."
+}

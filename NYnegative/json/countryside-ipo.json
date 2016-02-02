@@ -1,0 +1,66 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The British home builder, which is majority owned by the private-equity firm Oaktree Capital Management, expects to price its initial public offering this month.", 
+  "headline": {
+    "main": "I.P.O. Could Value Countryside Properties at $1.6 Billion"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "269", 
+  "_id": "56af225479881036ff1c9d90", 
+  "snippet": "The British home builder, which is majority owned by the private-equity firm Oaktree Capital Management, expects to price its initial public offering this month.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/business/dealbook/countryside-ipo.html", 
+  "multimedia": [], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Initial Public Offerings", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Private Equity", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Oaktree Capital Group LLC", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "London Stock Exchange", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Chad", 
+        "lastname": "BRAY"
+      }
+    ], 
+    "original": "By CHAD BRAY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Business Day"
+}

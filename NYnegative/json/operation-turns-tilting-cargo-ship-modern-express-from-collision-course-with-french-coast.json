@@ -1,0 +1,54 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The ship was headed from Gabon to a French port with 22 crew members when it began to list badly.", 
+  "headline": {
+    "main": "Operation Turns Tilting Cargo Ship From Collision Course With French Coast"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "281", 
+  "_id": "56afb17e7988105fa9a9c28b", 
+  "snippet": "The ship was headed from Gabon to a French port with 22 crew members when it began to list badly.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/world/europe/operation-turns-tilting-cargo-ship-modern-express-from-collision-course-with-french-coast.html", 
+  "multimedia": [], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "Bay of Biscay", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "France", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Maritime Accidents and Safety", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Mike", 
+        "lastname": "McPHATE"
+      }
+    ], 
+    "original": "By MIKE McPHATE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "World"
+}

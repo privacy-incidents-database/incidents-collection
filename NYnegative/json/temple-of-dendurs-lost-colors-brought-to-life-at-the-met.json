@@ -1,0 +1,91 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "The Metropolitan Museum of Art\u2019s MediaLab has installed a projector to show what this temple may have looked like in its original, polychromatic form.", 
+  "headline": {
+    "main": "Temple of Dendur\u2019s Lost Colors Brought to Life at the Met"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "709", 
+  "_id": "56af9c1d7988105fa9a9c230", 
+  "snippet": "The Metropolitan Museum of Art\u2019s MediaLab has installed a projector to show what this temple may have looked like in its original, polychromatic form.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/arts/temple-of-dendurs-lost-colors-brought-to-life-at-the-met.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/arts/02DENDUR1/02DENDUR1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/arts/02DENDUR1/02DENDUR1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/arts/02DENDUR1/02DENDUR1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/arts/02DENDUR1/02DENDUR1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/arts/02DENDUR1/02DENDUR1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/arts/02DENDUR1/02DENDUR1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Museums", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Metropolitan Museum of Art", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Egyptian Civilization", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joshua", 
+        "lastname": "BARONE"
+      }
+    ], 
+    "original": "By JOSHUA BARONE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Arts"
+}

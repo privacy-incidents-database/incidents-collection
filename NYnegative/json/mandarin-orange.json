@@ -1,0 +1,54 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "As sales boom, here\u2019s help in finding the best of the fruit popularly known as tangerines.", 
+  "headline": {
+    "main": "Mandarin Oranges, Rising Stars of the Fruit Bowl"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1683", 
+  "_id": "56af966e7988105fa9a9c21e", 
+  "snippet": "As sales boom, here\u2019s help in finding the best of the fruit popularly known as tangerines.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/03/dining/mandarin-orange.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Tangerines", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Agriculture and Farming", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "California", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "David", 
+        "lastname": "KARP"
+      }
+    ], 
+    "original": "By DAVID KARP"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-03T00:00:00Z", 
+  "section_name": "Food"
+}

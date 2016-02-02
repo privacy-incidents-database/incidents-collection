@@ -1,0 +1,669 @@
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Facebook Security Flaw Publicizes Private Chats - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+
+
+
+
+The New York Times
+
+
+
+
+
+
+
+
+                Bits            
+
+|
+        Facebook Security Flaw Publicizes Private Chats        
+    
+
+
+
+Advertisement
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+
+
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+
+
+
+Supported by
+
+
+
+ 
+
+
+
+
+Search
+
+ 
+
+
+
+
+
+
+
+
+Facebook Security Flaw Publicizes Private Chats
+
+
+				By 
+Nick Bilton
+ 
+May 5, 2010 1:57 pm
+May 5, 2010 1:57 pm
+
+
+
+ The security flaw allowed users to see active chats and friend requests on a friends pages.
+2:22 p.m. | Updated  Including new information about the security flaw and adding comment from Facebook.
+8:10 p.m. | 2nd Update Read our latest story on the Facebook privacy flaw: Glitch Heightens Facebook Privacy Concerns
+
+A security flaw was discovered on the Facebook Web site early Wednesday morning that enabled users to see private chats taking place between friends. Another security issue allowed users to see their online friends’ pending social requests.
+The major security oversight, which was  reported by TechCrunch, is made visible through a “Preview My Profile…” function on a user’s privacy page, which has been available sin’ce September 2008.
+Barry Schnitt, director of policy communications at Facebook, said “the bug was live for a few hours and had nothing to do with the changes from April 21″ during the company’s latest developers’ conference.
+Facebook did not notify individual users who had been subjected to the privacy flaw, although Mr. Schnitt said, “We did notify people via the Facebook page (http://www.facebook.com/facebook).”
+The chat feature is currently disabled on the site while the company works to rectify the situation. 
+In a statement sent to The New York Times and other press outlets, Facebook said it was aware of the bug and working to fix it:
+“For a limited period of time, a bug permitted some users’ chat messages and pending friend requests to be made visible to their friends by manipulating the ‘preview my profile’ feature of Facebook privacy settings. When we received reports of the problem, our engineers promptly diagnosed it and temporarily disabled the chat function. We also pushed out a fix to take care of the visible friend requests, which is now complete. Chat will be turned back on across the site shortly. We worked quickly to resolve this matter, ensuring that once the bug was reported to us, a solution was quickly found and implemented.”
+Facebook has been under heavy scrutiny for its latest privacy settings since the company announced its new “Connections” feature last month at f8, its yearly developer conference. At the time, Facebook also made changes to its privacy policy and privacy settings. Since then, the company has drawn heavy criticism from consumer watchdogs and government officials.
+The Electronic Frontier Foundation, an online civil liberties group, has been highly critical of the site’s newest features. In a blog post last week, the E.F.F. said Facebook’s latest changes to the site reduce control of an individual’s personal  information and don’t offer an easy “opt-out” preference for many of the site’s latest features.
+In addition, last week, four United States senators, including Charles E. Schumer of New York, asked the Federal Trade Commission to develop a series of privacy guidelines for social networking Web sites, specifically citing Facebook, MySpace and Twitter, that would give users a standard level of privacy over their personal information.
+
+
+ 
+
+ 
+Security, Start-ups, 
+Facebook, Privacy 
+
+
+ 
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+
+Previous Post
+
+
+
+
+				Google Gives Its Search Results a Facelift			
+
+
+Next Post
+
+
+
+
+				Has Apple Lost Its Cool?			
+
+
+
+
+Visit the Technology section for complete coverage of the industry. »
+Most Viewed 
+
+
+1.
+How Larry Page’s Obsessions Became Google’s Business
+
+
+2.
+Tech’s ‘Frightful 5’ Will Dominate Digital Life for Foreseeable Future
+
+
+3.
+Uber’s No-Holds-Barred Expansion Strategy Fizzles in Germany
+
+
+4.
+Fans Demand Details After Death of a 13-Year-Old YouTube Star
+
+
+5.
+Yahoo’s Brain Drain Shows a Loss of Faith Inside the Company
+
+
+
+ 
+
+Latest From Bits 
+Daily Report: Alphabet Eclipses Apple to Become the Most Valuable CompanyDaily Report: More Earnings, Earnings, EarningsDaily Report: Divergent Fortunes in Cloud ComputingFacebook to Shut Down Parse, Its Platform for Mobile DevelopersDaily Report: Facebook’s Lucrative Long View
+
+ 
+
+
+
+Follow us on
+@nytimesbits on twitter
+
+Twitter
+Follow 
+ 
+ 
+
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+
+
+
+                    © 2016
+
+ The New York Times Company
+
+
+
+
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+

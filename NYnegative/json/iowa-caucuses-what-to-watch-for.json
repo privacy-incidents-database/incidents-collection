@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Upshot", 
+  "lead_paragraph": "An explanation of the state\u2019s demographic divides, and how that affects candidates\u2019 chances.", 
+  "headline": {
+    "main": "Iowa Caucuses: What to Watch For", 
+    "kicker": "The Upshot", 
+    "content_kicker": "Primary Sources"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1187", 
+  "_id": "56af48cd79881036ff1c9dee", 
+  "snippet": "An explanation of the state\u2019s demographic divides, and how that affects candidates\u2019 chances.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/upshot/iowa-caucuses-what-to-watch-for.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/upshot/01up-watch/01up-watch-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/upshot/01up-watch/01up-watch-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/upshot/01up-watch/01up-watch-articleLarge-v2.gif", 
+      "height": 156, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/upshot/01up-watch/01up-watch-articleLarge-v2.gif", 
+        "xlargeheight": "156"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/upshot/01up-watch/01up-watch-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/upshot/01up-watch/01up-watch-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Iowa", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Primaries and Caucuses", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Polls and Public Opinion", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nate", 
+        "lastname": "COHN"
+      }
+    ], 
+    "original": "By NATE COHN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "The Upshot"
+}

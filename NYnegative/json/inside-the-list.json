@@ -1,0 +1,67 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "BookReview", 
+  "lead_paragraph": "Jane Mayer\u2019s \u201cDark Money,\u201d No. 5 on the hardcover nonfiction list, has made news partly because it seems Mayer was investigated by the book\u2019s subjects, the Koch brothers.", 
+  "headline": {
+    "main": "Inside the List"
+  }, 
+  "abstract": null, 
+  "print_page": "26", 
+  "word_count": "514", 
+  "_id": "56ab8b387988100ba9f6d6a1", 
+  "snippet": "Jane Mayer\u2019s \u201cDark Money,\u201d No. 5 on the hardcover nonfiction list, has made news partly because it seems Mayer was investigated by the book\u2019s subjects, the Koch brothers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/07/books/review/inside-the-list.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/07/books/review/07mayer/07mayer-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/07/books/review/07mayer/07mayer-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/07/books/review/07mayer/07mayer-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/07/books/review/07mayer/07mayer-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Sunday Book Review", 
+  "keywords": [
+    {
+      "value": "Books and Literature", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Gregory", 
+        "lastname": "COWLES"
+      }
+    ], 
+    "original": "By GREGORY COWLES"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-07T00:00:00Z", 
+  "section_name": "Books"
+}

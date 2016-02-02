@@ -1,0 +1,106 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Science", 
+  "lead_paragraph": "Proton pump inhibitor medications are among the most frequently prescribed in the country, but were not intended for long-term use.", 
+  "headline": {
+    "main": "Study Finds Growing Reason to Be Wary of Some Reflux Drugs", 
+    "kicker": "The New Old Age", 
+    "print_headline": "Heartburn Solutions, and Problems", 
+    "content_kicker": " The New Old Age"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1084", 
+  "_id": "56abbdd37988105ff640ba42", 
+  "snippet": "Proton pump inhibitor medications are among the most frequently prescribed in the country, but were not intended for long-term use.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/health/study-finds-growing-reason-to-be-wary-of-some-reflux-drugs.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/science/02SPAN/02SPAN-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/science/02SPAN/02SPAN-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/science/02SPAN/02SPAN-articleLarge.jpg", 
+      "height": 494, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/science/02SPAN/02SPAN-articleLarge.jpg", 
+        "xlargeheight": "494"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/science/02SPAN/02SPAN-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/science/02SPAN/02SPAN-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Heartburn", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Drugs (Pharmaceuticals)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Elderly", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Advertising and Marketing", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "JAMA Internal Medicine (Journal)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Paula", 
+        "lastname": "SPAN"
+      }
+    ], 
+    "original": "By PAULA SPAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Health"
+}

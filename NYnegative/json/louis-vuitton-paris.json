@@ -1,0 +1,105 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Travel", 
+  "lead_paragraph": "The Louis Vuitton exhibition \u201cVolez, Voguez, Voyagez\u201d in Paris is a trip through time \u2014 and design.", 
+  "headline": {
+    "main": "Trunk Show: A Vuitton Retrospective, From Keepall to D.J. Box", 
+    "kicker": "Cultured Traveler", 
+    "content_kicker": "In Transit"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "960", 
+  "_id": "5698df477988107677b99a52", 
+  "snippet": "The Louis Vuitton exhibition \u201cVolez, Voguez, Voyagez\u201d in Paris is a trip through time \u2014 and design.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/15/travel/louis-vuitton-paris.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/15/travel/15intransit-vuitton8/15intransit-vuitton1-1452809157368-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/15/travel/15intransit-vuitton8/15intransit-vuitton1-1452809157368-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/15/travel/15intransit-vuitton8/15intransit-vuitton1-1452809157368-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/15/travel/15intransit-vuitton8/15intransit-vuitton1-1452809157368-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/15/travel/15intransit-vuitton8/15intransit-vuitton1-1452809157368-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/15/travel/15intransit-vuitton8/15intransit-vuitton1-1452809157368-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Louis Vuitton", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Paris (France)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Art", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Fashion and Apparel", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Sara", 
+        "lastname": "LIEBERMAN"
+      }
+    ], 
+    "original": "By SARA LIEBERMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-07T00:00:00Z", 
+  "section_name": "Travel"
+}

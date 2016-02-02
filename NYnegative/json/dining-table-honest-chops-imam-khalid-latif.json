@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "For Imam Khalid Latif, a chaplain of the New York Police Department, his dining table provides a haven.", 
+  "headline": {
+    "main": "A Tabletop Sanctuary", 
+    "content_kicker": "Close at Hand"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "574", 
+  "_id": "56af3aca79881036ff1c9dd6", 
+  "snippet": "For Imam Khalid Latif, a chaplain of the New York Police Department, his dining table provides a haven.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/03/dining/dining-table-honest-chops-imam-khalid-latif.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/03/dining/03CLOSE_WEB/03CLOSE_WEB-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/03/dining/03CLOSE_WEB/03CLOSE_WEB-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/03/dining/03CLOSE_WEB/03CLOSE_WEB-articleLarge.jpg", 
+      "height": 437, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/03/dining/03CLOSE_WEB/03CLOSE_WEB-articleLarge.jpg", 
+        "xlargeheight": "437"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/03/dining/03CLOSE_WEB/03CLOSE_WEB-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/03/dining/03CLOSE_WEB/03CLOSE_WEB-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Furniture", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Muslims and Islam", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Greenwich Village (Manhattan, NY)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ligaya", 
+        "lastname": "MISHAN"
+      }
+    ], 
+    "original": "By LIGAYA MISHAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-03T00:00:00Z", 
+  "section_name": "Food"
+}

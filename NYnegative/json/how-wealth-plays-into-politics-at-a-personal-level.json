@@ -1,0 +1,110 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Politics", 
+  "lead_paragraph": "Research generally confirms what many voters perhaps always intuited: that wealth changes political leaders qualitatively.", 
+  "headline": {
+    "main": "How Wealth Plays Into Politics at a Personal Level", 
+    "content_kicker": "Letter From America"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "690", 
+  "_id": "56af869a79881036ff1c9eb7", 
+  "snippet": "Research generally confirms what many voters perhaps always intuited: that wealth changes political leaders qualitatively.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/us/politics/how-wealth-plays-into-politics-at-a-personal-level.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/world/02letter-web1/02letter-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/world/02letter-web1/02letter-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/world/02letter-web1/02letter-web1-articleLarge.jpg", 
+      "height": 403, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/world/02letter-web1/02letter-web1-articleLarge.jpg", 
+        "xlargeheight": "403"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/world/02letter-web1/02letter-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/world/02letter-web1/02letter-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Income Inequality", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Psychology and Psychologists", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Clinton, Hillary Rodham", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Anand", 
+        "lastname": "GIRIDHARADAS"
+      }
+    ], 
+    "original": "By ANAND GIRIDHARADAS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "U.S."
+}

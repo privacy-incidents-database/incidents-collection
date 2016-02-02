@@ -1,0 +1,79 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "A 16th-century depiction of St. Anthony that had been attributed to the workshop of Bosch or a follower is now thought to be by the Dutch master\u2019s hand.", 
+  "headline": {
+    "main": "Hieronymus Bosch Is Credited With Work in Kansas City Museum"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "954", 
+  "_id": "56af26f679881036ff1c9d97", 
+  "snippet": "A 16th-century depiction of St. Anthony that had been attributed to the workshop of Bosch or a follower is now thought to be by the Dutch master\u2019s hand.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/arts/design/work-at-a-kansas-city-museum-may-be-by-hieronymus-bosch-researchers-say.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/arts/02BOSCH-01/02BOSCH-01-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/arts/02BOSCH-01/02BOSCH-01-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/arts/02BOSCH-01/02BOSCH-01-articleLarge.jpg", 
+      "height": 917, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/arts/02BOSCH-01/02BOSCH-01-articleLarge.jpg", 
+        "xlargeheight": "917"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/arts/02BOSCH-01/02BOSCH-01-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/arts/02BOSCH-01/02BOSCH-01-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Art & Design", 
+  "keywords": [
+    {
+      "value": "Art", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nina", 
+        "lastname": "SIEGAL"
+      }
+    ], 
+    "original": "By NINA SIEGAL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Arts"
+}

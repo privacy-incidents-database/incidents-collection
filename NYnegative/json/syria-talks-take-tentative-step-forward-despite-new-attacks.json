@@ -1,0 +1,110 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The United Nations mediator in the Syria war met in Geneva with opposition members, who said they had received a \u201cpositive response\u201d to their demands.", 
+  "headline": {
+    "main": "Syria Talks Take Tentative Step Forward Despite New Attacks"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "725", 
+  "_id": "56af9ba17988105fa9a9c229", 
+  "snippet": "The United Nations mediator in the Syria war met in Geneva with opposition members, who said they had received a \u201cpositive response\u201d to their demands.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/world/middleeast/syria-talks-take-tentative-step-forward-despite-new-attacks.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/world/02syria-web/02syria-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/world/02syria-web/02syria-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/world/02syria-web/02syria-web-articleLarge.jpg", 
+      "height": 395, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/world/02syria-web/02syria-web-articleLarge.jpg", 
+        "xlargeheight": "395"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/world/02syria-web/02syria-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/world/02syria-web/02syria-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Syria", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Syrian High Negotiations Committee", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Islamic State in Iraq and Syria (ISIS)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "de Mistura, Staffan", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "United Nations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Somini", 
+        "lastname": "SENGUPTA"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Anne", 
+        "lastname": "BARNARD"
+      }
+    ], 
+    "original": "By SOMINI SENGUPTA and ANNE BARNARD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "World"
+}

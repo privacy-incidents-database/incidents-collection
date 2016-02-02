@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "Adding fontina and ricotta cheeses to pasta with wild mushrooms and rosemary, then baking it, makes an elegant dish gooey and golden. (Article plus video.)", 
+  "headline": {
+    "main": "A Child-Friendly Pasta Bake the Adults Will Love", 
+    "print_headline": "Pasta for the Urbane Guest and the Kids", 
+    "content_kicker": "A Good Appetite"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "412", 
+  "_id": "56ab96217988100ba9f6d6db", 
+  "snippet": "Adding fontina and ricotta cheeses to pasta with wild mushrooms and rosemary, then baking it, makes an elegant dish gooey and golden. (Article plus video.)", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/03/dining/pasta-bake-recipe-video.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/03/dining/03APPE4/03APPE4-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/03/dining/03APPE4/03APPE4-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/03/dining/03APPE4/03APPE4-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/03/dining/03APPE4/03APPE4-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/03/dining/03APPE4/03APPE4-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/03/dining/03APPE4/03APPE4-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Pasta", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cheese", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Mushrooms", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Melissa", 
+        "lastname": "CLARK"
+      }
+    ], 
+    "original": "By MELISSA CLARK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-03T00:00:00Z", 
+  "section_name": "Food"
+}

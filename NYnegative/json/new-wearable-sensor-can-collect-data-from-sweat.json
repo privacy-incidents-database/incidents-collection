@@ -1,0 +1,107 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Science", 
+  "lead_paragraph": "The device could help people monitor conditions like dehydration and fatigue in real time, one of the inventors said.", 
+  "headline": {
+    "main": "New Wearable Sensor Can Collect Data From Sweat", 
+    "kicker": "Observatory", 
+    "print_headline": "New Wearable Sensor Can Get Data From Sweat", 
+    "content_kicker": "Observatory"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "247", 
+  "_id": "56afba767988105fa9a9c2a7", 
+  "snippet": "The device could help people monitor conditions like dehydration and fatigue in real time, one of the inventors said.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/science/new-wearable-sensor-can-collect-data-from-sweat.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/science/02obs-sweat/02obs-sweat-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/science/02obs-sweat/02obs-sweat-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/science/02obs-sweat/02obs-sweat-articleLarge.jpg", 
+      "height": 454, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/science/02obs-sweat/02obs-sweat-articleLarge.jpg", 
+        "xlargeheight": "454"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/science/02obs-sweat/02obs-sweat-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/science/02obs-sweat/02obs-sweat-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Sweating", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sensors", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Wearable Computing", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Dehydration", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Nature (Journal)", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Sindya", 
+        "middlename": "N.", 
+        "lastname": "BHANOO", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By SINDYA N. BHANOO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Science"
+}

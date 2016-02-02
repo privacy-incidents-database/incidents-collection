@@ -1,0 +1,682 @@
+
+  
+
+
+
+
+Stanford Hospital Patients’ Private Data Was Posted Online - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+U.S.|Patient Data Posted Online in Major Breach of Privacy
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+
+
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+U.S. 
+Patient Data Posted Online in Major Breach of Privacy
+
+By KEVIN SACKSEPT. 8, 2011
+
+
+Inside
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+Continue reading the main story
+
+
+
+A medical privacy breach led to the public posting on a commercial Web site of data for 20,000 emergency room patients at Stanford Hospital in Palo Alto, Calif., including names and diagnosis codes, the hospital has confirmed. The information stayed online for nearly a year.
+
+
+
+
+
+
+
+Since discovering the breach last month, the hospital has been investigating how a detailed spreadsheet made its way from one of its vendors, a billing contractor identified as Multi-Specialty Collection Services, to a Web site called Student of Fortune, which allows students to solicit paid assistance with their schoolwork.Gary Migdol, a spokesman for Stanford Hospital and Clinics, said the spreadsheet first appeared on the site on Sept. 9, 2010, as an attachment to a question about how to convert the data into a bar graph.Although medical security breaches are not uncommon, the Stanford breach was notable for the length of time that the data remained publicly available without detection.
+
+Even as government regulators strengthen oversight by requiring public reporting of breaches and imposing heavy fines, experts on medical security said the Stanford breach spotlighted the persistent vulnerability posed by legions of outside contractors that gain access to private data.
+Photo
+
+
+
+
+
+
+Data on Stanford Hospital patients ended up on a Web site for soliciting paid help for homework.
+
+Credit
+            Jim Wilson/The New York Times        
+
+
+The spreadsheet included names, diagnosis codes, account numbers, admission and discharge dates, and billing charges for patients seen at Stanford Hospital’s emergency room during a six-month period in 2009, Mr. Migdol said. It did not include Social Security numbers, birth dates, credit-card numbers or other information used to perpetrate identity theft, he said, but the hospital is offering free identity protection services to affected patients.The breach was discovered by a patient and reported to the hospital on Aug. 22, according to a letter written four days later to affected patients by Diane Meyer, Stanford Hospital’s chief privacy officer. The hospital took “aggressive steps,” and the Web site removed the post the next day, Ms. Meyer wrote. It also notified state and federal agencies, Mr. Migdol said.
+Advertisement
+
+Continue reading the main story
+“It is clearly disturbing when this information gets public,” he said. “It is our intent 100 percent of the time to keep this information confidential and private, and we work hard every day to ensure that.”Diane Dobson, of Santa Clara, Calif., said her “jaw dropped” on Saturday when she intercepted the letter from Ms. Meyer addressed to her 21-year-old son, who she said had received emergency psychiatric treatment at Stanford in 2009. Ms. Dobson said it could have been disastrous if her son, who lives at home, had learned that his name was linked to a mental health diagnosis.“My son, I can tell you, is fragile and confused enough that this would have sent him over the edge,” Ms. Dobson said, saying she decided to speak publicly now because of her frustration with the breach. “Everyone with an electronic medical record is at risk, and that means everyone.”Records compiled by the Department of Health and Human Services reveal that personal medical data for more than 11 million people have been improperly exposed during the past two years alone.
+Advertisement
+
+Continue reading the main story
+
+
+Advertisement
+
+Continue reading the main story
+Since passage of the federal stimulus package, which includes provisions requiring prompt public reporting of breaches, the government has received notice of 306 cases from September 2009 to June 2011 that affected at least 500 people apiece. A recent report to Congress tallied 30,000 smaller breaches from September 2009 to December 2010, affecting more than 72,000 people.The major breaches — a disconcerting log of stolen laptops, hacked networks, unencrypted records, misdirected mailings, missing files and wayward e-mails — took place in 44 states.
+
+One occurred at the Lucile Packard Children’s Hospital at Stanford in January 2010, when a desktop computer holding the medical records of 532 patients was stolen from the heart center by an employee. Hospital officials said at the time that no patient information was compromised.But the California Department of Public Health fined the hospital $250,000, the maximum allowed, for failing to report the breach within five days of discovery, as is required under state law. The hospital appealed the fine, and a settlement has been reached but not yet disclosed, a department spokesman said.The Stanford episode reinforces the fear that even the most prestigious medical centers are not immune to risk.
+
+ Massachusetts General Hospital in Boston, which trains Harvard medical students, agreed this year to pay a $1 million federal fine after an employee left paper medical records on a subway while commuting to work. The pages included the names of 192 patients, and diagnoses for about a third of them, including diagnoses for H.I.V./AIDS. They were never recovered.The Department of Health and Human Services viewed the breach as a potential violation of the Health Insurance Portability and Accountability Act, the 1996 law that requires protection of medical records.Mr. Migdol, the hospital spokesman, said Stanford had concluded that “there is no employee from Stanford Hospital who has done anything impermissible.” He said he expected the federal Department of Health and Human Services to conduct its own investigation. Susan McAndrew, a deputy director in the department’s Office for Civil Rights, said she could not discuss whether an investigation was in progress.The vendor, identified by Mr. Migdol as Multi-Specialty Collection Services L.L.C., based in Los Angeles, is described on its Web site as a subsidiary of Texican Inc. Joe Anthony Reyna, who is listed in state and commercial records as Texican’s principal, did not respond to messages left at his office and home.Mr. Migdol said the company created the spreadsheet as part of a billing-and-payment analysis for the hospital. He said the hospital immediately suspended its relationship with the contractor and received written certification that previous files would be destroyed or returned securely.
+
+Tina Warner, a vice president at Chegg, an online company that bought Student of Fortune in August, said the site’s principals were unaware the data had been posted until informed by the hospital. They then “took it down within 30 seconds,” she said. Ms. Warner said the identity of the person who posted the Stanford data could not be determined from the user name.Bryan Cline, a vice president with the Health Information Trust Alliance, a nonprofit company that establishes privacy guidelines for health providers, said nearly 20 percent of breaches involved outside contractors, accounting for more than half of all the records exposed.Dr. Cline said health care providers depend unjustifiably on legal contracts with vendors to protect medical records. “That just doesn’t work, as we can see,” he said. “You have to do due diligence, something to assure yourself that the people you’re giving your data to can be trusted.”
+
+
+A version of this article appears in print on September 9, 2011, on page A1 of the New York edition with the headline: Medical Data Of Thousands Posted Online.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

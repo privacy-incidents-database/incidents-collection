@@ -1,0 +1,85 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "Escobedo Sol\u00edz Studio, a partnership based in Mexico City, will transform the museum\u2019s courtyard this summer.", 
+  "headline": {
+    "main": "MoMA PS1 Names Winner of Summer Architecture Competition"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "309", 
+  "_id": "56afad147988105fa9a9c282", 
+  "snippet": "Escobedo Sol\u00edz Studio, a partnership based in Mexico City, will transform the museum\u2019s courtyard this summer.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/arts/design/moma-ps1-names-winner-of-summer-architecture-competition.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/arts/02MOMA-PS1-WEB2/02MOMA-PS1-WEB2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/arts/02MOMA-PS1-WEB2/02MOMA-PS1-WEB2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/arts/02MOMA-PS1-WEB2/02MOMA-PS1-WEB2-articleLarge.jpg", 
+      "height": 338, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/arts/02MOMA-PS1-WEB2/02MOMA-PS1-WEB2-articleLarge.jpg", 
+        "xlargeheight": "338"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/arts/02MOMA-PS1-WEB2/02MOMA-PS1-WEB2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/arts/02MOMA-PS1-WEB2/02MOMA-PS1-WEB2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Art & Design", 
+  "keywords": [
+    {
+      "value": "Architecture", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "MoMA PS1", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Randy", 
+        "lastname": "KENNEDY"
+      }
+    ], 
+    "original": "By RANDY KENNEDY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Arts"
+}

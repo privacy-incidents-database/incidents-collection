@@ -1,0 +1,128 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "Donald Trump leads over all, but Chris Christie and Ted Cruz are tied with him in the subcategory of \u201cpresidential style.\u201d", 
+  "headline": {
+    "main": "Ahead of Iowa, Winners in Presidential Style", 
+    "content_kicker": "On the Runway"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "674", 
+  "_id": "56af789279881036ff1c9e80", 
+  "snippet": "Donald Trump leads over all, but Chris Christie and Ted Cruz are tied with him in the subcategory of \u201cpresidential style.\u201d", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/fashion/a-style-lights-shines-on-the-presidential-candidates.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/world/02Otr-web1/02Otr-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/world/02Otr-web1/02Otr-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/world/02Otr-web1/02Otr-web1-articleLarge.jpg", 
+      "height": 394, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/world/02Otr-web1/02Otr-web1-articleLarge.jpg", 
+        "xlargeheight": "394"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/world/02Otr-web1/02Otr-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/world/02Otr-web1/02Otr-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Fashion and Apparel", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Bush, Jeb", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Christie, Christopher J", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Clinton, Hillary Rodham", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Cruz, Ted", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Rubio, Marco", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Sanders, Bernard", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Vanessa", 
+        "lastname": "FRIEDMAN"
+      }
+    ], 
+    "original": "By VANESSA FRIEDMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Fashion & Style"
+}

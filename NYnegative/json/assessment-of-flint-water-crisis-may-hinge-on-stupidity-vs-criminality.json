@@ -1,0 +1,87 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Because of state law, the Michigan investigation into the municipal water supply in Flint can range more broadly than the federal inquiry.", 
+  "headline": {
+    "main": "Assessment of Flint Water Crisis May Hinge on Stupidity vs. Criminality", 
+    "kicker": "White Collar Watch", 
+    "content_kicker": "White Collar Watch"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1061", 
+  "_id": "56afaace7988105fa9a9c277", 
+  "snippet": "Because of state law, the Michigan investigation into the municipal water supply in Flint can range more broadly than the federal inquiry.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/business/dealbook/assessment-of-flint-water-crisis-may-hinge-on-stupidity-vs-criminality.html", 
+  "multimedia": [], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Water", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Environment", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Ethics and Official Misconduct", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Attorneys General", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Environmental Protection Agency", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Flint (Mich)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Peter", 
+        "middlename": "J.", 
+        "lastname": "HENNING", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By PETER J. HENNING"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Business Day"
+}

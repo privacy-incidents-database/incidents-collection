@@ -1,0 +1,757 @@
+
+  
+
+
+
+
+The Venus Flytrap, a Plant That Can Count - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Science|The Venus Flytrap, a Plant That Can Count
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/202k7cY
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Science 
+The Venus Flytrap, a Plant That Can Count
+
+
+
+ 
+ 
+
+
+ James Gorman
+ 
+
+
+SCIENCETAKE
+FEB. 1, 2016
+
+
+
+Inside
+
+
+
+
+
+
+
+
+Continue reading the main story
+Video
+
+ScienceTake | Plants Can Count?
+
+
+The Venus flytrap, a plant that eats insects, will clamp its leaves shut only after trigger hairs are tripped two times within about 20 seconds. Even without nerves, it counts electric impulses that go from cell to cell.
+
+                    By DAVID FRANK and JAMES GORMAN on                                                                Publish Date February 1, 2016.
+                                    
+
+
+Watch in Times Video »
+
+
+
+
+
+
+
+embed
+
+
+
+
+
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+Continue reading the main story
+
+
+
+Carnivorous plants stir the imagination. You can find the results in science fiction novels ( “The Day of the Triffids”), Broadway plays(“Little Shop of Horrors”) and in recent research that concludes that the Venus flytrap can count.
+
+
+
+
+
+
+
+Not out loud, of course. And no one is claiming that the plants are aware that they are counting. But even so, this is the first time someone has demonstrated counting in a plant, according to the researcher who led the experiments, Rainer Hedrich at the University of Würzburg, in Germany.Dr. Hedrich, Jennifer Böhm and Sönke Scherzer, all at Würzburg, and a team of other scientists reported their research in Current Biology.Venus flytraps are carnivorous. They live in poor soil and pull needed nutrients from the insects they trap and dissolve. Their trap is a pair of leaves that act as jaws and stomach.
+
+
+
+
+
+
+
+ScienceTake
+ScienceTake combines cutting-edge research from the world of science with stunning footage of the natural world in action.
+
+
+
+
+
+
+
+
+                                Some Carnivores Are Better Than Others at Unlocking Dinner            
+
+
+
+
+
+
+
+
+
+                                This Tiny Chameleon’s Tongue Has Power That Can’t Be Disguised            
+
+
+
+
+
+
+
+
+
+                                When the Situation Is Fluid, Sit Back and Watch            
+
+
+
+
+
+
+
+
+
+                                Water’s Big (and Then Bigger) Bounce            
+
+
+
+
+
+
+
+
+
+                                A Side Serving of Science for Your Next Birthday Party            
+
+
+
+
+
+
+See More »
+
+
+
+When an insect lands and bumps into trigger hairs on the surface of these leaves, the trap closes. As digestive enzymes seep into the trap, it becomes what Dr. Hedrich calls a “green stomach,” and the prey is gradually turned into a nourishing soup.Scientists knew that an insect had to bump the trigger hairs more than once to cause the trap to shut, presumably to avoid wasting energy by responding to random raindrops and windblown debris.In the recent experiment, researchers studied how the plant was responding to movement of the trigger hairs, and determined that it was counting electrical pulses from them.Plants don’t have a nervous system to transmit these pulses as animals do, but a spike in electricity produced by biochemical changes can travel on the surfaces of cells.The researchers flicked the trigger hairs while they recorded electrical activity in the plant. The motor cells that close the leafy jaws on prey acted only when they received two signals within about 20 seconds. That meant that the cells somehow remembered the first signal for a short time. After 20 seconds, this first electrical pulse was forgotten, essentially resetting the process.But closing the trap on an insect is only Step 1. The Venus flytrap must also dissolve its prey. Two flicks of a trigger hair were not enough to kick off that mechanism. More than three flicks of a trigger hair were needed to signal the cells that produce digestive enzymes to begin that process.In nature, the trigger hairs are activated time and again as the trapped prey struggles. That frenzy gives the plant a way to judge the amount of digestive enzymes needed. Dr. Hedrich and colleagues found that more electric signals from the trigger hairs translated proportionally into more enzymes for the green stomach.Dr. David Clapham at Harvard, who studies the biochemistry of how animal cells generate electric signals as a way to transmit signals in their nervous systems, said he was intrigued by what seemed to be this “just-in-time” system of providing digestive juices. The flytrap expends energy only to produce enzymes when they are needed and only in the amount needed, an efficient mechanism for a plant living in a poor environment.The process is slow compared with what occurs in animals, he said. But, “Plants have a lot more time to react.”Dr. Hedrich said that electrical signals were produced by biochemical changes and that this process evolved very early in the history of life. “A single cell can be electrically excited,” he said.Asked about primitive animals, like the worm C. elegans, studied in many laboratories around the world by many, many scientists, he joked, “I think the Venus flytrap is much smarter than C. elegans,” quickly adding with a laugh, “Don’t quote me on that.”
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,95 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Science", 
+  "lead_paragraph": "In a study, women with higher estrogen levels found images of ovulating women to be more threatening.", 
+  "headline": {
+    "main": "Women\u2019s Views on Women Who Are Ovulating", 
+    "kicker": "Observatory", 
+    "print_headline": "Women\u2019s Views on Women Who Are Ovulating", 
+    "content_kicker": "Observatory"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "117", 
+  "_id": "56af91ea7988105fa9a9c20b", 
+  "snippet": "In a study, women with higher estrogen levels found images of ovulating women to be more threatening.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/science/womens-views-on-women-who-are-ovulating.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/science/02OBSFLOATER/02OBSFLOATER-thumbWide-v2.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/science/02OBSFLOATER/02OBSFLOATER-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/science/02OBSFLOATER/02OBSFLOATER-articleLarge.jpg", 
+      "height": 370, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/science/02OBSFLOATER/02OBSFLOATER-articleLarge.jpg", 
+        "xlargeheight": "370"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/science/02OBSFLOATER/02OBSFLOATER-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/science/02OBSFLOATER/02OBSFLOATER-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Estrogen", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Women and Girls", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Menstruation", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Sindya", 
+        "middlename": "N.", 
+        "lastname": "BHANOO", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By SINDYA N. BHANOO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Science"
+}

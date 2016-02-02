@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Militants descended Saturday evening on the small village of Dalori, where they unleashed a torrent of gunfire, set homes ablaze, blew up fleeing residents and abducted children.", 
+  "headline": {
+    "main": "Brutal Boko Haram Raid in Nigeria Kills as Many as 100"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "855", 
+  "_id": "56afaafd7988105fa9a9c278", 
+  "snippet": "Militants descended Saturday evening on the small village of Dalori, where they unleashed a torrent of gunfire, set homes ablaze, blew up fleeing residents and abducted children.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/world/africa/brutal-boko-haram-raid-in-nigeria-kills-as-many-as-100.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/world/02BOKO-web1/02BOKO-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/world/02BOKO-web1/02BOKO-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/world/02BOKO-web1/02BOKO-web1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/world/02BOKO-web1/02BOKO-web1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/world/02BOKO-web1/02BOKO-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/world/02BOKO-web1/02BOKO-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Africa", 
+  "keywords": [
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Boko Haram", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Nigeria", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Iliya", 
+        "lastname": "KURE"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Dionne", 
+        "lastname": "SEARCEY"
+      }
+    ], 
+    "original": "By ILIYA KURE and DIONNE SEARCEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "World"
+}

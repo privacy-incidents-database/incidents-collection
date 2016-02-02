@@ -1,0 +1,101 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Whether it is Barclays or the old Ebbets Field, a stadium can bring tremendous changes to its neighborhood, as one class at Packer Collegiate Institute is learning.", 
+  "headline": {
+    "main": "Barclays Center in Brooklyn Becomes a Classroom", 
+    "kicker": "The Appraisal", 
+    "print_headline": "Ninth Graders Learn the Lessons of Brooklyn Sports History", 
+    "content_kicker": "The Appraisal"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1232", 
+  "_id": "56af6ec979881036ff1c9e60", 
+  "snippet": "Whether it is Barclays or the old Ebbets Field, a stadium can bring tremendous changes to its neighborhood, as one class at Packer Collegiate Institute is learning.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/nyregion/ninth-graders-learn-the-lessons-of-brooklyn-sports-history.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/nyregion/02appraisal1/02appraisal1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/nyregion/02appraisal1/02appraisal1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/nyregion/02appraisal1/02appraisal1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/nyregion/02appraisal1/02appraisal1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/nyregion/02appraisal1/02appraisal1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/nyregion/02appraisal1/02appraisal1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Barclays Center (Brooklyn, NY)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Ebbets Field (Brooklyn, NY)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Packer Collegiate Institute", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Education (K-12)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Matt", 
+        "middlename": "A.", 
+        "lastname": "V", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MATT A.V. CHABAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

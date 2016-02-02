@@ -14,6 +14,8 @@ def get_args():
     parser.add_argument("destination", help = 'Destination to store the Articles')
     parser.add_argument('-k', '--keywords', nargs = '+', metavar = 'N', help = 'Keywords for fetching the Articles')
     parser.add_argument('-l', '--limit', type = int, help = 'Limit of the number of Articles to be fetched, must be a multiple of 10')
+    parser.add_argument('-j', '--json',type = str, help = 'Name of the Json file containing the urls')
+
     args = parser.parse_args()
     return args
 
@@ -57,7 +59,7 @@ def collect():
 def build_url(pageno):
     if not keywordstr:
         url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?&page=" \
-        + str(pageno) + "&fl=abstract,byline,headline,web_url,word_count&api-key=" + API_KEY
+        + str(pageno) + "&api-key=" + API_KEY
     else:
         url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + keywordstr + \
         "&page=" + str(pageno) + "&api-key=" + API_KEY
@@ -87,9 +89,16 @@ def get_articles(hits):
                         #Extract the file name from the url
                         filename = d['web_url'].rsplit('/', 1)[1]
                         filename = filename.rsplit('.', 1)[0]
+                        folderName = args.destination
+                        if not os.path.exists(folderName):
+                            os.makedirs(folderName)
+
+                        jsonFolder = folderName + "/json"
+                        if not os.path.exists(jsonFolder):
+                            os.makedirs(jsonFolder)
 
                         #Write json
-                        wr = open("json/%s.json" % filename, 'w')
+                        wr = open("%s/json/%s.json" % (folderName,filename), 'w')
                         json.dump(d , wr, indent = 2)
                         wr.close()
 
@@ -163,6 +172,8 @@ def clean(string, **kwargs):
 
     # Get folder name to store the articles
     folderName = args.destination
+    if not os.path.exists(folderName):
+        os.makedirs(folderName)
     wr = open("%s/%s.txt" % (folderName, filename), 'w')  # write into txt file.
     wr.write(final.encode('utf-8') + "\n")
     # # return final
@@ -184,4 +195,5 @@ def clean_html(fragment):
     return text
 
 
-collect()
+if __name__ == "__main__":
+    collect()

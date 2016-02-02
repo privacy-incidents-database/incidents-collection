@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The new attack on the capital came as American officials gave a grim new estimate of Afghan casualties in last year\u2019s fighting.", 
+  "headline": {
+    "main": "Taliban Bombing Kills at Least 20 at Kabul Police Station"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "747", 
+  "_id": "56af473f79881036ff1c9dec", 
+  "snippet": "The new attack on the capital came as American officials gave a grim new estimate of Afghan casualties in last year\u2019s fighting.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/world/asia/afghanistan-kabul-suicide-bombing-taliban.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/world/02Afghanistan-web2/02Afghanistan-web2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/world/02Afghanistan-web2/02Afghanistan-web2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/world/02Afghanistan-web2/02Afghanistan-web2-articleLarge.jpg", 
+      "height": 395, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/world/02Afghanistan-web2/02Afghanistan-web2-articleLarge.jpg", 
+        "xlargeheight": "395"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/world/02Afghanistan-web2/02Afghanistan-web2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/world/02Afghanistan-web2/02Afghanistan-web2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "Police", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Taliban", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Kabul (Afghanistan)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Mujib", 
+        "lastname": "MASHAL"
+      }
+    ], 
+    "original": "By MUJIB MASHAL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "World"
+}

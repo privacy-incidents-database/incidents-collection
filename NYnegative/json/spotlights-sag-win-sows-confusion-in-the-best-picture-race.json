@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "As the guilds go with different top films, only Leonardo DiCaprio and Brie Larson have cemented their status as Oscar front-runners.", 
+  "headline": {
+    "main": "SAG Win for \u2018Spotlight\u2019 Sows Confusion in the Best Picture Race", 
+    "content_kicker": "The Carpetbagger"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "377", 
+  "_id": "56af48cd79881036ff1c9def", 
+  "snippet": "As the guilds go with different top films, only Leonardo DiCaprio and Brie Larson have cemented their status as Oscar front-runners.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/movies/spotlights-sag-win-sows-confusion-in-the-best-picture-race.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/arts/01CARPETBAGGER/01CARPETBAGGER-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/arts/01CARPETBAGGER/01CARPETBAGGER-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/arts/01CARPETBAGGER/01CARPETBAGGER-articleLarge.jpg", 
+      "height": 403, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/arts/01CARPETBAGGER/01CARPETBAGGER-articleLarge.jpg", 
+        "xlargeheight": "403"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/arts/01CARPETBAGGER/01CARPETBAGGER-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/arts/01CARPETBAGGER/01CARPETBAGGER-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Movies", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Spotlight (Movie)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "creative_works"
+    }, 
+    {
+      "value": "Screen Actors Guild", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Academy Awards (Oscars)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Cara", 
+        "lastname": "BUCKLEY"
+      }
+    ], 
+    "original": "By CARA BUCKLEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Movies"
+}

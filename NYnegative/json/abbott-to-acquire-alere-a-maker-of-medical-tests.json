@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Alere, which makes point-of-care medical tests that can provide results in a matter of minutes, will enhance Abbott\u2019s diagnostics business.", 
+  "headline": {
+    "main": "Abbott to Acquire Alere, a Maker of Medical Tests"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "590", 
+  "_id": "56af68fa79881036ff1c9e4f", 
+  "snippet": "Alere, which makes point-of-care medical tests that can provide results in a matter of minutes, will enhance Abbott\u2019s diagnostics business.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/business/dealbook/abbott-to-acquire-alere-a-maker-of-medical-tests.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/business/db-diagnostics-web1/db-diagnostics-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/business/db-diagnostics-web1/db-diagnostics-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/business/db-diagnostics-web1/db-diagnostics-web1-articleLarge.jpg", 
+      "height": 433, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/business/db-diagnostics-web1/db-diagnostics-web1-articleLarge.jpg", 
+        "xlargeheight": "433"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/business/db-diagnostics-web1/db-diagnostics-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/business/db-diagnostics-web1/db-diagnostics-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Mergers, Acquisitions and Divestitures", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Abbott Laboratories", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Tests (Medical)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "White, Miles D", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Leslie", 
+        "lastname": "PICKER"
+      }
+    ], 
+    "original": "By LESLIE PICKER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Business Day"
+}

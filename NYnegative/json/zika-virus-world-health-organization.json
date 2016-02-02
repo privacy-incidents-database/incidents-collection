@@ -1,0 +1,72 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "In its decision, the World Health Organization highlighted the seriousness of the Zika outbreak, a mosquito-borne virus thought to cause birth defects which has exploded in Latin America, and gives countries powerful tools to fight it.", 
+  "headline": {
+    "main": "W.H.O. Declares Zika Virus a Global Health Emergency"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "764", 
+  "_id": "56af79e679881036ff1c9e84", 
+  "snippet": "In its decision, the World Health Organization highlighted the seriousness of the Zika outbreak, a mosquito-borne virus thought to cause birth defects which has exploded in Latin America, and gives countries powerful tools to fight it.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/health/zika-virus-world-health-organization.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "World Health Organization", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Zika Virus", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Epidemics", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Medicine and Health", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Latin America", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Sabrina", 
+        "lastname": "TAVERNISE"
+      }
+    ], 
+    "original": "By SABRINA TAVERNISE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Health"
+}

@@ -1,0 +1,56 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The diligence of the board of Alere, a diagnostic tester, brought a chunky 51 percent premium in the $5.8 billion sale to Abbott, announced on Monday.", 
+  "headline": {
+    "main": "Strategy of Alere Board Paid Off With Buyout by Abbott", 
+    "kicker": "Breakingviews", 
+    "content_kicker": "Breakingviews"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "345", 
+  "_id": "56af9db07988105fa9a9c238", 
+  "snippet": "The diligence of the board of Alere, a diagnostic tester, brought a chunky 51 percent premium in the $5.8 billion sale to Abbott, announced on Monday.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/business/dealbook/strategy-of-alere-board-paid-off-with-buyout-by-abbott.html", 
+  "multimedia": [], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Mergers, Acquisitions and Divestitures", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Abbott Laboratories", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Boards of Directors", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Robert", 
+        "lastname": "CYRAN"
+      }
+    ], 
+    "original": "By ROBERT CYRAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Business Day"
+}

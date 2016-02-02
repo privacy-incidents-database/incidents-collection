@@ -1,0 +1,132 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "EdLife", 
+  "lead_paragraph": "Black students and their allies are demanding change. Seven from colleges and universities around the country discuss the problem, their protests and themselves.", 
+  "headline": {
+    "main": "Meet the New Student Activists", 
+    "print_headline": "The New Activists"
+  }, 
+  "abstract": null, 
+  "print_page": "2", 
+  "word_count": "2473", 
+  "_id": "56af2cc879881036ff1c9db0", 
+  "snippet": "Black students and their allies are demanding change. Seven from colleges and universities around the country discuss the problem, their protests and themselves.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/07/education/edlife/the-new-student-activists.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/07/education/edlife/07activists-grid2b/07activists-grid2b-thumbWide-v4.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/07/education/edlife/07activists-grid2b/07activists-grid2b-thumbWide-v4.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/07/education/edlife/07activists-grid2b/07activists-grid2b-articleLarge-v3.jpg", 
+      "height": 401, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/07/education/edlife/07activists-grid2b/07activists-grid2b-articleLarge-v3.jpg", 
+        "xlargeheight": "401"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/07/education/edlife/07activists-grid2b/07activists-grid2b-thumbStandard-v4.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/07/education/edlife/07activists-grid2b/07activists-grid2b-thumbStandard-v4.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Education Life", 
+  "keywords": [
+    {
+      "value": "Colleges and Universities", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Blacks", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Discrimination", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Race and Ethnicity", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "University of Alabama", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Princeton University", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "University of California, Berkeley", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "University of Missouri", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Yale University", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "University of Kansas", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1
+      }
+    ], 
+    "original": "As told to ABBY ELLIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-07T00:00:00Z", 
+  "section_name": "Education"
+}

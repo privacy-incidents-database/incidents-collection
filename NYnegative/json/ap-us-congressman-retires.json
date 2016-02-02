@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Tennessee GOP Rep. Stephen Fincher announced Monday that he will retire from Congress at the end of his term.", 
+  "headline": {
+    "main": "Tennessee GOP Rep. Fincher to Retire", 
+    "print_headline": "Tennessee GOP Rep. Fincher to Retire"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "235", 
+  "_id": "56afbaee7988105fa9a9c2a8", 
+  "snippet": "Tennessee GOP Rep. Stephen Fincher announced Monday that he will retire from Congress at the end of his term.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/02/01/us/politics/ap-us-congressman-retires.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-01T15:04:22Z", 
+  "section_name": "U.S."
+}

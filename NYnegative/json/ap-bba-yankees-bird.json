@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Yankees first base prospect Greg Bird will have right shoulder surgery Tuesday and will miss the entire 2016 season.", 
+  "headline": {
+    "main": "Yanks' Greg Bird to Have Shoulder Surgery and Miss Season", 
+    "print_headline": "Yanks' Greg Bird to Have Shoulder Surgery and Miss Season"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "116", 
+  "_id": "56afbb8f7988105fa9a9c2ac", 
+  "snippet": "Yankees first base prospect Greg Bird will have right shoulder surgery Tuesday and will miss the entire 2016 season.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/02/01/sports/baseball/ap-bba-yankees-bird.html", 
+  "multimedia": [], 
+  "subsection_name": "Baseball", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-01T15:08:27Z", 
+  "section_name": "Sports"
+}

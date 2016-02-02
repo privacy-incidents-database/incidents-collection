@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "NELSON-ATKINS HAS A REAL HIERONYMUS BOSCH", 
+  "headline": {
+    "main": "Travel Now: Hieronymus Bosch; Epcot Flower Fest; Kengo Kuma", 
+    "print_headline": "Travel Now: Hieronymus Bosch; Epcot Flower Fest; Kengo Kuma"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "649", 
+  "_id": "56afbd067988105fa9a9c2b1", 
+  "snippet": "NELSON-ATKINS HAS A REAL HIERONYMUS BOSCH", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/02/01/us/ap-us-travel-briefs-new-and-now.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-01T15:14:18Z", 
+  "section_name": "U.S."
+}

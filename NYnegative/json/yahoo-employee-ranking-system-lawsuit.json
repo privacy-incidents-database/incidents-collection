@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A former Yahoo manager who lost his job filed suit in California on Monday, saying the system, which has been used to fire hundreds of employees, is discriminatory and violates the law.", 
+  "headline": {
+    "main": "A Yahoo Employee-Ranking System Is Challenged in Court"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "796", 
+  "_id": "56afa3d87988105fa9a9c24b", 
+  "snippet": "A former Yahoo manager who lost his job filed suit in California on Monday, saying the system, which has been used to fire hundreds of employees, is discriminatory and violates the law.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/technology/yahoo-employee-ranking-system-lawsuit.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/business/02yahoo-web3/02yahoo-web3-thumbWide-v2.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/business/02yahoo-web3/02yahoo-web3-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/business/02yahoo-web3/02yahoo-web2-1454354727180-articleLarge.jpg", 
+      "height": 859, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/business/02yahoo-web3/02yahoo-web2-1454354727180-articleLarge.jpg", 
+        "xlargeheight": "859"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/business/02yahoo-web3/02yahoo-web2-1454354727180-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/business/02yahoo-web3/02yahoo-web2-1454354727180-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Yahoo! Inc", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Layoffs and Job Reductions", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Performance Evaluations (Labor)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Suits and Litigation (Civil)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Vindu", 
+        "lastname": "GOEL"
+      }
+    ], 
+    "original": "By VINDU GOEL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Technology"
+}

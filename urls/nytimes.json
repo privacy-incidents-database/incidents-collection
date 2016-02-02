@@ -1,0 +1,210 @@
+[
+  {
+    "link": "http://bits.blogs.nytimes.com/2010/05/05/facebook-security-flaw-publicizes-private-chats/", 
+    "Descr": "Bug causes private chats to be visible to the friends of those chatting."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2014/01/11/business/the-next-privacy-battle-may-be-waged-inside-your-car.html?_r=0", 
+    "Descr": "Awareness grows over volume of data collected by cars; bill introduced to afford users more concern over those data."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2014/11/17/technology/privacy-concerns-for-classdojo-and-other-tracking-apps-for-schoolchildren.html?_r=0", 
+    "Descr": "ClassDojo launched in 2011. Privacy concerns around the data gathered about students and the usage of those data emerged in 2014."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/04/28/technology/28apple.html?_r=2", 
+    "Descr": "Apple mobile devices found to be storing locations over previous 12 month period, unbeknownst to users."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2013/05/11/business/media/privacy-breach-on-bloombergs-data-terminals.html?_r=0", 
+    "Descr": "Bloomberg News reporters had extracted subscribers private information"
+  }, 
+  {
+    "link": "http://www.nytimes.com/2012/10/28/us/politics/tracking-clicks-online-to-try-to-sway-voters.html?_r=0", 
+    "Descr": "Users who visit the sites 2012 presidential candidates get tracked across the web."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2015/11/07/us/colorado-students-caught-trading-nude-photos-by-the-hundreds.html", 
+    "Descr": "Photos of naked adolescents (middle and high school) found to be circulating in a small Colorado town, commonly stored on student phone using photo vault apps. Members of the football team are said to be heavily involved."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2013/10/13/business/in-a-mood-call-center-agents-can-tell.html?_r=0", 
+    "Descr": "Call centers analyzing voice data for emotional state of caller."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/01/21/us/21fbi.html", 
+    "Descr": "FBI improperly gained access to calling records of citizens. In some cases, reporters were targeted as part of leak investigations."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2013/06/27/nyregion/cia-sees-concerns-on-ties-to-new-york-police.html", 
+    "Descr": "4 CIA officers were embedded in the NYC police department after 9/11; 1 working on surveillance. Concerns raised about lack of separation between agencies."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2012/09/18/world/europe/italian-magazine-publishes-topless-images-of-kate-middleton.html", 
+    "Descr": "Topless sunbathing photos of Kate Middleton are published; royal family pursues legal action."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2012/04/29/magazine/the-criminalization-of-bad-mothers.html", 
+    "Descr": "Blood test of mother of dead newborn used to convict her of chemical endangerment; evidence of methamphetamine was found in her blood."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2013/06/13/us/police-agencies-are-assembling-records-of-dna.html", 
+    "Descr": "Police departments are building DNA databases of potential suspects; some DNA data is collected without the owners knowledge."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2012/12/11/technology/many-mobile-apps-for-children-fall-short-on-disclosure-to-parents-ftc-report-says.html", 
+    "Descr": "FTC finds that 20% of 400 child-directed apps provide appropriate disclosure of data collection practices."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2015/11/15/technology/the-war-on-campus-sexual-assault-goes-digital.html?_r=0", 
+    "Descr": "Callisto service allows victims of sexual assault to anonymously report the incident including submitting identitfying information about their attackers."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/05/03/business/media/03link.html", 
+    "Descr": "Audit by the state of North Carolina of consumer purchases made online raises privacy concerns."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/04/09/world/europe/09spain.html", 
+    "Descr": "European plans for a terrorist tracking system raise privacy concerns."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/03/13/technology/13netflix.html?_r=0", 
+    "Descr": "Netflix released data  of user movie ratings with PII removed as part of a contest to improve its recommender algorithm. It was found that some users could be identified using the data set and other publicly available data."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/02/21/us/21spy.html", 
+    "Descr": "Philadelphia school district remotely activated cameras on school-issued laptops to locate them, raising privacy concerns."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/01/16/us/politics/16scotus.html", 
+    "Descr": "Same-sex marriage opponents protest requests to turn over the names of petition-signers under the First Amendment."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/01/09/world/europe/09europe.html?_r=0", 
+    "Descr": "France begins use of full body scanners at Charles de Gaulle and Orly airports; privacy advocates claim scanners are overly intrusive."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/05/06/technology/internet/06facebook.html", 
+    "Descr": "Bug gives Facebook users access to the chats of their friends and other private information."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/05/13/technology/personaltech/13basics.html", 
+    "Descr": "Facebook changes privacy policy to require users to opt out of making certain information public, raising privacy concerns."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/05/27/technology/27data.html", 
+    "Descr": "Google, Microsoft and Yahoo believed to be retaining user data longer than allowed under European Union laws."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/05/31/world/asia/31terror.html", 
+    "Descr": "US pressures Pakistan to provide more detailed information on those traveling to the US, raising privacy concerns."
+  }, 
+  {
+    "link": "http://query.nytimes.com/gst/fullpage.html?res=9B01E6DF133BF932A25755C0A9669D8B63", 
+    "Descr": "Security breach at AT&T allowed the email addresses of >100K iPad users to be accessed."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2013/03/12/education/harvard-search-e-mail-accounts.html", 
+    "Descr": "Emails of faculty and staff at Harvard were searched as part of a student cheating investigation, raising a privacy outcry amongst the email account holders."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/06/29/technology/29apple.html?_r=0", 
+    "Descr": "Germany Asks Apple About iPhone\u00e2\u20ac\u2122s Data-Gathering"
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/07/25/magazine/25privacy-t2.html", 
+    "Descr": "Teacher in training was denied her degree after she posted a picture of herself drinking on MySpace"
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/07/25/business/25stream.html", 
+    "Descr": "A man was charged with 10 counts of murder based on genetic data collected from his son for another purpose."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/07/30/us/30fbi.html", 
+    "Descr": "Request from Obama administration to allow the FBI warrant-less access to the communication context around emails raises privacy concerns."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/08/02/business/global/02berry.html", 
+    "Descr": "United Arab Emirates announces it will suspend Blackberry mobile services because it is unable to monitor communications using the services."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/08/23/health/policy/23privacy.html", 
+    "Descr": "Obama administration medical privacy rules denounced as weak on privacy."
+  }, 
+  {
+    "link": "http://query.nytimes.com/gst/fullpage.html?res=9C06E6DC143DF933A0575BC0A9669D8B63", 
+    "Descr": "Consumers voice privacy concerns about online retargeting."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/09/21/technology/21cookie.html", 
+    "Descr": "Consumers voice concerns about flash cookies; some launch lawsuits."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/10/08/us/08duke.html", 
+    "Descr": "A Duke student circulated a powerpoint presentation on her sexual partners while a student, including their names and images, which eventually was published on the web."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/10/11/business/media/11privacy.html", 
+    "Descr": "Privacy concerns are raised about HTML 5 and evercookies."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/11/04/garden/04surveillance.html", 
+    "Descr": "Instances of home surveillance footage showing misdeeds of neighbors are appearing on YouTube."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/11/07/us/07breach.html", 
+    "Descr": "A US government employee accidentally sent a file containing the names and SSNs of all employees of the General Services Administration to a private email address."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/11/24/business/24drug.html", 
+    "Descr": "Concerns are raised about the profiling and targeting of users of online health sites."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2010/12/07/technology/07identity.html", 
+    "Descr": "Military bases are using SSNs as identifiers in a variety of common settings like gym membership IDs, thus putting the military at heightened risk of identity theft."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/01/20/us/20scotus.html", 
+    "Descr": "The US Supreme Court upholds the practice of intrusive background checks of employees of government contractors. The practice was put in place after 9/11."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/04/28/technology/28apple.html", 
+    "Descr": "iPhones found to be storing user location data for a year."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/05/23/technology/23twitter.html", 
+    "Descr": "A British legal ruling bars media outlets from publishing news about a celebrity affair that identifies one of the parties involved, but Twitter users identify the person and discuss the affair freely."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/06/13/us/13fbi.html", 
+    "Descr": "FBI agents are given more freedom to surveil and mine databases to scrutinize people of interest."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/06/17/nyregion/promise-and-concern-for-vast-social-services-database-on-citys-neediest.html", 
+    "Descr": "A database about needy NYC residents that aggregates across multiple government services raises privacy concerns."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/06/17/nyregion/promise-and-concern-for-vast-social-services-database-on-citys-neediest.html", 
+    "Descr": "A start-up that makes it easier for employers to review the social media presence of applicants raises privacy concerns although cleared by the FTC."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/08/28/us/28mug.html", 
+    "Descr": "New business selling artwork and notebooks containing police mug shots from the 1950s raises privacy concerns."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/09/09/us/09breach.html", 
+    "Descr": "Names and diagnosis codes for 20K Stanford Hospital patients were published on a commercial website for a year."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/10/21/education/21privacy.html", 
+    "Descr": "The existence of a list of well-connected applicants who were given an edge in admissions to University of Illinois is leaked and the university fights a request to release the names of the parents of the applicants."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/11/11/technology/twitter-ordered-to-yield-data-in-wikileaks-case.html", 
+    "Descr": "Judge orders Twitter to give information about 3 account holders who are under investigation for links to WikiLeaks."
+  }, 
+  {
+    "link": "http://www.nytimes.com/2011/11/13/business/face-recognition-moves-from-sci-fi-to-social-media.html", 
+    "Descr": "Growth of apps that use face recognition to determine demographics of bar goers, raise privacy concerns."
+  }
+]

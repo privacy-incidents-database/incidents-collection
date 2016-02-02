@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "The Fox production was the second-most-viewed of the recent live TV musicals; next up for the network is \u201cThe Passion,\u201d live from New Orleans, in March.", 
+  "headline": {
+    "main": "\u2018Grease: Live!\u2019 Scores Big Ratings"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "299", 
+  "_id": "56af9d967988105fa9a9c237", 
+  "snippet": "The Fox production was the second-most-viewed of the recent live TV musicals; next up for the network is \u201cThe Passion,\u201d live from New Orleans, in March.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/02/arts/television/grease-live-scores-big-ratings.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/02/arts/02artsbeat-grease/02artsbeat-grease-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/02/arts/02artsbeat-grease/02artsbeat-grease-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/02/arts/02artsbeat-grease/02artsbeat-grease-articleLarge.jpg", 
+      "height": 416, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/02/arts/02artsbeat-grease/02artsbeat-grease-articleLarge.jpg", 
+        "xlargeheight": "416"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/02/arts/02artsbeat-grease/02artsbeat-grease-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/02/arts/02artsbeat-grease/02artsbeat-grease-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Television", 
+  "keywords": [
+    {
+      "value": "Television", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Grease: Live (TV Program)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "creative_works"
+    }, 
+    {
+      "value": "Kail, Thomas", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Fox Broadcasting Co", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "KOBLIN"
+      }
+    ], 
+    "original": "By JOHN KOBLIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-02T00:00:00Z", 
+  "section_name": "Arts"
+}
