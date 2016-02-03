@@ -1,0 +1,125 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "New techniques in computational voice analysis are promising to help machines identify the emotions behind a person\u2019s voice.", 
+  "headline": {
+    "main": "In a Mood? Call Center Agents Can Tell", 
+    "kicker": "Technophoria", 
+    "print_headline": "In a Mood? Call Center Agents Can Tell", 
+    "content_kicker": "Technophoria"
+  }, 
+  "abstract": "Natasha Singer Technophoria column; new techniques in computational voice analysis are promising to help machines identify emotions behind a person\u2019s voice; developers are offering nascent software as deeper approach for call centers and other customer services that seek to read and respond to consumers' emotions in real time.", 
+  "print_page": "3", 
+  "word_count": "1238", 
+  "_id": "5259b7a97988105ad44f7745", 
+  "snippet": "New techniques in computational voice analysis are promising to help machines identify the emotions behind a person\u2019s voice.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/10/13/business/in-a-mood-call-center-agents-can-tell.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-articleLarge.jpg", 
+      "height": 398, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-articleLarge.jpg", 
+        "xlargeheight": "398"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2013/10/13/business/13-TECHNO-SUB/13-TECHNO-SUB-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Voice and Speech", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "CallMiner Inc", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Verint Systems Inc", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Beyond Verbal Communication Ltd", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Voice Recognition Systems", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Emotions", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Customer Relations", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Natasha", 
+        "lastname": "SINGER"
+      }
+    ], 
+    "original": "By NATASHA SINGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-10-13T00:00:00Z", 
+  "section_name": "Business Day"
+}

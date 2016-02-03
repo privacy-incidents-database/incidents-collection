@@ -1,0 +1,118 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Magazine", 
+  "lead_paragraph": "Does taking meth while pregnant make Amanda Kimbrough responsible for the death of her premature baby? The testing of \u201cfetal personhood.\u201d", 
+  "headline": {
+    "seo": "The Criminalization of Bad Mothers", 
+    "main": "The Criminalization of Bad Mothers", 
+    "print_headline": "Mommy Had To Go Away for A While"
+  }, 
+  "abstract": "Ada Calhoun article highlights the case of Alabama woman Amanda Kimbrough, who is serving a 10-year sentence for the death of her prematurely-born child because she took methamphetamine while she was pregnant; case has attracted groups like Planned Parenthood and the ACLU, who maintain her conviction sets a dangerous precedent.", 
+  "print_page": "30", 
+  "word_count": "5641", 
+  "_id": "515b5f02fdc59278db009062", 
+  "snippet": "Does taking meth while pregnant make Amanda Kimbrough responsible for the death of her premature baby? The testing of \u201cfetal personhood.\u201d", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/04/29/magazine/the-criminalization-of-bad-mothers.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2012/04/29/magazine/29fetal1/mag-29Fetal-t_CA1-articleLarge.jpg", 
+      "height": 446, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2012/04/29/magazine/29fetal1/mag-29Fetal-t_CA1-articleLarge.jpg", 
+        "xlargeheight": "446"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2012/04/29/magazine/29fetal1/29fetal1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2012/04/29/magazine/29fetal1/29fetal1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Pregnancy and Childbirth", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Drug Abuse and Traffic", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Premature Babies", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Child Custody and Support", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Babies and Infants", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Women and Girls", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Children and Childhood", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Planned Parenthood Federation of America", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Alabama", 
+      "is_major": "Y", 
+      "rank": "9", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ada", 
+        "lastname": "CALHOUN"
+      }
+    ], 
+    "original": "By ADA CALHOUN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-04-29T00:00:00Z", 
+  "section_name": "Magazine"
+}

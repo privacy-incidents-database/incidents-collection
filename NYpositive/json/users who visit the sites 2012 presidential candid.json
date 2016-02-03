@@ -1,0 +1,119 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A hallmark of this presidential campaign is the use of data-mining techniques to customize ads for voters based on the digital trails they leave.", 
+  "headline": {
+    "seo": "Tracking Voters\u2019 Clicks Online to Try to Sway Them", 
+    "main": "Tracking Voters\u2019 Clicks Online to Try to Sway Them", 
+    "print_headline": "Tracking Clicks Online To Try to Sway Voters"
+  }, 
+  "abstract": "Hallmark of 2012 presidential campaign is use of increasingly sophisticated, but not always accurate, data-mining techniques to customize ads for voters based on digital trails they leave.", 
+  "print_page": "16", 
+  "word_count": "1270", 
+  "_id": "508c4ca895e998af71189b9b", 
+  "snippet": "A hallmark of this presidential campaign is the use of data-mining techniques to customize ads for voters based on the digital trails they leave.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/10/28/us/politics/tracking-clicks-online-to-try-to-sway-voters.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2012/10/28/us/28voter3/28voter3-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2012/10/28/us/28voter3/28voter3-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Presidential Election of 2012", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Political Advertising", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Data-Mining and Database Marketing", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Romney, Mitt", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Online Advertising", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Interactive Advertising Bureau", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "ValueClick Inc", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Natasha", 
+        "lastname": "SINGER"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Charles", 
+        "lastname": "DUHIGG"
+      }
+    ], 
+    "original": "By NATASHA SINGER and CHARLES DUHIGG"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-10-28T00:00:00Z", 
+  "section_name": "U.S."
+}

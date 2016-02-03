@@ -1,0 +1,82 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "An Italian gossip magazine on Monday became the latest outlet to publish images of the Duchess of Cambridge, the former Kate Middleton, sunbathing topless in France.", 
+  "headline": {
+    "seo": "Italian Magazine Publishes Topless Images of Kate Middleton", 
+    "main": "Italian Magazine Publishes Disputed Images of Duchess", 
+    "print_headline": "Italy: Magazine Publishes Images of British Duchess"
+  }, 
+  "abstract": "Italian gossip magazine Chi becomes the latest outlet to publish images of the Duchess of Cambridge, the former Kate Middleton, sunbathing topless while on a vacation in France.", 
+  "print_page": "8", 
+  "word_count": "698", 
+  "_id": "5056ea5e1c22dfde670c9056", 
+  "snippet": "An Italian gossip magazine on Monday became the latest outlet to publish images of the Duchess of Cambridge, the former Kate Middleton, sunbathing topless in France.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/09/18/world/europe/italian-magazine-publishes-topless-images-of-kate-middleton.html", 
+  "multimedia": [], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "Royal Family", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Catherine, Duchess of Cambridge", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Italy", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Berlusconi, Silvio", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Elisabetta Povoledo reported from Rome, and Alan Cowell from London.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Elisabetta", 
+        "lastname": "POVOLEDO"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Alan", 
+        "lastname": "COWELL"
+      }
+    ], 
+    "original": "By ELISABETTA POVOLEDO and ALAN COWELL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-09-18T00:00:00Z", 
+  "section_name": "World"
+}

@@ -1,0 +1,108 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "NAT", 
+  "lead_paragraph": "Apps that use facial recognition technology to provide information about a bar scene are developing faster than privacy safeguards.", 
+  "headline": {
+    "seo": "Face Recognition Moves From Sci-Fi to Social Media", 
+    "main": "Face Recognition Makes the Leap From Sci-Fi", 
+    "kicker": "Slipstream", 
+    "print_headline": "Face Recognition Makes The Leap From Sci-Fi", 
+    "content_kicker": "Slipstream"
+  }, 
+  "abstract": "Slipstream column observes apps that use facial recognition technology are being used in variety of ways, including to scout bar scenes; warns that technology is developing faster than privacy safeguards, but concedes technology has great business potential.", 
+  "print_page": "3", 
+  "word_count": "1087", 
+  "_id": "515b8aa9fdc59278db00c2f6", 
+  "snippet": "Apps that use facial recognition technology to provide information about a bar scene are developing faster than privacy safeguards.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/11/13/business/face-recognition-moves-from-sci-fi-to-social-media.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2011/11/13/business/13-SLIP1/13-SLIP1-articleLarge.jpg", 
+      "height": 360, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2011/11/13/business/13-SLIP1/13-SLIP1-articleLarge.jpg", 
+        "xlargeheight": "360"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/11/13/business/13-SLIP1/13-SLIP1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/11/13/business/13-SLIP1/13-SLIP1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Vision", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Social Networking (Internet)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Mobile Applications", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Facebook Inc", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Advertising and Marketing", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Regulation and Deregulation of Industry", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Natasha", 
+        "lastname": "SINGER"
+      }
+    ], 
+    "original": "By NATASHA SINGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-11-13T00:00:00Z", 
+  "section_name": "Business Day"
+}

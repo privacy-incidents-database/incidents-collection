@@ -1,0 +1,105 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Local law enforcement agencies have moved into what had been the domain of the F.B.I. and state crime labs, and the trend is expected only to accelerate after a recent Supreme Court decision.", 
+  "headline": {
+    "main": "Police Agencies Are Assembling Records of DNA", 
+    "print_headline": "Police Agencies Are Assembling Records of DNA"
+  }, 
+  "abstract": "Local law enforcement agencies nationwide are amassing their own DNA databases of potential suspects, raising privacy concerns; trend is expected to accelerate after Supreme Court's decision allowing authorities to collect DNA samples from those arrested for serious crimes.", 
+  "print_page": "1", 
+  "word_count": "1340", 
+  "_id": "51b93d5546fdbf320e13bec3", 
+  "snippet": "Local law enforcement agencies have moved into what had been the domain of the F.B.I. and state crime labs, and the trend is expected only to accelerate after a recent Supreme Court decision.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/06/13/us/police-agencies-are-assembling-records-of-dna.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/06/13/us/jp-DNA-1/jp-DNA-1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/06/13/us/jp-DNA-1/jp-DNA-1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/06/13/us/jp-DNA-1/jp-DNA-1-articleLarge.jpg", 
+      "height": 354, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/06/13/us/jp-DNA-1/jp-DNA-1-articleLarge.jpg", 
+        "xlargeheight": "354"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2013/06/13/us/jp-DNA-1/jp-DNA-1-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2013/06/13/us/jp-DNA-1/jp-DNA-1-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "States (US)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Police", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "DNA (Deoxyribonucleic Acid)", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Crime and Criminals", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joseph", 
+        "lastname": "GOLDSTEIN"
+      }
+    ], 
+    "original": "By JOSEPH GOLDSTEIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-06-13T00:00:00Z", 
+  "section_name": "U.S."
+}

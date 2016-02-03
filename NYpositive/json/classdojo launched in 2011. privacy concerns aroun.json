@@ -1,0 +1,123 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Many teachers say the ClassDojo app helps them record classroom conduct, but critics are wary of such apps\u2019 ramifications for data privacy and fairness.", 
+  "headline": {
+    "main": "Privacy Concerns for ClassDojo and Other Tracking Apps for Schoolchildren", 
+    "print_headline": "Clicks, Not Gold Stars"
+  }, 
+  "abstract": "Behavior-tracking app ClassDojo is used by at least one teacher in one of three schools in United States; many teachers say program helps them automate job of recording classroom conduct, as well as letting them communicate directly with parents; some parents, teachers and privacy law experts are wary of ClassDojo's ramifications for data privacy and fairness.", 
+  "print_page": "1", 
+  "word_count": "1286", 
+  "_id": "54692c8b7988101de50ec59c", 
+  "snippet": "Many teachers say the ClassDojo app helps them record classroom conduct, but critics are wary of such apps\u2019 ramifications for data privacy and fairness.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/11/17/technology/privacy-concerns-for-classdojo-and-other-tracking-apps-for-schoolchildren.html", 
+  "multimedia": [
+    {
+      "width": 190, 
+      "url": "images/2014/11/17/business/kidtracking1/kidtracking1-thumbWide-v2.jpg", 
+      "height": 126, 
+      "subtype": "wide", 
+      "legacy": {
+        "wide": "images/2014/11/17/business/kidtracking1/kidtracking1-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 600, 
+      "url": "images/2014/11/17/business/kidtracking1/kidtracking1-articleLarge-v2.jpg", 
+      "height": 400, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2014/11/17/business/kidtracking1/kidtracking1-articleLarge-v2.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2014/11/17/business/kidtracking1/kidtracking1-thumbStandard-v3.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2014/11/17/business/kidtracking1/kidtracking1-thumbStandard-v3.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "Y", 
+      "value": "Education (K-12)", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "Y", 
+      "value": "Privacy", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "Y", 
+      "value": "Teachers and School Employees", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "Y", 
+      "value": "Mobile Applications", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Chaudhary, Usamah", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "General Catalyst Partners", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "New Schools Venture Fund", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "8", 
+      "is_major": "N", 
+      "value": "ClassDojo (ClassTwist Inc)", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Natasha", 
+        "rank": 1, 
+        "lastname": "SINGER"
+      }
+    ], 
+    "original": "By NATASHA SINGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-11-17T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,81 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A federal judge ruled that Twitter must give information to the Justice Department about three of its account holders who are under investigation for their links to WikiLeaks.", 
+  "headline": {
+    "seo": "Twitter Must Provide Data on 3 Users, Judge Rules", 
+    "main": "Twitter Ordered to Yield Data in WikiLeaks Case", 
+    "print_headline": "Twitter Must Provide Data On 3 Users, Judge Rules"
+  }, 
+  "abstract": "Federal Judge Liam O'Grady rules that Twitter must give information to the Justice Department about three of its account holders who are under investigation for their links to WikiLeaks.", 
+  "print_page": "8", 
+  "word_count": "427", 
+  "_id": "515b8ae3fdc59278db00c349", 
+  "snippet": "A federal judge ruled that Twitter must give information to the Justice Department about three of its account holders who are under investigation for their links to WikiLeaks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/11/11/technology/twitter-ordered-to-yield-data-in-wikileaks-case.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Twitter", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Wikileaks", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Decisions and Verdicts", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Freedom of Speech and Expression", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Somini", 
+        "lastname": "SENGUPTA"
+      }
+    ], 
+    "original": "By SOMINI SENGUPTA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-11-11T00:00:00Z", 
+  "section_name": "Technology"
+}

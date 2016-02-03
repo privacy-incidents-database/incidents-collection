@@ -1,0 +1,107 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The university offered a qualified apology for keeping the searches, which refocused attention on Harvard\u2019s largest cheating scandal, secret from most of the employees involved.", 
+  "headline": {
+    "seo": "Harvard Offers Explanation for Search of E-Mail Accounts", 
+    "main": "Harvard Explains Why Staff E-Mails Were Searched", 
+    "print_headline": "Harvard Explains Why Staff E-Mails Were Searched"
+  }, 
+  "abstract": "Harvard and its president Drew Gilpin Faust offer qualified apology in first public comments on university's searching of staff members' e-mail accounts and keeping searches secret from most employees involved; episode riled faculty members and refocused attention on Harvard's largest cheating scandal.", 
+  "print_page": "15", 
+  "word_count": "870", 
+  "_id": "513e05b2cf28d04ae0001ef6", 
+  "snippet": "The university offered a qualified apology for keeping the searches, which refocused attention on Harvard\u2019s largest cheating scandal, secret from most of the employees involved.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/03/12/education/harvard-search-e-mail-accounts.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/03/12/us/HARVARD/HARVARD-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/03/12/us/HARVARD/HARVARD-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/03/12/us/HARVARD/HARVARD-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/03/12/us/HARVARD/HARVARD-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Colleges and Universities", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Harvard University", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "E-Mail", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cheating", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Faust, Drew Gilpin", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Richard", 
+        "lastname": "P\u00c9REZ-PE\u00d1A"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Jess", 
+        "lastname": "BIDGOOD"
+      }
+    ], 
+    "original": "By RICHARD P\u00c9REZ-PE\u00d1A and JESS BIDGOOD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-03-12T00:00:00Z", 
+  "section_name": "Education"
+}

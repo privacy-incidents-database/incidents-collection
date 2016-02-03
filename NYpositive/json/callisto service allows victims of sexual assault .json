@@ -1,0 +1,112 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "Students at some colleges can use a service called Callisto to anonymously record the details of a sexual assault and later file a report if they choose.", 
+  "headline": {
+    "main": "The War on Campus Sexual Assault Goes Digital", 
+    "kicker": "Technophoria", 
+    "print_headline": "The War on Campus Sexual Assault Goes Digital", 
+    "content_kicker": "Technophoria"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "1220", 
+  "_id": "56464541798810237382f72e", 
+  "snippet": "Students at some colleges can use a service called Callisto to anonymously record the details of a sexual assault and later file a report if they choose.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/11/15/technology/the-war-on-campus-sexual-assault-goes-digital.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2015/11/15/business/15-TECHNO/15-TECHNO-thumbWide-v2.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2015/11/15/business/15-TECHNO/15-TECHNO-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2015/11/15/business/15-TECHNO/15-TECHNO-articleLarge-v2.jpg", 
+      "height": 403, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2015/11/15/business/15-TECHNO/15-TECHNO-articleLarge-v2.jpg", 
+        "xlargeheight": "403"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2015/11/15/business/15-TECHNO/15-TECHNO-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2015/11/15/business/15-TECHNO/15-TECHNO-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Colleges and Universities", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sex Crimes", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sexual Health Innovations", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Pomona College", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "University of San Francisco", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Start-ups", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Natasha", 
+        "lastname": "SINGER"
+      }
+    ], 
+    "original": "By NATASHA SINGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-11-15T00:00:00Z", 
+  "section_name": "Technology"
+}

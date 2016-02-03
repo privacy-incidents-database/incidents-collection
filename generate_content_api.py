@@ -40,27 +40,34 @@ def get_content_from_json():
 
 def create_json(web_url, filename):
     API_KEY = os.environ.get("NY_TIMES_API_KEY")
-    url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?fq=web_url:" + web_url \
+
+    query = web_url
+    query = query.rsplit('/')[-1]
+    query = query.split('.html')[0]
+
+    print "Fetching Article: " + query
+    url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + query \
     + "&api-key=" + API_KEY
 
     r = requests.get(url)
     if r.status_code == 200:
         w = r.json()
-        print w
+        if w.has_key('response'):
+            docs = w['response']['docs']
+            for d in docs:
+                if query in d['web_url']:
+                    folderName = args.destination
+                    if not os.path.exists(folderName):
+                        os.makedirs(folderName)
 
-    # folderName = args.destination
-    # if not os.path.exists(folderName):
-    #     os.makedirs(folderName)
-    #
-    # jsonFolder = folderName + "/json"
-    # if not os.path.exists(jsonFolder):
-    #     os.makedirs(jsonFolder)
-    #
-    #
-    # #Write json
-    # wr = open("%s/json/%s.json" % (folderName,filename), 'w')
-    # json.dump(d , wr, indent = 2)
-    # wr.close()
+                    jsonFolder = folderName + "/json"
+                    if not os.path.exists(jsonFolder):
+                        os.makedirs(jsonFolder)
+
+                    #Write json
+                    wr = open("%s/json/%s.json" % (folderName,filename), 'w')
+                    json.dump(d , wr, indent = 2)
+                    wr.close()
 
 if __name__ == "__main__":
     get_content_from_json()
