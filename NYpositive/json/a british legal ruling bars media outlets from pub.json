@@ -1,0 +1,83 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A British soccer star\u2019s affair became gossip online but was blocked from the media, fueling a debate about privacy.", 
+  "headline": {
+    "seo": "Free Speech and Privacy Rights Collide on Twitter", 
+    "main": "Free Speech on Twitter Faces Test", 
+    "print_headline": "Free Speech On Twitter Faces Test"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1005", 
+  "_id": "540e09ec79881045f3790afa", 
+  "snippet": "A British soccer star\u2019s affair became gossip online but was blocked from the media, fueling a debate about privacy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/05/23/technology/23twitter.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "News and News Media", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Twitter", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Freedom of Speech and Expression", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Social Networking (Internet)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Claire Cain Miller reported from San Francisco and Ravi Somaiya from London.", 
+    "person": [
+      {
+        "firstname": "Claire", 
+        "middlename": "Cain", 
+        "lastname": "MILLER", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Ravi", 
+        "lastname": "SOMAIYA"
+      }
+    ], 
+    "original": "By CLAIRE CAIN MILLER and RAVI SOMAIYA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-05-23T00:00:00Z", 
+  "section_name": "Technology"
+}

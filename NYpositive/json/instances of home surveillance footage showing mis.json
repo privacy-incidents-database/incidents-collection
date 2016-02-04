@@ -1,0 +1,94 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Home", 
+  "lead_paragraph": "Attracted by the declining prices of surveillance cameras, people are recording their neighbors\u2019 misdeeds, to press charges or to shame them online.", 
+  "headline": {
+    "seo": "Using Video Surveillance to Catch the Neighbors", 
+    "main": "Neighborhood Mischief Caught on Tape", 
+    "print_headline": "The Vandal Next Door"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1313", 
+  "_id": "542044c279881027876d036f", 
+  "snippet": "Attracted by the declining prices of surveillance cameras, people are recording their neighbors\u2019 misdeeds, to press charges or to shame them online.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/11/04/garden/04surveillance.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2010/11/04/garden/04surveillance-span/04surveillance-span-articleLarge.jpg", 
+      "height": 339, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/11/04/garden/04surveillance-span/04surveillance-span-articleLarge.jpg", 
+        "xlargeheight": "339"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2010/11/04/garden/04surveillance-span/04surveillance-span-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/11/04/garden/04surveillance-span/04surveillance-span-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Recordings and Downloads (Video)", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Housing and Real Estate", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "YouTube.com", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Cameras", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Kate", 
+        "rank": 1, 
+        "lastname": "MURPHY"
+      }
+    ], 
+    "original": "By KATE MURPHY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-11-04T00:00:00Z", 
+  "section_name": "Home & Garden"
+}

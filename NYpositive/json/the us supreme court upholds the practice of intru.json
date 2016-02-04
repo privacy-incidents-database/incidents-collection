@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Scientists and engineers who work on government space programs must submit to intrusive background checks, the Supreme Court ruled on Wednesday.", 
+  "headline": {
+    "seo": "Justices Uphold Background Checks", 
+    "main": "Justices Uphold Background Checks", 
+    "print_headline": "Justices Uphold Background Checks for Government Contractors"
+  }, 
+  "abstract": null, 
+  "print_page": "16", 
+  "word_count": "746", 
+  "_id": "5409e9807988101836d96343", 
+  "snippet": "Scientists and engineers who work on government space programs must submit to intrusive background checks, the Supreme Court ruled on Wednesday.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/01/20/us/20scotus.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Supreme Court", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Decisions and Verdicts", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "National Aeronautics and Space Administration", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Adam", 
+        "lastname": "LIPTAK"
+      }
+    ], 
+    "original": "By ADAM LIPTAK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-01-20T00:00:00Z", 
+  "section_name": "U.S."
+}

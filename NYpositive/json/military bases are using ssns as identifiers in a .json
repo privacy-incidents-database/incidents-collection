@@ -1,0 +1,76 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The Social Security numbers of military personnel are used for everything from health forms to gym memberships.", 
+  "headline": {
+    "seo": "Service Members Face New Threat: Identity Theft", 
+    "main": "Service Members Face New Threat: Identity Theft", 
+    "print_headline": "Easy Numbers for ID Theft, Lightly Guarded by Military"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1127", 
+  "_id": "542200007988101d513284fb", 
+  "snippet": "The Social Security numbers of military personnel are used for everything from health forms to gym memberships.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/12/07/technology/07identity.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/12/07/business/Indentity1/Indentity1-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/12/07/business/Indentity1/Indentity1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Identity Fraud", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "United States Defense and Military Forces", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Identification Devices", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Matt", 
+        "rank": 1, 
+        "lastname": "RICHTEL"
+      }
+    ], 
+    "original": "By MATT RICHTEL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-12-07T00:00:00Z", 
+  "section_name": "Technology"
+}

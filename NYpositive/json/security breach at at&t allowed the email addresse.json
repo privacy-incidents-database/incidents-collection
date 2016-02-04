@@ -1,0 +1,73 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business/Financial Desk", 
+  "lead_paragraph": "The Federal Bureau of Investigation said Thursday that it was investigating a security breach on AT&T's Web site that allowed a security group to obtain the e-mail addresses of 114,000 iPad 3G owners. The group also obtained the identification numbers known as ICC-IDs that those iPads use to communicate over AT&T's network.", 
+  "headline": {
+    "main": "F.B.I. Investigates Breach of AT&T", 
+    "kicker": "BITS"
+  }, 
+  "abstract": "Federal Bureau of Investigation says it is investigating breach on AT&T's Web site that allowed private security group to obtain e-mail addresses of 114,000 iPad 3G owners (S)", 
+  "print_page": "4", 
+  "word_count": 188, 
+  "_id": "4fd29a4b8eb7c8105d879594", 
+  "snippet": "The Federal Bureau of Investigation said Thursday that it was investigating a security breach on AT&T's Web site that allowed a security group to obtain the e-mail addresses of 114,000 iPad 3G owners.     The group also obtained the identification...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9B01E6DF133BF932A25755C0A9669D8B63", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "FEDERAL BUREAU OF INVESTIGATION"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "AT&T INC"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "APPLE INC"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ELECTRONIC MAIL"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HACKERS (COMPUTERS)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "IPAD"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVACY"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Nick", 
+        "rank": 1, 
+        "lastname": "BILTON"
+      }
+    ], 
+    "original": "By NICK BILTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-06-11T00:00:00Z", 
+  "section_name": "Technology; Business"
+}

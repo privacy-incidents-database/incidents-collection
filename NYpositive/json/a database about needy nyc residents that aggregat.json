@@ -1,0 +1,124 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "New York City says a data-sharing effort will enhance services, but advocates for the poor voice worries over privacy.", 
+  "headline": {
+    "seo": "Promise and Concern for Vast Social Services Database on City\u2019s Neediest", 
+    "main": "Concern for Vast Social Services Database on the City\u2019s Neediest", 
+    "print_headline": "Promise and Concern for a Vast Social Services Database on the City\u2019s Neediest"
+  }, 
+  "abstract": null, 
+  "print_page": "31", 
+  "word_count": "1110", 
+  "_id": "540ed6a479881045f37919be", 
+  "snippet": "New York City says a data-sharing effort will enhance services, but advocates for the poor voice worries over privacy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/17/nyregion/promise-and-concern-for-vast-social-services-database-on-citys-neediest.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2011/06/17/nyregion/DATABASE/DATABASE-articleLarge.jpg", 
+      "height": 360, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2011/06/17/nyregion/DATABASE/DATABASE-articleLarge.jpg", 
+        "xlargeheight": "360"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/06/17/nyregion/DATABASE/DATABASE-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/06/17/nyregion/DATABASE/DATABASE-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Data Storage", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New York City", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Administration for Children's Services (NYC)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeless Services Department (NYC)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "New York Legal Assistance Group", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Welfare (US)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Food Stamps", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Public and Subsidized Housing", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Legal Aid for the Poor", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Juliet Linderman contributed reporting.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Anemona", 
+        "lastname": "HARTOCOLLIS"
+      }
+    ], 
+    "original": "By ANEMONA HARTOCOLLIS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-17T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

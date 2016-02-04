@@ -1,0 +1,124 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The authorities were debating whether to file child pornography charges, including felony charges, in the sexting case at Ca\u00f1on City High School.", 
+  "headline": {
+    "main": "Hundreds of Nude Photos Jolt Colorado School", 
+    "print_headline": "Hundreds of Nude Photos Jolt Colorado School"
+  }, 
+  "abstract": "Authorities in Canon City, Colo, catch at least 100 Canon City High School students trading naked pictures of themselves, leaving quiet, semi-rural community of 16,000 shocked; it is felony to possess or distribute child pornography, but law enforcement officials are unsure of how to proceed because most of people at fault are minors and, in some cases, took pictures of themselves and sent them to others.", 
+  "print_page": "1", 
+  "word_count": "1097", 
+  "_id": "563cfbb779881009f278cbbd", 
+  "snippet": "The authorities were debating whether to file child pornography charges, including felony charges, in the sexting case at Ca\u00f1on City High School.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/11/07/us/colorado-students-caught-trading-nude-photos-by-the-hundreds.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2015/11/07/us/07canon-jp/07canon-jp-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2015/11/07/us/07canon-jp/07canon-jp-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2015/11/07/us/07canon-jp/07canon-jp-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2015/11/07/us/07canon-jp/07canon-jp-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2015/11/07/us/07canon-jp/07canon-jp-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2015/11/07/us/07canon-jp/07canon-jp-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Education (K-12)", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Child Pornography", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Photography", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Text Messaging", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sexting", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Canon City High School (Canon City, Colo)", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Canon City (Colo)", 
+      "is_major": "Y", 
+      "rank": "7", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Kassondra Cloos reported from Ca\u00f1on City, and Julie Turkewitz from New York. Katie Rogers contributed reporting from New York, and Doris Burke contributed research.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Kassondra", 
+        "lastname": "CLOOS"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Julie", 
+        "lastname": "TURKEWITZ"
+      }
+    ], 
+    "original": "By KASSONDRA CLOOS and JULIE TURKEWITZ"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-11-07T00:00:00Z", 
+  "section_name": "U.S."
+}

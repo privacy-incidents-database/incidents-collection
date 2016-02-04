@@ -1,0 +1,120 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The United Arab Emirates said that it cannot adequately monitor the company\u2019s e-mail and text messaging services.", 
+  "headline": {
+    "seo": "U.A.E. Moves to Block BlackBerry Services", 
+    "main": "Emirates to Cut Data Services of BlackBerry", 
+    "print_headline": "Emirates to Cut Data Services Of BlackBerry"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1118", 
+  "_id": "5419204f7988106440c998af", 
+  "snippet": "The United Arab Emirates said that it cannot adequately monitor the company\u2019s e-mail and text messaging services.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/08/02/business/global/02berry.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2010/08/02/business/02blackberry_span/02blackberry-articleLarge.jpg", 
+      "height": 350, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/08/02/business/02blackberry_span/02blackberry-articleLarge.jpg", 
+        "xlargeheight": "350"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/08/02/business/02blackberry_span/02blackberry-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/08/02/business/02blackberry_span/02blackberry-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Global Business", 
+  "keywords": [
+    {
+      "value": "Blackberry (Handheld Device)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United Arab Emirates", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Wireless Communications", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Saudi Arabia", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Research In Motion Ltd", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Reporting was contributed by Ian Austen, Landon Thomas Jr., Mona El-Naggar, Joseph Berger, Miguel Helft and Kareem Fahim.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Barry", 
+        "lastname": "MEIER"
+      }, 
+      {
+        "firstname": "Robert", 
+        "middlename": "F.", 
+        "lastname": "WORTH", 
+        "rank": 2, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By BARRY MEIER and ROBERT F. WORTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-08-02T00:00:00Z", 
+  "section_name": "Business Day"
+}

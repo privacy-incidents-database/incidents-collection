@@ -1,0 +1,82 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Steven P. Jobs said the complaints were based on a misunderstanding, but he promised software fixes.", 
+  "headline": {
+    "seo": "Jobs Concedes Apple\u2019s Mistakes in iPhone Location Data", 
+    "main": "Jobs Says Apple Made Mistakes With iPhone Data", 
+    "print_headline": "Jobs Concedes Apple\u2019s Mistakes, and Promises a Fix, on Location Data Practice"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "853", 
+  "_id": "540d2cf27988100d2d57ebb1", 
+  "snippet": "Steven P. Jobs said the complaints were based on a misunderstanding, but he promised software fixes.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/04/28/technology/28apple.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/04/28/business/Apple/Apple-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/04/28/business/Apple/Apple-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Incorporated", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Jobs, Steven P", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "iPad", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Nick Bilton contributed reporting from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Miguel", 
+        "lastname": "HELFT"
+      }
+    ], 
+    "original": "By MIGUEL HELFT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-04-28T00:00:00Z", 
+  "section_name": "Technology"
+}

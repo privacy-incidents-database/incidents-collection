@@ -1,0 +1,81 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Privacy advocates say Flash cookies may allow companies to create profiles of consumers without their knowledge.", 
+  "headline": {
+    "seo": "Code Known as Flash Cookies Raises Privacy Concerns", 
+    "main": "Code That Tracks Users\u2019 Browsing Prompts Lawsuits", 
+    "print_headline": "Code That Tracks Users\u2019 Browsing Prompts Lawsuits"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "1250", 
+  "_id": "541ad20b79881037000b9e58", 
+  "snippet": "Privacy advocates say Flash cookies may allow companies to create profiles of consumers without their knowledge.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/09/21/technology/21cookie.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Suits and Litigation", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Amazon.com Inc", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Disney, Walt, Co", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Tanzina", 
+        "lastname": "VEGA"
+      }
+    ], 
+    "original": "By TANZINA VEGA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-09-21T00:00:00Z", 
+  "section_name": "Technology"
+}

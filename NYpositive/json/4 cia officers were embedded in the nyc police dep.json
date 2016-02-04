@@ -1,0 +1,68 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Four agency officers were embedded with the New York Police Department in the decade after 9/11, including one who helped conduct surveillance operations in the United States, according to a C.I.A. review.", 
+  "headline": {
+    "main": "C.I.A. Report Finds Concerns With Ties to New York Police", 
+    "print_headline": "C.I.A. Sees Concerns on Ties to New York Police"
+  }, 
+  "abstract": "Inspector general's report shows that four Central Intelligence Agency officers were embedded with New York Police Department in decade after 9/11, including one who helped conduct surveillance operations in United States; report raises several concerns about relationship between two organizations.", 
+  "print_page": "1", 
+  "word_count": "1188", 
+  "_id": "51cb8b817988106fb9667446", 
+  "snippet": "Four agency officers were embedded with the New York Police Department in the decade after 9/11, including one who helped conduct surveillance operations in the United States, according to a C.I.A. review.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/06/27/nyregion/cia-sees-concerns-on-ties-to-new-york-police.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Central Intelligence Agency", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Police Department (NYC)", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New York City", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Police", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Charlie", 
+        "lastname": "SAVAGE"
+      }
+    ], 
+    "original": "By CHARLIE SAVAGE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-06-27T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

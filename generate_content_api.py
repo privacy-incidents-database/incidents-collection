@@ -41,12 +41,17 @@ def get_content_from_json():
 def create_json(web_url, filename):
     API_KEY = os.environ.get("NY_TIMES_API_KEY")
 
+
+    url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?callback=svc_search_v2_articlesearch \
+    &fq=web_url:%22"+web_url+"%22&api-key=""" + API_KEY
+    print "Fetching Article: " + web_url
+
     query = web_url
     query = query.rsplit('/')[-1]
     query = query.split('.html')[0]
 
-    print "Fetching Article: " + query
-    url = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + query \
+    # print "Fetching Article: " + query
+    url2 = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q=" + query \
     + "&api-key=" + API_KEY
 
     r = requests.get(url)
@@ -54,6 +59,13 @@ def create_json(web_url, filename):
         w = r.json()
         if w.has_key('response'):
             docs = w['response']['docs']
+            if not docs:
+                r2 = requests.get(url2)
+                if r2.status_code == 200:
+                    w = r2.json()
+                    if w.has_key('response'):
+                        docs = w['response']['docs']
+
             for d in docs:
                 if query in d['web_url']:
                     folderName = args.destination

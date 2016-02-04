@@ -1,0 +1,86 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The Obama administration wants broader airline passenger information to track terrorist travel patterns.\r\n", 
+  "headline": {
+    "main": "U.S. Presses Pakistan for More Data on Travelers", 
+    "print_headline": "U.S. Presses Pakistan for More Data on Air Travelers"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "1090", 
+  "_id": "5446f53d79881004ee627dd7", 
+  "snippet": "The Obama administration wants broader airline passenger information to track terrorist travel patterns.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/05/31/world/asia/31terror.html", 
+  "multimedia": [], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Pakistan", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Jane Perlez contributed reporting from Islamabad, Pakistan.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "SCHMITT"
+      }
+    ], 
+    "original": "By ERIC SCHMITT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-05-31T00:00:00Z", 
+  "section_name": "World"
+}

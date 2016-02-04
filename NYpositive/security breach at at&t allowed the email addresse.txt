@@ -1,5 +1,6 @@
 F.B.I. Investigates Breach of AT and T - Web Log - NYTimes.com
-campaign: abTest_bar1_ft_upsell_nyt_0116 -- 282911, creative: abTest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
+campaign: nyt2014_bar1_digihd_regi_BAU -- 268632, creative: nyt2015_bar1_digihd_BAU_4JQ88_4JQ8F_4JQ8J_4JQ8L -- 399712, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
+deliveryand free, unlimited digital access?50% OFF FOR 12
 The Federal Bureau of Investigation said Thursday that it was investigating a security breach on AT&T;'s Web site that allowed a security group to obtain the e-mail addresses of 114,000 iPad 3G owners.
 The group also obtained the identification numbers known as ICC-IDs that those iPads use to communicate over AT&T;'s network.
 ''The F.B.I. is aware of these possible computer intrusions and has opened an investigation to address the potential cyberthreat,'' said Jason Pack, a supervisory special agent with the F.B.I.'s news media office.

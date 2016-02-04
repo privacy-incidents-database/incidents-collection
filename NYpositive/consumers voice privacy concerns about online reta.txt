@@ -1,5 +1,6 @@
 Seeing That Ad on Every Site? You're Right. It's Tracking You. - NYTimes.com
-campaign: abTest_bar1_ft_upsell_nyt_0116 -- 282911, creative: abTest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
+campaign: nyt2014_bar1_digihd_regi_BAU -- 268632, creative: nyt2015_bar1_digihd_BAU_4JQ88_4JQ8F_4JQ8J_4JQ8L -- 399712, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
+deliveryand free, unlimited digital access?50% OFF FOR 12
 Seeing That Ad on Every Site? You're Right. It's Tracking You.
 The shoes that Julie Matlin recently saw on Zappos.com were kind of cute, or so she thought. But Ms. Matlin wasn't ready to buy and left the site.
 Then the shoes started to follow her everywhere she went online. An ad for those very shoes showed up on the blog TechCrunch. It popped up again on several other blogs and on Twitpic. It was as if Zappos had unleashed a persistent salesman who wouldn't take no for an answer.

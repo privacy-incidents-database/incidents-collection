@@ -1,0 +1,68 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The Obama administration is rewriting new rules on medical privacy after an outpouring of criticism from consumer groups and members of Congress who say the rules do not adequately protect the rights of patients.", 
+  "headline": {
+    "main": "Tighter Medical Privacy Rules Sought", 
+    "print_headline": "Tighter Medical Privacy Rules Sought"
+  }, 
+  "abstract": null, 
+  "print_page": "11", 
+  "word_count": "961", 
+  "_id": "5419d21079881037000b871a", 
+  "snippet": "The Obama administration is rewriting new rules on medical privacy after an outpouring of criticism from consumer groups and members of Congress who say the rules do not adequately protect the rights of patients.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/08/23/health/policy/23privacy.html", 
+  "multimedia": [], 
+  "subsection_name": "Money & Policy", 
+  "keywords": [
+    {
+      "value": "Medicine and Health", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Health Insurance and Managed Care", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "States (US)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Reform and Reorganization", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Robert", 
+        "lastname": "PEAR"
+      }
+    ], 
+    "original": "By ROBERT PEAR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-08-23T00:00:00Z", 
+  "section_name": "Health"
+}

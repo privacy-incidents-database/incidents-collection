@@ -1,0 +1,76 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A major security flaw in Facebook\u2019s privacy settings heightened a feeling among many users that it was becoming hard to trust the service to protect their personal information. ", 
+  "headline": {
+    "seo": "Glitch Brings New Worries About Facebook&#8217;s Privacy", 
+    "main": "Facebook Glitch Brings New Privacy Worries ", 
+    "print_headline": "Facebook And Privacy Clash Again"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1162", 
+  "_id": "5445e327798810347c1a8dd8", 
+  "snippet": "A major security flaw in Facebook\u2019s privacy settings heightened a feeling among many users that it was becoming hard to trust the service to protect their personal information.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/05/06/technology/internet/06facebook.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/05/06/business/06facebook_CA0/06facebook_CA0-thumbStandard.gif", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/05/06/business/06facebook_CA0/06facebook_CA0-thumbStandard.gif", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Internet", 
+  "keywords": [
+    {
+      "value": "Facebook.com", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Social Networking (Internet)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jenna", 
+        "lastname": "WORTHAM"
+      }
+    ], 
+    "original": "By JENNA WORTHAM"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-05-06T00:00:00Z", 
+  "section_name": "Technology"
+}

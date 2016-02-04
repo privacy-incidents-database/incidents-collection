@@ -1,0 +1,70 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The F.B.I. plans to issue a new edition of its manual giving agents more leeway to search databases, go through household trash or use surveillance teams to scrutinize people.", 
+  "headline": {
+    "seo": "F.B.I. Giving Agents New Powers in Revised Manual", 
+    "main": "F.B.I. Agents Get Leeway to Push Privacy Bounds", 
+    "sub": "Searches of Databases and Household Trash Will Be Allowed;", 
+    "print_headline": "F.B.I. AGENTS GET LEEWAY TO PUSH PRIVACY BOUNDS"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1069", 
+  "_id": "540eafd179881045f37916f5", 
+  "snippet": "The F.B.I. plans to issue a new edition of its manual giving agents more leeway to search databases, go through household trash or use surveillance teams to scrutinize people.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/13/us/13fbi.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Search and Seizure", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Civil Rights and Liberties", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Charlie", 
+        "lastname": "SAVAGE"
+      }
+    ], 
+    "original": "By CHARLIE SAVAGE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-13T00:00:00Z", 
+  "section_name": "U.S."
+}

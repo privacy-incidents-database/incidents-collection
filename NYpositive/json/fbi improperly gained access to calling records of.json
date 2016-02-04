@@ -1,0 +1,84 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "The Federal Bureau of Investigation improperly obtained calling records for more than 3,500 telephone accounts from 2003 to 2006 without following any legal procedures, according to a newly disclosed report by the Justice Department's inspector general. Instead, according to the 289-page report, F.B.I. agents informally requested the records from employees of three unidentified telephone companies who were stationed inside a bureau communications office.", 
+  "headline": {
+    "main": "F.B.I. Violated Rules in Obtaining Phone Records, Report Says"
+  }, 
+  "abstract": "Justice Dept inspector general finds Federal Bureau of Investigation improperly obtained calling records for more than 3,5000 telephone accounts from 2003 to 2006 without following legal procedures; says FBI agents informally requested records from employees of three unidentified phone companies who were stationed inside FBI communications office; new report is third to criticize way FBI collected calling records after 2001 terrorist attacks (M)", 
+  "print_page": "25", 
+  "word_count": 373, 
+  "_id": "4fd2a4f58eb7c8105d88c335", 
+  "snippet": "The F.B.I. improperly obtained calling records for more than 3,500 telephone accounts between 2003 and 2006, said the Justice Department\u2019s inspector general.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/21/us/21fbi.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "FEDERAL BUREAU OF INVESTIGATION"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "JUSTICE DEPARTMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SURVEILLANCE OF CITIZENS BY GOVERNMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SEARCH AND SEIZURE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TELEPHONES AND TELECOMMUNICATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVACY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WIRETAPPING AND OTHER EAVESDROPPING DEVICES AND METHODS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Charlie", 
+        "rank": 1, 
+        "lastname": "SAVAGE"
+      }
+    ], 
+    "original": "By CHARLIE SAVAGE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-21T00:00:00Z", 
+  "section_name": "U.S."
+}

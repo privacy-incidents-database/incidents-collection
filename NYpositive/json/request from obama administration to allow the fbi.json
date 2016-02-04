@@ -1,0 +1,68 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The administration asked Congress to give the F.B.I. clear authority to obtain records related to the context of Internet-based communications without first getting a warrant.", 
+  "headline": {
+    "main": "White House Seeks to Clarify F.B.I. Powers vis-\u00e0-vis E-Mail", 
+    "print_headline": "White House Seeks to Clarify F.B.I. Powers vis-\u00e0-vis E-Mail"
+  }, 
+  "abstract": null, 
+  "print_page": "15", 
+  "word_count": "500", 
+  "_id": "54190de87988106440c9972f", 
+  "snippet": "The administration asked Congress to give the F.B.I. clear authority to obtain records related to the context of Internet-based communications without first getting a warrant.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/07/30/us/30fbi.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Electronic Mail", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Charlie", 
+        "lastname": "SAVAGE"
+      }
+    ], 
+    "original": "By CHARLIE SAVAGE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-07-30T00:00:00Z", 
+  "section_name": "U.S."
+}

@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A complaint filed with the Federal Trade Commission says that QualityHealth and similar sites offer users medical information, but don\u2019t make it clear that personal data is used for drug marketing.", 
+  "headline": {
+    "seo": "Online Health Sites Share Personal Data, Privacy Groups Say", 
+    "main": "Privacy Groups Fault Online Health Sites for Sharing User Data With Marketers", 
+    "print_headline": "Privacy Groups Fault Online Health Sites for Sharing User Data With Marketers"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "973", 
+  "_id": "5420edbb7988104c4a501c50", 
+  "snippet": "A complaint filed with the Federal Trade Commission says that QualityHealth and similar sites offer users medical information, but don\u2019t make it clear that personal data is used for drug marketing.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/11/24/business/24drug.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Drugs (Pharmaceuticals)", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Advertising and Marketing", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Consumer Behavior", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Federal Trade Commission", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Medicine and Health", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "8", 
+      "is_major": "N", 
+      "value": "Food and Drug Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "9", 
+      "is_major": "N", 
+      "value": "WebMD Health Corp", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Natasha", 
+        "rank": 1, 
+        "lastname": "SINGER"
+      }
+    ], 
+    "original": "By NATASHA SINGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-11-24T00:00:00Z", 
+  "section_name": "Business Day"
+}

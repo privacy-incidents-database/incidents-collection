@@ -1,0 +1,83 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "In a legal complaint, Amazon said that an audit meant to investigate loss of sales tax in North Carolina violated First Amendment and privacy rights.", 
+  "headline": {
+    "seo": "In Tax Fight, Amazon Cites Privacy Concerns", 
+    "main": "In a State\u2019s Search for Sales Tax, Amazon Raises Privacy Concerns", 
+    "kicker": "Link by Link", 
+    "print_headline": "In a State\u2019s Search for Sales Tax, Amazon Raises Privacy Concerns", 
+    "content_kicker": "Link by Link"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "905", 
+  "_id": "5445c277798810347c1a8b2e", 
+  "snippet": "In a legal complaint, Amazon said that an audit meant to investigate loss of sales tax in North Carolina violated First Amendment and privacy rights.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/05/03/business/media/03link.html", 
+  "multimedia": [], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Amazon.com Inc", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Sales Tax", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Shopping and Retail", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "E-Commerce", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "North Carolina", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Noam", 
+        "rank": 1, 
+        "lastname": "COHEN"
+      }
+    ], 
+    "original": "By NOAM COHEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-05-03T00:00:00Z", 
+  "section_name": "Business Day"
+}

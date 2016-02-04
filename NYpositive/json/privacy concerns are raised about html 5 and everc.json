@@ -1,0 +1,76 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The new language, HTML5, could give marketers access to many more details about users\u2019 online activities.", 
+  "headline": {
+    "seo": "Web Upgrade HTML 5 May Weaken Privacy", 
+    "main": "New Web Code Draws Concern Over Privacy Risks", 
+    "print_headline": "Web Code Offers New Ways To See What Users Do Online"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1120", 
+  "_id": "541b892b7988100a1c65ff32", 
+  "snippet": "The new language, HTML5, could give marketers access to many more details about users\u2019 online activities.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/10/11/business/media/11privacy.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/10/11/business/jpprivacy/jpprivacy-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/10/11/business/jpprivacy/jpprivacy-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Advertising and Marketing", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Web Browsers", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Tanzina", 
+        "rank": 1, 
+        "lastname": "VEGA"
+      }
+    ], 
+    "original": "By TANZINA VEGA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-10-11T00:00:00Z", 
+  "section_name": "Business Day"
+}

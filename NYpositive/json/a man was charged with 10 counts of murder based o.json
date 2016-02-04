@@ -1,0 +1,96 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "The use of genetic analysis called kinship searching resulted in an arrest in the Grim Sleeper case, but has raised privacy issues and other social concerns.", 
+  "headline": {
+    "seo": "A DNA Search Method Raises Privacy Questions", 
+    "main": "In Fighting Crime, How Wide Should a Genetic Net Reach?", 
+    "kicker": "Slipstream", 
+    "print_headline": "In Fighting Crime, How Wide Should a Genetic Net Reach?", 
+    "content_kicker": "Slipstream"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "1061", 
+  "_id": "5418d92c7988106440c9925a", 
+  "snippet": "The use of genetic analysis called kinship searching resulted in an arrest in the Grim Sleeper case, but has raised privacy issues and other social concerns.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/07/25/business/25stream.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2010/07/25/business/STREAM/STREAM-articleLarge.jpg", 
+      "height": 315, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/07/25/business/STREAM/STREAM-articleLarge.jpg", 
+        "xlargeheight": "315"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/07/25/business/STREAM/STREAM-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/07/25/business/STREAM/STREAM-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Genetics and Heredity", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "DNA (Deoxyribonucleic Acid)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "American Civil Liberties Union", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Crime and Criminals", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Natasha", 
+        "lastname": "SINGER"
+      }
+    ], 
+    "original": "By NATASHA SINGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-07-25T00:00:00Z", 
+  "section_name": "Business Day"
+}

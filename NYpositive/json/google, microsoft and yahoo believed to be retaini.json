@@ -1,0 +1,70 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "European officials say search-engine companies have not complied with rules to sever all links to individual computer users after six months.", 
+  "headline": {
+    "seo": "Europe Says Search Engines Are Violating Data Rules", 
+    "main": "Europe Says Search Firms Are Violating Data Rules", 
+    "print_headline": "Europe Says Search Firms Are Violating Data Rules"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "661", 
+  "_id": "5446d1bd79881004ee627aca", 
+  "snippet": "European officials say search-engine companies have not complied with rules to sever all links to individual computer users after six months.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/05/27/technology/27data.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "European Union", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Google Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Search Engines", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "Kevin", 
+        "middlename": "J.", 
+        "lastname": "O'BRIEN", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By KEVIN J. O'BRIEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-05-27T00:00:00Z", 
+  "section_name": "Technology"
+}

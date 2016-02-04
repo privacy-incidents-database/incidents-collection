@@ -60,19 +60,14 @@ The Web Means the End of Forgetting - NYTimes.com
 
 
 
-campaign: abTest_bar1_ft_upsell_inyt_0116 -- 282944, creative: abTest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/yr/mo/day/magazine/25privacy-t2.html, targetedPage: www.nytimes.com/yr/mo/day/magazine, position: Bar1
 
 
+Subscribe Now
 
 
+Subscribe
 
-
-
-
-
-
-
-
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/yr/mo/day/magazine/25privacy-t2.html, targetedPage: www.nytimes.com/yr/mo/day/magazine, position: Bar1
 Log In
 Register Now
 
@@ -370,46 +365,46 @@ Viewed
 
 
 
-A New Vision for Dreams of the Dying
-Taking Note: Sarah Palin’s English
-David Brooks: Donald Trump Isn’t Real
-The Getaway: The Best Day to Buy Airline Tickets? Well, That Depends.
-Op-Ed Contributor: How Both Parties Lost the White Middle Class
-Op-Ed | Adam Grant: How to Raise a Creative Child. Step One: Back Off
-Adjusting Medication May Prolong Levine’s Tenure at the Met
-Bank Tellers, With Access to Accounts, Pose a Rising Security Risk
-Couch: Just One More Question
-The New Old Age: Study Finds Growing Reason to Be Wary of Some Reflux Drugs
+Well: A Diet and Exercise Plan to Lose Weight and Gain Muscle
+Toxic Loans Around the World Weigh on Global Growth
+Charles M. Blow: White America’s ‘Broken Heart’
+Nicholas Kristof: 2 Questions for Bernie Sanders
+Bob Elliott, Half of the Deadpan Bob and Ray Comedy Team, Dies at 92
+Quilts With a Sense of Place, Stitched in Oakland
+GPS Mix-Up Brings Wrong Turn, and Celebrity, to an American in Iceland
+Gail Collins: And Now, the Marco Memo
+Thomas L. Friedman: Social Media: Destroyer or Creator?
+An Appraisal: Recalling Bob and Ray, Who Paved the Way for Today’s Deadpan Humor
 
 Go to Complete List »
 
 
 
-crossword
 zika
-downton abbey recap
 modern love
-education
 donald trump
+crossword
 new york times archives
+flint michigan water
+education
 china
+social q's
 bernie sanders
-paul krugman
 
 Go to Complete List »
 
 
 
-David Brooks: Donald Trump Isn’t Real
-Ted Cruz Wins Republican Caucuses in Iowa
-Taking Note: Sarah Palin’s English
-Little Separates Bernie Sanders and Hillary Clinton in Tight Race in Iowa
-Hillary Clinton Campaign, Unnerved by Iowa, Braces for New Hampshire
-The Upshot: Why a ‘Virtual Tie’ in Iowa Is Better for Clinton Than Sanders
-2016 Primary Calendar and Results
-Hillary Clinton and Bernie Sanders Intensify Efforts in New Hampshire After Iowa Standoff
+First Draft: Donald Trump Says Ted Cruz Stole Victory in Iowa Caucuses
+Well: A Diet and Exercise Plan to Lose Weight and Gain Muscle
+Toxic Loans Around the World Weigh on Global Growth
 Out of a Rare Super Bowl I Recording, a Clash With the N.F.L. Unspools
-Donald Trump’s Twitter Insults: The Complete List (So Far)
+Playboy Puts On (Some) Clothes for Newly Redesigned Issue
+Ken Stabler, a Magnetic N.F.L. Star, Was Sapped of Spirit by C.T.E.
+Charles M. Blow: White America’s ‘Broken Heart’
+Jeb Bush, an Also-Ran in Iowa, May Be Pivotal in New Hampshire
+Chicago Professor Resigns Amid Sexual Misconduct Investigation
+No Alcohol for Sexually Active Women Without Birth Control, C.D.C. Recommends
 
 Go to Complete List »
 

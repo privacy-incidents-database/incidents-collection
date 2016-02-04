@@ -1,0 +1,82 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Two young women in Cincinnati are testing the fringes of Fabulous Fifties nostalgia by selling reproductions of 1955 police mug shots.", 
+  "headline": {
+    "seo": "Old Mug Shots Fuel Art, and a Debate on Privacy", 
+    "main": "Old Mug Shots Fuel Art, and a Debate on Privacy", 
+    "print_headline": "Old Mug Shots Fuel Art, and a Debate on Privacy"
+  }, 
+  "abstract": null, 
+  "print_page": "21", 
+  "word_count": "849", 
+  "_id": "5411c89879881032180eb1cf", 
+  "snippet": "Two young women in Cincinnati are testing the fringes of Fabulous Fifties nostalgia by selling reproductions of 1955 police mug shots.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/08/28/us/28mug.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/08/28/us/MUGS/MUGS-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/08/28/us/MUGS/MUGS-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Art", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Photography", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cincinnati (Ohio)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Steven", 
+        "lastname": "ROSEN"
+      }
+    ], 
+    "original": "By STEVEN ROSEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-08-28T00:00:00Z", 
+  "section_name": "U.S."
+}

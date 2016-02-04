@@ -1,0 +1,79 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business/Financial Desk", 
+  "lead_paragraph": "The shoes that Julie Matlin recently saw on Zappos.com were kind of cute, or so she thought. But Ms. Matlin wasn't ready to buy and left the site. Then the shoes started to follow her everywhere she went online. An ad for those very shoes showed up on the blog TechCrunch. It popped up again on several other blogs and on Twitpic. It was as if Zappos had unleashed a persistent salesman who wouldn't take no for an answer.", 
+  "headline": {
+    "main": "Seeing That Ad on Every Site? You're Right. It's Tracking You."
+  }, 
+  "abstract": "People have grown accustomed to being tracked online and shown ads for categories of products they have shown interest in, but increasingly, ads are for specific products that they have perused; while technique, which ad industry calls personalized retargeting or remarketing, is not new, it is becoming more pervasive as companies like Google and Microsoft have entered field; retargeting has reached level of precision that is leaving consumers with palpable feeling that they are being watched as they roam virtual aisles of online stores; in digital advertising business, this form of highly personalized marketing is being hailed as latest breakthrough because it tries to show consumers right ad at right time; some people, though, find it disturbing; with more consumers queasy about intrusions into their privacy, technique is raising anew threat of industry regulation; photo (M)", 
+  "print_page": "1", 
+  "word_count": 1170, 
+  "_id": "4fd2b72f8eb7c8105d8ab854", 
+  "snippet": "The shoes that Julie Matlin recently saw on Zappos.com were kind of cute, or so she thought. But Ms. Matlin wasn't ready to buy and left the site.     Then the shoes started to follow her everywhere she went online. An ad for those very shoes showed...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9C06E6DC143DF933A0575BC0A9669D8B63", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "MICROSOFT CORP"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "GOOGLE INC"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SHOPPING AND RETAIL"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ADVERTISING AND MARKETING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CONSUMER PROTECTION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "REGULATION AND DEREGULATION OF INDUSTRY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CONSUMER BEHAVIOR"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVACY"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Miguel", 
+        "rank": 1, 
+        "lastname": "HELFT"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Tanzina", 
+        "rank": 2, 
+        "lastname": "VEGA"
+      }
+    ], 
+    "original": "By MIGUEL HELFT and TANZINA VEGA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-08-30T00:00:00Z", 
+  "section_name": "Technology; Front Page; Business"
+}

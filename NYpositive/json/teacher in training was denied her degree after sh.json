@@ -1,0 +1,129 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Magazine", 
+  "lead_paragraph": "The digital age is facing its first existential crisis: the impossibility of erasing your posted past and moving on.", 
+  "headline": {
+    "main": "The Web Means the End of Forgetting", 
+    "print_headline": "The End of Forgetting"
+  }, 
+  "abstract": null, 
+  "print_page": "30", 
+  "word_count": "6846", 
+  "_id": "5418ae377988106440c98e6a", 
+  "snippet": "The digital age is facing its first existential crisis: the impossibility of erasing your posted past and moving on.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/07/25/magazine/25privacy-t2.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2010/07/25/magazine/25privacy-span/25privacy-span-articleLarge.jpg", 
+      "height": 350, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/07/25/magazine/25privacy-span/25privacy-span-articleLarge.jpg", 
+        "xlargeheight": "350"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/07/25/magazine/25privacy-span/25privacy-span-thumbStandard-v3.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/07/25/magazine/25privacy-span/25privacy-span-thumbStandard-v3.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Zuckerberg, Mark E", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Social Networking (Internet)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Search Engines", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "MySpace.com", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Twitter", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Facebook.com", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "YouTube.com", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Google Inc", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Zittrain, Jonathan", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jeffrey", 
+        "lastname": "ROSEN"
+      }
+    ], 
+    "original": "By JEFFREY ROSEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-07-25T00:00:00Z", 
+  "section_name": "Magazine"
+}

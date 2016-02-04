@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "An employee of the General Services Administration sent the names and Social Security numbers of the agency\u2019s entire staff to a private e-mail address.", 
+  "headline": {
+    "seo": "General Services Administration Workers on Alert After Breach", 
+    "main": "U.S. Workers Are on Alert After Breach of Data", 
+    "print_headline": "U.S. Workers Are on Alert After Breach Of Data"
+  }, 
+  "abstract": null, 
+  "print_page": "32", 
+  "word_count": "422", 
+  "_id": "542063817988104c4a501036", 
+  "snippet": "An employee of the General Services Administration sent the names and Social Security numbers of the agency\u2019s entire staff to a private e-mail address.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/11/07/us/07breach.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "General Services Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Identity Fraud", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Ashley", 
+        "rank": 1, 
+        "lastname": "SOUTHALL"
+      }
+    ], 
+    "original": "By ASHLEY SOUTHALL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-11-07T00:00:00Z", 
+  "section_name": "U.S."
+}

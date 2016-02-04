@@ -1,0 +1,57 @@
+{
+  "type_of_material": "Blog", 
+  "blog": [], 
+  "news_desk": null, 
+  "lead_paragraph": "2:22 p.m. | Updated Including new information about the security flaw and adding comment from Facebook.", 
+  "headline": {
+    "main": "Facebook Security Flaw Publicizes Private Chats", 
+    "kicker": "Bits"
+  }, 
+  "abstract": "A major security flaw in Facebook's privacy settings allowed users to see a friend's private chats and view their friend's pending friend requests.", 
+  "print_page": null, 
+  "word_count": 460, 
+  "_id": "4fd39b1c8eb7c8105d8d932c", 
+  "snippet": "A major security flaw in Facebook's privacy settings allowed users to see a friend's private chats and view their friend's pending friend requests.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://bits.blogs.nytimes.com/2010/05/05/facebook-security-flaw-publicizes-private-chats/", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Facebook.com", 
+      "name": "organizations", 
+      "rank": "4"
+    }, 
+    {
+      "value": "Privacy", 
+      "name": "subject", 
+      "rank": "3"
+    }, 
+    {
+      "value": "Zuckerberg, Mark E", 
+      "name": "persons", 
+      "rank": "2"
+    }, 
+    {
+      "value": "News", 
+      "name": "type_of_material", 
+      "rank": "1"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "BILTON"
+      }
+    ], 
+    "original": "By NICK BILTON"
+  }, 
+  "document_type": "blogpost", 
+  "pub_date": "2010-05-05T13:57:02Z", 
+  "section_name": "Technology"
+}

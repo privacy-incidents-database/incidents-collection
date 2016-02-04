@@ -1,4 +1,4 @@
-campaign: abTest_bar1_ft_upsell_inyt_0116 -- 282944, creative: abTest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/yr/mo/day/magazine/25privacy-t2.html, targetedPage: www.nytimes.com/yr/mo/day/magazine, position: Bar1
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/yr/mo/day/magazine/25privacy-t2.html, targetedPage: www.nytimes.com/yr/mo/day/magazine, position: Bar1
 Photo Illustration by James Wojcik. Prop Stylist: Megan Caponetto.
 Four years ago, Stacy Snyder, then a 25-year-old teacher in training at Conestoga Valley High School in Lancaster, Pa., posted a photo on her MySpace page that showed her at a party wearing a pirate hat and drinking from a plastic cup, with the caption “Drunken Pirate.” After discovering the page, her supervisor at the high school told her the photo was “unprofessional,” and the dean of Millersville University School of Education, where Snyder was enrolled, said she was promoting drinking in virtual view of her under-age students. As a result, days before Snyder’s scheduled graduation, the university denied her a teaching degree. Snyder sued, arguing that the university had violated her First Amendment rights by penalizing her for her (perfectly legal) after-hours behavior. But in 2008, a federal district judge rejected the claim, saying that because Snyder was a public employee whose photo didn’t relate to matters of public concern, her “Drunken Pirate” post was not protected speech.
 Paul Ohm, a law professor at the University of Colorado, and Michael Fertik, founder of ReputationDefender, answer reader questions about Internet privacy. Read Part I and Part II.
@@ -13,18 +13,21 @@ It’s often said that we live in a permissive era, one with infinite second cha
 Jeffrey Rosen, a law professor at George Washington University, is a frequent contributor to the magazine. He is writing a book about Louis Brandeis.
 A version of this article appeared in print on July 25, 2010, on page MM30 of the Sunday Magazine.
 Past CoverageSMALL BUSINESS GUIDE; Tapping the Wisdom of the Crowd (August 4, 2010)Delhi Police Use Facebook to Track Scofflaw Drivers (August 1, 2010)The End of Forgetting (July 25, 2010)SCENE STEALER; In Hollywood, Everybody's A Digital Revolutionary (July 25, 2010)
-The Getaway: The Best Day to Buy Airline Tickets? Well, That Depends.
-Op-Ed Contributor: How Both Parties Lost the White Middle Class
-Op-Ed | Adam Grant: How to Raise a Creative Child. Step One: Back Off
-Adjusting Medication May Prolong Levine’s Tenure at the Met
-Bank Tellers, With Access to Accounts, Pose a Rising Security Risk
-The New Old Age: Study Finds Growing Reason to Be Wary of Some Reflux Drugs
-Little Separates Bernie Sanders and Hillary Clinton in Tight Race in Iowa
-Hillary Clinton Campaign, Unnerved by Iowa, Braces for New Hampshire
-The Upshot: Why a ‘Virtual Tie’ in Iowa Is Better for Clinton Than Sanders
-Hillary Clinton and Bernie Sanders Intensify Efforts in New Hampshire After Iowa Standoff
+Well: A Diet and Exercise Plan to Lose Weight and Gain Muscle
+Toxic Loans Around the World Weigh on Global Growth
+Bob Elliott, Half of the Deadpan Bob and Ray Comedy Team, Dies at 92
+GPS Mix-Up Brings Wrong Turn, and Celebrity, to an American in Iceland
+Thomas L. Friedman: Social Media: Destroyer or Creator?
+An Appraisal: Recalling Bob and Ray, Who Paved the Way for Today’s Deadpan Humor
+First Draft: Donald Trump Says Ted Cruz Stole Victory in Iowa Caucuses
+Well: A Diet and Exercise Plan to Lose Weight and Gain Muscle
+Toxic Loans Around the World Weigh on Global Growth
 Out of a Rare Super Bowl I Recording, a Clash With the N.F.L. Unspools
-Donald Trump’s Twitter Insults: The Complete List (So Far)
+Playboy Puts On (Some) Clothes for Newly Redesigned Issue
+Ken Stabler, a Magnetic N.F.L. Star, Was Sapped of Spirit by C.T.E.
+Jeb Bush, an Also-Ran in Iowa, May Be Pivotal in New Hampshire
+Chicago Professor Resigns Amid Sexual Misconduct Investigation
+No Alcohol for Sexually Active Women Without Birth Control, C.D.C. Recommends
 Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
 New York City’s top public schools must become more diverse.
 campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/magazine/25privacy-t2.html, targetedPage: www.nytimes.com/yr/mo/day/magazine, position: Inv1

@@ -62,18 +62,29 @@ Seeing That Ad on Every Site? You're Right. It's Tracking You. - NYTimes.com
 
 
 
+campaign: nyt2014_bar1_digihd_regi_BAU -- 268632, creative: nyt2015_bar1_digihd_BAU_4JQ88_4JQ8F_4JQ8J_4JQ8L -- 399712, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
 
-campaign: abTest_bar1_ft_upsell_nyt_0116 -- 282911, creative: abTest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
-
-
-
-
+Subscribe
+Now
 
 
 
+Want both newspaper
+deliveryand free, unlimited digital access?50% OFF FOR 12
+WEEKS
 
 
 
+
+
+Want unlimited access
+to NYTimes.com and our apps?99¢
+FOR 4 WEEKS
+
+
+See All Subscriptions
+
+Subscribe
 
 
 Log In

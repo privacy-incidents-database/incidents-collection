@@ -1,5 +1,5 @@
 Glitch Brings New Worries About Facebook’s Privacy - NYTimes.com
-campaign: abTest_bar1_ft_upsell_inyt_0116 -- 282944, creative: abTest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/yr/mo/day/technology/internet/06facebook.html, targetedPage: www.nytimes.com/yr/mo/day/technology/internet, position: Bar1
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/yr/mo/day/technology/internet/06facebook.html, targetedPage: www.nytimes.com/yr/mo/day/technology/internet, position: Bar1
 For many users of Facebook, the world’s largest social network, it was just the latest in a string of frustrations.
 Screenshot courtesy of the Electronic Privacy Information Center
 Facebook asks users to link information in their profiles, which makes that information public.
@@ -36,14 +36,18 @@ Mr. Schrage of Facebook said the controversy over the site’s changes was indic
 This article has been revised to reflect the following correction:Correction: May 10, 2010An article on Thursday about Facebook users’ privacy concerns referred incorrectly to the type of information the site uses to customize advertising for individual users. It uses both public and private information on the user’s profile page, not public information alone.
 A version of this article appeared in print on May 6, 2010, on page B1 of the New York edition.
 ADVERTISING; Industry Tightens Its Standards For Tracking Web Surfers (July 2, 2009)Facebook to Offer New Features to Allow Users to Control Privacy of Information (July 2, 2009)Lost in the Real World, Found via Cyberspace (April 8, 2009)DIGITAL DOMAIN; When Everyone's a Friend, Is Anything Private? (March 8, 2009)
+Tech Fix: How to Watch the Super Bowl When You Don’t Have Cable
+State of the Art: Dropbox May Not Be LeBron James, but It Is Still in the Game
+Amazon Is Said to Be Planning an Expansion Into Retail Bookstores
+Amit Singhal, an Influential Engineer at Google, Will Retire
+Tech Fix: Apps to Manage Passwords So They Are Harder to Crack Than ‘Password’
+State of the Art: Dropbox May Not Be LeBron James, but It Is Still in the Game
+Tech Fix: How to Watch the Super Bowl When You Don’t Have Cable
+Amit Singhal, an Influential Engineer at Google, Will Retire
+Amazon Is Said to Be Planning an Expansion Into Retail Bookstores
+Bits: Mall Executive Backtracks From Statement on Amazon Retail Stores
+Fans Demand Details After Death of a 13-Year-Old YouTube Star
 A Yahoo Employee-Ranking System Favored by Marissa Mayer Is Challenged in Court
-Alphabet, Google’s Parent Company, Grows Briskly to Close In on Apple
-U.S. and Europe in ‘Safe Harbor’ Data Deal, but Legal Fight May Await
-Microsoft Plumbs Ocean’s Depths to Test Underwater Data Center
-A Yahoo Employee-Ranking System Favored by Marissa Mayer Is Challenged in Court
-Alphabet, Google’s Parent Company, Grows Briskly to Close In on Apple
-Microsoft Plumbs Ocean’s Depths to Test Underwater Data Center
-U.S. and Europe in ‘Safe Harbor’ Data Deal, but Legal Fight May Await
 Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
 New York City’s top public schools must become more diverse.
 campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/technology/internet/06facebook.html, targetedPage: www.nytimes.com/yr/mo/day/technology/internet, position: Inv1

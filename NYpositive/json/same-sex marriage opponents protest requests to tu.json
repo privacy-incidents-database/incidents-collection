@@ -1,0 +1,68 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Groups opposed to a Washington State same-sex law say that under the First Amendment, those who signed ballot-initiative petitions have the right to privacy.", 
+  "headline": {
+    "seo": "Supreme Court to Rule on Secrecy of Petition Names", 
+    "main": "Court to Rule on Right to Privacy for Referendum Petition Signers", 
+    "print_headline": "Court to Rule on Right to Privacy For Referendum Petition Signers"
+  }, 
+  "abstract": null, 
+  "print_page": "13", 
+  "word_count": "490", 
+  "_id": "5436be5979881057847f948d", 
+  "snippet": "Groups opposed to a Washington State same-sex law say that under the First Amendment, those who signed ballot-initiative petitions have the right to privacy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/16/us/politics/16scotus.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Referendums", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Same-Sex Marriage, Civil Unions and Domestic Partnerships", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Supreme Court", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Washington (State)", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Adam", 
+        "rank": 1, 
+        "lastname": "LIPTAK"
+      }
+    ], 
+    "original": "By ADAM LIPTAK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-16T00:00:00Z", 
+  "section_name": "U.S."
+}

@@ -1,23 +1,28 @@
 France to Begin Test of Body Scanners - NYTimes.com
-campaign: abTest_bar1_ft_upsell_inyt_0116 -- 282944, creative: abTest_bar1_ft_upsell_nyt_0116_ad -- 412102, page: www.nytimes.com/yr/mo/day/world/europe/09europe.html, targetedPage: www.nytimes.com/yr/mo/day/world/europe, position: Bar1
+campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/yr/mo/day/world/europe/09europe.html, targetedPage: www.nytimes.com/yr/mo/day/world/europe, position: Bar1
 PARIS  With the European debate over the use of body scanners at airports intensifying, the French government said Friday that it would begin putting a handful of the scanners into place for testing at Charles de Gaulle and Orly airports to use for American-bound flights.
 Europe Debates Use of Full-Body Scanners at Airports (January 8, 2010)
 French officials said that one would be installed at Charles de Gaulle by the end of January, and that five or six more would be introduced there and at Orly over the following weeks.
 The body scans  which will complement metal-detection and baggage X-ray devices  will not be mandatory, said Alexandre Crozat, director of the office of security measures at France’s civil aviation authority, but passengers who refuse them will be required to undergo pat-down searches. He did not say how long the scanners would be tested. The failed attempt to bring down a plane flying from Amsterdam to Detroit on Dec. 25 has raised security concerns at airports around the world. On Thursday, President Obama directed the Homeland Security Department to speed the installation of body scanners at American airports and to work with international airports to see that they upgrade their own equipment.
 But European governments are sharply divided about the scanners, which allow security agents to see virtually naked images of passengers. Many officials and privacy advocates express deep concerns that the process is overly intrusive. The technology is also expensive: the machines cost about $190,000 apiece.On Thursday, a committee of European Union aviation safety experts agreed in a closed-door meeting in Brussels on the need for a unified approach to enhancing security, but it was clear that they were divided on what role the scanners should have. Belgium’s secretary of state for transportation, Etienne Schouppe, has described them as “excessive.” Spain and Germany have also expressed strong reservations.Britain, meanwhile, plans to introduce body scanners in its airports by the end of the month; tests have begun at Heathrow in London, and at airports in Manchester and other sites. Italy has also said it will use the technology.Sophie in ‘t Veld, a Dutch member of the European Parliament and an expert on privacy issues, expressed concern that some member states were rushing to use scanners without first allowing for a thoughtful public debate. “These are ad hoc measures, without the governments having any clear idea of what exactly they are trying to achieve,” she said Friday in a telephone interview.“I understand that the public is clamoring for instant solutions,” Ms. in ‘t Veld said. “Scanners and other technologies can be very useful tools in the fight against terrorism, but they are no more than that. “Ideally, people with bad intentions should be identified long before” they pass through an airport’s final security checkpoint, she said.The suspect in the thwarted bombing last month flew from Ghana to Nigeria to the Netherlands, boarding the flight to Detroit at Schiphol Airport, outside Amsterdam. In the days after the attack was foiled, the United States and the Netherlands pointed fingers at each other over why the airport, which has 15 of the scanners, had not been using them. Dutch authorities said that Washington had not given permission, while the American authorities said no such permission was necessary.In any case, the Dutch announced within days that the scanners would be used for all United States-bound flights from Schiphol by the end of the month.
 Past CoverageEurope Debates Use of Full-Body Scanners at Airports (January 8, 2010)ITINERARIES; Paper Is Out, Cellphones Are In (March 18, 2008)In Airline Baggage Roulette, Travelers' Odds Are Getting Worse (November 21, 2007)U.S. Again Rejects A Shoe Scanner (October 10, 2007)
-The Getaway: The Best Day to Buy Airline Tickets? Well, That Depends.
-Op-Ed Contributor: How Both Parties Lost the White Middle Class
-Op-Ed | Adam Grant: How to Raise a Creative Child. Step One: Back Off
-Adjusting Medication May Prolong Levineâs Tenure at the Met
-Bank Tellers, With Access to Accounts, Pose a Rising Security Risk
-The New Old Age: Study Finds Growing Reason to Be Wary of Some Reflux Drugs
-Little Separates Bernie Sanders and Hillary Clinton in Tight Race in Iowa
-Hillary Clinton Campaign, Unnerved by Iowa, Braces for New Hampshire
-The Upshot: Why a âVirtual Tieâ in Iowa Is Better for Clinton Than Sanders
-Hillary Clinton and Bernie Sanders Intensify Efforts in New Hampshire After Iowa Standoff
+Well: A Diet and Exercise Plan to Lose Weight and Gain Muscle
+Toxic Loans Around the World Weigh on Global Growth
+Charles M. Blow: White Americaâs âBroken Heartâ
+Bob Elliott, Half of the Deadpan Bob and Ray Comedy Team, Dies at 92
+GPS Mix-Up Brings Wrong Turn, and Celebrity, to an American in Iceland
+Thomas L. Friedman: Social Media: Destroyer or Creator?
+An Appraisal: Recalling Bob and Ray, Who Paved the Way for Todayâs Deadpan Humor
+First Draft: Donald Trump Says Ted Cruz Stole Victory in Iowa Caucuses
+Well: A Diet and Exercise Plan to Lose Weight and Gain Muscle
+Toxic Loans Around the World Weigh on Global Growth
 Out of a Rare Super Bowl I Recording, a Clash With the N.F.L. Unspools
-Donald Trumpâs Twitter Insults: The Complete List (So Far)
+Playboy Puts On (Some) Clothes for Newly Redesigned Issue
+Ken Stabler, a Magnetic N.F.L. Star, Was Sapped of Spirit by C.T.E.
+Charles M. Blow: White Americaâs âBroken Heartâ
+Jeb Bush, an Also-Ran in Iowa, May Be Pivotal in New Hampshire
+Chicago Professor Resigns Amid Sexual Misconduct Investigation
+No Alcohol for Sexually Active Women Without Birth Control, C.D.C. Recommends
 Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
 New York City’s top public schools must become more diverse.
 campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/world/europe/09europe.html, targetedPage: www.nytimes.com/yr/mo/day/world/europe, position: Inv1

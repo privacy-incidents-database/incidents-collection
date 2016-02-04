@@ -1,0 +1,76 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A breach involving a California hospital led to the public posting of medical records for 20,000 emergency room patients on a commercial Web site for nearly a year.", 
+  "headline": {
+    "seo": "Stanford Hospital Patients\u2019 Private Data Was Posted Online", 
+    "main": "Patient Data Posted Online in Major Breach of Privacy", 
+    "print_headline": "Medical Data Of Thousands Posted Online"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1097", 
+  "_id": "5400c77579881068a19479c9", 
+  "snippet": "A breach involving a California hospital led to the public posting of medical records for 20,000 emergency room patients on a commercial Web site for nearly a year.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/09/09/us/09breach.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/09/09/us/JP-BREACH/JP-BREACH-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/09/09/us/JP-BREACH/JP-BREACH-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Electronic Health Records", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Multi-Specialty Collection Services LLC", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Stanford University", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Kevin", 
+        "lastname": "SACK"
+      }
+    ], 
+    "original": "By KEVIN SACK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-09-09T00:00:00Z", 
+  "section_name": "U.S."
+}

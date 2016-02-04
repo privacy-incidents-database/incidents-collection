@@ -1,0 +1,75 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The University of Illinois is fighting a newspaper request to release the list of well-connected parents whose children got an edge in admissions.", 
+  "headline": {
+    "seo": "University of Illinois Case: Privacy vs. Press Freedom", 
+    "main": "Privacy and Press Freedom Collide in University Case", 
+    "print_headline": "Privacy and Press Freedom Collide in University Case"
+  }, 
+  "abstract": "Chicago Tribune's request to the University of Illinois of the release of a list of well-connected parents whose children got an edge in admissions has set off a legal battle that pits the state's freedom of information law against the federal privacy law for educational records.", 
+  "print_page": "22", 
+  "word_count": "977", 
+  "_id": "515b90ecfdc59278db00caae", 
+  "snippet": "The University of Illinois is fighting a newspaper request to release the list of well-connected parents whose children got an edge in admissions.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/10/21/education/21privacy.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "University of Illinois", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Admissions Standards", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Freedom of the Press", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Courts and the Judiciary", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Chicago Tribune", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Tamar", 
+        "lastname": "LEWIN"
+      }
+    ], 
+    "original": "By TAMAR LEWIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-10-21T00:00:00Z", 
+  "section_name": "Education"
+}
