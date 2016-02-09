@@ -1,0 +1,140 @@
+no.,type_of_material,news_desk,word_count,keywords,document_type,pub_date,byline,isPrivacy
+1,news,none,326,,article,2016-02-01t15:15:55z,,False
+2,news,none,205,,article,2016-02-01t15:22:36z,,False
+3,news,none,242,,article,2016-02-01t14:46:16z,,False
+4,news,none,357,,article,2016-02-01t14:56:24z,,False
+5,news,none,334,,article,2016-02-01t15:06:24z,,False
+6,news,none,293,,article,2016-02-01t14:53:15z,,False
+7,news,none,263,,article,2016-02-01t15:02:07z,,False
+8,news,none,89,,article,2016-02-01t15:25:09z,,False
+9,news,styles,674,"presidential election of 2016,fashion and apparel,trump, donald j,bush, jeb,christie, christopher j,clinton, hillary rodham,cruz, ted,rubio, marco,sanders, bernard",article,2016-02-02t00:00:00z,Vanessa Friedman,False
+10,news,styles,430,"brownstones,radio,interior design and furnishings,brooklyn (nyc)",article,2016-02-05t00:00:00z,Steven Kurutz,False
+11,news,business,590,"mergers, acquisitions and divestitures,abbott laboratories,tests (medical),white, miles d",article,2016-02-02t00:00:00z,Leslie Picker,False
+12,news,foreign,747,"police,terrorism,taliban,kabul (afghanistan)",article,2016-02-02t00:00:00z,Mujib Mashal,False
+13,news,foreign,417,"south sudan,african union,united nations,war crimes, genocide and crimes against humanity",article,2016-02-02t00:00:00z,Jeffrey Gettleman,False
+14,news,business,283,"alcoa inc,elliott management corp,shareholder rights and activism,boards of directors",article,2016-02-02t00:00:00z,Michael De La Merced,False
+15,news,none,116,,article,2016-02-01t15:08:27z,,False
+16,news,none,132,,article,2016-02-01t15:13:46z,,False
+17,news,none,126,,article,2016-02-01t15:18:34z,,False
+18,news,none,512,,article,2016-02-01t15:18:42z,,False
+19,news,none,170,,article,2016-02-01t15:17:09z,,False
+20,news,none,278,,article,2016-02-01t14:51:13z,,False
+21,news,none,235,,article,2016-02-01t15:04:22z,,False
+22,news,none,136,,article,2016-02-01t15:20:19z,,False
+23,news,none,136,,article,2016-02-01t15:07:14z,,False
+24,news,none,649,,article,2016-02-01t15:14:18z,,False
+25,news,none,435,,article,2016-02-01t14:56:31z,,False
+26,news,none,132,,article,2016-02-01t15:12:02z,,False
+27,news,none,132,,article,2016-02-01t15:23:48z,,False
+28,news,business,1061,"water,environment,ethics and official misconduct,attorneys general,environmental protection agency,federal bureau of investigation,justice department,flint (mich)",article,2016-02-02t00:00:00z,Peter Henning,False
+29,news,edlife,1598,"colleges and universities,income inequality,blacks,race and ethnicity",article,2016-02-07t00:00:00z,Henry Gates,False
+30,news,foreign,855,"terrorism,boko haram,nigeria",article,2016-02-02t00:00:00z,"Iliya Kure,Dionne Searcey",False
+31,news,sports,846,"football,national football league,detroit lions,johnson, calvin (1985- )",article,2016-02-02t00:00:00z,Benjamin Hoffman,False
+32,news,business,368,"chipotle mexican grill inc,centers for disease control and prevention,e coli (bacteria),food contamination and poisoning",article,2016-02-02t00:00:00z,Christine Hauser,False
+33,news,dining,366,"cooking and cookbooks,salads,chicory (vegetable)",article,2016-02-03t00:00:00z,David Tanis,False
+34,news,foreign,824,"china,endangered and extinct species,animal abuse, rights and welfare,law and legislation,convention on international trade in endangered species",article,2016-02-02t00:00:00z,Shaojie Huang,False
+35,news,foreign,1429,"muslims and islam,china,mosques,gansu province (china)",article,2016-02-02t00:00:00z,Andrew Jacobs,False
+36,news,national,926,"thomas, clarence,supreme court (us),washington (dc)",article,2016-02-02t00:00:00z,Adam Liptak,False
+37,news,business,269,"initial public offerings,private equity,oaktree capital group llc,london stock exchange,great britain",article,2016-02-02t00:00:00z,Chad Bray,False
+38,news,foreign,652,"genetic engineering,great britain,pregnancy and childbirth",article,2016-02-02t00:00:00z,Nicholas Wade,False
+39,news,business,459,"stocks and bonds,nasdaq composite index,standard & poor's 500-stock index,dow jones stock average",article,2016-02-02t00:00:00z,,False
+40,news,dining,574,"cooking and cookbooks,furniture,muslims and islam,greenwich village (manhattan, ny)",article,2016-02-03t00:00:00z,Ligaya Mishan,False
+41,news,bookreview,2323,"wallace, david foster,books and literature,writing and writers",article,2016-02-07t00:00:00z,Tom Bissell,False
+42,news,business,612,"frauds and swindling,ponzi and pyramid schemes",article,2016-02-02t00:00:00z,Neil Gough,False
+43,news,dining,587,"new york city,guggenheim, solomon r, museum,dickson's farmstand meats (manhattan, ny, retailer),toro (manhattan, ny, restaurant),cooking and cookbooks",article,2016-02-03t00:00:00z,Florence Fabricant,False
+44,news,metro,409,"new york daily news,deaths (fatalities),newspapers",article,2016-02-02t00:00:00z,Christine Hauser,False
+45,news,national,1188,"ham,fires and firefighters,james river (va)",article,2016-02-02t00:00:00z,Sheryl Stolberg,False
+46,news,business,417,"compact fluorescent light bulbs,light-emitting diodes,energy efficiency,general electric company",article,2016-02-02t00:00:00z,Diane Cardwell,False
+47,news,business,420,"movies,sundance film festival (park city, utah),festivals,plexus corporation,utah",article,2016-02-02t00:00:00z,Brooks Barnes,False
+48,news,culture,299,"television,grease: live (tv program),kail, thomas,fox broadcasting co",article,2016-02-02t00:00:00z,John Koblin,False
+49,news,politics,690,"united states,income inequality,united states politics and government,psychology and psychologists,clinton, hillary rodham,trump, donald j",article,2016-02-02t00:00:00z,Anand Giridharadas,False
+50,news,science,226,"turtles and tortoises,caves and caverns,archaeology and anthropology,israel",article,2016-02-02t00:00:00z,Sindya Bhanoo,False
+51,news,sports,1232,"soccer,guangzhou evergrande (soccer team),brazil,china",article,2016-02-02t00:00:00z,Ewan Mackenna,False
+52,news,bookreview,514,books and literature,article,2016-02-07t00:00:00z,Gregory Cowles,False
+53,news,national,805,"primaries and caucuses,democratic party,republican party,iowa",article,2016-02-02t00:00:00z,Trip Gabriel,False
+54,news,upshot,1187,"iowa,primaries and caucuses,presidential election of 2016,polls and public opinion",article,2016-02-02t00:00:00z,Nate Cohn,False
+55,news,foreign,1176,"united states international relations,international relations,syria,kerry, john,russia,turkey,refugees and displaced persons",article,2016-02-02t00:00:00z,Somini Sengupta,False
+56,news,foreign,510,"poaching (wildlife),tanzania,elephants,ivory,serengeti national park (tanzania),aviation accidents, safety and disasters,pilots,deaths (fatalities)",article,2016-02-02t00:00:00z,"Willy Lowry,Jeffrey Gettleman",False
+57,news,travel,960,"louis vuitton,paris (france),travel and vacations,art,fashion and apparel",article,2016-02-07t00:00:00z,Sara Lieberman,False
+58,news,culture,391,"libraries and librarians,new york public library,caro, robert a,trotsky, leon",article,2016-02-02t00:00:00z,Sam Roberts,False
+59,news,dining,1683,"tangerines,agriculture and farming,california",article,2016-02-03t00:00:00z,David Karp,False
+60,news,business,234,"colbert, stephen,super bowl,cbs corporation,kelly, megyn,fox news channel",article,2016-02-02t00:00:00z,John Koblin,False
+61,news,culture,309,"architecture,moma ps1",article,2016-02-02t00:00:00z,Randy Kennedy,False
+62,news,styles,1055,"police,ohio,education (k-12)",article,2016-02-05t00:00:00z,Hanif Willis-Abdurraqib,False
+63,news,science,247,"sweating,sensors,wearable computing,dehydration,nature (journal)",article,2016-02-02t00:00:00z,Sindya Bhanoo,False
+64,news,metro,1232,"barclays center (brooklyn, ny),ebbets field (brooklyn, ny),packer collegiate institute,education (k-12)",article,2016-02-02t00:00:00z,Matt V,False
+65,news,upshot,463,"trump, donald j,presidential election of 2016,primaries and caucuses,republican party",article,2016-02-02t00:00:00z,Justin Wolfers,False
+66,news,foreign,281,"bay of biscay,france,maritime accidents and safety",article,2016-02-02t00:00:00z,Mike Mcphate,False
+67,news,dining,412,"cooking and cookbooks,pasta,cheese,mushrooms",article,2016-02-03t00:00:00z,Melissa Clark,False
+68,news,sports,571,"soccer,manchester city (soccer team),guardiola, josep,pellegrini, manuel",article,2016-02-02t00:00:00z,Victor Mather,False
+69,news,national,387,"weather,deaths (fatalities),california,san diego (calif),los angeles (calif)",article,2016-02-02t00:00:00z,Mike Mcphate,False
+70,news,business,302,"prudential of britain,appointments and executive changes,aberdeen asset management,thiam, tidjane,stocks and bonds,great britain",article,2016-02-02t00:00:00z,Chad Bray,False
+71,news,business,1402,"electric light and power,local government,sales and excise taxes,puerto rico electric power authority,puerto rico power authority,puerto rico",article,2016-02-02t00:00:00z,Mary Walsh,False
+72,news,business,577,"music,bankruptcies,sfx entertainment inc,sillerman, robert f x",article,2016-02-02t00:00:00z,Ben Sisario,False
+73,news,business,668,"shopping and retail,personal finances,luxury goods and services",article,2016-02-02t00:00:00z,Carl Richards,False
+74,news,culture,377,"movies,spotlight (movie),screen actors guild,academy awards (oscars)",article,2016-02-02t00:00:00z,Cara Buckley,False
+75,news,business,345,"mergers, acquisitions and divestitures,abbott laboratories,boards of directors",article,2016-02-02t00:00:00z,Robert Cyran,False
+76,news,science,1084,"heartburn,drugs (pharmaceuticals),elderly,advertising and marketing,jama internal medicine (journal)",article,2016-02-02t00:00:00z,Paula Span,False
+77,news,sports,1420,"football,officiating (sports),instant replay (sports),national football league,johnson, calvin (1985- ),super bowl",article,2016-02-02t00:00:00z,John Branch,False
+78,news,business,696,"influenza,super bowl,hygiene and cleanliness,research",article,2016-02-02t00:00:00z,Austin Frakt,False
+79,news,foreign,725,"syria,syrian high negotiations committee,islamic state in iraq and syria (isis),de mistura, staffan,united nations",article,2016-02-02t00:00:00z,"Somini Sengupta,Anne Barnard",False
+80,news,culture,709,"museums,metropolitan museum of art,egyptian civilization",article,2016-02-02t00:00:00z,Joshua Barone,False
+81,news,edlife,2473,"colleges and universities,blacks,discrimination,race and ethnicity,university of alabama,princeton university,university of california, berkeley,university of missouri,yale university,university of kansas",article,2016-02-07t00:00:00z,none,False
+82,news,science,612,flowers and plants,article,2016-02-02t00:00:00z,James Gorman,False
+83,news,science,1305,"archaeology and anthropology,skeletons,native americans,la jolla (calif),university of california, san diego,university of california",article,2016-02-02t00:00:00z,Carl Zimmer,False
+84,news,foreign,368,"united nations,zeid ra'ad zeid al hussein,cizre (turkey),turkey",article,2016-02-02t00:00:00z,Nick Cumming-Bruce,False
+85,news,dining,343,"wines,sicily (italy)",article,2016-02-03t00:00:00z,Eric Asimov,False
+86,news,dining,1146,"red burgundy (wine),france",article,2016-02-03t00:00:00z,Eric Asimov,False
+87,news,science,117,"estrogen,women and girls,menstruation",article,2016-02-02t00:00:00z,Sindya Bhanoo,False
+88,news,culture,954,art,article,2016-02-02t00:00:00z,Nina Siegal,False
+89,news,sports,308,"x games,snowboarding,white, shaun",article,2016-02-20t00:00:00z,Daniel Victor,False
+90,news,business,796,"yahoo! inc,layoffs and job reductions,performance evaluations (labor),suits and litigation (civil)",article,2016-02-02t00:00:00z,Vindu Goel,False
+91,news,national,982,"presidential election of 2016,primaries and caucuses,republican party,democratic party,clinton, hillary rodham,cruz, ted,trump, donald j,sanders, bernard,iowa",article,2016-02-02t00:00:00z,"Matt Flegenheimer,Michael Barbaro",False
+92,news,foreign,764,"world health organization,zika virus,epidemics,medicine and health,international relations,latin america",article,2016-02-02t00:00:00z,Sabrina Tavernise,False
+93,news,metro,1188,"central intelligence agency,police department (nyc),surveillance of citizens by government,new york city,police",article,2013-06-27t00:00:00z,Charlie Savage,True
+94,news,business,1005,"great britain,news and news media,twitter,freedom of speech and expression,social networking (internet),privacy",article,2011-05-23t00:00:00z,"Claire Miller,Ravi Somaiya",True
+95,news,metro,1110,"data storage,new york city,administration for children's services (nyc),privacy,homeless services department (nyc),new york legal assistance group,welfare (us),food stamps,public and subsidized housing,legal aid for the poor",article,2011-06-17t00:00:00z,Anemona Hartocollis,True
+96,news,national,1013,"duke university,computers and the internet,colleges and universities,sex,privacy",article,2010-10-08t00:00:00z,"Katharine Seelye,Liz Robbins",True
+97,news,sundaybusiness,1061,"genetics and heredity,dna (deoxyribonucleic acid),american civil liberties union,crime and criminals,privacy",article,2010-07-25t00:00:00z,Natasha Singer,True
+98,news,metro,1110,"data storage,new york city,administration for children's services (nyc),privacy,homeless services department (nyc),new york legal assistance group,welfare (us),food stamps,public and subsidized housing,legal aid for the poor",article,2011-06-17t00:00:00z,Anemona Hartocollis,True
+99,news,national,422,"general services administration,identity fraud,privacy",article,2010-11-07t00:00:00z,Ashley Southall,True
+100,news,business,905,"amazon.com inc,sales tax,privacy,computers and the internet,shopping and retail,e-commerce,north carolina",article,2010-05-03t00:00:00z,Noam Cohen,True
+101,news,business,1159,"klobuchar, amy,privacy,hoeven, john,automobiles,data-mining and database marketing,united states politics and government",article,2014-01-11t00:00:00z,Jaclyn Trop,True
+102,news,magazine,5641,"pregnancy and childbirth,drug abuse and traffic,premature babies,child custody and support,babies and infants,women and girls,children and childhood,planned parenthood federation of america,alabama",article,2012-04-29t00:00:00z,Ada Calhoun,True
+103,blog,none,460,"facebook.com,privacy,zuckerberg, mark e,news",blogpost,2010-05-05t13:57:02z,Nick Bilton,True
+104,news,business,1162,"facebook.com,privacy,computer security,social networking (internet)",article,2010-05-06t00:00:00z,Jenna Wortham,True
+105,news,sundaybusiness,1238,"voice and speech,callminer inc,computers and the internet,verint systems inc,beyond verbal communication ltd,voice recognition systems,emotions,customer relations",article,2013-10-13t00:00:00z,Natasha Singer,True
+106,news,sundaybusiness,1220,"colleges and universities,sex crimes,sexual health innovations,pomona college,university of san francisco,start-ups",article,2015-11-15t00:00:00z,Natasha Singer,True
+107,news,business,1286,"education (k-12),privacy,teachers and school employees,mobile applications,chaudhary, usamah,general catalyst partners,new schools venture fund,classdojo (classtwist inc)",article,2014-11-17t00:00:00z,Natasha Singer,True
+108,news,business,973,"drugs (pharmaceuticals),privacy,computers and the internet,advertising and marketing,consumer behavior,federal trade commission,medicine and health,food and drug administration,webmd health corp",article,2010-11-24t00:00:00z,Natasha Singer,True
+109,news,business,1250,"privacy,computers and the internet,computer security,suits and litigation,software,amazon.com inc,disney, walt, co",article,2010-09-21t00:00:00z,Tanzina Vega,True
+110,news,business/financial desk,1170,"microsoft corp,google inc,shopping and retail,advertising and marketing,consumer protection,regulation and deregulation of industry,consumer behavior,computers and the internet,privacy",article,2010-08-30t00:00:00z,"Miguel Helft,Tanzina Vega",True
+111,news,national,870,"colleges and universities,harvard university,e-mail,cheating,privacy,faust, drew gilpin",article,2013-03-12t00:00:00z,"none,Jess Bidgood",True
+112,news,foreign,524,"terrorism,privacy,europe,united states,european union,holder, eric h jr,napolitano, janet,reding, viviane",article,2010-04-09t00:00:00z,Raphael Minder,True
+113,news,business,501,"privacy,social networking (internet),facebook.com,computers and the internet",article,2010-05-13t00:00:00z,Nick Bilton,True
+114,news,national,1069,"federal bureau of investigation,surveillance of citizens by government,search and seizure,privacy,civil rights and liberties",article,2011-06-13t00:00:00z,Charlie Savage,True
+115,news,national desk,373,"new york city,federal bureau of investigation,justice department,surveillance of citizens by government,world trade center (nyc),airlines and airplanes,search and seizure,hijacking,telephones and telecommunications,terrorism,privacy,wiretapping and other eavesdropping devices and methods",article,2010-01-21t00:00:00z,Charlie Savage,True
+116,news,business,1035,"mobile applications,children's online privacy protection act,data-mining and database marketing,regulation and deregulation of industry,federal trade commission,children and childhood,privacy",article,2012-12-11t00:00:00z,Natasha Singer,True
+117,news,business,661,"european union,google inc,computers and the internet,search engines,privacy",article,2010-05-27t00:00:00z,Kevin O'Brien,True
+118,news,nat,1087,"computer vision,privacy,social networking (internet),mobile applications,facebook inc,advertising and marketing,regulation and deregulation of industry",article,2011-11-13t00:00:00z,Natasha Singer,True
+119,news,home,1313,"recordings and downloads (video),privacy,housing and real estate,youtube.com,cameras",article,2010-11-04t00:00:00z,Kate Murphy,True
+120,news,business,853,"apple incorporated,iphone,privacy,jobs, steven p,ipad",article,2011-04-28t00:00:00z,Miguel Helft,True
+121,news,business,427,"twitter,wikileaks,justice department,computers and the internet,decisions and verdicts,privacy,freedom of speech and expression",article,2011-11-11t00:00:00z,Somini Sengupta,True
+122,news,business,1127,"identity fraud,united states defense and military forces,identification devices,privacy",article,2010-12-07t00:00:00z,Matt Richtel,True
+123,news,national,1097,"privacy,electronic health records,multi-specialty collection services llc,stanford university",article,2011-09-09t00:00:00z,Kevin Sack,True
+124,news,national,849,"computers and the internet,art,photography,privacy,cincinnati (ohio)",article,2011-08-28t00:00:00z,Steven Rosen,True
+125,news,national,961,"medicine and health,health insurance and managed care,privacy,states (us),reform and reorganization",article,2010-08-23t00:00:00z,Robert Pear,True
+126,news,national,227,"computers and the internet,education and schools,privacy,federal bureau of investigation",article,2010-02-21t00:00:00z,,True
+127,news,national,1097,"education (k-12),child pornography,photography,text messaging,sexting,canon city high school (canon city, colo),canon city (colo)",article,2015-11-07t00:00:00z,"Kassondra Cloos,Julie Turkewitz",True
+128,news,national,1340,"states (us),police,dna (deoxyribonucleic acid),crime and criminals,privacy",article,2013-06-13t00:00:00z,Joseph Goldstein,True
+129,news,business,1120,"privacy,computers and the internet,advertising and marketing,web browsers",article,2010-10-11t00:00:00z,Tanzina Vega,True
+130,news,national,500,"surveillance of citizens by government,federal bureau of investigation,obama, barack,privacy,electronic mail",article,2010-07-30t00:00:00z,Charlie Savage,True
+131,news,national,490,"referendums,same-sex marriage, civil unions and domestic partnerships,supreme court,privacy,washington (state)",article,2010-01-16t00:00:00z,Adam Liptak,True
+132,news,business/financial desk,188,"federal bureau of investigation,at&t inc,apple inc,electronic mail,hackers (computers),security and warning systems,ipad,computers and the internet,privacy",article,2010-06-11t00:00:00z,Nick Bilton,True
+133,news,magazine,6846,"computers and the internet,zuckerberg, mark e,social networking (internet),privacy,search engines,myspace.com,twitter,facebook.com,youtube.com,google inc,zittrain, jonathan",article,2010-07-25t00:00:00z,Jeffrey Rosen,True
+134,news,national,977,"university of illinois,admissions standards,privacy,freedom of the press,courts and the judiciary,chicago tribune",article,2011-10-21t00:00:00z,Tamar Lewin,True
+135,news,national,746,"supreme court,decisions and verdicts,national aeronautics and space administration,privacy",article,2011-01-20t00:00:00z,Adam Liptak,True
+136,news,foreign,698,"royal family,catherine, duchess of cambridge,italy,great britain,berlusconi, silvio,privacy",article,2012-09-18t00:00:00z,"Elisabetta Povoledo,Alan Cowell",True
+137,news,business,1118,"blackberry (handheld device),united arab emirates,surveillance of citizens by government,wireless communications,computer security,saudi arabia,research in motion ltd,privacy",article,2010-08-02t00:00:00z,"Barry Meier,Robert Worth",True
+138,news,foreign,1090,"united states,pakistan,terrorism,united states international relations,privacy,obama, barack,security and warning systems,airlines and airplanes",article,2010-05-31t00:00:00z,Eric Schmitt,True
+139,news,national,1270,"presidential election of 2012,political advertising,data-mining and database marketing,computers and the internet,romney, mitt,obama, barack,online advertising,privacy,interactive advertising bureau,valueclick inc",article,2012-10-28t00:00:00z,"Natasha Singer,Charles Duhigg",True
