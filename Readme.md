@@ -37,3 +37,10 @@ optional arguments:
   
   **Example**: python collect.py -k privacy -l 200 NYtimes
 
+### CSV Template
+
+No.|material_type|news_desk|word_count|keywords|document_type|pub_date|author
+---|---------|------|------|------|------|------|---------
+int|string|string|int|string, string,string|string|date|string
+
+
