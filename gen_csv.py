@@ -13,15 +13,19 @@ def gen_csv(neg,pos):
     length = len(dic)
     keywords = []
     
+    ##Get all the keywords
     for s in src:
         for filename in os.listdir(s):
             fin = open(s+'/'+filename)
             dat = json.load(fin)
             if dat.has_key('keywords'):
                 for st in dat['keywords']:
-                    keywords.append(st['value'])
+                    key =  st['value'].lower()
+                    if key not in keywords:
+                        keywords.append(key)
     rank = [0]*(len(keywords))
     dic.extend(sorted(keywords))
+    ##sorted and write as header
     out.writerow(dic)
     cnt = 1
     for s in src:
@@ -31,7 +35,6 @@ def gen_csv(neg,pos):
             fin = open(s+'/'+filename)
             dat = json.load(fin)
             for i in range(1,length-1):
-                
                 try:
                     #valid json, key
                     dat[dic[i]]
@@ -61,24 +64,25 @@ def gen_csv(neg,pos):
                         #to ascii since there are some Spanish name
                         string.encode('ascii')
                         dat['byline'] = string[0:len(string)-1]
-                    #modify keywords
-                    if dat.has_key('keywords'):
-                        for st in dat['keywords']:
-                            if 'rank' in st:
-                                rank[keywords.index(st['value'])] = st['rank']
-                            else:
-                                rank[keywords.index(st['value'])] = 1
                     try:
                         dat[dic[i]] = str(dat[dic[i]])
                     except Exception, e:
                         print dat[dic[i]] 
+            #use rank as value
+            if dat.has_key('keywords'):
+                for st in dat['keywords']:
+                    key = st['value'].lower()
+                    if 'rank' in st:
+                        rank[sorted(keywords).index(key)] = st['rank']
+                    else:
+                        rank[sorted(keywords).index(key)] = 1
             flag = False
             if s == pos:
                 flag = True
             result = [cnt,dat['type_of_material'].lower(),dat['news_desk'].lower(),dat['word_count'].lower(),dat['document_type'].lower(),dat['pub_date'].lower(),dat['byline'],flag]
             result.extend(rank)
             out.writerow(result)
-            rank =  [0]*(len(keywords))
+            rank = [0]*(len(keywords))
             cnt+=1
             fin.close()
 gen_csv('dat/NYnegative/json','dat/NYpositive/json')
