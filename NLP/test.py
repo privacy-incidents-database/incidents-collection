@@ -1,5 +1,30 @@
 #-*- coding: utf-8 -*-
 import nltk.data
+def count_nouns(text):
+    sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
+    sentences = sent_detector.tokenize(text.strip())
+    dic ={}
+    for sentence in sentences:
+        w = nltk.word_tokenize(sentence)
+        tags = nltk.pos_tag(w)
+        noun_preceders = [a for (a, b) in tags if b == 'NNP']
+        for string in noun_preceders:
+            if dic.has_key(string):
+                dic[string] += 1
+            else:
+                dic[string] = 1
+    return dic
+
+def stanfordNERExtractor(sentence):
+    from nltk.tag.stanford import NERTagger
+    st =  NERTagger('/usr/share/stanford-ner/classifiers/all.3class.distsim.crf.ser.gz',
+               '/usr/share/stanford-ner/stanford-ner.jar')
+    return st.tag(sentence.split()) 
+
+# stanfordNERExtractedLines = stanfordNERExtractor("New York")
+# print stanfordNERExtractedLines #[('New-York', 'LOCATION')]
+
+
 text = '''
 CIA Report Finds Concerns With Ties to New York Police - The New York Times
 NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
@@ -17,7 +42,4 @@ Meanwhile, the Police Department sent a detective to the CIA from October 2008 t
 A version of this article appears in print on June 27, 2013, on page A1 of the New York edition with the headline: CIA Sees Concerns on Ties to New York Police.
 Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
 '''
-
-sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
-sentences = sent_detector.tokenize(text.strip())
-print sentences
+count_nouns(text)
