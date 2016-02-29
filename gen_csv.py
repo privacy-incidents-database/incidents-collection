@@ -21,6 +21,7 @@ def gen_csv(neg,pos):
             if dat.has_key('keywords'):
                 for st in dat['keywords']:
                     key =  st['value'].lower()
+                    key =  key.replace(',', ' ')
                     if key not in keywords:
                         keywords.append(key)
     rank = [0]*(len(keywords))
@@ -47,23 +48,26 @@ def gen_csv(neg,pos):
                     if dic[i] == 'byline':
                         string = ''
                         people =  dat['byline']['person']
-                        for person in people:
-                            try:
-                                lastname = person['lastname']
-                                firstname = person['firstname']
-                                lastname.encode('ascii')
-                                firstname.encode('ascii')
-                                name = firstname.title() + ' ' + lastname.title()
-                            except Exception,e:
+                        if len(people) == 0:
+                            dat['byline'] = 'none'
+                        else:
+                            for person in people:
                                 try:
-                                    name = person['original']
+                                    lastname = person['lastname']
+                                    firstname = person['firstname']
+                                    lastname.encode('ascii')
+                                    firstname.encode('ascii')
+                                    name = firstname.title() + ' ' + lastname.title()
                                 except Exception,e:
-                                    # print person
-                                    name = 'none'
-                            string = string + name + ','
-                        #to ascii since there are some Spanish name
-                        string.encode('ascii')
-                        dat['byline'] = string[0:len(string)-1]
+                                    try:
+                                        name = person['original']
+                                    except Exception,e:
+                                        # print person
+                                        name = 'none'
+                                string = string + name + ','
+                            #to ascii since there are some Spanish name
+                            string.encode('ascii')
+                            dat['byline'] = string[0:len(string)-1]
                     try:
                         dat[dic[i]] = str(dat[dic[i]])
                     except Exception, e:
@@ -72,6 +76,7 @@ def gen_csv(neg,pos):
             if dat.has_key('keywords'):
                 for st in dat['keywords']:
                     key = st['value'].lower()
+                    key =  key.replace(',', ' ')
                     if 'rank' in st:
                         rank[sorted(keywords).index(key)] = st['rank']
                     else:
