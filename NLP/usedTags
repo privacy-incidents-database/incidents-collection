@@ -1,0 +1,73 @@
+>>> import nltk
+>>> nltk.help.upenn_tagset()
+
+
+JJ: adjective or numeral, ordinal
+    third ill-mannered pre-war regrettable oiled calamitous first separable
+    ectoplasmic battery-powered participatory fourth still-to-be-named
+    multilingual multi-disciplinary ...
+JJR: adjective, comparative
+    bleaker braver breezier briefer brighter brisker broader bumper busier
+    calmer cheaper choosier cleaner clearer closer colder commoner costlier
+    cozier creamier crunchier cuter ...
+JJS: adjective, superlative
+    calmest cheapest choicest classiest cleanest clearest closest commonest
+    corniest costliest crassest creepiest crudest cutest darkest deadliest
+    dearest deepest densest dinkiest ...
+
+
+NN: noun, common, singular or mass
+    common-carrier cabbage knuckle-duster Casino afghan shed thermostat
+    investment slide humour falloff slick wind hyena override subhumanity
+    machinist ...
+NNP: noun, proper, singular
+    Motown Venneboerger Czestochwa Ranzer Conchita Trumplane Christos
+    Oceanside Escobar Kreisler Sawyer Cougar Yvette Ervin ODI Darryl CTCA
+    Shannon A.K.C. Meltex Liverpool ...
+NNPS: noun, proper, plural
+    Americans Americas Amharas Amityvilles Amusements Anarcho-Syndicalists
+    Andalusians Andes Andruses Angels Animals Anthony Antilles Antiques
+    Apache Apaches Apocrypha ...
+NNS: noun, common, plural
+    undergraduates scotches bric-a-brac products bodyguards facets coasts
+    divestitures storehouses designs clubs fragrances averages
+    subjectivists apprehensions muses factory-jobs ...
+
+RB: adverb
+    occasionally unabatingly maddeningly adventurously professedly
+    stirringly prominently technologically magisterially predominately
+    swiftly fiscally pitilessly ...
+RBR: adverb, comparative
+    further gloomier grander graver greater grimmer harder harsher
+    healthier heavier higher however larger later leaner lengthier less-
+    perfectly lesser lonelier longer louder lower more ...
+RBS: adverb, superlative
+    best biggest bluntest earliest farthest first furthest hardest
+    heartiest highest largest least less most nearest second tightest worst
+
+VB: verb, base form
+    ask assemble assess assign assume atone attention avoid bake balkanize
+    bank begin behold believe bend benefit bevel beware bless boil bomb
+    boost brace break bring broil brush build ...
+VBD: verb, past tense
+    dipped pleaded swiped regummed soaked tidied convened halted registered
+    cushioned exacted snubbed strode aimed adopted belied figgered
+    speculated wore appreciated contemplated ...
+VBG: verb, present participle or gerund
+    telegraphing stirring focusing angering judging stalling lactating
+    hankerin' alleging veering capping approaching traveling besieging
+    encrypting interrupting erasing wincing ...
+VBN: verb, past participle
+    multihulled dilapidated aerosolized chaired languished panelized used
+    experimented flourished imitated reunifed factored condensed sheared
+    unsettled primed dubbed desired ...
+VBP: verb, present tense, not 3rd person singular
+    predominate wrap resort sue twist spill cure lengthen brush terminate
+    appear tend stray glisten obtain comprise detest tease attract
+    emphasize mold postpone sever return wag ...
+VBZ: verb, present tense, 3rd person singular
+    bases reconstructs marks mixes displeases seals carps weaves snatches
+    slumps stretches authorizes smolders pictures emerges stockpiles
+    seduces fizzes uses bolsters slaps speaks pleads ...
+
+
