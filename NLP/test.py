@@ -1,25 +1,47 @@
 #-*- coding: utf-8 -*-
 import nltk.data
+import re
+import pprint
+from nltk.stem.porter import *
+
 def count_nouns(text):
     sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
-    sentences = sent_detector.tokenize(text.strip())
+    sentences = sent_detector.tokenize(text.lower().strip())
     dic ={}
     for sentence in sentences:
         w = nltk.word_tokenize(sentence)
         tags = nltk.pos_tag(w)
-        noun_preceders = [a for (a, b) in tags if b == 'NNP']
-        for string in noun_preceders:
+        # print tags
+        usedTags = ['NN.*','VB.*','JJ.*','RB.*']
+        # NN = Nouns
+        # VB = Verbs
+        # JJ = Adjectives
+        # RB = Adverbs
+
+        reqdTags = "("+")|(".join(usedTags)+")"
+
+        reqdWords = [a for (a, b) in tags if re.match(reqdTags, b) and re.match('[a-z].*',a)]
+
+        # Stem the required words
+        pstemmer = PorterStemmer()
+        stemmedWords = [pstemmer.stem(a) for a in reqdWords]
+
+        # print reqdWords
+        for string in stemmedWords:
             if dic.has_key(string):
                 dic[string] += 1
             else:
                 dic[string] = 1
+
+        # a = raw_input()
+    pprint.pprint(dic)
     return dic
 
 def stanfordNERExtractor(sentence):
     from nltk.tag.stanford import NERTagger
     st =  NERTagger('/usr/share/stanford-ner/classifiers/all.3class.distsim.crf.ser.gz',
                '/usr/share/stanford-ner/stanford-ner.jar')
-    return st.tag(sentence.split()) 
+    return st.tag(sentence.split())
 
 # stanfordNERExtractedLines = stanfordNERExtractor("New York")
 # print stanfordNERExtractedLines #[('New-York', 'LOCATION')]
