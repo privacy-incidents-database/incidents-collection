@@ -1,6 +1,7 @@
 #-*- coding: utf-8 -*-
 from spacy.en import English
-import os 
+import os
+import pprint
 parser = English()
 
 nouns={}
@@ -14,7 +15,7 @@ def traverse(src):
         nlp(text)
 def nlp(text):
     try:
-        multiSentence = unicode(text,encoding="ascii")    
+        multiSentence = unicode(text,encoding="ascii")
     # all you have to do to parse text is this:
     #note: the first time you run spaCy in a file it takes a little while to load up its modules
         parsedData = parser(multiSentence)
@@ -55,5 +56,4 @@ def nlp(text):
         print "error"
 
 traverse('../dat/content')
-print nouns
-
+pprint.pprint(nouns)
