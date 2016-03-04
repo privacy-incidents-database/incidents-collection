@@ -1,4 +1,4 @@
-import csv,json,sys,os
+import csv,json,sys,os,pprint
 def gen_csv(neg,pos):
     """
     Generate CSV according to the json stored.
@@ -6,6 +6,23 @@ def gen_csv(neg,pos):
     pos: path to postive directory
 
     """
+    fin = open('tfid-log.csv','rb')
+    idfreader = csv.reader(fin)
+
+    idfkey = []
+    idfval = []
+    rowcnt = 0
+    for row in idfreader:
+        if rowcnt == 0:
+            idfkey = row
+        elif rowcnt == 2:
+            idfval = row
+        rowcnt += 1
+
+    #Build idf dictionary
+    idfdic = dict(zip(idfkey,idfval))
+
+
     fout = open('tfidf.csv','w')
     out = csv.writer(fout)
     src = [neg,pos]
@@ -38,7 +55,12 @@ def gen_csv(neg,pos):
             print "Current File: " + filename
 
             for key,val in dat.iteritems():
-                rank[sorted(keywords).index(key)] = val
+                try:
+                    idfdic[key]
+                except Exception,e:
+                    idfdic[key] = 1
+
+                rank[sorted(keywords).index(key)] = val*float(idfdic[key])
 
 
             flag = False
