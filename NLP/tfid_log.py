@@ -1,4 +1,4 @@
-import csv,json,sys,os,math
+import csv,json,sys,os,math,re
 def gen_csv(neg,pos):
     """
     Generate CSV according to the json stored.
@@ -6,7 +6,7 @@ def gen_csv(neg,pos):
     pos: path to postive directory
     
     """
-    fout = open('data.csv','w')
+    fout = open('data-spacy.csv','w')
     out = csv.writer(fout)
     src = [neg,pos]
     # length = len(dic)
@@ -18,12 +18,14 @@ def gen_csv(neg,pos):
             fin = open(s+'/'+filename)
             dat = json.load(fin)
             for key in dat:
-                if key in keywords:
-                    keywords[key] += 1
-                else:
-                    keywords[key] = 1
+                if key and re.match('^[\w-]+$', key) is not None:
+                    if key in keywords:
+                        keywords[key] += 1
+                    else:
+                        keywords[key] = 1
     # dic.extend(sorted(keywords))
     ##sorted and write as header
+    print keywords
     out.writerow(sorted(keywords.keys()))
     val = []
     for key in sorted(keywords.keys()):
@@ -35,5 +37,5 @@ def gen_csv(neg,pos):
         log_val.append(float(math.log10(length/v)))
     out.writerow(log_val)
     fin.close()
-gen_csv('tfreq/content','tfreq/NYnegative')
+gen_csv('tfreq-spacy/content','tfreq-spacy/NYnegative')
     

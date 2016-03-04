@@ -1,0 +1,12 @@
+{
+  "teen": 1, 
+  "how": 1, 
+  "didfalse": 1, 
+  "target": 1, 
+  "her": 1, 
+  "pregnant": 1, 
+  "be": 1, 
+  "figure": 1, 
+  "girl": 1, 
+  "father": 1
+}

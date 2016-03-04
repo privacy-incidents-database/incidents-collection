@@ -1,0 +1,12 @@
+{
+  "all": 1, 
+  "e": 1, 
+  "just": 1, 
+  "get": 1, 
+  "read": 1, 
+  "york": 1, 
+  "toll": 1, 
+  "not": 1, 
+  "new": 1, 
+  "zpasses": 1
+}

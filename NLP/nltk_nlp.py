@@ -9,6 +9,7 @@ import json
 from nltk.stem.porter import *
 
 def traverse(src):
+    cnt = 0
     sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
     pstemmer = PorterStemmer()
 
@@ -22,6 +23,8 @@ def traverse(src):
             genTermFreq(dic, filename)
             total_time = time.time() - start
             print total_time
+            cnt+=1
+    print cnt
 
 def get_count(text,sent_detector,pstemmer):
     import string
