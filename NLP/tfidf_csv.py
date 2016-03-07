@@ -79,6 +79,6 @@ def gen_csv(neg,pos):
             cnt+=1
             fin.close()
 
-    
+
 
 gen_csv('tfreq-spacy/NYnegative','tfreq-spacy/content')

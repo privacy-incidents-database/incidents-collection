@@ -44,6 +44,7 @@
   "electron": 2, 
   "corp": 1, 
   "plan": 1, 
+  "burden": 1, 
   "disappoint": 1, 
   "put": 1, 
   "world": 1, 
