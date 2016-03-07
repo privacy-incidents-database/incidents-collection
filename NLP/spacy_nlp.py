@@ -1,4 +1,3 @@
-#-*- coding: utf-8 -*-
 from spacy.en import English
 import os,json
 import pprint,string
@@ -16,7 +15,7 @@ def traverse(src):
             fin = open(src+'/'+filename)
             text = fin.read()
             nlp(text)
-            fout = open("tfreq-spacy/content/%s" % filename,'w')
+            fout = open("tfreq-spacy/NYnegative/%s" % filename,'w')
             words= nouns.copy()
             words.update(adj)
             words.update(adv)
@@ -31,9 +30,7 @@ def traverse(src):
         
 def nlp(text):
     try:
-        multiSentence = unicode(text,encoding="utf-8")
-        printable = set(string.printable)
-        filter(lambda x: x in printable, multiSentence)
+        multiSentence = unicode(text,encoding="ascii")
     # all you have to do to parse text is this:
     #note: the first time you run spaCy in a file it takes a little while to load up its modules
         parsedData = parser(multiSentence)
@@ -78,5 +75,5 @@ def nlp(text):
     except Exception,e:
         print "error"
 
-traverse('../dat/content')
+traverse('../dat/NYnegative')
 pprint.pprint(nouns)

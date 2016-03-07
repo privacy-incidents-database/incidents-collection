@@ -36,10 +36,8 @@ def gen_csv(neg,pos):
             fin = open(s+'/'+filename)
             dat = json.load(fin)
             for key in dat:
-                if key and re.match('^[\w-]+$', key) is not None:
-                    key =  key.replace(',', ' ')
-                    if key not in keywords:
-                        keywords.append(key)
+                if key not in keywords:
+                    keywords.append(key)
 
     dic.extend(sorted(keywords))
 
@@ -53,7 +51,7 @@ def gen_csv(neg,pos):
             ###filename => every file in the directory
             fin = open(s+'/'+filename)
             dat = json.load(fin)
-            print "Current File: " + filename
+            # print "Current File: " + filename
 
             for key,val in dat.iteritems():
                 try:

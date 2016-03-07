@@ -6,7 +6,7 @@ def gen_csv(neg,pos):
     pos: path to postive directory
     
     """
-    fout = open('data-spacy.csv','w')
+    fout = open('tfid-log-spacy.csv','w')
     out = csv.writer(fout)
     src = [neg,pos]
     # length = len(dic)
@@ -18,14 +18,12 @@ def gen_csv(neg,pos):
             fin = open(s+'/'+filename)
             dat = json.load(fin)
             for key in dat:
-                if key and re.match('^[\w-]+$', key) is not None:
-                    if key in keywords:
-                        keywords[key] += 1
-                    else:
-                        keywords[key] = 1
+                if key in keywords:
+                    keywords[key] += 1
+                else:
+                    keywords[key] = 1
     # dic.extend(sorted(keywords))
     ##sorted and write as header
-    print keywords
     out.writerow(sorted(keywords.keys()))
     val = []
     for key in sorted(keywords.keys()):

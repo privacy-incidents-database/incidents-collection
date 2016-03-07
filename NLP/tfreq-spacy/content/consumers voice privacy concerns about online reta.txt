@@ -149,7 +149,6 @@
   "tag": 1, 
   "obvious": 1, 
   "akin": 1, 
-  "\u2019s": 1, 
   "voice": 1, 
   "could": 1, 
   "opt": 1, 

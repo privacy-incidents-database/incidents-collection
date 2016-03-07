@@ -129,7 +129,6 @@
   "leverage": 1, 
   "service": 1, 
   "privacy": 1, 
-  "\u00a9": 1, 
   "opportunity": 1, 
   "sitecbs": 1, 
   "give": 2, 

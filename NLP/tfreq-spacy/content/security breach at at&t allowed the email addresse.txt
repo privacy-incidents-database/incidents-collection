@@ -110,7 +110,6 @@
   "ask": 1, 
   "news": 1, 
   "aware": 2, 
-  "\u2019s": 1, 
   "appear": 1, 
   "that": 2, 
   "land": 1, 

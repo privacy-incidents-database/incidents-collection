@@ -101,7 +101,6 @@
   "late": 1, 
   "use": 2, 
   "figure": 1, 
-  "\u00a9": 1, 
   "live": 1, 
   "commission": 1, 
   "secret": 1, 

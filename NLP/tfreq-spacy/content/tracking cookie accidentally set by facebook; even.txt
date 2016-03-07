@@ -154,7 +154,6 @@
   "use": 2, 
   "log": 6, 
   "privacy": 3, 
-  "\u00a9": 1, 
   "sitecbs": 1, 
   "question": 1, 
   "system": 1, 

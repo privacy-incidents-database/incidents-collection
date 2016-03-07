@@ -4,7 +4,7 @@
   "would": 2, 
   "love": 1, 
   "day|fox": 1, 
-  "century": 2, 
+  "century": 1, 
   "reduce": 1, 
   "it": 1, 
   "will": 1, 
@@ -27,6 +27,7 @@
   "long": 1, 
   "your": 1, 
   "business": 1, 
+  "20thcentury": 1, 
   "reuters": 1, 
   "exit": 1, 
   "koshy": 1, 
@@ -72,6 +73,5 @@
   "voluntarily": 1, 
   "first": 1, 
   "dow": 1, 
-  "20th": 1, 
   "browser": 1
 }

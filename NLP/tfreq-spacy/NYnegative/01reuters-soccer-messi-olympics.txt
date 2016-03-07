@@ -62,7 +62,6 @@
   "can": 1, 
   "team": 1, 
   "radio": 1, 
-  "\u2019s": 1, 
   "gerardo": 1, 
   "where": 1, 
   "region": 1, 

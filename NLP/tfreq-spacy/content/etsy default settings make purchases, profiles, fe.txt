@@ -227,7 +227,6 @@
   "alike": 1, 
   "have": 11, 
   "further": 1, 
-  "\u2019": 1, 
   "create": 1, 
   "apparently": 1, 
   "check": 1, 

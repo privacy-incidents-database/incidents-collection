@@ -155,7 +155,6 @@
   "sudden": 1, 
   "n.y.": 1, 
   "have": 2, 
-  "\u2019": 2, 
   "north": 1, 
   "shift": 1, 
   "kidney": 1, 
