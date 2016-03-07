@@ -66,7 +66,7 @@ def gen_csv(neg,pos):
             flag = False
             if s == pos:
                 flag = True
-            result = [cnt,filename,flag]
+            result = [cnt,"\""+filename+"\"",flag]
             result.extend(rank)
 
             out.writerow(result)
