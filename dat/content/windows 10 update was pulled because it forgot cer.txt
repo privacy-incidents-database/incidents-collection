@@ -1,5 +1,5 @@
-Windows 10 November update was pulled for forgetting privacy settings; it’s now back | Ars Technica
-Windows 10 November update was pulled for forgetting privacy settings; it’s now back
+Windows 10 November update was pulled for forgetting privacy settings; its now back | Ars Technica
+Windows 10 November update was pulled for forgetting privacy settings; its now back
 Four privacy settings were reset to their defaults when upgrading Windows 10.
 The mystery behind the removal of the Windows 10 November Update, version 1511, has been revealed. Last week Microsoft received reports that, when upgrading from the Windows 10 July release to the November update, four privacy-related settings were getting reset to their default values. Concerned that there might be a significant problem, Microsoft removed the November Update from Windows Update for existing Windows 10 users and also removed the updated Media Creation Tool used to create install media.
 When upgrading from the initial Windows 10 release to the new version, four settings (whether to allow apps to use a unique advertiser ID, which apps are allowed to run in the background, whether Smartscreen Web filtering is enabled, and whether settings sync between devices) were reverted to their defaults, as if a fresh Windows installation had been performed. While for most users this made no difference, for those who'd disabled those features previously, the upgrade would silently revert those choices.
@@ -7,15 +7,15 @@ Oddly, upgrading from Windows 7 or 8 to Windows 10 wasn't affected, and the Nove
 Microsoft has now fixed the upgrade/installation process to properly preserve these settings, and the November Update has once more been made available to Windows 10 users through Windows Update. The updated Media Creation Tool has also been restored, re-enabling clean installs of version 1511. The company has also published a knowledge-base article describing the issue and which settings are affected, so any Windows 10 users who have already installed the November Update can double-check their settings and re-establish their preference if necessary.
 In light of some of the other bugs that have been found in the November update, it seems a little surprising that Microsoft would pull it for something that seems so minor. However, the company has been under fire for privacy issues around Windows 10; this kind of vigorous reaction to even a minor privacy concern feels like an attempt to try to restore some of the lost trust and demonstrate that the company really does care about privacy.
 / Peter is Technology Editor at Ars. He covers Microsoft, programming and software development, Web technology and browsers, and security. He is based in Brooklyn, NY.
-Zika: Here’s what we know about the virus alarming health experts worldwide
+Zika: Heres what we know about the virus alarming health experts worldwide
 Despite a long history, Zika remains an enigmatic, emerging infectious disease.
 CES 2016: Ars walks the length and breadth of CES so you don't have to
 Ars Technica Automotive Editor Jonathan M. Gitlin walked the length and breadth of the Consumer Technology Association conference (CES) in Las Vegas, Nevada.
 VR games Audioshield, Hover Junkers lead latest wave of HTC Vive stunners
-Review: HP improves its $200 laptop a lot, but it’s still a $200 laptop
-The Venture Bros. blew up its universe, moved to NYC—and stayed as fun as ever
+Review: HP improves its $200 laptop a lot, but its still a $200 laptop
+The Venture Bros. blew up its universe, moved to NYCand stayed as fun as ever
 Dive into a dungeon of cards with Warhammer Quest: The Adventure Card Game
 How the Smithsonian is restoring the original USS Enterprise to full 1967 glory
-What’s stupid this month: Xerox patents sharing documents online
+Whats stupid this month: Xerox patents sharing documents online
 Use of this Site constitutes acceptance of our User Agreement (effective 1/2/14) and Privacy Policy (effective 1/2/14), and Ars Technica Addendum (effective 5/17/2012)
-The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.
+The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond Nast.

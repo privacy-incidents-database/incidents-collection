@@ -1,4 +1,4 @@
-import csv,json,sys,os,math
+import csv,json,sys,os,math,re
 def gen_csv(neg,pos):
     """
     Generate CSV according to the json stored.
@@ -6,7 +6,7 @@ def gen_csv(neg,pos):
     pos: path to postive directory
     
     """
-    fout = open('data.csv','w')
+    fout = open('tfid-log-spacy.csv','w')
     out = csv.writer(fout)
     src = [neg,pos]
     # length = len(dic)
@@ -35,5 +35,5 @@ def gen_csv(neg,pos):
         log_val.append(float(math.log10(length/v)))
     out.writerow(log_val)
     fin.close()
-gen_csv('tfreq/content','tfreq/NYnegative')
+gen_csv('tfreq-spacy/content','tfreq-spacy/NYnegative')
     

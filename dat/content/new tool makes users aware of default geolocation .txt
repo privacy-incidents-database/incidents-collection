@@ -1,5 +1,5 @@
 Facebook's Privacy Incident Response: a study of geolocation sharing on Facebook Messenger - Technology Science
-Tweet            Published 2015-08-11.      Views 105,870.      Downloads 4,460.      Suggestions 23. Facebook's Privacy Incident Response: a study of geolocation sharing on Facebook MessengerAran KhannaAbstractIntroductionBackgroundMethodsResultsDiscussionReferences DownloadAuthorsCitationData SuggestionsNews coverage by dayIn 2012, a media outlet reported that Facebook Messenger shared
+TweetPublished 2015-08-11.Views 105,870.Downloads 4,460.Suggestions 23. Facebook's Privacy Incident Response: a study of geolocation sharing on Facebook MessengerAran KhannaAbstractIntroductionBackgroundMethodsResultsDiscussionReferencesDownloadAuthorsCitationDataSuggestionsNews coverage by dayIn 2012, a media outlet reported that Facebook Messenger shared
 personal geolocations by defaultIn 2015, my demonstration displayed Facebook's shared data on a
 map; it was downloaded over 85,000 timesAfter 9 days of news coverage, Facebook released an update that requires
 a user's permission to share geolocationsAbstractFacebook allows users to chat among themselves on a mobile
@@ -42,7 +42,7 @@ Belgian Privacy Commission found that Facebook "fails to offer adequate control
 mechanisms" for the use of user data. Furthermore, "Facebook places too much
 burden on its users, [who are] expected to navigate Facebook's complex web of
 settings in search of possible opt-outs." Finally the commission stated that,
-"Facebook's default settings related to behavioral profiling … are particularly
+"Facebook's default settings related to behavioral profiling  are particularly
 Facebook Messenger, an application (or "app") for Android and iOS mobile
 devices. Messenger has the ability to share geo-location with messages. [7] When a Facebook
 user sends a message from a smartphone using Messenger, the user's physical
@@ -105,7 +105,7 @@ browser so that a person running the extension could see the geo-locations of
 any Facebook user who is sending them (or a chat group they are in) messages
 through Facebook Messenger. I would then make the extension publicly available
 and alert the public through a blog post, Twitter and online forums. This
-approach made public what some may already be doing – harvesting geo-location
+approach made public what some may already be doing  harvesting geo-location
 information about Facebook users they have been in conversations with. It also
 provided transparency and feedback to users about their geo-location settings
 on Facebook. If there was no reaction by users or Facebook, then Facebook's
@@ -228,7 +228,7 @@ The United States, Europe and India were the top three origins
 for stories overall, with the United States accounting for over a third of all
 Figure 12. Twitter activity and news coverage by day. Number
 of tweets (right vertical axis) and press stories (left vertical axis) about my
-posts per day between 5/27 and 6/5.  The total count of news publications was
+posts per day between 5/27 and 6/5. The total count of news publications was
 178 and the total count of tweets was 347. The count of tweets and stories appearing
 There have been more than 85,000 downloads of the Chrome
 extension since its release (Figure 6). Users continued to download the
@@ -292,10 +292,10 @@ Darwell B. Facebook's frictionless sharing mistake. SocialTimes. January
 22, 2013. http://www.adweek.com/socialtimes/facebooks-frictionless-sharing-mistake/289289
 Facebook. Making It Easier to Share With Who You Want. May 22, 2014. http://newsroom.fb.com/news/2014/05/news-feed-fyi-giving-people-more-control-over-when-they-share-from-apps/
 Hamburger E. Facebook gives up on automatically posting everything you
-do online. The Verge. May 27, 2014.  http://www.theverge.com/2014/5/27/5754862/facebook-gives-up-on-automatically-sharing-everything-you-do-online-open-graph
+do online. The Verge. May 27, 2014. http://www.theverge.com/2014/5/27/5754862/facebook-gives-up-on-automatically-sharing-everything-you-do-online-open-graph
 Popper B. Facebook's social reader apps nosedive in popularity. The
 Verge. May 7, 2012. http://www.theverge.com/2012/5/7/3005580/facebook-open-graph-frictionless-social-reader-decline
-Interdisciplinary Centre for Law and ICT.   ICRI/CIR and iMinds-SMIT
+Interdisciplinary Centre for Law and ICT. ICRI/CIR and iMinds-SMIT
 advise Belgian Privacy Commission in Facebook investigation. KU Leuven. March
 31, 2015. http://www.law.kuleuven.be/icri/en/news/item/icri-cir-advises-belgian-privacy-commission-in-facebook-investigation
 Because Facebook in Europe officially operates out of Ireland, the firm
@@ -325,7 +325,7 @@ locations with Facebook Messenger. Reddit. May 26, 2015. https://www.reddit.com/
 Hacker News. May 26, 2015. https://news.ycombinator.com/submitted?id=arankhanna
 Check out this blog + extension I wrote about how your friends can track you
 https://medium.com/@arankhanna/stalking-your-friends-with-facebook-messenger-9da8820bd27d
-… .  Twitter. May 26, 2015. https://twitter.com/arankhanna/status/603293036693463040
+ . Twitter. May 26, 2015. https://twitter.com/arankhanna/status/603293036693463040
 A New Way to Send a Location in Messenger. June 4, 2015. http://newsroom.fb.com/news/2015/06/a-new-way-to-send-a-location-in-messenger/
 AuthorsAran Khanna is a senior at Harvard College majoring in
 Computer Science joint with Mathematics. During his time at Harvard he has
@@ -333,8 +333,8 @@ interned at Microsoft, Novus, a hedge fund data analysis startup based in New
 York City, and Marianas Labs, a deep learning startup based in Mountain View.
 Aran is an active blogger in his free time and is passionate about the impact
 the increasing role of technology in our lives is having on our privacy.
-Referring Editor: Latanya Sweeney CitationKhanna A. Facebook's Privacy Incident Response: a study of geolocation sharing on Facebook Messenger. Technology Science. 2015081101.
-August 11, 2015. http://techscience.org/a/2015081101 DataKhanna A. Replication Data for: Facebook's Privacy Incident Response, a study of geolocation sharing on Facebook Messenger. Harvard Dataverse. August 10, 2015. http://dx.doi.org/10.7910/DVN/D2SNRI SuggestionsEnter your recommendation for follow-up or ongoing work in the box at the end of the page.
+Referring Editor: Latanya SweeneyCitationKhanna A. Facebook's Privacy Incident Response: a study of geolocation sharing on Facebook Messenger. Technology Science. 2015081101.
+August 11, 2015. http://techscience.org/a/2015081101DataKhanna A. Replication Data for: Facebook's Privacy Incident Response, a study of geolocation sharing on Facebook Messenger. Harvard Dataverse. August 10, 2015. http://dx.doi.org/10.7910/DVN/D2SNRISuggestionsEnter your recommendation for follow-up or ongoing work in the box at the end of the page.
 Feel free to provide ideas for next steps, follow-on research, or other research inspired by this paper.
 Perhaps someone will read your comment, do the described work, and publish a paper about it.
 What do you recommend as a next research step? Suggestion 1How does Facebook's Privacy Policy or Facebook's License Agreement for the app at the time match these changes in Facebook Messenger's default on sharing personal geolocation? How do these compare with other apps that share personal geolocation data with other users? [Editors] Suggestion 2The demonstration code in this paper used the browser. Is the same information still available if you wrote code that could access the information that would be delivered to a mobile phone? [Editors] Suggestion 3Which news outlets were critical in spreading the word? Have these information flows been instrumental in possibly influencing other technology changes? [Editors] Suggestion 4I would like to see some ethnographic studies that elucidate the depth of understanding of this issue by the "common man." How is privacy understood by older or less tech savvy individuals? How likely are these people to be aware of these issues? What protections should exist for those who are not knowledgeable enough to protect themselves? Suggestion 5Interview with Apple's Tim Cook and get on his privacy/secyurity team!
@@ -348,19 +348,19 @@ It seems optimal to have students interested in doing this kind of work actually
 If I carry my mobile phone with me all the time, then how often does some database somewhere know where I am? Suggestion 16Very interesting. It would be interesting too to know how many times similar historical private information's (like users position, calls, messages, etc.) have been accessed after creation dates, from what location, read only or modified, moved to another category/location, etc. The metadata of archived files for alpha individuals and for beta groups (e.g., by interests, age, location, incomes) can provide many details. An analyze from this reversed point of view, of how the databases in question are used further by their owners, could reveal their objects of interest (not really connected with targeted advertising), as well as lots of details about the interested persons behind. Suggestion 17It would be interesting to learn how much is known by vulnerable populations about about default location sharing of Facebook and other apps.
 Victims of domestic violence, jurors, and police are examples of populations that may be vulnerable in different ways. Suggestion 18If only facebook itself views my geo location, it wouldn't be an issue for me. But if others can see it, then it is. I would like to see a survey of personal attitudes towards geolocation sharing. Suggestion 19When Facebook started selling mobile ads in 2012, not even the keenest optimists could have predicted how big a success they would become. In each of the past ten quarters, mobile ads have accounted for more then 90% of Facebook's revenue growth. In the first six months of 2015, all of the company's growth came from advertising on tablets and smartphones. Mobile ad revenue now accounts for 76 percent of Facebook's advertising revenue and 72 percent of total revenue. I would be interested to know the role of geo-tagging in FB`s revenues as stated above. If all users disabled their geo-tagging, what will be the impact on FB to sell customized ads. Suggestion 20I cannot find out "Is geo-location so important to be used by applications". I mean it should be an option like "What's App" gives share your location , only with those we want to share and not by default with all. Pin-point accurate geo-location is not necessary rather only the region from which the user is online is sufficient to share. I appreciate the way Mr. Aran did the whole analysis and presentation systematically. Big companies should take care of their users who blindly believe and uses their applications and should seek prior permission before collection and share of user's data about location. I would like to see a study to know if more gross geo-location reporting would work as well in many apps that use geo-location. Suggestion 21I see that you do not cite names from Facebook, which understandably is in keeping with most academic guidelines and with most human subject considerations. Everything should be documented and if applicable in writing such as your internship. The fact your paper does not give names of specific people does not hold them accountable for thier actions, and makes investigations much harder. I would have had a signed legal internship document before I moved. I would like to see, among other things, an ethongraphic study that interviews employees and includes those involved. For that, I assume if researchers contact you that you will share the names of the people.
 Suggestion 22Found your site on Google. This is a cool post. I'd like to see you take the main idea from this article and carete another second experiment, and maybe you could embed a vid, also? Suggestion 23Read this article because of my school assignment. Do we still have privacy? Thank you for educating people and making me aware of everything that is happening now. Submit your suggestionWe welcome your ideas for next steps and additional research related to this paper.
-This is not a general discussion forum, and the moderator will not post unrelated contributions. Your email address (recommended for communication with our office, but not posted unless you additionally place it in the suggestion itself):  Type the text shown in the box on the left, then click submit.Back to top  Related PapersOn privacy
-Venmo’ed: Sharing Your Payment Data With the World (Published 2015-10-29)
+This is not a general discussion forum, and the moderator will not post unrelated contributions. Your email address (recommended for communication with our office, but not posted unless you additionally place it in the suggestion itself): Type the text shown in the box on the left, then click submit.Back to topRelated PapersOn privacy
+Venmoed: Sharing Your Payment Data With the World (Published 2015-10-29)
 Who Knows What About Me? A Survey of Behind the Scenes Personal Data Sharing to Third Parties by Mobile Apps (Published 2015-10-30)
 An Exploratory Study of Mobile Application Privacy Policies (Published 2015-10-30)
 Meddle: Enabling Transparency and Control for Mobile Internet Traffic (Published 2015-10-30)
-Did You Really Agree to That?: The Evolution of Facebook’s Privacy Policy (Published 2015-08-11)
+Did You Really Agree to That?: The Evolution of Facebooks Privacy Policy (Published 2015-08-11)
 De-anonymizing South Korean Resident Registration Numbers Shared in Prescription Data (Published 2015-09-29)
-Identity as a Service: Iceland’s Kennitala and the Convergence of Identifier and Authenticator in Online Third Party Applications (Published 2015-09-29)
+Identity as a Service: Icelands Kennitala and the Convergence of Identifier and Authenticator in Online Third Party Applications (Published 2015-09-29)
 Only You, Your Doctor, and Many Others May Know (Published 2015-09-29)
 Care.data and centralized access to UK health records: patient privacy and public trust (Published 2015-08-11)
-Who’s Paying More To Tour These United States? International Travel & Price Discrimination (Published 2015-08-11)
+Whos Paying More To Tour These United States? International Travel & Price Discrimination (Published 2015-08-11)
 No More Secrets: Gmail and Facebook can determine your political values (Published 2015-09-01)
 Who Knows What About Me? A Survey of Behind the Scenes Personal Data Sharing to Third Parties by Mobile Apps (Published 2015-10-30)
 An Exploratory Study of Mobile Application Privacy Policies (Published 2015-10-30)
 Meddle: Enabling Transparency and Control for Mobile Internet Traffic (Published 2015-10-30)
-Copyright © 2015. President and Fellows Harvard University.
+Copyright  2015. President and Fellows Harvard University.

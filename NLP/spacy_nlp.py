@@ -1,18 +1,33 @@
-#-*- coding: utf-8 -*-
 from spacy.en import English
-import os
-import pprint
+import os,json
+import pprint,string
 parser = English()
 
 nouns={}
-orgs={}
+adj={}
+adv={}
 verbs={}
 
 def traverse(src):
     for filename in os.listdir(src):
-        fin = open(src+'/'+filename)
-        text = fin.read()
-        nlp(text)
+        if os.path.isfile(src+'/'+filename):
+            words = {}
+            fin = open(src+'/'+filename)
+            text = fin.read()
+            nlp(text)
+            fout = open("tfreq-spacy/NYnegative/%s" % filename,'w')
+            words= nouns.copy()
+            words.update(adj)
+            words.update(adv)
+            words.update(verbs)
+            adj.clear()
+            adv.clear()
+            nouns.clear()
+            verbs.clear()
+            json.dump(words,fout,indent=2,)
+            fout.close()
+        
+        
 def nlp(text):
     try:
         multiSentence = unicode(text,encoding="ascii")
@@ -46,14 +61,19 @@ def nlp(text):
                         verbs[token.lemma_] = 1
                     else:
                         verbs[token.lemma_] +=1
-                elif token.ent_type_ == 'ORG':
-                    if token.ent_type_ not in orgs:
-                        orgs[token.ent_type_] = 1
+                elif token.pos_ == 'ADJ':
+                    if token.lemma_ not in adj:
+                        adj[token.lemma_] = 1
                     else:
-                        orgs[token.ent_type_] +=1
-                # print(token.lemma_, token.pos_,token.ent_type_)
+                        adj[token.lemma_] +=1
+                elif token.pos_ == 'ADV':
+                    if token.lemma_ not in adv:
+                        adv[token.lemma_] = 1
+                    else:
+                        adv[token.lemma_] +=1
+        
     except Exception,e:
         print "error"
 
-traverse('../dat/content')
+traverse('../dat/NYnegative')
 pprint.pprint(nouns)

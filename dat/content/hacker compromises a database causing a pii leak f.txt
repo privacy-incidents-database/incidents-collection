@@ -3,13 +3,13 @@ Sign up now to get free exclusive access to reports, research and invitation onl
 Privacy Commissioner investigating iiNet data breach
 Breach allegedly occurred after hacker compromised a database
 Hamish Barwick (Computerworld) on 26 June, 2015 14:54
-Australian Privacy Commissioner Timothy Pilgrim has opened an investigation into an alleged data breach involving iiNet subsidiary Westnet.The data breach allegedly occurred earlier this monthafter a hacker compromised a database containing the personal information of some Westnet customers and offered the information for sale online.“iiNet is cooperating with the OAIC’s enquiries. The OAIC will publish a further statement at the conclusion of its investigation,” an OAIC statement said.At the time, iiNet CIO Matthew Toohey said that the company was investigating the matter and that the incident had been reported to law enforcement agencies.“iiNet is aware of an incident that may have resulted in unauthorised access to old customer information stored on a legacy Westnet system. Customer username, address, telephone and, in some cases, password information may have been accessed, however, no payment details were stored on the server. The system is now offline and at no further risk,” he said.
+Australian Privacy Commissioner Timothy Pilgrim has opened an investigation into an alleged data breach involving iiNet subsidiary Westnet.The data breach allegedly occurred earlier this monthafter a hacker compromised a database containing the personal information of some Westnet customers and offered the information for sale online.iiNet is cooperating with the OAICs enquiries. The OAIC will publish a further statement at the conclusion of its investigation, an OAIC statement said.At the time, iiNet CIO Matthew Toohey said that the company was investigating the matter and that the incident had been reported to law enforcement agencies.iiNet is aware of an incident that may have resulted in unauthorised access to old customer information stored on a legacy Westnet system. Customer username, address, telephone and, in some cases, password information may have been accessed, however, no payment details were stored on the server. The system is now offline and at no further risk, he said.
 iiNet has been contacted for comment.Follow Hamish Barwick on Twitter: @HamishBarwickFollow Computerworld Australia on Twitter: @ComputerworldAU, or take part in the Computerworld conversation on LinkedIn: Computerworld Australia
 Southern Phone Company breaches customer privacy, ACMA finds
 Pilgrim appointed acting Australian Information Commissioner
 CIOs are finding agility through cloud-based communications
 Tags Timothy Pilgrimwestnetprivacy commissionerprivacy
-Share risk by extending identity to IoT devices – but letting people ...
+Share risk by extending identity to IoT devices  but letting people ...
 In Pictures: Ultimate guide to Raspberry Pi operating systems, part 1
 Please enable JavaScript to view the comments powered by Disqus.
 Guidelines for maintaining business continuity for your organisation

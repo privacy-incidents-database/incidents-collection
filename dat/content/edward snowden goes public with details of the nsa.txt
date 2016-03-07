@@ -8,7 +8,7 @@ Snowden, aged 29, had flown to Hong Kong from Hawaii, where he had been working 
 Knowing it was only a matter of time before he was found, Snowden checked out at lunchtime on Monday. It is thought he is now in a safe house.
 What happens now? The US is on the verge of pressing criminal charges against him and that would lead to extradition proceedings, with a view to bringing him back to the US for trial and eventually jail.
 If America is planning to jail for life Bradley Manning, who was behind the 2010 WikiLeaks release of tens of thousands of state department memos, what retribution lies in store for Snowden, who is guilty of leaking on a much bigger scale? The documents Manning released were merely "classified". Snowden's were not only "Top Secret", but circulation was extremely limited.
-For an American, the traditional home for the kind of story Snowden was planning to reveal would have been the New York Times. But during extensive interviews last week with a Guardian team, he recalled how dismayed he had been to discover the Times had a great scoop in election year 2004 – that the Bush administration, post 9/11, allowed the NSA to snoop on US citizens without warrants – but had sat on it for a year before publishing.
+For an American, the traditional home for the kind of story Snowden was planning to reveal would have been the New York Times. But during extensive interviews last week with a Guardian team, he recalled how dismayed he had been to discover the Times had a great scoop in election year 2004  that the Bush administration, post 9/11, allowed the NSA to snoop on US citizens without warrants  but had sat on it for a year before publishing.
 Snowden said this was a turning point for him, confirming his belief that traditional media outlets could not be trusted. He looked around for alternative journalists, those who were both anti-establishment and at home with blogging and other social media. The member of this generation that he most trusted was the Guardian commentator Glenn Greenwald.
 In January, Snowden reached out to a documentary filmmaker and journalist, Laura Poitras, and they began to correspond. In mid-February, he sent an email to Greenwald, who lives in Brazil, suggesting he might want to set up a method for receiving and sending encrypted emails. He even made a YouTube video for Greenwald, to take him step-by-step through the process of encryption. Greenwald did not know the identity of the person offering the leaks and was unsure if they were genuine. He took no action. In March, in New York, he received a call from Poitras, who convinced him that he needed to take this more seriously.
 Greenwald and Snowden set up a secure communications system and the first of the documents arrived, dealing with the NSA's secret Prism programme, which gathers up information from the world's leading technology companies.
@@ -19,7 +19,7 @@ Both Greenwald and Poitras were shocked the first time they saw the 29-year-old.
 I had expected a 60-year-old grizzled veteran, someone in the higher echelons of the intelligence service. I thought: 'This is going to be a wasted trip.'
 After an hour of listening to Snowden, Greenwald changed his mind. "I completely believed him," he said.
 The interviews were conducted in Snowden's room, which overlooked Kowloon Park. Snowden and the journalists, complete with camera equipment, crammed into the tiny space. He had been there for two weeks, having meals sent up. He did not have much with him: some clothes, a book, four computers, that Rubik's Cube. He was becoming worried about the costs and especially the chance that his credit cards would be blocked.
-Even though he was well-versed in surveillance techniques, he would not have been hard to find – having signed in under his own name, using his own credit cards.
+Even though he was well-versed in surveillance techniques, he would not have been hard to find  having signed in under his own name, using his own credit cards.
 The interviews, combined with the leaked documents, provided the Guardian with four scoops in quick succession, from the court order showing that the US government had forced the telecoms giant Verizon to hand over the phone records of millions of Americans, to the previously undisclosed programme, Prism.
 The Prism story was also published independently by the Washington Post after Poitras, a freelance journalist, had earlier approached the investigative reporter Barton Gellman, who took the story to the paper. Once on the ground in Hong Kong, however, Poitras began working with the Guardian team.
 On Sunday, the story shifted from the leaks to the leaker. Snowden had from the start decided against anonymity and Poitras filmed him being interviewed by Greenwald for a video that would announce his outing.
@@ -35,26 +35,26 @@ In what were to be the last words of the interview, he quoted Benjamin Franklin:
 Snowden recited it slowly. For him, it had a special resonance.
 He has gone underground for now. But this saga is far from over.
 or create your Guardian account to join the discussion.
-We’re doing some maintenance right now. You can still read comments, but please come back later to add your own.
+Were doing some maintenance right now. You can still read comments, but please come back later to add your own.
 Commenting has been disabled for this account (why?)
 US intelligence outlines checks it says validate surveillance
 Intelligence chiefs confirm programmes, but say they protect against terrorism and minimise infringements on privacy
 US intelligence outlines checks it says validate surveillance
-Edward Snowden is a 'traitor' and possible spy for China – Dick Cheney
+Edward Snowden is a 'traitor' and possible spy for China  Dick Cheney
 Former vice-president tells Fox he is 'suspicious because he went to China' as senior figures discuss surveillance leaks
-Edward Snowden is a 'traitor' and possible spy for China – Dick Cheney
+Edward Snowden is a 'traitor' and possible spy for China  Dick Cheney
 Do not extradite Edward Snowden, protesters urge Hong Kong
 Demonstrators call on government to protect NSA whistleblower and attack US over internet spying programmes
 Do not extradite Edward Snowden, protesters urge Hong Kong
-Edward Snowden supporters march in Hong Kong – in pictures
+Edward Snowden supporters march in Hong Kong  in pictures
 Protesters march to US consulate and urge Hong Kong's government not to extradite whistleblower
-Edward Snowden supporters march in Hong Kong – in pictures
+Edward Snowden supporters march in Hong Kong  in pictures
 Snowden gains support from protesters in Hong Kong - video
 Snowden gains support from protesters in Hong Kong - video
-The NSA has us snared in its trap – and there's no way out
-The NSA has us snared in its trap – and there's no way out
+The NSA has us snared in its trap  and there's no way out
+The NSA has us snared in its trap  and there's no way out
 NSA surveillance: Guardian poll finds majority in US want greater oversight
 NSA surveillance: Guardian poll finds majority in US want greater oversight
 Prism NSA surveillance 'did not collect European data in bulk'
 Prism NSA surveillance 'did not collect European data in bulk'
-© 2016 Guardian News and Media Limited or its affiliated companies. All rights reserved.
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.

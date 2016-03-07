@@ -1,109 +1,109 @@
 Adblock Plus and (a little) more: Adblock Plus for Android removed from Google Play store
-Adblock Plus for Android removed from Google Play store · 2013-03-14 09:37 by Wladimir Palant
-In a rather surprising move, Google removed Adblock Plus and other ad blocking apps from the Google Play store due to “interference with another service or product in an unauthorized manner.” This looks like a course change at Google, until recently the main distinction between Android and iPhone was that Android allowed you to install any app as long as it wasn’t malicious (meaning that it’s obvious what the app does). Google Play still allows apps stating “for rooted phones only” but I wonder whether these are next on the list to be removed – each of them performs “unauthorized actions”.
+Adblock Plus for Android removed from Google Playstore  2013-03-14 09:37 by Wladimir Palant
+In a rather surprising move, Google removed Adblock Plus and other ad blocking apps from the Google Play store due to interference with another service or product in an unauthorized manner. This looks like a course change at Google, until recently the main distinction between Android and iPhone was that Android allowed you to install any app as long as it wasnt malicious (meaning that its obvious what the app does). Google Play still allows apps stating for rooted phones only but I wonder whether these are next on the list to be removed  each of them performs unauthorized actions.
 Update (2013-03-16): The Electronic Frontier Foundation did a great job explaining why this move is sadly disappointing, way better than I did.
 Users who already have Adblock Plus installed will be able to continue using it. However, they will no longer get updates which means that they should install our next release from our website once it is out.
-Installing Adblock Plus from our website will still be possible. We will also add Adblock Plus to all alternative app stores to make sure it’s easier to find. The next release will also have automatic updates that are independent from the Google Play store (not quite as comfortable unfortunately) so updating manually will no longer be necessary.
-We need to finalize some changes we were working on (in particular, improving manual proxy configuration) and enable automatic updates (previously these were only necessary for development builds). We are also in the process of getting translations for our Android app. The release should be ready on Tuesday, March 19th. If you aren’t that patient you can also try our development builds.
-It seems illegal to me, you should try to sue them…
-No, it isn’t illegal. It’s their site – they are free to set the rules there. However, this makes their commitment to open platforms look much less convincing. And: no, “open platform” doesn’t mean that anybody is free to just through some hoops to get “non-approved” software installed nevertheless. Google made the Play store very prominent in the OS, keeping it open is central to keeping the platform open then.
-dont worry we’ll install, update it ourself. people aware enough to block ads are smart enough to install it by themselves.
-“until recently the main distinction between Android and iPhone was that Android allowed you to install any app”
+Installing Adblock Plus from our website will still be possible. We will also add Adblock Plus to all alternative app stores to make sure its easier to find. The next release will also have automatic updates that are independent from the Google Play store (not quite as comfortable unfortunately) so updating manually will no longer be necessary.
+We need to finalize some changes we were working on (in particular, improving manual proxy configuration) and enable automatic updates (previously these were only necessary for development builds). We are also in the process of getting translations for our Android app. The release should be ready on Tuesday, March 19th. If you arent that patient you can also try our development builds.
+It seems illegal to me, you should try to sue them
+No, it isnt illegal. Its their site  they are free to set the rules there. However, this makes their commitment to open platforms look much less convincing. And: no, open platform doesnt mean that anybody is free to just through some hoops to get non-approved software installed nevertheless. Google made the Play store very prominent in the OS, keeping it open is central to keeping the platform open then.
+dont worry well install, update it ourself. people aware enough to block ads are smart enough to install it by themselves.
+until recently the main distinction between Android and iPhone was that Android allowed you to install any app
 Adblock is removed only from google play(due to violating their t&c) which is one of the many app stores.You can still install abp on android.
-Sure you can, it will require a number of additional steps however (like allowing installation from untrusted sources – something that’s normally not recommended). In a way, you can also install any app on iPhone – after rooting it.
-so google say its “interference with another service or product in an unauthorized manner.” is that not exactly what they themselves are doing ?
+Sure you can, it will require a number of additional steps however (like allowing installation from untrusted sources  something thats normally not recommended). In a way, you can also install any app on iPhone  after rooting it.
+so google say its interference with another service or product in an unauthorized manner. is that not exactly what they themselves are doing ?
 Its about them potentially advertising revenue, nothing else.
 if Google remains committed such cruel intentions and force us to use or do not want to see what we will gradually abandoning their services are not the only ones!
-si google sigue empeñado en tan crueles intenciones y obligarnos a usar o ver lo que no queremos poco a poco iremos desistiendo de sus servicios no son los unicos!!!
+si google sigue empeado en tan crueles intenciones y obligarnos a usar o ver lo que no queremos poco a poco iremos desistiendo de sus servicios no son los unicos!!!
 Fuck you, google engineers, what did you do to freedom?
 I use Google products and participate willfully in their data mining because they offer a useful service in exchange for it.
-It’s why I love it when they do stuff like push for open standards, and offer easily hackable software/hardware.
+Its why I love it when they do stuff like push for open standards, and offer easily hackable software/hardware.
 But whenever they clampdown, it undermines the goodwill and trust that is extremely hard to gain.
 Would you trust Apple or Microsoft with all your data and closely guarded thoughts?
 A work around, install firefox browser and the adblock edge addon.
-This is perfectly acceptable for Google to do this. Your product hinders Google’s ability to make money. In return, they have hindered yours. It’s quite ironic. I just thought I would mention that, as some fucking jackass above threw out the “American Way” comment (that makes our country look like a piece of shit) saying “You should sue them!”. I think a lot of people like your product, I think that you should stay humble and find a way to deliver your product to your customers without causing legal dispute. One person at a time, we can rebuild the reputation of our nation.
-It’s rarely the engineers who decide about actions as important as this one. Most probably some high-level manager convinced the “upper management” that banning adblockers from the Play Store will increase their revenue. She/he couldn’t be further away from the truth.
-Forcing ads on people who went the extra mile (i.e. looking up adblocker apps, diving into the topic, rooting the phone if necessary, etc.) to avoid them will only result in annoyance and anger. How will that affect Google’s income? :-)
-Google is a brand. And if somebody is annoyed by thinking about it/them, she/he will not prefer Google’s services when it comes to a choice. And that’s where they make their money. Obviously somebody didn’t get it, when she/he went to management/sales training. :-(
+This is perfectly acceptable for Google to do this. Your product hinders Googles ability to make money. In return, they have hindered yours. Its quite ironic. I just thought I would mention that, as some fucking jackass above threw out the American Way comment (that makes our country look like a piece of shit) saying You should sue them!. I think a lot of people like your product, I think that you should stay humble and find a way to deliver your product to your customers without causing legal dispute. One person at a time, we can rebuild the reputation of our nation.
+Its rarely the engineers who decide about actions as important as this one. Most probably some high-level manager convinced the upper management that banning adblockers from the Play Store will increase their revenue. She/he couldnt be further away from the truth.
+Forcing ads on people who went the extra mile (i.e. looking up adblocker apps, diving into the topic, rooting the phone if necessary, etc.) to avoid them will only result in annoyance and anger. How will that affect Googles income? :-)
+Google is a brand. And if somebody is annoyed by thinking about it/them, she/he will not prefer Googles services when it comes to a choice. And thats where they make their money. Obviously somebody didnt get it, when she/he went to management/sales training. :-(
 First they kill Reader, now they remove Adblock Plus from the store.
-Wow, Google is pissing lots of people off this week. I’ve spent sometime looking for my Google Reader replacement, in which I’ll be spending hours
-I’ve been a Google advocate for years… no longer. Too many negatives over the last year or so to ignore.
+Wow, Google is pissing lots of people off this week. Ive spent sometime looking for my Google Reader replacement, in which Ill be spending hours
+Ive been a Google advocate for years no longer. Too many negatives over the last year or so to ignore.
 Privacy issues along with the HARD PUSH for inclusion into G+ has me sorely disappointed.
 Do try to remember some of the positives of Google, but this does seem somewhat overbearing.
-You should see if you made any recent changes that interfere with Google’s advertising. I’m sure they have something in the Google Play Store policy agreement that states if you interfere with their business directly then they can remove your app.
+You should see if you made any recent changes that interfere with Googles advertising. Im sure they have something in the Google Play Store policy agreement that states if you interfere with their business directly then they can remove your app.
 Hopefully it is that and you can either decide to revert the changes or not.
-I would be surprised to find that they were pressured by 3rd party app developers, Google usually isn’t one to do that. (Or to do this without good reason for that matter.)
-To Charley Hinton (Systems Engineer): nowhere in the comments above do I see anything about the “American Way”. So it is you who is a “fucking jackass”.
-Now to the matter at hand. No, it is not acceptable for google to remove a useful product such as this from the marketplace. Adblock is simply a block list and it is perfectly acceptable for me to control what is allowed in and out of my phone. Or are you one of those people who believes that that the phone is not actually mine, but rather google’s? In that case, enjoy the ads/spam/crapware on your, err, i mean, google’s phone.
-That’s it. This past week is the final nail in the coffin for me. I’m pulling all my RSS feeds and telling everyone not to use my gmail account, which I’ll never use again. I’ve had it with GoOgle.
+I would be surprised to find that they were pressured by 3rd party app developers, Google usually isnt one to do that. (Or to do this without good reason for that matter.)
+To Charley Hinton (Systems Engineer): nowhere in the comments above do I see anything about the American Way. So it is you who is a fucking jackass.
+Now to the matter at hand. No, it is not acceptable for google to remove a useful product such as this from the marketplace. Adblock is simply a block list and it is perfectly acceptable for me to control what is allowed in and out of my phone. Or are you one of those people who believes that that the phone is not actually mine, but rather googles? In that case, enjoy the ads/spam/crapware on your, err, i mean, googles phone.
+Thats it. This past week is the final nail in the coffin for me. Im pulling all my RSS feeds and telling everyone not to use my gmail account, which Ill never use again. Ive had it with GoOgle.
 And to the anon above who questioned whether anyone should trust Apple with their data, the answer is simple. Google gets paid by third parties to share your data. People pay Apple to protect their data and NOT share it.
 This is where you block google advertisements for being harsh enough to remove adblock.
-Wow, that’s a tipping point for me where I’ll stop to see Google as less evil than Apple.
+Wow, thats a tipping point for me where Ill stop to see Google as less evil than Apple.
 Google has changed, as any too big company, where money has become more important than moral values.
-Support Firefox, and let’s hope the best for FirefoxOS and co.
-@Johannes: ALL companies are evil — Apple, Google, Microsoft, Dell, HP, Cisco… you just pick the one that bites you the least, or bites you in a way that you don’t mind.
-If you want ethics and integrity, that’s what Open Source is there for: grab some hardware and make it yourself.
-Guys, this is actually a really good thing. Sites make their money from advertisements. A lot of the sites you go to wouldn’t be able to run without donations, or even worse, forced subscriptions.
-So long as adblock isn’t known to everybody, then sites won’t have to resort to that. Some sites have annoying popup or flash advertisements, while other sites have images in the side that do no harm.
-And as for the “Don’t be evil” thing, of course Google sells your data and uses advertisements. How do you think the search engine runs? How do you think it has always run? They need money. They’ve always needed money. By selling how many people searched for x, and giving advertisements related to x, they can stay up without forcing subscriptions.
-God damn! If I’ve installed AdBlock, than I’ve OBVIOUSLY AUTHORIZED it to “interfere with another service or product” on MY device and on MY internet channel. wtf?
-One of the main issues that I’ve personally ran into was that after updating Chrome on the Nexus 4, ADP caused websites to show up blank (white). Only after uninstalling ADP and rebooting would content be displayed in the updated Chrome browser.
-That’s a WebKit bug that we worked around already – feel free to install the next release.
-I hadn’t considered installing ABP for Android until Google made this big stink about it and I caught wind!
-Jesus people, it’s not illegal. They have a clause in the code of conduct about ad blocking, they’re just choosing to enforce it now. Adaway and others are all gone under the same clause.
+Support Firefox, and lets hope the best for FirefoxOS and co.
+@Johannes: ALL companies are evil  Apple, Google, Microsoft, Dell, HP, Cisco you just pick the one that bites you the least, or bites you in a way that you dont mind.
+If you want ethics and integrity, thats what Open Source is there for: grab some hardware and make it yourself.
+Guys, this is actually a really good thing. Sites make their money from advertisements. A lot of the sites you go to wouldnt be able to run without donations, or even worse, forced subscriptions.
+So long as adblock isnt known to everybody, then sites wont have to resort to that. Some sites have annoying popup or flash advertisements, while other sites have images in the side that do no harm.
+And as for the Dont be evil thing, of course Google sells your data and uses advertisements. How do you think the search engine runs? How do you think it has always run? They need money. Theyve always needed money. By selling how many people searched for x, and giving advertisements related to x, they can stay up without forcing subscriptions.
+God damn! If Ive installed AdBlock, than Ive OBVIOUSLY AUTHORIZED it to interfere with another service or product on MY device and on MY internet channel. wtf?
+One of the main issues that Ive personally ran into was that after updating Chrome on the Nexus 4, ADP caused websites to show up blank (white). Only after uninstalling ADP and rebooting would content be displayed in the updated Chrome browser.
+Thats a WebKit bug that we worked around already  feel free to install the next release.
+I hadnt considered installing ABP for Android until Google made this big stink about it and I caught wind!
+Jesus people, its not illegal. They have a clause in the code of conduct about ad blocking, theyre just choosing to enforce it now. Adaway and others are all gone under the same clause.
 Tjk, you seem to be saying that it is not evil because it is done for profit.
-Well well well, what next – avg and other AV software picking up ad blockers and quarantining them for being malicious code? That’s basically what google is doing here. Taking a service that you want, and refusing it to you because it might hinder their profits.
-Block all google related ad sense. Block it all, and then try to use the net – they have their fingers in every damn pie. But it’s worth it to find out just how much freedom you still have… while you have it. Very little. I’d break this chain of profit slavery before it really fucks the net up. FU GOOGLE.
-I’ve always banned Google ADs and scripts long before started using AdBlock+. The HOSTS file or black list on your router are perfect places for this.
+Well well well, what next  avg and other AV software picking up ad blockers and quarantining them for being malicious code? Thats basically what google is doing here. Taking a service that you want, and refusing it to you because it might hinder their profits.
+Block all google related ad sense. Block it all, and then try to use the net  they have their fingers in every damn pie. But its worth it to find out just how much freedom you still have while you have it. Very little. Id break this chain of profit slavery before it really fucks the net up. FU GOOGLE.
+Ive always banned Google ADs and scripts long before started using AdBlock+. The HOSTS file or black list on your router are perfect places for this.
 SO, F*CK YOU, GOOGLE. F*CK EVERY ADS MOTHERF*CKERS. GTFO FROM MY INTERNET. IT WAS A BETTER PLACE WITHOUT MONEY-SUCKING B*TCHES LIKE YOU, SCROOGLE.
 My company builds an ebook reader app that downloads an ebook from our site.
 Ad Block plus on a phone was causing book downloads to fail.
 And it took us (and the user) a long time to find this problem.
 So while Google has their own revenue in mind, I want to call out that Ad Block plus can affect other apps adversely.
-Welcome to the “post-PC era” that everyone is trying to sell you!
-This is removing user’s control over the web pages in their browsers.
+Welcome to the post-PC era that everyone is trying to sell you!
+This is removing users control over the web pages in their browsers.
 It seems that Google want to increase views to their AdSense and AdWords. But this is absolutely unethical.
-When I noticed it was no longer in the Google Play Store, I wasn’t surprised.
+When I noticed it was no longer in the Google Play Store, I wasnt surprised.
 It constantly interferes with other apps and often completely blocks internet traffic on my phone.
 I see above that the Dev states this may have already been fixed, but I am running the newest version downloaded from this site and still having this issue.
 Other than that, I really hate Google for doing this.
-Something fishy is going on over at Google. I don’t like this. Really don’t like this. And since this is beginning to happen, who knows who’ll follow.
+Something fishy is going on over at Google. I dont like this. Really dont like this. And since this is beginning to happen, who knows wholl follow.
 Would it be an exaggerated counter-attack to stop providing ABP on Google Chrome so that Google would loose some market share in favour of Firefox ?
-You know, Google really confuses me sometimes, really…_
-Will the new update (19th March) address the issue with Adblock plus incurring high data usage (Nexus 7). Yesterday Adblock plus downloaded a phanthom 1.5Gb data over my 3G connection which – if I didnt have alerts set I would have been charged a fortune by my provider. I love the App but if this cant be resolved Ill have to uninstall it.
-So far it’s an issue we haven’t been able to reproduce here – despite several attempts.
+You know, Google really confuses me sometimes, really_
+Will the new update (19th March) address the issue with Adblock plus incurring high data usage (Nexus 7). Yesterday Adblock plus downloaded a phanthom 1.5Gb data over my 3G connection which  if I didnt have alerts set I would have been charged a fortune by my provider. I love the App but if this cant be resolved Ill have to uninstall it.
+So far its an issue we havent been able to reproduce here  despite several attempts.
 What application(s) where you using during this period or what sites have you visited that could cause such traffic consumption? Can you guess?
-So after the enforced installation of google plus on my phone now this. Google might be overplaing it’s hand here.
+So after the enforced installation of google plus on my phone now this. Google might be overplaing its hand here.
 The enforcement of their rules on an open platform and paid-for phone/tablet are getting out of hand. Their must be a point where users are leaving ..
 Problem is that ads sometimes add up to the bandwith big time, hey Google if you want to pay for our bandwith wasted by ads then I am cool with this, oh wait I bet you dont wanna pay for the bandwith u make me waste with ads right? Tough luck, cya Google nice knowing ya.
 Would you be willing to let people, like myself, mirror host the .apk for adblock on your site for Android, other mobile OS down the line?
 I mean I cannot install VLC either in my country from the official play store, the birthplace of Gooooooooogle, but I was able to grab it from a mirror.
 Also, would you be opposed to an official torrent of the .apk?
-Your platform hinder’s Google’s ability to monetize advertising on their platform.
-It’s no surprise they kill your app from their market.
-This has nothing to do with keeping an open platform. You begin jeopardizing openness when you offer a product that cuts into the platform’s bottom line.
-A hindered means to monetize their ad network means they’re going to have to find another way to make money within the ecosystem.
-Some ads are dumb, but it doesn’t change the fact that the internet we know now will morph into something much worse.
+Your platform hinders Googles ability to monetize advertising on their platform.
+Its no surprise they kill your app from their market.
+This has nothing to do with keeping an open platform. You begin jeopardizing openness when you offer a product that cuts into the platforms bottom line.
+A hindered means to monetize their ad network means theyre going to have to find another way to make money within the ecosystem.
+Some ads are dumb, but it doesnt change the fact that the internet we know now will morph into something much worse.
 The people complaining about bandwidth need to take it up with their service provider.
-It’s rather entertaining to think about how pissed people are over this.
-It’s on par with people bitching that their neighbor had their internet service cut because they were caught stealing leeching their connection by some illegal means.
-Adblock’s already destroying the internet for PC users, and now is trying to destroy the internet for mobile users.
+Its rather entertaining to think about how pissed people are over this.
+Its on par with people bitching that their neighbor had their internet service cut because they were caught stealing leeching their connection by some illegal means.
+Adblocks already destroying the internet for PC users, and now is trying to destroy the internet for mobile users.
 Ads are the only thing that make the internet work, taking down ads means breaking the internet.
-This just proves that Google doesn’t care about community anymore. The only thing they’re interested in are their advertisers, the two of them are making a ton of cash while we need to stay calm and watch how our adsense earnings are getting lower and our apps getting banned. Well that’s not fair at all.
+This just proves that Google doesnt care about community anymore. The only thing theyre interested in are their advertisers, the two of them are making a ton of cash while we need to stay calm and watch how our adsense earnings are getting lower and our apps getting banned. Well thats not fair at all.
 Can you tell us if your Ad Blocker was first to block google ads? Have you happen to block goog analytics, as well?
-I’d like to know if you achieved anything different to piss Google this much. If so, I’d like to learn what are they?
-Frankly, I’ll be pleased if I can somehow limit Google’s background ability on my Android phone. I already gave them lots of data: Contacts, Emails and even Bookmarks. But I’m sure they are actively monitoring my location activities and app usage statistics.
-If you manage to block some of these data sources, I’d like to know, and spread the word.
-Thanks for the update! Up until now i coud not use the this extension in my phone’s browser.
-I don’t trust third party apk mirrors unless there is a developer provided hash I can check. It is far too easy to monkey with an apk. It is just a zip file of a jar.
-I’m glad adblock is hosting their own apk. If you will be providing it to third party stores, can you post the md5 so we can verify that the download hasn’t been corrupted or tampered with?
-It’s only an issue for the initial installation and you can always perform that one from our website. An APK file isn’t just a zip file – it’s signed. Of course, somebody can sign it with a different certificate. However, you will then get a message that the update erases all the data. On the other hand, if on update it says “your data is kept” then it’s safe to be installed – still signed with the same certificate.
+Id like to know if you achieved anything different to piss Google this much. If so, Id like to learn what are they?
+Frankly, Ill be pleased if I can somehow limit Googles background ability on my Android phone. I already gave them lots of data: Contacts, Emails and even Bookmarks. But Im sure they are actively monitoring my location activities and app usage statistics.
+If you manage to block some of these data sources, Id like to know, and spread the word.
+Thanks for the update! Up until now i coud not use the this extension in my phones browser.
+I dont trust third party apk mirrors unless there is a developer provided hash I can check. It is far too easy to monkey with an apk. It is just a zip file of a jar.
+Im glad adblock is hosting their own apk. If you will be providing it to third party stores, can you post the md5 so we can verify that the download hasnt been corrupted or tampered with?
+Its only an issue for the initial installation and you can always perform that one from our website. An APK file isnt just a zip file  its signed. Of course, somebody can sign it with a different certificate. However, you will then get a message that the update erases all the data. On the other hand, if on update it says your data is kept then its safe to be installed  still signed with the same certificate.
 All this is only true on Android systems where code signing works of course (http://www.h-online.com/open/news/item/Android-s-code-signing-can-be-bypassed-1911409.html).
 Google should have done this sooner. As a developer, I rely on advertisements to finance the development of my app. With that, I try to cover the costs for the rather pricy server architecture on which my apps rely. Users with an adblocker only generate costs in my infrastructure, so I actually have to PAY for them using my app.
-(And no, making a paid version simply is NOT an option right now, as I’ve seen similar apps getting killed because their income dried up while still having the same costs in their pricy infrastructure.)
-That’s why I really hate adblockers. They make me LOSE money (instead of not generating income), and represent a direct danger to the future existence of my app.
-Huhh… Advertising may make the CURRENT Internet work (for a few wealthy stakeholders), but I dream of days where Internet marketing was heavily regulated and/or banned altogether. Googles ads are okay because most of the time they’re just text and nearly invisible to our trained eyes. But if blasting a flash ad in a new buried tab at 5 in the morning on me is the only way you can find work, you’re doing it wrong. Plenty of people like me also make Internet stuff and use Adblock because we’ve seen the sheer horror of what some people do to the Internet. 14 tracking beacons on a single page? And you wonder why your career is insecure? These developers are getting quite loud about this, so let me say this on record – YOU are breaking the Internet. If your website cannot function without loading an ad that I won’t look at anyway, and in many cases, even if it won’t load without javascript available, you are the reason we <3 Adblock. Extremely overpriced American telecom makes the Internet work for me, you’re actually standing in the way!
-Thank you. I don’t trust any other like my adblock.
-Google doesn’t lose a dime because people block ads.
+(And no, making a paid version simply is NOT an option right now, as Ive seen similar apps getting killed because their income dried up while still having the same costs in their pricy infrastructure.)
+Thats why I really hate adblockers. They make me LOSE money (instead of not generating income), and represent a direct danger to the future existence of my app.
+Huhh Advertising may make the CURRENT Internet work (for a few wealthy stakeholders), but I dream of days where Internet marketing was heavily regulated and/or banned altogether. Googles ads are okay because most of the time theyre just text and nearly invisible to our trained eyes. But if blasting a flash ad in a new buried tab at 5 in the morning on me is the only way you can find work, youre doing it wrong. Plenty of people like me also make Internet stuff and use Adblock because weve seen the sheer horror of what some people do to the Internet. 14 tracking beacons on a single page? And you wonder why your career is insecure? These developers are getting quite loud about this, so let me say this on record  YOU are breaking the Internet. If your website cannot function without loading an ad that I wont look at anyway, and in many cases, even if it wont load without javascript available, you are the reason we <3 Adblock. Extremely overpriced American telecom makes the Internet work for me, youre actually standing in the way!
+Thank you. I dont trust any other like my adblock.
+Google doesnt lose a dime because people block ads.
 The reason why is: Those who block the ads would never click on them or buy anything from those ads anyway, even when they are showing.
-« Adblock Plus for Android issues with the latest Jelly Bean updates
+Adblock Plus for Android issues with the latest Jelly Bean updates

@@ -1,4 +1,4 @@
-import csv,json,sys,os,pprint
+import csv,json,sys,os,pprint,re
 def gen_csv(neg,pos):
     """
     Generate CSV according to the json stored.
@@ -6,7 +6,7 @@ def gen_csv(neg,pos):
     pos: path to postive directory
 
     """
-    fin = open('tfid-log.csv','rb')
+    fin = open('tfid-log-spacy.csv','rb')
     idfreader = csv.reader(fin)
 
     idfkey = []
@@ -23,7 +23,7 @@ def gen_csv(neg,pos):
     idfdic = dict(zip(idfkey,idfval))
 
 
-    fout = open('tfidf.csv','w')
+    fout = open('tfidf-spacy.csv','w')
     out = csv.writer(fout)
     src = [neg,pos]
     dic = ['no.','filename','isPrivacy']
@@ -36,7 +36,6 @@ def gen_csv(neg,pos):
             fin = open(s+'/'+filename)
             dat = json.load(fin)
             for key in dat:
-                key =  key.replace(',', ' ')
                 if key not in keywords:
                     keywords.append(key)
 
@@ -52,7 +51,7 @@ def gen_csv(neg,pos):
             ###filename => every file in the directory
             fin = open(s+'/'+filename)
             dat = json.load(fin)
-            print "Current File: " + filename
+            # print "Current File: " + filename
 
             for key,val in dat.iteritems():
                 try:
@@ -74,4 +73,4 @@ def gen_csv(neg,pos):
             cnt+=1
             fin.close()
 
-gen_csv('tfreq/NYnegative','tfreq/content')
+gen_csv('tfreq-spacy/NYnegative','tfreq-spacy/content')
