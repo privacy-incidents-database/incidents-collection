@@ -7,10 +7,12 @@ import time
 import sys
 import json
 from nltk.stem.porter import *
+from nltk.tag.perceptron import PerceptronTagger
 
 def traverse(src):
     cnt = 0
     sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
+    tagger = PerceptronTagger()
     pstemmer = PorterStemmer()
 
     for filename in os.listdir(src):
@@ -19,24 +21,24 @@ def traverse(src):
             print "Current file: " + filename
             text = fin.read()
             start = time.time()
-            dic = get_count(text, sent_detector, pstemmer)
+            dic = get_count(text, sent_detector, pstemmer,tagger)
             genTermFreq(dic, filename)
             total_time = time.time() - start
             print total_time
             cnt+=1
-    print cnt
+    # print cnt
 
-def get_count(text,sent_detector,pstemmer):
+def get_count(text,sent_detector,pstemmer,tagger):
     import string
-    asciitext = text.strip().decode("ascii","ignore").encode("ascii").lower()
-    asciitext = asciitext.translate(string.maketrans(" "," "),string.punctuation)
+    asciitext = text.strip().encode("ascii","ignore").lower()
+    # asciitext = asciitext.translate(string.maketrans(" "," "),string.punctuation)
 
     sentences = sent_detector.tokenize(asciitext)
     dic ={}
     for sentence in sentences:
         try:
             w = nltk.word_tokenize(sentence)
-            tags = nltk.pos_tag(w)
+            tags = tagger.tag(w)
             # print tags
             usedTags = ['NN.*','VB.*','JJ.*','RB.*']
             # NN = Nouns

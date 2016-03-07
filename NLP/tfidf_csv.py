@@ -1,4 +1,5 @@
 import csv,json,sys,os,pprint,re
+
 def gen_csv(neg,pos):
     """
     Generate CSV according to the json stored.
@@ -25,6 +26,10 @@ def gen_csv(neg,pos):
 
     fout = open('tfidf-spacy.csv','w')
     out = csv.writer(fout)
+
+    # output = cStringIO.StringIO()
+    # out = csv.writer(output)
+
     src = [neg,pos]
     dic = ['no.','filename','isPrivacy']
     length = len(dic)
@@ -39,7 +44,8 @@ def gen_csv(neg,pos):
                 if key not in keywords:
                     keywords.append(key)
 
-    dic.extend(sorted(keywords))
+    keywords = sorted(keywords)
+    dic.extend(keywords)
 
     ##sorted and write as header
     rank = [0] * (len(keywords))
@@ -51,7 +57,7 @@ def gen_csv(neg,pos):
             ###filename => every file in the directory
             fin = open(s+'/'+filename)
             dat = json.load(fin)
-            # print "Current File: " + filename
+            print "Current File: " + filename
 
             for key,val in dat.iteritems():
                 try:
@@ -59,18 +65,20 @@ def gen_csv(neg,pos):
                 except Exception,e:
                     idfdic[key] = 1
 
-                rank[sorted(keywords).index(key)] = val*float(idfdic[key])
+                rank[keywords.index(key)] = val*float(idfdic[key])
 
 
             flag = False
             if s == pos:
                 flag = True
-            result = [cnt,filename,flag]
+            result = [cnt,"\""+filename+"\"",flag]
             result.extend(rank)
 
             out.writerow(result)
             rank = [0]*(len(keywords))
             cnt+=1
             fin.close()
+
+
 
 gen_csv('tfreq-spacy/NYnegative','tfreq-spacy/content')
