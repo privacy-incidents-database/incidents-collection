@@ -17,7 +17,7 @@ UPDATE: Etsy further clarified how it has revised its privacy policy, following 
 From now on, all purchases and feedback are set to private. [...] When others view your feedback, they will not see your username, real name, or details about the item you purchased.
 Purchases and feedback will be private for both buyers and sellers. Sellers' feedback ratings will still be visible, as will a seller's feedback left for others.
 Etsy is also working to mitigate the damage done by the indexing of users' feedback in search, information that linked to details about users' purchases and personal information.
-"We are working to remove existing Etsy feedback pages from Google’s index. Feedback pages will not be indexed by Google and other search engines going forward," according to the post.
+"We are working to remove existing Etsy feedback pages from Googles index. Feedback pages will not be indexed by Google and other search engines going forward," according to the post.
 In addition, the Q&A; post also includes a direct link to the privacy settings, which users can modify according to preference. We have contacted Etsy for comment.
 Etsy, Etsy Privacy Policy, Etsy Privacy, Etsy Privacy Issue, Etsy People Search
 Enter your email address to get top stories and blog posts emailed to you each day.

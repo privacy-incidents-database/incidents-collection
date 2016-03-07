@@ -1,34 +1,34 @@
-Microsoft Will Remove “Do Not Track” As The Default Setting In Its New Browsers
+Microsoft Will Remove Do Not Track As The Default Setting In Its New Browsers
 9th Annual CrunchiesPrices Increase On Wednesday For The Tech Awards Show Of The Year
-ScribbleLive Acquires Visually To Combine Their Content Marketing Tools
-Microsoft Beats On Strong Cloud Revenue With $25.7B Revenue, $0.78 EPS
-Office Online Gets Real-Time Collaboration For Files Hosted By Microsoft Partners
-Spartan DX: Come for the DNA Testing, Stay for the iPod Nano
-Microsoft Today Ends Support For Windows 8, Old Versions Of Internet Explorer
-Google Will Stop Supporting Chrome For Windows XP, Vista And Older Versions Of OS X By April 2016
-Mozilla CEO Sends Angry Open Letter To Microsoft Over Changing Windows 10 Browser Defaults
-Microsoft Will Remove “Do Not Track” As The Default Setting In Its New Browsers
+ScribbleLive Acquires Visually To Combine Their Content MarketingTools
+Microsoft Beats On Strong Cloud Revenue With $25.7B Revenue, $0.78EPS
+Office Online Gets Real-Time Collaboration For Files Hosted By MicrosoftPartners
+Spartan DX: Come for the DNA Testing, Stay for the iPodNano
+Microsoft Today Ends Support For Windows 8, Old Versions Of InternetExplorer
+Google Will Stop Supporting Chrome For Windows XP, Vista And Older Versions Of OS X By April2016
+Mozilla CEO Sends Angry Open Letter To Microsoft Over Changing Windows 10 BrowserDefaults
+Microsoft Will Remove Do Not Track As The Default Setting In Its New Browsers
 Posted Apr 3, 2015 by Frederic Lardinois (@fredericl)
-Weekends Are The Best Time To Promote Most Apps, Study Finds
-Microsoft today announced that going forward, it will not turn on the “Do Not Track” feature in the upcoming versions of Internet Explorer and Spartan by default.
-The “Do Not Track” setting in many popular browsers tells websites and their advertisers that you want to opt out of third-party tracking for advertising purposes. All of the major browser vendors, including Google, Mozilla, Opera, Apple and Microsoft, support this feature, but whether advertisers honor the user’s request — and it’s no more than a request sent by the browser — is up to them. And most probably don’t.
-Microsoft started enabling “Do Not Track” as the default setting with the launch of Internet Explorer 10. Unsurprisingly, this created a bit of a controversy. Previous to Microsoft’s decision, advertisers had agreed to honor Do Not Track, as long as it wasn’t the default setting. They argued that the decision not to be tracked should be made by the user and not the browser vendor. Microsoft stuck to its guns saying users could always opt out during the setup process, and “Do Not Track” remained the default — until now (and the number of advertisers that honored it remained low).
-Chrome and Firefox leave “Do Not Track” off by default.
-Today, the company is reversing its stand. Microsoft Chief Privacy Officer Brendon Lynch argues that it’s doing so in order to comply with the latest draft of the official W3C standard for “Do Not Track.” This new draft explicitly notes that “the signal sent MUST reflect the user’s preference, not the choice of some vendor, institution, site or network-imposed mechanism outside the user’s control; this applies equally to both the general preference and exceptions.”
-“Put simply, we are updating our approach to DNT to eliminate any misunderstanding about whether our chosen implementation will comply with the W3C standard,” Lynch writes today. “Without this change, websites that receive a DNT signal from the new browsers could argue that it doesn’t reflect the users’ preference, and therefore, choose not to honor it.”
-Given the voluntary nature of “Do Not Track,” it probably doesn’t matter all that much whether you turn it on or off anyway. If you want to make sure you aren’t tracked, using tools like Disconnect  and add-ons like Ghostery, uBlock and the EFF’s Privacy Badger is more effective anyway — at least on the desktop.
+Weekends Are The Best Time To Promote Most Apps, StudyFinds
+Microsoft today announced that going forward, it will not turn on the Do Not Track feature in the upcoming versions of Internet Explorer and Spartan by default.
+The Do Not Track setting in many popular browsers tells websites and their advertisers that you want to opt out of third-party tracking for advertising purposes. All of the major browser vendors, including Google, Mozilla, Opera, Apple and Microsoft, support this feature, but whether advertisers honor the users request  and its no more than a request sent by the browser  is up to them. And most probably dont.
+Microsoft started enabling Do Not Track as the default setting with the launch of Internet Explorer 10. Unsurprisingly, this created a bit of a controversy. Previous to Microsofts decision, advertisers had agreed to honor Do Not Track, as long as it wasnt the default setting. They argued that the decision not to be tracked should be made by the user and not the browser vendor. Microsoft stuck to its guns saying users could always opt out during the setup process, and Do Not Track remained the default  until now (and the number of advertisers that honored it remained low).
+Chrome and Firefox leave Do Not Track off by default.
+Today, the company is reversing its stand. Microsoft Chief Privacy Officer Brendon Lynch argues that its doing so in order to comply with the latest draft of the official W3C standard for Do Not Track. This new draft explicitly notes that the signal sent MUST reflect the users preference, not the choice of some vendor, institution, site or network-imposed mechanism outside the users control; this applies equally to both the general preference and exceptions.
+Put simply, we are updating our approach to DNT to eliminate any misunderstanding about whether our chosen implementation will comply with the W3C standard, Lynch writes today. Without this change, websites that receive a DNT signal from the new browsers could argue that it doesnt reflect the users preference, and therefore, choose not to honor it.
+Given the voluntary nature ofDo Not Track, it probably doesnt matter all that much whether you turn it on or off anyway. If you want to make sure you arent tracked, using tools like Disconnect and add-ons like Ghostery, uBlock and the EFFs Privacy Badger is more effective anyway  at least on the desktop.
 Featured Image: Perin J-C/Flickr UNDER A CC BY 2.0 LICENSE
-Microsoft is an American multinational corporation that develops, manufactures, licenses, supports and sells computer software, consumer electronics and personal computers and services. Its best known software products are the [Microsoft Windows line of operating systems](/product/windows), [Microsoft Office office suite](/product/microsoft-office), and [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie) …
+Microsoft is an American multinational corporation that develops, manufactures, licenses, supports and sells computer software, consumer electronics and personal computers and services. Its best known software products are the [Microsoft Windows line of operating systems](/product/windows), [Microsoft Office office suite](/product/microsoft-office), and [Internet Explorer](http://windows.microsoft.com/en-us/internet-explorer/download-ie) 
 Apple Reportedly Creating Long-Range Wireless Charging Tech | Crunch Report
-China Just Released True Color HD Photos Of The Moon
-President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12 School
-Onfleet Has Powered Over 1 Million On-Demand Deliveries
-How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of The Workplace
-Telegraph Academy Bootcamp Teaches People Of Color How To Code
-China Just Released True Color HD Photos Of The Moon
-Weekends Are The Best Time To Promote Most Apps, Study Finds
+China Just Released True Color HD Photos Of TheMoon
+President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12School
+Onfleet Has Powered Over 1 Million On-DemandDeliveries
+How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of TheWorkplace
+Telegraph Academy Bootcamp Teaches People Of Color How ToCode
+China Just Released True Color HD Photos Of TheMoon
+Weekends Are The Best Time To Promote Most Apps, StudyFinds
 Subscribe to <span class="no-mobile">Subscribe to </span>TechCrunch Daily
-China Just Released True Color HD Photos Of The Moon
-How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of The Workplace
-Onfleet Has Powered Over 1 Million On-Demand Deliveries
-Tesla Says CEO Elon Musk Just Bought More of The Company
+China Just Released True Color HD Photos Of TheMoon
+How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of TheWorkplace
+Onfleet Has Powered Over 1 Million On-DemandDeliveries
+Tesla Says CEO Elon Musk Just Bought More of TheCompany

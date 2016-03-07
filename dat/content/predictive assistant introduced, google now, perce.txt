@@ -1,10 +1,10 @@
 Confirmed: Google's Siri-Esque Personal Assistant Is Creepy
 Confirmed: Google's Siri-Esque Personal Assistant Is Creepy
-Google's all-knowing Siri-esque personal assistant has confirmed some suspicions, veering from cool feature into creepy stalker territory. When Google announced Google Now -- a service that "gets you just the right information at just the right time," as Google explains it -- some, like Bits Blog's Jenna Wortham suggested the all-knowingness might come off as creepy, even if it's useful. From the looks of the service, which we get from Business Insider's Steve Kovach, it does indeed sound like the service keeps a very close eye on us, begging the question: How much do we want our computers to know about us?
+Google's all-knowing Siri-esque personal assistant has confirmed some suspicions, veering from cool feature into creepy stalker territory. When Google announced Google Now -- a service that "gets you just the right information at just the right time," as Google explains it -- some, like Bits Blog's Jenna Wortham suggested the all-knowingness might come off as creepy, even if it's useful. From the looks of the service, which we get fromBusiness Insider's Steve Kovach, it does indeed sound like the service keeps a very close eye on us, begging the question: How much do we want our computers to know about us?
 Not as much as Google Now, at least from Kovach's experience. Having the latest Android software, Kovach has gotten his hands on the product. And, like a creepy bot, it already knows lots and lots about him, monitoring everything he does online to guess what he'll need before he knows it. Some examples:
 It knows his favorite sports teams: I'm a Mets fan (unfortunately), so a lot of my sports-related Google searches are for the score of the latest game. Google knows this, so Google Now automatically sends me notifications with the latest score. I don't even have to ask anymore.
 It knows his friends, which is creepy not just for Kovach. The other night I was getting dinner with a few old journalism friends from college. We were talking about Jim Romenesko, and one of my friends wondered how old he was. I asked Google Now, "How old is Jim Romenesko?" The answer came up in less than a second.
-Though Kovach doesn't find any of this an overreach, calling the service "better than Siri at pulling up relevant information," it sounds a little too all-knowing to us and, we image, for Wortham. "It gets weird when Google starts to extend its reach into that territory, because Google already knows so much about us — things like who we e-mail and talk to the most, along with what we search for," writes Wortham. "When those smaller bits of data begin to get linked together in a more meaningful way, that knowledge can take on a larger, different context," she continues.
+Though Kovach doesn't find any of this an overreach, calling the service "better than Siri at pulling up relevant information," it sounds a little too all-knowing to us and, we image, for Wortham. "It gets weird when Google starts to extend its reach into that territory, because Google already knows so much about us  things like who we e-mail and talk to the most, along with what we search for," writes Wortham. "When those smaller bits of data begin to get linked together in a more meaningful way, that knowledge can take on a larger, different context," she continues.
 In the digital personal assistant world, it's not human-like qualities -- a.k.a the uncanny valley -- that makes these programs creepy, but rather the kind of information they have. That Google Now knows about us in a more than Google-search-able way makes the service feel like an intrusion. To be sure, Siri knows things, too. And it even talks (and jokes) like a human. But, Siri does not take note of our habits, like some weird stalker friend. We don't have an aversion to the Apple version because it still has a robot brain. Google Now, on the other hand, not only has a human brain, it has a nosy omniscient one. That, we find creepy. And, considering all the privacy issues Google has gotten into of late, we doubt we're alone here.
 Samantha Bee and Barbie's New Body: The Week in Pop-Culture Writing
 The highlights from seven days about reading about entertainment
@@ -19,11 +19,11 @@ At least 22 emails on Hillary Clinton's private server contain top-secret inform
 Is O.J. Simpson the NFL's Latest Concussion Casualty?
 Bennet Omalu, the doctor who first identified chronic traumatic encephalopathy, believes the former football star suffered from the disease.
 The Clinton campaign loudly protests the latest Sanders ad.
-Top Chef, this week, makes it clear: “Camera cuisine” is here to stay.
+Top Chef, this week, makes it clear: Camera cuisine is here to stay.
 Syrian Peace Talks, Now Featuring a Reluctant Oppostion
 After boycotting the opening in Geneva, an anti-Assad coalition has now decided to attend the meetings and focus on humanitarian issues.
 Companies with 100 employees or more will be required to disclose pay data broken down by race and gender to the U.S. Equal Employment Opportunity Commission.
-Rihanna’s Anti and Sia’s This Is Acting pair interesting ideas with forgettable songs.
+Rihannas Anti and Sias This Is Acting pair interesting ideas with forgettable songs.
 Ending a long saga, four Chinese miners were rescued on Friday night after more than five weeks trapped 700 feet below the earth.
 The Finest Hours: As Dependable as Disaster Movies Come
 Chris Pine and Casey Affleck bring stoicism to the true story of a daring Coast Guard rescue.
@@ -32,32 +32,32 @@ The Kentucky senator is languishing in the presidential polls, and he now has a 
 State Workers in Flint Got Clean Water Over a Year Ago
 According to documents, Michigan officials provided coolers and bottled water for government offices several months before a lead advisory went out to city residents.
 With the Iowa caucus just days away, Donald Trump and Hillary Clinton lead their respective parties. But can they hold on?
-The state is the latest to find that the games are illegal gambling—a string of rulings that threaten the industry’s existence.
+The state is the latest to find that the games are illegal gamblinga string of rulings that threaten the industrys existence.
 You, Me and the Apocalypse: Yawning Toward Mass Extinction
-NBC’s new 10-episode event series, co-produced with the British TV company Sky, explores the days leading up to the end of the world.
-Trump or no Trump, the Republican hopefuls will try to dent the front-runner’s lead in the final match-up before the Iowa caucuses.
+NBCs new 10-episode event series, co-produced with the British TV company Sky, explores the days leading up to the end of the world.
+Trump or no Trump, the Republican hopefuls will try to dent the front-runners lead in the final match-up before the Iowa caucuses.
 How Is the Wounded Warrior Project Spending Its Money?
-The popular veterans’ charity takes in hundreds of million of dollars each year, but former employees allege it’s spending that cash frivolously on staff perks.
+The popular veterans charity takes in hundreds of million of dollars each year, but former employees allege its spending that cash frivolously on staff perks.
 The World Health Organization and other national health agencies are warning that the current Zika virus outbreak is likely to spread throughout nearly all the Americas.
-Mattel’s new Barbies, varied in their body shapes and their skin tones, suggest the company has calculated that diversity is good business.
+Mattels new Barbies, varied in their body shapes and their skin tones, suggest the company has calculated that diversity is good business.
 From vending machines to coffee sleeves, a number of projects around the world are using guerrilla marketing tactics to promote reading.
-The University of Missouri’s board announced the move just days after prosecutors brought third-degree assault charges against her.
+The University of Missouris board announced the move just days after prosecutors brought third-degree assault charges against her.
 Ammon Bundy asked them to leave, but three members of the militia who left and were arrested Wednesday say the remnant intends to stay.
 The U.S. Department of Agriculture will test using Medicaid data to automatically enroll eligible students.
 Sundance 2016: One Huge Hit, Two New Players, and a Flatulent Corpse
-The buzz from this year’s festival, from the historical drama The Birth of a Nation to a bizarre comedy starring Daniel Radcliffe
+The buzz from this years festival, from the historical drama The Birth of a Nation to a bizarre comedy starring Daniel Radcliffe
 Lyft Drivers Still Aren't Employees, but What About Uber Drivers?
 Under a settlement reached Tuesday, the car service will give better benefits to people who drive but will continue to consider them independent contractors.
 An avant-garde offshoot of 1940s surrealism offers new insight into exploring the topography of gaming.
-Tahrir Square and England’s Pompeii: The Week in Global-Affairs Writing
+Tahrir Square and Englands Pompeii: The Week in Global-Affairs Writing
 Samantha Bee and Barbie's New Body: The Week in Pop-Culture Writing
 How to Draw a 'Map of Every City': Best #Cityreads of the Week
 Virginia's New Concealed-Carry Gun Restrictions Lasted Just One Month
-Police in Disneyland’s hometown have amassed a cache of military-grade cell phone-spying devices
+Police in Disneylands hometown have amassed a cache of military-grade cell phone-spying devices
 NASA is giving in-person, behind-the-scenes tours to select social media space superfans
 Psychologists have found that a spiritual outlook makes humans more resilient to trauma
 Another 150 Hillary Clinton Emails Had Classified Info, State Dept. Says
 The Anti-Establishment Candidate Challenging Donald Trump
 Want Peace in Syria? Put Women at the Negotiating Table
-Break in Egyptian airliner bombing case?; Big hole in the Syrian peace talks; More troops for ISIS war?; Carter’s surprising family-leave moves; and a bit more.
-Copyright ©2016 by The Atlantic Monthly Group. All Rights Reserved.
+Break in Egyptian airliner bombing case?; Big hole in the Syrian peace talks; More troops for ISIS war?; Carters surprising family-leave moves; and a bit more.
+Copyright 2016 by The Atlantic Monthly Group. All Rights Reserved.

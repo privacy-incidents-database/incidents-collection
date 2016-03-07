@@ -1,46 +1,46 @@
-Privacy Concerns Raised Over Kids’ Apps And Websites
+Privacy Concerns Raised Over Kids Apps And Websites
 9th Annual CrunchiesPrices Increase On Wednesday For The Tech Awards Show Of The Year
-ScribbleLive Acquires Visually To Combine Their Content Marketing Tools
-Pixar Alum-Led ToyTalk Teams Up With Mattel To Let Kids Chat With “Thomas The Tank Engine” And Friends
-Following Investment From Curious Pictures, PlaySquare Debuts “Touchable TV” iPad Apps For Kids
-Youth App Maker TabTale Buys Kids Games Club For $3-4M, Preps New Buying Club Model
-IoT Security Turned Into An ‘I Spy’ Educational Book For Kids
-US-EU Safe Harbor Data-Transfer Talks Enter Final Week
-State Lawmakers Create Coalition To Overhaul Digital Privacy Laws
-Privacy Concerns Raised Over Kids’ Apps And Websites
-Zivame Lands $40M To Change How Women In India Buy Their Lingerie
-Given the sophisticated tracking technologies embedded into so many digital products and services as a matter of course, it should come as no surprise that a global privacy audit of children’s websites and apps has highlighted big concerns about the collection and use of kids’ data. That doesn’t make it acceptable, however.
-The Global Privacy Enforcement Network, a network of global privacy regulators, conducted a joint research project last May, involving 29 data protection regulators looking at just under 1,500 websites and apps targeted at or popular with children. Reporting their findings now, they’ve raised concerns about close to a majority (41 per cent) of the services, especially around how much personal information is being collected from minors and how that data is then shared with third parties.
-Among the overall findings reported by the U.K.’s ICO are that:
-67% of sites/apps examined collected children’s personal information
+ScribbleLive Acquires Visually To Combine Their Content MarketingTools
+Pixar Alum-Led ToyTalk Teams Up With Mattel To Let Kids Chat With Thomas The Tank Engine AndFriends
+Following Investment From Curious Pictures, PlaySquare Debuts Touchable TV iPad Apps ForKids
+Youth App Maker TabTale Buys Kids Games Club For $3-4M, Preps New Buying ClubModel
+IoT Security Turned Into An I Spy Educational Book ForKids
+US-EU Safe Harbor Data-Transfer Talks Enter FinalWeek
+State Lawmakers Create Coalition To Overhaul Digital PrivacyLaws
+Privacy Concerns Raised Over Kids Apps And Websites
+Zivame Lands $40M To Change How Women In India Buy TheirLingerie
+Given the sophisticatedtracking technologies embedded intoso many digital products and services as a matter of course, it shouldcome as no surprise that a global privacy audit of childrens websites and apps has highlighted big concerns aboutthe collection and use of kids data. That doesnt make it acceptable, however.
+The Global Privacy Enforcement Network, a network of global privacy regulators, conducted a jointresearch project last May, involving 29 data protection regulators looking at just under 1,500 websites and apps targeted at or popular with children. Reporting their findings now, theyve raisedconcernsaboutclose to a majority (41 per cent) of the services, especiallyaround how much personal information is beingcollected from minors and how that dataisthen shared with third parties.
+Among the overall findings reported by the U.K.s ICO are that:
+67% of sites/apps examined collected childrens personal information
 Only 31% of sites/apps had effective controls in place to limit the collection of personal information from children. Particularly concerning was that many organisations whose sites/apps were clearly popular with children simply claimed in their privacy notices that they were not intended for children, and then implemented no further controls to protect against the collection of personal data from the children who would inevitably access the app or site
 Half of sites/apps shared personal information with third parties
 22% of sites/apps provided an opportunity for children to give their phone number and 23% of sites/apps allowed them to provide photos or video. The potential sensitivity of this data is clearly a concern
 58% of sites/apps offered children the opportunity to be redirected to a different website
 Only 24% of sites/apps encouraged parental involvement
 71% of sites/apps did not offer an accessible means for deleting account information
-Per country results vary, with France’s CNIL data protection agency saying it found 87 per cent of the 54 websites it looked at were collecting personal data, such as name, email, IP address, identifying the mobile terminal and the user’s location. And for more than 63 per cent of sites children could be redirected to another website (including a commercial website) with a single click. While just 18 per cent of the subset of sites it looked at prompt users to ask for parental consent to access the content.
-None of this is surprising, given the rampant tracking technologies developed to monetize free services via ad targeting. But as more regulatory attention is paid to the user data heist that’s going on in the background of the digital economy then more pressure will build to enforce stronger consumer protections and a stricter data protection regime.
-In the U.S., for instance, there is a fresh attempt to pass a Do Not Track Kids Act this year. While big tech providers such as Google and Apple have been responding to criticism about how kids and apps collide by creating dedicated kids zones within their content marketplaces, or offering programs where developers can opt in to an additional review layer, such as Google Play’s ‘Designed for Families’ program, to gain a kid-friendly certification.
-Such moves are of course welcome but only cover digital products that are available within certain subsections of the Web. If kids are accessing websites and apps that aren’t explicitly designed for them — such as Tumblr or Twitter or Facebook, for instance — then there’s no such safeguards in place. The onus remains on parents to be aware which apps and websites their kids are accessing.
-Ultimately the core issue here is the digital economy’s reliance on ad-powered business models which apparently encourage the obfuscation of user data collection; disingenuous approaches to gaining user ‘consent’ for data collection and processing; and a rank lack of transparency about what happens to and with users’ personal data generally.
-Yet, as barely a week goes by without another huge data leak, digital consumers are bound to start asking more questions about how and for what purposes their personal data is being appropriated. And those tech companies that publicly stand up for privacy will stand out as trustworthy, while those that keep quiet will seem as if they have something unsavory to hide.
-Commenting on the kids-focused research in a statement, the ICO’s Adam Stevens said:
-These are concerning results. The attitude shown by a number of these websites and apps suggested little regard for how anyone’s personal information should be handled, let alone that of children. Internationally we saw some websites and apps gathering more information than we felt they needed, and sharing that data with third parties.
-The most common concern domestically was a lack of information being provided about how their information would be used. We saw generic privacy policies that simply weren’t specific enough, and some without any information at all, which isn’t good enough.
-We’ll now be writing out to the sites and apps that caused us concern, making clear the changes we expect them to make. We wouldn’t rule out enforcement action in this area if required.
+Per country results vary, with Frances CNIL data protection agency saying it found 87 per cent of the 54 websites it looked at were collecting personal data, such as name, email, IP address, identifying the mobile terminal and the users location. And for more than 63 per cent of sites children could be redirected to another website (including a commercial website)with a single click. While just 18 per cent of the subset of sites it looked at prompt users to ask for parental consent to access the content.
+None of this is surprising, given the rampant tracking technologies developed to monetize free services via ad targeting. But as more regulatory attention is paid to the user data heist thats going on in the background of the digital economy thenmorepressure will build to enforce stronger consumer protections anda stricter data protection regime.
+In the U.S., for instance, there is a fresh attempt to pass a Do Not Track Kids Act this year. While big tech providers such as Google and Apple have been responding to criticism about how kids and apps collide bycreating dedicatedkids zones within their contentmarketplaces, or offering programs where developers can opt in to an additional review layer, such as Google Plays Designed for Families program, to gain a kid-friendly certification.
+Such moves are of course welcome but only cover digital products that are availablewithin certain subsections of the Web. If kids are accessing websites and apps that arent explicitly designed for them  such as Tumblr or Twitter or Facebook, for instance  then theres no such safeguards in place. The onus remains on parents to be aware which apps and websites their kids are accessing.
+Ultimately the core issue here isthedigital economysreliance on ad-powered business models which apparently encourage theobfuscation of userdata collection;disingenuous approaches to gaining user consent for data collection and processing; and a rank lack of transparency about what happens to and with userspersonal data generally.
+Yet, as barely a week goes by without another huge data leak,digital consumers are bound to start askingmore questions about how and for what purposes their personaldata is being appropriated. And those tech companies thatpublicly stand up for privacy will stand out as trustworthy, while those that keep quiet will seemas if they have something unsavoryto hide.
+Commenting on the kids-focused research in a statement, the ICOsAdam Stevens said:
+These are concerning results. The attitude shown by a number of these websites and apps suggested little regard for how anyones personal information should be handled, let alone that of children.Internationally we saw some websites and apps gathering more information than we felt they needed, and sharing that data with third parties.
+The most common concern domestically was a lack of information being provided about how their information would be used. We saw generic privacy policies that simply werent specific enough, and some without any information at all, which isnt good enough.
+Well now be writing out to the sites and apps that caused us concern, making clear the changes we expect them to make. We wouldnt rule out enforcement action in this area if required.
 The Global Privacy Enforcement Network (GPEN) was created to strengthen personal privacy protections in this global context by assisting public authorities with responsibilities for enforcing domestic privacy laws strengthen their capacities for cross-border cooperation.
 Full profile for The Global Privacy Enforcement Network (GPEN)
 Apple Reportedly Creating Long-Range Wireless Charging Tech | Crunch Report
-China Just Released True Color HD Photos Of The Moon
-President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12 School
-Silicon:Safe Bags $1M Seed For Its Hardware Fix For Bulk Password Theft
-Cronofy, The Calendar API Helping Businesses Keep Customer And Staff Diaries In Sync, Scores $1.6M
-Balderton-Backed In-App Ad Platform Tapdaq Bags $6.5M Series A
-More Money Into The Cloud As NewVoiceMedia Gets $30M For Its Contact Center Solutions
-Zivame Lands $40M To Change How Women In India Buy Their Lingerie
+China Just Released True Color HD Photos Of TheMoon
+President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12School
+Silicon:Safe Bags $1M Seed For Its Hardware Fix For Bulk PasswordTheft
+Cronofy, The Calendar API Helping Businesses Keep Customer And Staff Diaries In Sync, Scores$1.6M
+Balderton-Backed In-App Ad Platform Tapdaq Bags $6.5M SeriesA
+More Money Into The Cloud As NewVoiceMedia Gets $30M For Its Contact CenterSolutions
+Zivame Lands $40M To Change How Women In India Buy TheirLingerie
 Subscribe to <span class="no-mobile">Subscribe to </span>TechCrunch Daily
-China Just Released True Color HD Photos Of The Moon
-How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of The Workplace
-Onfleet Has Powered Over 1 Million On-Demand Deliveries
-President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12 School
+China Just Released True Color HD Photos Of TheMoon
+How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of TheWorkplace
+Onfleet Has Powered Over 1 Million On-DemandDeliveries
+President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12School

@@ -2,23 +2,23 @@ Why Some Privacy Apps Get Blocked From the Android Play Store - Digits - WSJ
 Why Some Privacy Apps Get Blocked From the Android Play Store
 android play store privacyAndroid Privacydisconnect.me blocked from android play storeGoogle blocks privacy app
 Some developers of privacy apps believe Google is blocking their apps from the Android Play Store to protect its business model.
-Google Tuesday removed a smartphone app called “Disconnect Mobile” from its Android Play store because it violated a policy prohibiting software that interferes with other apps.
-Interference was precisely the point of Disconnect Mobile, a privacy tool aimed at stopping other apps from collecting data on users. In the six days it was available in Google’s store, it was downloaded more than 5,000 times.
-Disconnect, a San Francisco startup that spent a year and $300,000 to develop the app, says it was careful to build its product according to Google’s rules, but that the policies are so vague that Google could, in essence, ban any app in its store.
-“It’s like a Kafka novel – you’re getting kicked out or arrested for reasons you don’t even know,” says Casey Oppenheim, Disconnect’s co-founder.
-Google has banned similar ad-blocking apps before because they, too, could interfere with other apps. “When we were kicked out, virtually every other ad blocker was kicked out as well,” said Ben Williams a spokesman for Eyeo, maker of Adblock Plus, which was removed from the Play store in March 2013.
-Google declined to comment on the removal of Disconnect and other privacy apps. “Our policies are designed to provide a great experience for users and developers. That’s why we remove apps from Google Play that violate those policies,” a Google spokeswoman said.
+Google Tuesday removed a smartphone app called Disconnect Mobile from its Android Play store because it violated a policy prohibiting software that interferes with other apps.
+Interference was precisely the point of Disconnect Mobile, a privacy tool aimed at stopping other apps from collecting data on users. In the six days it was available in Googles store, it was downloaded more than 5,000 times.
+Disconnect, a San Francisco startup that spent a year and $300,000 to develop the app, says it was careful to build its product according to Googles rules, but that the policies are so vague that Google could, in essence, ban any app in its store.
+Its like a Kafka novel  youre getting kicked out or arrested for reasons you dont even know, says Casey Oppenheim, Disconnects co-founder.
+Google has banned similar ad-blocking apps before because they, too, could interfere with other apps. When we were kicked out, virtually every other ad blocker was kicked out as well, said Ben Williams a spokesman for Eyeo, maker of Adblock Plus, which was removed from the Play store in March 2013.
+Google declined to comment on the removal of Disconnect and other privacy apps. Our policies are designed to provide a great experience for users and developers. Thats why we remove apps from Google Play that violate those policies, a Google spokeswoman said.
 The controversy reflects the control that Google and rival Apple
 exert through their app stores. Even at the height of its powers, by contrast, Microsoft
 did not control the distribution of apps for its Windows operating system for personal computers.
-“There is no reason why you shouldn’t have the same degree of control over the computer you have in your pocket as you do over your computer on your desktop,” Oppenheim says.
-He and others suggest Google doesn’t like ad-blocking apps because they interfere with its primary business of selling ads.
-“The culture in the mobile space appears to be that there’s a data free for all,” says Peter Eckersley, technology projects director for the Electronic Frontier Foundation.
-Dozens of apps aimed at protecting users’ privacy are available in the Play store, promising to help users opt out of being tracked for ad targeting or spot which companies are tracking them.
-For instance, Ghostery’s Ad Control app asks companies to opt users out of targeted advertising on mobile devices. However, users still see ads, and the app doesn’t block tracking without first asking advertisers. AppBrain Ad Detector displays the advertising services embedded in apps that users have downloaded onto their mobile devices. However, AppBrain stresses that it does not block ads. The DuckDuckGo and Ixquick browsers block cookie tracking and block Google from collecting data on a user’s browsing behavior.
-The ability to collect data from users is one perk of developing apps for the Android ecosystem, developers say. Google’s rules force users to agree to a blanket request for data before they use an app. On Apple’s iPhone, users can opt out of specific requests as they go.
+There is no reason why you shouldnt have the same degree of control over the computer you have in your pocket as you do over your computer on your desktop, Oppenheim says.
+He and others suggest Google doesnt like ad-blocking apps because they interfere with its primary business of selling ads.
+The culture in the mobile space appears to be that theres a data free for all, says Peter Eckersley, technology projects director for the Electronic Frontier Foundation.
+Dozens of apps aimed at protecting users privacy are available in the Play store, promising to help users opt out of being tracked for ad targeting or spot which companies are tracking them.
+For instance, Ghosterys Ad Control app asks companies to opt users out of targeted advertising on mobile devices. However, users still see ads, and the app doesnt block tracking without first asking advertisers. AppBrain Ad Detector displays the advertising services embedded in apps that users have downloaded onto their mobile devices. However, AppBrain stresses that it does not block ads. The DuckDuckGo and Ixquick browsers block cookie tracking and block Google from collecting data on a users browsing behavior.
+The ability to collect data from users is one perk of developing apps for the Android ecosystem, developers say. Googles rules force users to agree to a blanket request for data before they use an app. On Apples iPhone, users can opt out of specific requests as they go.
 The Android permission requests can prompt their own concerns. Some Facebook
-users were alarmed earlier this month when they saw the disclosure for Facebook’s Messenger app, which included permission to read users’ contacts and text messages “download files without notification.” Facebook said it wouldn’t take advantage of the permissions, and said it had no control over the wording of the permissions, which were written by Google.
+users were alarmed earlier this month when they saw the disclosure for Facebooks Messenger app, which included permission to read users contacts and text messages download files without notification. Facebook said it wouldnt take advantage of the permissions, and said it had no control over the wording of the permissions, which were written by Google.
 ______________________________________________________
 And like us on Facebook to get our news right in your feed:
 Get breaking news and personal-tech reviews delivered right to your inbox.
@@ -36,14 +36,14 @@ Where can you get Disconnect Mobile for Android? Their website currently only ha
 Hyperspektiv App Review: Your Photos and Videos Have Never Been Trippier
 Recipient's Email Address (Separate multiple address with commas)
 An error has occured and your email has not been sent.
-• You must enter the verification code below to send.
-• Invalid entry: Please type the verification code again.
+ You must enter the verification code below to send.
+ Invalid entry: Please type the verification code again.
 Content engaging our readers now, with additional prominence accorded if the story is rapidly gaining attention. Our WSJ algorithm comprises 30% page views, 20% Facebook, 20% Twitter, 20% email shares and 10% comments.
-EA's 'Battlefront' Burden: We Can't Violate the 'Star Wars'…
+EA's 'Battlefront' Burden: We Can't Violate the 'Star Wars'
 In Silicon Valley, Pitching Parental Leave to the Converted
 LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY.
-Copyright ©2016 Dow Jones & Company, Inc. All Rights Reserved.
+Copyright 2016 Dow Jones & Company, Inc. All Rights Reserved.
 Recipient's Email Address (Separate multiple address with commas)
 An error has occured and your email has not been sent.
-• You must enter the verification code below to send.
-• Invalid entry: Please type the verification code again.
+ You must enter the verification code below to send.
+ Invalid entry: Please type the verification code again.

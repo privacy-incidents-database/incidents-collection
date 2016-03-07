@@ -1,28 +1,28 @@
 Opt-Out Cookie Error Earns Chitika A Whopping 55 Cents And An FTC Inquiry
 9th Annual CrunchiesPrices Increase On Wednesday For The Tech Awards Show Of The Year
-Chrome OS Doubled Its Share Of Web Traffic Since Last September, Now At 0.2%
-Report: Chrome OS Web Traffic Share Up 700% Since Last June, Still Just Accounts For 0.07%
-Report: One Month After Launch, Mountain Lion Now Powers More Than 10% Of Macs
+Chrome OS Doubled Its Share Of Web Traffic Since Last September, Now At0.2%
+Report: Chrome OS Web Traffic Share Up 700% Since Last June, Still Just Accounts For0.07%
+Report: One Month After Launch, Mountain Lion Now Powers More Than 10% OfMacs
 Opt-Out Cookie Error Earns Chitika A Whopping 55 Cents And An FTC Inquiry
-Footbo Raises $2.5 Million, Swings For The Fences With New Fantasy Baseball Game
-Search-targeted advertising network Chitika  reached a settlement this week with the Federal Trade Commission over illegally tracking consumers behavior online. According to the FTC, Chitika allowed users to opt out of having cookies placed on their browsers and receiving targeted ads, but unfortunately, Chitika’s opt-out only lasted 10 days. After this period, Chitika continued to track these consumers’ behavior on the web even though they opted out. This took place from at least May 2008 through February 2010, says the FTC. Chitika says this was an unintentional error in their tracking systems.
-How much was it worth to Chikita to flaunt the privacy rules? Not much. Chitika tells us that it earned an estimated $0.55 from the users who requested to opt out but were tracked starting ten days after their request instead of ten years. Basically, their claim is that this was totally accidental and not a way to create more revenue (illegally) for the network. Chitika’s cookies track search history and sites visited but the network says no personally identifiable information is collected – the cookies contain no information on a user’s name, age, gender, etc.
+Footbo Raises $2.5 Million, Swings For The Fences With New Fantasy BaseballGame
+Search-targeted advertising network Chitika reached a settlement this week with the Federal Trade Commission over illegally tracking consumers behavior online. According to the FTC, Chitika allowed users to opt out of having cookies placed on their browsers and receiving targeted ads, but unfortunately, Chitikas opt-out only lasted 10 days. After this period, Chitika continued to track these consumers behavior on the web even though they opted out. This took place from at least May 2008 through February 2010, says the FTC. Chitika says this was an unintentional error in their tracking systems.
+How much was it worth to Chikita to flaunt the privacy rules? Not much. Chitika tells us that it earned an estimated $0.55 from the users who requested to opt out but were tracked starting ten days after their request instead of ten years. Basically, their claim is that this was totally accidental and not a way to create more revenue (illegally) for the network. Chitikas cookies track search history and sites visited but the network says no personally identifiable information is collected  the cookies contain no information on a users name, age, gender, etc.
 The FTC settlement not only bars Chitika from obviously doing this again, but also requires that every targeted ad include a hyperlink that takes consumers to a clear opt-out mechanism that allows a consumer to opt out for at least five years.
 The FTC also mandated that Chitika destroy all identifiable user information collected when the defective opt out was in place. In addition, the settlement requires that Chitika alert consumers who previously tried to opt out that their attempt was not effective, and they should opt out again to avoid targeted ads.
-Chitika says that since March 1st, 2010, Chitika’s opt-out cookies have been set to last for ten years, which is twice the length required by FTC regulations. While the ad network didn’t profit from the error, the fact is that they broke a law by illegally tracking consumer behavior without their consent. And Chitika seems remorseful enough: “Obviously, it would be incredibly stupid of us to intentionally break the rules of online privacy over a million dollars, much less fifty-five cents,” says Chitika CEO Venkat Kolluri.
-But the FTC has been broadly cracking down on ad networks and web sites that track consumer behavior without consent, most recently calling for a “Do Not Track” system for websites. Perhaps Chitika only deserved a slap on the wrist, instead of a public flogging.
-Chitika is an online ad network that caters over four billion strategically targeted ads each month to a network of over 250,000+ sites, making it the second largest network of its kind. Chitika ads are known across the industry for their ability to perform unlike any other, leveraging its proprietary targeting and optimization technology - a delicate blend of “Art + Science”- to ensure delivery …
+Chitika says that since March 1st, 2010, Chitikas opt-out cookies have been set to last for ten years, which is twice the length required by FTC regulations. While the ad network didnt profit from the error, the fact is that they broke a law by illegally tracking consumer behavior without their consent. And Chitika seems remorseful enough: Obviously, it would be incredibly stupid of us to intentionally break the rules of online privacy over a million dollars, much less fifty-five cents, says Chitika CEO Venkat Kolluri.
+But the FTC has been broadly cracking down on ad networks and web sites that track consumer behavior without consent, most recently calling for a Do Not Track system for websites. Perhaps Chitika only deserved a slap on the wrist, instead of a public flogging.
+Chitika is an online ad network that caters over four billion strategically targeted ads each month to a network of over 250,000+ sites, making it the second largest network of its kind. Chitika ads are known across the industry for their ability to perform unlike any other, leveraging its proprietary targeting and optimization technology - a delicate blend of Art + Science- to ensure delivery 
 Advertising, 																													Big Data Analytics, 																													Mobile
 Apple Reportedly Creating Long-Range Wireless Charging Tech | Crunch Report
-China Just Released True Color HD Photos Of The Moon
-President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12 School
-Onfleet Has Powered Over 1 Million On-Demand Deliveries
-How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of The Workplace
-Telegraph Academy Bootcamp Teaches People Of Color How To Code
-China Just Released True Color HD Photos Of The Moon
-Footbo Raises $2.5 Million, Swings For The Fences With New Fantasy Baseball Game
+China Just Released True Color HD Photos Of TheMoon
+President Obama Wants $4 Billion To Bring Computer Science Education To Every K-12School
+Onfleet Has Powered Over 1 Million On-DemandDeliveries
+How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of TheWorkplace
+Telegraph Academy Bootcamp Teaches People Of Color How ToCode
+China Just Released True Color HD Photos Of TheMoon
+Footbo Raises $2.5 Million, Swings For The Fences With New Fantasy BaseballGame
 Subscribe to <span class="no-mobile">Subscribe to </span>TechCrunch Daily
-China Just Released True Color HD Photos Of The Moon
-How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of The Workplace
-Onfleet Has Powered Over 1 Million On-Demand Deliveries
-Tesla Says CEO Elon Musk Just Bought More of The Company
+China Just Released True Color HD Photos Of TheMoon
+How The Growth Of Mixed Reality Will Change Communication, Collaboration And The Future Of TheWorkplace
+Onfleet Has Powered Over 1 Million On-DemandDeliveries
+Tesla Says CEO Elon Musk Just Bought More of TheCompany

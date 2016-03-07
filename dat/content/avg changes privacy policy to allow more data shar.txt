@@ -2,7 +2,7 @@ Is AVG planning to sell user data to advertisers following privacy policy change
 Is AVG planning to sell user data to advertisers following privacy policy change?
 Czech Republic-based security software vendor AVG, producer of one of the world's most popular anti-virus software suites, has come under fire over it's privacy policy, which appears to allow it to sell users' data to advertisers.
 The company, though, in a blog posting and an email to Computing, denies that it is planning to sell "personally identifiable data" to anyone.
-EU agrees data protection regulation – despite cloud computing warnings from Amazon, Cisco, IBM and SAP
+EU agrees data protection regulation  despite cloud computing warnings from Amazon, Cisco, IBM and SAP
 Microsoft warns of 'global free for all' that will destroy personal privacy
 Privacy concerns prevent Facebook from releasing 'Moments' face-recognition technology in Europe
 New UN privacy chief calls for Geneva Convention on internet privacy
@@ -31,7 +31,7 @@ Please enable JavaScript to view the comments powered by Disqus.
 Government should adopt blockchain to improve public services, claims UK's chief scientist
 Trustwave sued by casino company for failure to contain security breach
 Over half of UK banks have insecure SSL implementations associated with login functions
-UK government plans to weaken encryption ‘threatens way of life, privacy and economic stability’, warns Apple
+UK government plans to weaken encryption threatens way of life, privacy and economic stability, warns Apple
 Entrust Authority Security Manager: Managing an In-House Certification Authority with Ease
 What is the biggest issue facing the data centre industry today?
 Is Elon Musk's 'space internet' more promising than previous attempts?
@@ -40,7 +40,7 @@ AVG puts Chrome users at risk with security-compromising browser extension, says
 'Let's be really clear - we're not selling your personal data' says AVG
 GCHQ 'Karma Police' system to track everyone's internet browsing revealed
 Backlash grows over privacy in 'freemium' Windows 10
-£1m ransomware demand from previously unknown malware took down Lincolnshire County Council network
+1m ransomware demand from previously unknown malware took down Lincolnshire County Council network
 HSBC online banking taken down in denial-of-service attack
 The software vendor hall of shame, who's top of the heap?
 At software licence auditing time, which firm's practices most leave you palpitating with rage and despair?
@@ -56,16 +56,16 @@ Register to Computing to receive the UK's leading information resource for UK te
 By registering you can gain access to all our premium subscriber-only content for FREE.
 Industry leading content delivered in print, online and via our iOS and Android Live app.
 Have the latest news delivered to you with Computing's range of editorial newsletters. Register to keep up-to-date with the latest industry trends.
-Daily Update – Be first to the day’s breaking news, opinion, analysis and features
-Weekly Update – A roundup of the week’s most important articles for IT decision makers
+Daily Update  Be first to the days breaking news, opinion, analysis and features
+Weekly Update  A roundup of the weeks most important articles for IT decision makers
 Total IT shut down at Lincolnshire County Council over zero-day attack
-£1m ransomware demand from previously unknown malware took down Lincolnshire County Council network
-BBC selects BT in £100m broadcast networking deal to replace Vodafone
+1m ransomware demand from previously unknown malware took down Lincolnshire County Council network
+BBC selects BT in 100m broadcast networking deal to replace Vodafone
 HSBC online banking taken down in denial-of-service attack
 Watch Accenture MD Bob Paton receive the UK IT Industry Award 2015 for Outstanding Contribution to the Profession
 Watch Content Guru walk away with UK IT Industry Awards 2015 Cloud Provider of the Year
 The GDPR is coming into force to plug the gaps in data transfer legislation. Watch this discussion to learn how to ensure that your data management practices...
 IT Security and Ease of Use: Why Simplicity Makes For Better Business Security
 What do users and businesses desire in cloud storage? Join us to unlock whether improved ease of use guarantees improved security.
-© Incisive Business Media (IP) Limited, Published by Incisive Business Media Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, are companies registered in England and Wales with company registration numbers 9177174 & 9178013
+ Incisive Business Media (IP) Limited, Published by Incisive Business Media Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, are companies registered in England and Wales with company registration numbers 9177174 & 9178013
 Address to send the article (seperate multiple addresses with commas):

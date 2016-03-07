@@ -1,5 +1,5 @@
-Court Orders Google To Delete Search Suggestions that Violate Privacy - SPIEGEL ONLINE
->Court Orders Google To Delete Search Suggestions that Violate Privacy
+Court Orders Google To Delete SearchSuggestions that Violate Privacy - SPIEGEL ONLINE
+>Court Orders Google To Delete SearchSuggestions that Violate Privacy
 'Autocomplete' Privacy Violations: Court Orders Google To Delete Results
 A German court ruled Tuesday that Google's "Autocomplete" feature on search terms violates privacy laws in some cases. The company has been ordered to remove any suggestions that violate the rules. An entrepreneur sued after the algorithm linked him with Scientology.
 A Google auto-search for Bettina Wulff, the former German first lady.
@@ -12,5 +12,5 @@ Reproduction only allowed with the permission of SPIEGELnet GmbH
 Find out how you can reprint this SPIEGEL ONLINE article.
 Google's Lobby Offensive: Internet Giant Builds Web of Influence in Berlin (09/25/2012)
 Blaming the Algorithm: Defamation Case Highlights Google's Double Standard (09/10/2012)
-Autocompleting Bettina Wulff: Can a Google Function Be Libelous? (09/20/2012)
+AutocompletingBettina Wulff: Can a Google Function Be Libelous? (09/20/2012)
 Sign up for Spiegel Online's daily newsletter - and get the best of Der Spiegel's and Spiegel Online's international coverage in your In-Box everyday.

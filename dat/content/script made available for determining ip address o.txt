@@ -10,7 +10,7 @@ Some Skype users may not see this as a problem at all, as the IP address does no
 There is currently no way of protecting yourself against the lookup of the IP address, other than not logging in to Skype when the software is not needed. The only other option would be the use of a virtual private network or proxy to hide the IP address from users who look it up. (via Hacker News)
 What's your take on this? Do you think Microsoft / Skype should fix the issue, for instance by revealing IP addresses only after confirmation by the new contact in Skype?
 Update: Here is a statement from a Skype spokesperson:
-“We are investigating reports of a new tool that allegedly captures a Skype user’s last known IP address. This is an ongoing, industry-wide issue faced by all peer-to-peer software companies. We are committed to the safety and security of our customers and we are takings measures to help protect them.”
+We are investigating reports of a new tool that allegedly captures a Skype users last known IP address. This is an ongoing, industry-wide issue faced by all peer-to-peer software companies. We are committed to the safety and security of our customersand we are takings measures to help protect them.
 Martin Brinkmann is a journalist from Germany who founded Ghacks Technology News Back in 2005. He is passionate about all things tech and knows the Internet and computers like the back of his hand.
 Home > Security > Skype Reveals Remote and Local IP Address Of All Online Users
 Responses to Skype Reveals Remote and Local IP Address Of All Online Users
@@ -49,4 +49,4 @@ Mozilla experiments with a combined Firefox address and search field
 Wave Goodbye to the Java Plugin (if you have not already)
 TripAdvisor app to be preloaded on Windows 10 devices
 About Ghacks Ghacks is a technology news blog that was founded in 2005 by Martin Brinkmann. It has since then become one of the most popular tech news sites on the Internet with five authors and regular contributions from freelance writers.
-© 2016 gHacks Technology News. All Rights Reserved.
+ 2016 gHacks Technology News. All Rights Reserved.

@@ -8,6 +8,6 @@ AT&T; said it was made aware of the breach on Monday and closed the security loo
 Apple has not responded to requests for comment about the security breach.
 This is a more complete version of the story than the one that appeared in print.
 Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
-New York City’s top public schools must become more diverse.
+New York Citys top public schools must become more diverse.
 campaign: nyt2016_bar1_floodlight_tag -- 283041, creative: nyt2016_bar1_floodlight_tag -- 412321, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bottom8
 campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Inv1
