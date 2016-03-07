@@ -1,5 +1,5 @@
 {
-  "": 4, 
+  "": 1, 
   "all": 1, 
   "concept": 1, 
   "consider": 1, 

@@ -1,5 +1,4 @@
 {
-  "": 3, 
   "impression": 1, 
   "unscientific": 1, 
   "coach": 1, 

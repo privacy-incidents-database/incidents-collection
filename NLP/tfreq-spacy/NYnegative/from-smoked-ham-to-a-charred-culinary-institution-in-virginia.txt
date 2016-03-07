@@ -1,6 +1,5 @@
 {
   "shop": 1, 
-  "": 2, 
   "all": 1, 
   "skeleton": 2, 
   "chain": 1, 

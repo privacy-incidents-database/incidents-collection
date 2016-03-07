@@ -1,6 +1,5 @@
 {
   "shop": 1, 
-  "": 1, 
   "thomas": 1, 
   "selection": 1, 
   "gp": 1, 
