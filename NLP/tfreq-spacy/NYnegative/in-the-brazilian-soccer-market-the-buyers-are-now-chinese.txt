@@ -1,5 +1,4 @@
 {
-  "": 1, 
   "represent": 1, 
   "chinese": 10, 
   "show": 2, 

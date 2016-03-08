@@ -1,5 +1,5 @@
 from spacy.en import English
-import os,json
+import os,json,operator
 import pprint,string
 parser = English()
 
@@ -15,7 +15,7 @@ def traverse(src):
             fin = open(src+'/'+filename)
             text = fin.read()
             nlp(text)
-            fout = open("tfreq-spacy/NYnegative/%s" % filename,'w')
+            fout = open(src.replace('../dat/','tfreq-spacy/') + '/' + filename,'w')
             words= nouns.copy()
             words.update(adj)
             words.update(adv)
@@ -24,7 +24,8 @@ def traverse(src):
             adv.clear()
             nouns.clear()
             verbs.clear()
-            json.dump(words,fout,indent=2,)
+            # words = sorted(words.items(), key=operator.itemgetter(1))
+            json.dump(words,fout,indent=2)
             fout.close()
         
         
@@ -57,10 +58,11 @@ def nlp(text):
                     else:
                         nouns[token.lemma_] +=1
                 elif token.pos_== 'VERB':
-                    if token.lemma_ not in verbs:
-                        verbs[token.lemma_] = 1
-                    else:
-                        verbs[token.lemma_] +=1
+                    if token.lemma_ != '':
+                        if token.lemma_ not in verbs :
+                            verbs[token.lemma_] = 1
+                        else:
+                            verbs[token.lemma_] +=1
                 elif token.pos_ == 'ADJ':
                     if token.lemma_ not in adj:
                         adj[token.lemma_] = 1
@@ -71,9 +73,10 @@ def nlp(text):
                         adv[token.lemma_] = 1
                     else:
                         adv[token.lemma_] +=1
-        
     except Exception,e:
         print "error"
 
 traverse('../dat/NYnegative')
+traverse('../dat/content')
 pprint.pprint(nouns)
+

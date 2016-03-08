@@ -1,5 +1,4 @@
 {
-  "": 1, 
   "advertiser": 1, 
   "now": 3, 
   "forget": 2, 

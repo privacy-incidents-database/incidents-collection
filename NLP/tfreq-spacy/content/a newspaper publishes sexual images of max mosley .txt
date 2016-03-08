@@ -1,5 +1,4 @@
 {
-  "": 1, 
   "all": 1, 
   "consider": 1, 
   "month": 3, 

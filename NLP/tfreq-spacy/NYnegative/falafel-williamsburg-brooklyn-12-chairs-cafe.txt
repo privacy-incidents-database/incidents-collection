@@ -1,6 +1,5 @@
 {
   "shop": 3, 
-  "": 1, 
   "thigh": 2, 
   "golden": 1, 
   "shakshuka": 1, 

@@ -1,5 +1,4 @@
 {
-  "": 2, 
   "show": 1, 
   "violation": 4, 
   "visitor": 1, 

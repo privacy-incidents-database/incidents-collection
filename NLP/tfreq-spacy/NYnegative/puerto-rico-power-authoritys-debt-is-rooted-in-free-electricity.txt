@@ -1,6 +1,5 @@
 {
   "d.": 1, 
-  "": 1, 
   "forgone": 1, 
   "surplus": 1, 
   "demand": 1, 
