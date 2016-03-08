@@ -4,7 +4,7 @@ def gen_csv(neg,pos):
     Generate CSV according to the json stored.
     neg: path to negative directory
     pos: path to postive directory
-    
+
     """
     fout = open('data.csv','w')
     out = csv.writer(fout)
@@ -12,7 +12,7 @@ def gen_csv(neg,pos):
     dic = ['no.','type_of_material','news_desk','word_count','document_type','pub_date','byline','isPrivacy'];
     length = len(dic)
     keywords = []
-    
+
     ##Get all the keywords
     for s in src:
         for filename in os.listdir(s):
@@ -25,7 +25,9 @@ def gen_csv(neg,pos):
                     if key not in keywords:
                         keywords.append(key)
     rank = [0]*(len(keywords))
-    dic.extend(sorted(keywords))
+
+    keywords = sorted(keywords)
+    dic.extend(keywords)
     ##sorted and write as header
     out.writerow(dic)
     cnt = 1
@@ -71,16 +73,16 @@ def gen_csv(neg,pos):
                     try:
                         dat[dic[i]] = str(dat[dic[i]])
                     except Exception, e:
-                        print dat[dic[i]] 
+                        print dat[dic[i]]
             #use rank as value
             if dat.has_key('keywords'):
                 for st in dat['keywords']:
                     key = st['value'].lower()
                     key =  key.replace(',', ' ')
                     if 'rank' in st:
-                        rank[sorted(keywords).index(key)] = st['rank']
+                        rank[keywords.index(key)] = st['rank']
                     else:
-                        rank[sorted(keywords).index(key)] = 1
+                        rank[keywords.index(key)] = 1
             flag = False
             if s == pos:
                 flag = True
@@ -91,4 +93,3 @@ def gen_csv(neg,pos):
             cnt+=1
             fin.close()
 gen_csv('dat/NYnegative/json','dat/NYpositive/json')
-    

@@ -15,7 +15,7 @@ def get_args():
     parser.add_argument('-k', '--keywords', nargs = '+', metavar = 'N', help = 'Keywords for fetching the Articles')
     parser.add_argument('-l', '--limit', type = int, help = 'Limit of the number of Articles to be fetched, must be a multiple of 10')
     parser.add_argument('-j', '--json',type = str, help = 'Name of the Json file containing the urls')
-
+    
     args = parser.parse_args()
     return args
 
