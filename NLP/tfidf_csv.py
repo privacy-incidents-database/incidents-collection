@@ -1,13 +1,31 @@
-import csv,json,sys,os,pprint,re
+import csv
+import json
+import sys
+import os
+import pprint
+import re
+import argparse
 
-def gen_csv(neg,pos):
+
+def get_args():
+    global args
+    parser = argparse.ArgumentParser(
+        description="Script for generating CSV from articles in Given directories")
+    parser.add_argument("library", help='Name of the Library used for NLP')
+    args = parser.parse_args()
+    return args
+
+args = get_args()
+
+
+def gen_csv(neg, pos):
     """
     Generate CSV according to the json stored.
     neg: path to negative directory
     pos: path to postive directory
 
     """
-    fin = open('tfid-log-spacy.csv','rb')
+    fin = open('tfid-log-' + args.library + '.csv', 'rb')
     idfreader = csv.reader(fin)
 
     idfkey = []
@@ -20,25 +38,24 @@ def gen_csv(neg,pos):
             idfval = row
         rowcnt += 1
 
-    #Build idf dictionary
-    idfdic = dict(zip(idfkey,idfval))
+    # Build idf dictionary
+    idfdic = dict(zip(idfkey, idfval))
 
-
-    fout = open('tfidf-spacy.csv','w')
+    fout = open('tfidf-' + args.library + '.csv', 'w')
     out = csv.writer(fout)
 
     # output = cStringIO.StringIO()
     # out = csv.writer(output)
 
-    src = [neg,pos]
-    dic = ['no.','filename','isPrivacy']
+    src = [neg, pos]
+    dic = ['no.', 'filename', 'isPrivacy']
     length = len(dic)
     keywords = []
 
-    ##Get all the keywords
+    # Get all the keywords
     for s in src:
         for filename in os.listdir(s):
-            fin = open(s+'/'+filename)
+            fin = open(s + '/' + filename)
             dat = json.load(fin)
             for key in dat:
                 if key not in keywords:
@@ -47,38 +64,37 @@ def gen_csv(neg,pos):
     keywords = sorted(keywords)
     dic.extend(keywords)
 
-    ##sorted and write as header
+    # sorted and write as header
     rank = [0] * (len(keywords))
     out.writerow(dic)
     cnt = 1
     for s in src:
-        ###pos and neg src
+        # pos and neg src
         for filename in os.listdir(s):
-            ###filename => every file in the directory
-            fin = open(s+'/'+filename)
+            # filename => every file in the directory
+            fin = open(s + '/' + filename)
             dat = json.load(fin)
             print "Current File: " + filename
 
-            for key,val in dat.iteritems():
+            for key, val in dat.iteritems():
                 try:
                     idfdic[key]
-                except Exception,e:
+                except Exception, e:
                     idfdic[key] = 1
 
-                rank[keywords.index(key)] = val*float(idfdic[key])
-
+                rank[keywords.index(key)] = val * float(idfdic[key])
 
             flag = False
             if s == pos:
                 flag = True
-            result = [cnt,"\""+filename+"\"",flag]
+            result = [cnt, "\"" + filename + "\"", flag]
             result.extend(rank)
 
             out.writerow(result)
-            rank = [0]*(len(keywords))
-            cnt+=1
+            rank = [0] * (len(keywords))
+            cnt += 1
             fin.close()
 
 
-
-gen_csv('tfreq-spacy/NYnegative','tfreq-spacy/content')
+gen_csv('tfreq-' + args.library + '/NYnegative',
+        'tfreq-' + args.library + '/content')

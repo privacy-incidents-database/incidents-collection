@@ -6,49 +6,61 @@ import os
 import time
 import sys
 import json
+import argparse
 from nltk.stem.porter import *
 from nltk.tag.perceptron import PerceptronTagger
 
+
+def get_args():
+    global args
+    parser = argparse.ArgumentParser(
+        description="Script for performing NLP using nltk")
+    parser.add_argument(
+        "directory", help='Name of the directory containing Articles')
+    args = parser.parse_args()
+    return args
+
+args = get_args()
+
 def traverse(src):
-    cnt = 0
     sent_detector = nltk.data.load('tokenizers/punkt/english.pickle')
     tagger = PerceptronTagger()
     pstemmer = PorterStemmer()
 
     for filename in os.listdir(src):
-        if os.path.isfile(src+'/'+filename):
-            fin = open(src+'/'+filename)
+        if os.path.isfile(src + '/' + filename):
+            fin = open(src + '/' + filename)
             print "Current file: " + filename
             text = fin.read()
-            start = time.time()
-            dic = get_count(text, sent_detector, pstemmer,tagger)
+            # start = time.time()
+            dic = get_count(text, sent_detector, pstemmer, tagger)
             genTermFreq(dic, filename)
-            total_time = time.time() - start
-            print total_time
-            cnt+=1
-    # print cnt
+            # total_time = time.time() - start
+            # print total_time
 
-def get_count(text,sent_detector,pstemmer,tagger):
+
+def get_count(text, sent_detector, pstemmer, tagger):
     import string
-    asciitext = text.strip().encode("ascii","ignore").lower()
+    asciitext = text.strip().encode("ascii", "ignore").lower()
     # asciitext = asciitext.translate(string.maketrans(" "," "),string.punctuation)
 
     sentences = sent_detector.tokenize(asciitext)
-    dic ={}
+    dic = {}
     for sentence in sentences:
         try:
             w = nltk.word_tokenize(sentence)
             tags = tagger.tag(w)
             # print tags
-            usedTags = ['NN.*','VB.*','JJ.*','RB.*']
+            usedTags = ['NN.*', 'VB.*', 'JJ.*', 'RB.*']
             # NN = Nouns
             # VB = Verbs
             # JJ = Adjectives
             # RB = Adverbs
 
-            reqdTags = "("+")|(".join(usedTags)+")"
+            reqdTags = "(" + ")|(".join(usedTags) + ")"
 
-            reqdWords = [a for (a, b) in tags if re.match(reqdTags, b) and re.match('[a-z].*',a)]
+            reqdWords = [a for (a, b) in tags if re.match(
+                reqdTags, b) and re.match('[a-z].*', a)]
 
             # Stem the required words
 
@@ -60,29 +72,24 @@ def get_count(text,sent_detector,pstemmer,tagger):
                     dic[string] += 1
                 else:
                     dic[string] = 1
-        except Exception,e:
+        except Exception, e:
             print "Error"
         # a = raw_input()
     # pprint.pprint(dic)
     return dic
 
+
 def genTermFreq(dic, filename):
-    folderName = 'tfreq/' + sys.argv[1]
+    folderName = 'tfreq-nltk/' + args.directory
     if not os.path.exists(folderName):
         os.makedirs(folderName)
 
-    wr = open("%s/%s" % (folderName,filename), 'w')
-    json.dump(dic , wr, indent = 2)
+    wr = open("%s/%s" % (folderName, filename), 'w')
+    json.dump(dic, wr, indent=2)
     wr.close()
-
-def stanfordNERExtractor(sentence):
-    from nltk.tag.stanford import NERTagger
-    st =  NERTagger('/usr/share/stanford-ner/classifiers/all.3class.distsim.crf.ser.gz',
-               '/usr/share/stanford-ner/stanford-ner.jar')
-    return st.tag(sentence.split())
 
 
 if __name__ == "__main__":
-        dirname = sys.argv[1]
-        dirpath = '../dat/' + dirname
-        traverse(dirpath)
+    dirname = args.directory
+    dirpath = '../dat/' + dirname
+    traverse(dirpath)
