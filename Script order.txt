@@ -1,0 +1,50 @@
+Order of Scripts to Run
+
+Scenario 1: Use only NYtimes Articles
+
+1. Run collect.py to fetch negative(Non-privacy) Articles as follows:
+
+   python collect.py -l LIMIT NYnegative
+   Where LIMIT is the maximum number of Articles you wish to fetch
+
+2. Run collect_positive.py to fetch positive(Privacy) Articles as follows:
+
+   python collect_positive.py -j JSON
+   Where JSON is the name of the json file containing URL's for positive articles
+
+3. Run gen_csv.py for generating a CSV as follows:
+
+   python gen_csv.py
+   This script will generate a CSV named data.csv which can be further used for analysis.
+
+Scenario 2: Use all the articles in the DB and use NLP for analysis
+
+1. Run collect.py to fetch negative(Non-privacy) Articles as follows:
+
+   python collect.py -l LIMIT NYnegative
+   Where LIMIT is the maximum number of Articles you wish to fetch
+
+   OR
+
+   Store all the negative articles(text) in a directory.
+
+2. Run collect_positive.py to fetch positive(Privacy) Articles as follows:
+
+   python collect_positive.py -j JSON
+   Where JSON is the name of the json file containing URL's for positive articles
+
+3. Perform NLP on the collected articles using nltk_nlp.py or spacy_nlp.py as follows:
+
+   python nltk_nlp.py DIRECTORY
+   Where DIRECTORY is the name of the directory which contains text articles
+
+4. Generate an IDF log using tfid_log.py as follows:
+
+   python tfid_log.py LIBRARY
+   Where LIBRARY is either nltk or spacy
+
+5. Generate CSV using tfidf_csv.py as follows:
+
+   python tfidf_csv.py LIBRARY
+   This script will generate a CSV named tfidf-LIBRARY.csv which can be further used for analysis.
+   Where LIBRARY is either nltk or spacy
