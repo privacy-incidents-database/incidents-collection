@@ -1,0 +1,109 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The filmmaker Alex Winter is introducing a Kickstarter campaign to help finance a Zappa movie and preserve his archive. The home sale is part of the plan.", 
+  "headline": {
+    "main": "Frank Zappa\u2019s House Can Be Yours for $9 Million"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "948", 
+  "_id": "56df07177988105820728430", 
+  "snippet": "The filmmaker Alex Winter is introducing a Kickstarter campaign to help finance a Zappa movie and preserve his archive. The home sale is part of the plan.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/media/frank-zappas-house-can-be-yours-for-9-million.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/09zappa/09zappa-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/09zappa/09zappa-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/09zappa/09zappa-articleLarge.jpg", 
+      "height": 402, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/09zappa/09zappa-articleLarge.jpg", 
+        "xlargeheight": "402"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/09zappa/09zappa-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/09zappa/09zappa-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "value": "Archives and Records", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Zappa, Frank", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Winter, Alex", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Zappa, Gail (1945-2015)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Movies", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Music", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ben", 
+        "lastname": "SISARIO"
+      }
+    ], 
+    "original": "By BEN SISARIO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

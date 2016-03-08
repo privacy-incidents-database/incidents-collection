@@ -1,0 +1,47 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The measures are a response to growing concerns about corporate tax avoidance that costs the European Union billions a year.", 
+  "headline": {
+    "main": "E.U. Ministers Agree to Share Tax Details on Multinationals"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "302", 
+  "_id": "56dee79e798810219b64c6a4", 
+  "snippet": "The measures are a response to growing concerns about corporate tax avoidance that costs the European Union billions a year.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/international/eu-ministers-agree-to-share-tax-details-on-multinationals.html", 
+  "multimedia": [], 
+  "subsection_name": "International Business", 
+  "keywords": [
+    {
+      "value": "Corporate Taxes", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "European Union", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Europe", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "A proposal to display the garment wet was deemed \u201ccuratorially unsound.\u201d", 
+  "headline": {
+    "main": "Mr. Darcy\u2019s Shirt Is Coming to America", 
+    "print_headline": "Regency Tease: That Shirt. Damp. Clinging."
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "440", 
+  "_id": "56debecc798810219b64c622", 
+  "snippet": "A proposal to display the garment wet was deemed \u201ccuratorially unsound.\u201d", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/arts/television/mr-darcys-shirt-is-coming-to-america.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/07/arts/07SCREENSHOT/07SCREENSHOT-thumbWide.png", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/07/arts/07SCREENSHOT/07SCREENSHOT-thumbWide.png", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/07/arts/07SCREENSHOT/07SCREENSHOT-articleLarge.png", 
+      "height": 336, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/07/arts/07SCREENSHOT/07SCREENSHOT-articleLarge.png", 
+        "xlargeheight": "336"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/07/arts/07SCREENSHOT/07SCREENSHOT-thumbStandard.png", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/07/arts/07SCREENSHOT/07SCREENSHOT-thumbStandard.png", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Television", 
+  "keywords": [
+    {
+      "value": "Folger Shakespeare Library (Washington, DC)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Firth, Colin", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Cumberbatch, Benedict", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Pride and Prejudice (Book)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "creative_works"
+    }, 
+    {
+      "value": "Celebrities", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jennifer", 
+        "lastname": "SCHUESSLER"
+      }
+    ], 
+    "original": "By JENNIFER SCHUESSLER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Arts"
+}

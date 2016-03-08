@@ -1,0 +1,103 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A section of \u201cLast Week Tonight\u201d focuses on the candidate\u2019s so-called \u201coriginal\u201d family name, complete with a hashtag and offer to sell caps.", 
+  "headline": {
+    "main": "John Oliver Sells Out of \u2018Make Donald Drumpf Again\u2019 Caps"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "457", 
+  "_id": "56df195b7988105820728477", 
+  "snippet": "A section of \u201cLast Week Tonight\u201d focuses on the candidate\u2019s so-called \u201coriginal\u201d family name, complete with a hashtag and offer to sell caps.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/media/trump-segment-on-john-oliver-show-explodes-on-youtube.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/09oliver-social1/09oliver-social1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/09oliver-social1/09oliver-social1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/09oliver-social1/09oliver-social1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/09oliver-social1/09oliver-social1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/09oliver-social1/09oliver-social1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/09oliver-social1/09oliver-social1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "value": "Home Box Office", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "YouTube.com", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Oliver, John", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "KOBLIN"
+      }
+    ], 
+    "original": "By JOHN KOBLIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

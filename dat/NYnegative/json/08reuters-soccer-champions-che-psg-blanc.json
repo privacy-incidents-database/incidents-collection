@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Paris St Germain coach Laurent Blanc has told his players not to succumb to provocation from Chelsea striker Diego Costa in the second leg of their Champions League last 16 clash on Wednesday.  ", 
+  "headline": {
+    "main": "Don't Let Costa Wind You Up, Says PSG Coach Blanc", 
+    "print_headline": "Don't Let Costa Wind You Up, Says PSG Coach Blanc"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "380", 
+  "_id": "56df339a79881058207284d3", 
+  "snippet": "Paris St Germain coach Laurent Blanc has told his players not to succumb to provocation from Chelsea striker Diego Costa in the second leg of their Champions League last 16 clash on Wednesday.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/sports/soccer/08reuters-soccer-champions-che-psg-blanc.html", 
+  "multimedia": [], 
+  "subsection_name": "Soccer", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:15:02Z", 
+  "section_name": "Sports"
+}

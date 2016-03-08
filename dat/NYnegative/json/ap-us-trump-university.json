@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Tarla Makaeff has had enough of Donald Trump after spending six years fighting him in court.", 
+  "headline": {
+    "main": "Trump University Plaintiff Seeks to Withdraw From Lawsuit", 
+    "print_headline": "Trump University Plaintiff Seeks to Withdraw From Lawsuit"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "751", 
+  "_id": "56df29ed79881058207284b8", 
+  "snippet": "Tarla Makaeff has had enough of Donald Trump after spending six years fighting him in court.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/us/ap-us-trump-university.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:35:03Z", 
+  "section_name": "U.S."
+}

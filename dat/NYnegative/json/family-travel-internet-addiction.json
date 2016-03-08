@@ -1,0 +1,107 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Travel", 
+  "lead_paragraph": "Responding to parents\u2019 concerns, hotels and resorts are adding programs to encourage children to become involved in real-world interactions.", 
+  "headline": {
+    "main": "Family Travel Unplugged: More Options for Teenagers", 
+    "kicker": "In Transit", 
+    "print_headline": "Appealing to the Unplugged", 
+    "content_kicker": "In Transit"
+  }, 
+  "abstract": null, 
+  "print_page": "2", 
+  "word_count": "294", 
+  "_id": "56ded293798810219b64c666", 
+  "snippet": "Responding to parents\u2019 concerns, hotels and resorts are adding programs to encourage children to become involved in real-world interactions.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/13/travel/family-travel-internet-addiction.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/13/travel/13TRENDING/13TRENDING-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/13/travel/13TRENDING/13TRENDING-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/13/travel/13TRENDING/13TRENDING-articleLarge.jpg", 
+      "height": 398, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/13/travel/13TRENDING/13TRENDING-articleLarge.jpg", 
+        "xlargeheight": "398"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/13/travel/13TRENDING/13TRENDING-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/13/travel/13TRENDING/13TRENDING-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hotels and Travel Lodgings", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Teenagers and Adolescence", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Oahu (Hawaii)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Spas", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Amy", 
+        "middlename": "Tara", 
+        "lastname": "KOCH", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By AMY TARA KOCH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-13T00:00:00Z", 
+  "section_name": "Travel"
+}

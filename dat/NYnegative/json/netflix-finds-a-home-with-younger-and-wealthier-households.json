@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A researcher breaks down the key findings of an analysis of the streaming service\u2019s effect on traditional television.", 
+  "headline": {
+    "main": "Netflix Finds a Home With Younger and Wealthier Households"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "388", 
+  "_id": "56df260179881058207284a9", 
+  "snippet": "A researcher breaks down the key findings of an analysis of the streaming service\u2019s effect on traditional television.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/media/netflix-finds-a-home-with-younger-and-wealthier-households.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/09netflix/09netflix-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/09netflix/09netflix-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/09netflix/09netflix-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/09netflix/09netflix-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/09netflix/09netflix-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/09netflix/09netflix-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "value": "Netflix Inc", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "MoffettNathanson Research", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Television", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Video Recordings, Downloads and Streaming", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Emily", 
+        "lastname": "STEEL"
+      }
+    ], 
+    "original": "By EMILY STEEL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

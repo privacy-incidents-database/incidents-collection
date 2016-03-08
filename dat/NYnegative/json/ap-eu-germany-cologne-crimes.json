@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Cologne authorities have released a series of pictures of men suspected of sexually harassing women on New Year's Eve in the western German city.", 
+  "headline": {
+    "main": "Pictures of Cologne Suspects Released in Germany", 
+    "print_headline": "Pictures of Cologne Suspects Released in Germany"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "113", 
+  "_id": "56df2a9d79881058207284bc", 
+  "snippet": "Cologne authorities have released a series of pictures of men suspected of sexually harassing women on New Year's Eve in the western German city.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/world/europe/ap-eu-germany-cologne-crimes.html", 
+  "multimedia": [], 
+  "subsection_name": "Europe", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:37:09Z", 
+  "section_name": "World"
+}

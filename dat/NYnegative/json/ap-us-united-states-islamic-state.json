@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "U.S. defense officials say the United States targeted a senior Islamic State commander in an airstrike last week in Syria and are assessing whether he may have been killed.", 
+  "headline": {
+    "main": "Officials: US Airstrike Targeted IS Military Commander", 
+    "print_headline": "Officials: US Airstrike Targeted IS Military Commander"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "111", 
+  "_id": "56df43437988105820728514", 
+  "snippet": "U.S. defense officials say the United States targeted a senior Islamic State commander in an airstrike last week in Syria and are assessing whether he may have been killed.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/us/politics/ap-us-united-states-islamic-state.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T16:21:30Z", 
+  "section_name": "U.S."
+}

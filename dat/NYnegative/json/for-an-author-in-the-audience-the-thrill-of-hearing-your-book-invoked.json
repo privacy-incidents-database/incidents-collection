@@ -1,0 +1,122 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "Attending \u201cOur Mother\u2019s Brief Affair,\u201d a writer is surprised to learn that his account of World War II spying helped inspire the play.", 
+  "headline": {
+    "main": "For an Author in the Audience, the Thrill of Hearing Your Book Invoked", 
+    "print_headline": "Of Betrayal, Guilt and a Startled Author"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "967", 
+  "_id": "56df42857988105820728511", 
+  "snippet": "Attending \u201cOur Mother\u2019s Brief Affair,\u201d a writer is surprised to learn that his account of World War II spying helped inspire the play.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/theater/for-an-author-in-the-audience-the-thrill-of-hearing-your-book-invoked.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/arts/9GREENGLASS/9GREENGLASS-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/arts/9GREENGLASS/9GREENGLASS-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/arts/9GREENGLASS/9GREENGLASS-articleLarge.jpg", 
+      "height": 900, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/arts/9GREENGLASS/9GREENGLASS-articleLarge.jpg", 
+        "xlargeheight": "900"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/arts/9GREENGLASS/9GREENGLASS-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/arts/9GREENGLASS/9GREENGLASS-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Theater", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Books and Literature", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Manhattan Theater Club", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Greenglass, David", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Greenberg, Richard", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Lavin, Linda", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Rosenberg, Ethel", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Rosenberg, Julius", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Sam", 
+        "lastname": "ROBERTS"
+      }
+    ], 
+    "original": "By SAM ROBERTS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Theater"
+}

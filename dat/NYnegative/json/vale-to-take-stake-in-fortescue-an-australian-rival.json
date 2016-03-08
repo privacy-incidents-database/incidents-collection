@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Both companies are struggling with volatile iron ore prices driven by expectations over China\u2019s economic growth and subsequent steel demand.", 
+  "headline": {
+    "main": "Vale May Take Stake in Fortescue, an Australian Rival"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "347", 
+  "_id": "56deece0798810219b64c6b8", 
+  "snippet": "Both companies are struggling with volatile iron ore prices driven by expectations over China\u2019s economic growth and subsequent steel demand.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/dealbook/vale-to-take-stake-in-fortescue-an-australian-rival.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/db-ironore/db-ironore-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/db-ironore/db-ironore-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/db-ironore/db-ironore-articleLarge.jpg", 
+      "height": 363, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/db-ironore/db-ironore-articleLarge.jpg", 
+        "xlargeheight": "363"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/db-ironore/db-ironore-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/db-ironore/db-ironore-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Vale SA", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Fortescue Metals Group", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Mines and Mining", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Mergers, Acquisitions and Divestitures", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Brett", 
+        "lastname": "COLE"
+      }
+    ], 
+    "original": "By BRETT COLE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

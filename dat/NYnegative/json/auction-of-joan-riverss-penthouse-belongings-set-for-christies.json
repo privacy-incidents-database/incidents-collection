@@ -1,0 +1,91 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "The auction will include 200 lots in a live sale on June 22 and about 80 lots in an online auction June 16\u201323.", 
+  "headline": {
+    "main": "Auction of Joan Rivers\u2019s Penthouse Belongings Set for Christie\u2019s"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "146", 
+  "_id": "56defc6b798810219b64c6fc", 
+  "snippet": "The auction will include 200 lots in a live sale on June 22 and about 80 lots in an online auction June 16\u201323.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/arts/design/auction-of-joan-riverss-penthouse-belongings-set-for-christies.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/13/arts/08RIVERS/08RIVERS-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/13/arts/08RIVERS/08RIVERS-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/13/arts/08RIVERS/08RIVERS-articleLarge.jpg", 
+      "height": 398, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/13/arts/08RIVERS/08RIVERS-articleLarge.jpg", 
+        "xlargeheight": "398"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/13/arts/08RIVERS/08RIVERS-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/13/arts/08RIVERS/08RIVERS-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Art & Design", 
+  "keywords": [
+    {
+      "value": "Auctions", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Christie's", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Rivers, Joan", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Robin", 
+        "lastname": "POGREBIN"
+      }
+    ], 
+    "original": "By ROBIN POGREBIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Arts"
+}

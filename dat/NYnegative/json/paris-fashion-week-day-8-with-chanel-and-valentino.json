@@ -1,0 +1,109 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "Iris van Herpen and Vanessa Seward also are on the schedule, along with a night of partying.", 
+  "headline": {
+    "main": "Paris Fashion Week: Day 8 With Chanel and Valentino"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "214", 
+  "_id": "56de6a6a798810219b64c548", 
+  "snippet": "Iris van Herpen and Vanessa Seward also are on the schedule, along with a night of partying.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/fashion/paris-fashion-week-day-8-with-chanel-and-valentino.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/08/fashion/08-FW-MORNING/08-FW-MORNING-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/08/fashion/08-FW-MORNING/08-FW-MORNING-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/08/fashion/08-FW-MORNING/08-FW-MORNING-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/08/fashion/08-FW-MORNING/08-FW-MORNING-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/08/fashion/08-FW-MORNING/08-FW-MORNING-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/08/fashion/08-FW-MORNING/08-FW-MORNING-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Fashion and Apparel", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Paris Fashion Week", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Chanel SA", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Valentino Fashion Group SpA", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Lagerfeld, Karl", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "van Herpen, Iris (1984- )", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Elizabeth", 
+        "lastname": "PATON"
+      }
+    ], 
+    "original": "By ELIZABETH PATON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Fashion & Style"
+}

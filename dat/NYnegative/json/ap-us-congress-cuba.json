@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "A U.S. senator is urging the Obama administration to ease restrictions on investment in Cuba so American hotels can operate in the island nation.", 
+  "headline": {
+    "main": "Senator Urges Rule Changes So US Hotels Can Operate in Cuba", 
+    "print_headline": "Senator Urges Rule Changes So US Hotels Can Operate in Cuba"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "131", 
+  "_id": "56df3cdb79881058207284fc", 
+  "snippet": "A U.S. senator is urging the Obama administration to ease restrictions on investment in Cuba so American hotels can operate in the island nation.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/us/politics/ap-us-congress-cuba.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:56:36Z", 
+  "section_name": "U.S."
+}

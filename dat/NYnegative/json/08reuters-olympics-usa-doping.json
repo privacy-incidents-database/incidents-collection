@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "U.S. Olympic athletes expressed little sympathy for tennis star Maria Sharapova's revelation that she failed a drug test, saying they wanted sporting officials to raise the pressure for clean play.", 
+  "headline": {
+    "main": "U.S. Olympians Unsympathetic to Sharapova; Fear Rio Won't Be Clean", 
+    "print_headline": "U.S. Olympians Unsympathetic to Sharapova; Fear Rio Won't Be Clean"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "760", 
+  "_id": "56df351b79881058207284d8", 
+  "snippet": "U.S. Olympic athletes expressed little sympathy for tennis star Maria Sharapova's revelation that she failed a drug test, saying they wanted sporting officials to raise the pressure for clean play.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/sports/olympics/08reuters-olympics-usa-doping.html", 
+  "multimedia": [], 
+  "subsection_name": "Olympics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:22:50Z", 
+  "section_name": "Sports"
+}

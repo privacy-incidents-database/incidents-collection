@@ -1,0 +1,103 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "German prosecutors said that they had widened the inquiry into illegal manipulation of tailpipe emissions and that they had not ruled out involvement by top management.", 
+  "headline": {
+    "main": "Volkswagen Inquiry Expands to 17 Suspects"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "804", 
+  "_id": "56dedbb1798810219b64c683", 
+  "snippet": "German prosecutors said that they had widened the inquiry into illegal manipulation of tailpipe emissions and that they had not ruled out involvement by top management.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/international/volkswagen-inquiry-germany.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/09volkswagen2/09volkswagen2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/09volkswagen2/09volkswagen2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/09volkswagen2/09volkswagen2-articleLarge.jpg", 
+      "height": 340, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/09volkswagen2/09volkswagen2-articleLarge.jpg", 
+        "xlargeheight": "340"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/09volkswagen2/09volkswagen2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/09volkswagen2/09volkswagen2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "International Business", 
+  "keywords": [
+    {
+      "value": "Fuel Emissions (Transportation)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Automobiles", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Volkswagen AG", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Frankfurt (Germany)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Germany", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jack", 
+        "lastname": "EWING"
+      }
+    ], 
+    "original": "By JACK EWING"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

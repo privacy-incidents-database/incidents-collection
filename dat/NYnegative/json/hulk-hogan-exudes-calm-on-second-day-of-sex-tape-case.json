@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The retired wrestler, legally Terry Bollea, was subdued during testimony in his suit against Gawker over its posting of a secretly recorded video.", 
+  "headline": {
+    "main": "Hulk Hogan Exudes Calm on Second Day of Sex Tape Case"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "521", 
+  "_id": "56df1ff77988105820728494", 
+  "snippet": "The retired wrestler, legally Terry Bollea, was subdued during testimony in his suit against Gawker over its posting of a secretly recorded video.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/media/hulk-hogan-exudes-calm-on-second-day-of-sex-tape-case.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/09hogan2/09hogan2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/09hogan2/09hogan2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/09hogan2/09hogan2-articleLarge.jpg", 
+      "height": 387, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/09hogan2/09hogan2-articleLarge.jpg", 
+        "xlargeheight": "387"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/09hogan2/09hogan2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/09hogan2/09hogan2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Suits and Litigation (Civil)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Gawker.com", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Hogan, Hulk", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "MADIGAN"
+      }
+    ], 
+    "original": "By NICK MADIGAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

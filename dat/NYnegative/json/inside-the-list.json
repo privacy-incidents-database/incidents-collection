@@ -2,26 +2,26 @@
   "type_of_material": "News", 
   "blog": [], 
   "news_desk": "BookReview", 
-  "lead_paragraph": "Jane Mayer\u2019s \u201cDark Money,\u201d No. 5 on the hardcover nonfiction list, has made news partly because it seems Mayer was investigated by the book\u2019s subjects, the Koch brothers.", 
+  "lead_paragraph": "Debbie Macomber, now a regular best seller, struggled early in her career: \u201cI got rejected so fast, my manuscripts would hit me in the back of the head on my way back from the post office.\u201d", 
   "headline": {
     "main": "Inside the List"
   }, 
   "abstract": null, 
-  "print_page": "26", 
-  "word_count": "514", 
-  "_id": "56ab8b387988100ba9f6d6a1", 
-  "snippet": "Jane Mayer\u2019s \u201cDark Money,\u201d No. 5 on the hardcover nonfiction list, has made news partly because it seems Mayer was investigated by the book\u2019s subjects, the Koch brothers.", 
+  "print_page": "22", 
+  "word_count": "522", 
+  "_id": "56d92b397988105f9e733526", 
+  "snippet": "Debbie Macomber, now a regular best seller, struggled early in her career: \u201cI got rejected so fast, my manuscripts would hit me in the back of the head on my way back from the post office.\u201d", 
   "source": "The New York Times", 
   "slideshow_credits": null, 
-  "web_url": "http://www.nytimes.com/2016/02/07/books/review/inside-the-list.html", 
+  "web_url": "http://www.nytimes.com/2016/03/13/books/review/inside-the-list.html", 
   "multimedia": [
     {
       "subtype": "wide", 
-      "url": "images/2016/02/07/books/review/07mayer/07mayer-thumbWide.jpg", 
+      "url": "images/2016/03/13/books/review/13inside-list/13inside-list-thumbWide.jpg", 
       "height": 126, 
       "width": 190, 
       "legacy": {
-        "wide": "images/2016/02/07/books/review/07mayer/07mayer-thumbWide.jpg", 
+        "wide": "images/2016/03/13/books/review/13inside-list/13inside-list-thumbWide.jpg", 
         "wideheight": "126", 
         "widewidth": "190"
       }, 
@@ -29,18 +29,18 @@
     }, 
     {
       "subtype": "thumbnail", 
-      "url": "images/2016/02/07/books/review/07mayer/07mayer-thumbStandard.jpg", 
+      "url": "images/2016/03/13/books/review/13inside-list/13inside-list-thumbStandard.jpg", 
       "height": 75, 
       "width": 75, 
       "legacy": {
         "thumbnailheight": "75", 
-        "thumbnail": "images/2016/02/07/books/review/07mayer/07mayer-thumbStandard.jpg", 
+        "thumbnail": "images/2016/03/13/books/review/13inside-list/13inside-list-thumbStandard.jpg", 
         "thumbnailwidth": "75"
       }, 
       "type": "image"
     }
   ], 
-  "subsection_name": "Sunday Book Review", 
+  "subsection_name": "Book Review", 
   "keywords": [
     {
       "value": "Books and Literature", 
@@ -62,6 +62,6 @@
     "original": "By GREGORY COWLES"
   }, 
   "document_type": "article", 
-  "pub_date": "2016-02-07T00:00:00Z", 
+  "pub_date": "2016-03-13T00:00:00Z", 
   "section_name": "Books"
 }

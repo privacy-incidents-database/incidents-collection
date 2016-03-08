@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Humanitarian disaster is looming in the western Iraq city of Falluja, an Islamic State stronghold under siege by security forces, where tens of thousands of people face food shortages, the United Nations World Food Programme (WFP) said on Tuesday.", 
+  "headline": {
+    "main": "WFP Says Serious Food Shortages in Falluja, Besieged by Iraqi Army", 
+    "print_headline": "WFP Says Serious Food Shortages in Falluja, Besieged by Iraqi Army"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "436", 
+  "_id": "56df2eb679881058207284c6", 
+  "snippet": "Humanitarian disaster is looming in the western Iraq city of Falluja, an Islamic State stronghold under siege by security forces, where tens of thousands of people face food shortages, the United Nations World Food Programme (WFP) said on Tuesday.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/world/middleeast/08reuters-mideast-crisis-iraq-food.html", 
+  "multimedia": [], 
+  "subsection_name": "Middle East", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:54:46Z", 
+  "section_name": "World"
+}

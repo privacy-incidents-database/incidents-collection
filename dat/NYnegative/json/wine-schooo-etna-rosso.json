@@ -1,0 +1,88 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "A wine fragrant with the aromas of fruit and earth.", 
+  "headline": {
+    "main": "In Etna Rosso, a Delicious Tension Between Sweet and Bitter", 
+    "kicker": "Wine School", 
+    "print_headline": "An Eruption of Promise", 
+    "content_kicker": "Wine School"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "1223", 
+  "_id": "56d871587988105f9e7332b9", 
+  "snippet": "A wine fragrant with the aromas of fruit and earth.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/dining/wine-schooo-etna-rosso.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/dining/09WINE1/09WINE1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/dining/09WINE1/09WINE1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/dining/09WINE1/09WINE1-articleLarge.jpg", 
+      "height": 715, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/dining/09WINE1/09WINE1-articleLarge.jpg", 
+        "xlargeheight": "715"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/dining/09WINE1/09WINE1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/dining/09WINE1/09WINE1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Wines", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sicily (Italy)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "ASIMOV"
+      }
+    ], 
+    "original": "By ERIC ASIMOV"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Food"
+}

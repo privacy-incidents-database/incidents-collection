@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Authorities say an 83-year-old Arizona man accused of killing a Texas teacher and ex-beauty queen when he was a young priest in 1960 is set to be extradited to Texas.", 
+  "headline": {
+    "main": "Man to Be Extradited to Texas for 1960 Death of Beauty Queen", 
+    "print_headline": "Man to Be Extradited to Texas for 1960 Death of Beauty Queen"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "130", 
+  "_id": "56df288079881058207284b2", 
+  "snippet": "Authorities say an 83-year-old Arizona man accused of killing a Texas teacher and ex-beauty queen when he was a young priest in 1960 is set to be extradited to Texas.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/us/ap-us-teacher-slaying.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:28:54Z", 
+  "section_name": "U.S."
+}

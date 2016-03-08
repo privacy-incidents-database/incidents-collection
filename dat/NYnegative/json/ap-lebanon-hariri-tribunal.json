@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Appeals judges at a special U.N.-backed tribunal on the assassination of former Lebanese Prime Minister Rafik Hariri have overturned the conviction of the manager of a local TV station in Beirut who was found guilty last year of not removing from the station's website information about confidential witnesses in the long-running probe.", 
+  "headline": {
+    "main": "Court Overturns Lebanese TV Manager's Contempt Conviction", 
+    "print_headline": "Court Overturns Lebanese TV Manager's Contempt Conviction"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "122", 
+  "_id": "56df2cb879881058207284c1", 
+  "snippet": "Appeals judges at a special U.N.-backed tribunal on the assassination of former Lebanese Prime Minister Rafik Hariri have overturned the conviction of the manager of a local TV station in Beirut who was found guilty last year of not removing from the...", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/world/middleeast/ap-lebanon-hariri-tribunal.html", 
+  "multimedia": [], 
+  "subsection_name": "Middle East", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:45:43Z", 
+  "section_name": "World"
+}

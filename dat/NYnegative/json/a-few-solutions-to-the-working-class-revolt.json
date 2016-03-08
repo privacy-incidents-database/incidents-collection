@@ -1,0 +1,117 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "On the wrong side of globalization, workers supporting Donald Trump have embraced his proposals. But there are better ways to make things better.", 
+  "headline": {
+    "main": "A Few Solutions to the Working Class Revolt", 
+    "kicker": "Economic Scene", 
+    "content_kicker": "Economic Scene"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1043", 
+  "_id": "56df3cab79881058207284fa", 
+  "snippet": "On the wrong side of globalization, workers supporting Donald Trump have embraced his proposals. But there are better ways to make things better.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/economy/a-few-solutions-to-the-working-class-revolt.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/world/09PORTER-web1/09PORTER-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/world/09PORTER-web1/09PORTER-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/world/09PORTER-web1/09PORTER-web1-articleLarge.jpg", 
+      "height": 406, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/world/09PORTER-web1/09PORTER-web1-articleLarge.jpg", 
+        "xlargeheight": "406"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/world/09PORTER-web1/09PORTER-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/world/09PORTER-web1/09PORTER-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Economy", 
+  "keywords": [
+    {
+      "value": "United States Economy", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Labor and Jobs", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Income Inequality", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Unemployment", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Republican Party", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eduardo", 
+        "lastname": "PORTER"
+      }
+    ], 
+    "original": "By EDUARDO PORTER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

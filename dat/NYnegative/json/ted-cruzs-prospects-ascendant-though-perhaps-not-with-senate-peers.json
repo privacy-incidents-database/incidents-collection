@@ -1,0 +1,115 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Mr. Cruz has been gaining on Mr. Trump, but he is one of the least popular senators, in large part because he masterminded the 2013 government shutdown.", 
+  "headline": {
+    "main": "Ted Cruz\u2019s Prospects Ascendant, Though Perhaps Not With Senate Peers"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "630", 
+  "_id": "56df3e817988105820728503", 
+  "snippet": "Mr. Cruz has been gaining on Mr. Trump, but he is one of the least popular senators, in large part because he masterminded the 2013 government shutdown.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/us/politics/ted-cruzs-prospects-ascendant-though-perhaps-not-with-senate-peers.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/us/09congweb2/09congweb2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/us/09congweb2/09congweb2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/us/09congweb2/09congweb2-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/us/09congweb2/09congweb2-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/us/09congweb2/09congweb2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/us/09congweb2/09congweb2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Endorsements", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Senate", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Republican Party", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cruz, Ted", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Rubio, Marco", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jennifer", 
+        "lastname": "STEINHAUER"
+      }
+    ], 
+    "original": "By JENNIFER STEINHAUER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "U.S."
+}

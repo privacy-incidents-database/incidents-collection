@@ -1,0 +1,92 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "The model and designer has stocked her new store with everything from clothing made on the premises to handmade nails.", 
+  "headline": {
+    "main": "Ines de la Fressange, the New Parisian Shopkeeper", 
+    "print_headline": "Ines De La Fressange on the Left Bank"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "680", 
+  "_id": "56de844c798810219b64c57d", 
+  "snippet": "The model and designer has stocked her new store with everything from clothing made on the premises to handmade nails.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/08/fashion/ines-de-la-fressange-the-new-parisian-shopkeeper.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/08/fashion/08ines-web01/08ines-web01-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/08/fashion/08ines-web01/08ines-web01-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/08/fashion/08ines-web01/08ines-web01-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/08/fashion/08ines-web01/08ines-web01-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/08/fashion/08ines-web01/08ines-web01-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/08/fashion/08ines-web01/08ines-web01-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "de la Fressange, Ines", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Fashion and Apparel", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Paris (France)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Elaine", 
+        "lastname": "SCIOLINO"
+      }
+    ], 
+    "original": "By ELAINE SCIOLINO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T20:40:00Z", 
+  "section_name": "Fashion & Style"
+}

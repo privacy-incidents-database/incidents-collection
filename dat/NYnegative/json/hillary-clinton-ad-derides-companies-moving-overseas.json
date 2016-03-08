@@ -1,0 +1,123 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Many American companies have moved their headquaters overseas to reap tax savings, a maneuver Mrs. Clinton says she will tax.", 
+  "headline": {
+    "main": "Hillary Clinton Ad in Michigan Derides Companies Moving Overseas", 
+    "kicker": "The Ad Campaign", 
+    "content_kicker": "The Ad Campaign"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "367", 
+  "_id": "56df04f5798810219b64c71d", 
+  "snippet": "Many American companies have moved their headquaters overseas to reap tax savings, a maneuver Mrs. Clinton says she will tax.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/us/politics/hillary-clinton-ad-derides-companies-moving-overseas.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/07/us/elections/adwatch-clinton-bam-1457328102429/adwatch-clinton-bam-1457328102429-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/07/us/elections/adwatch-clinton-bam-1457328102429/adwatch-clinton-bam-1457328102429-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/07/us/elections/adwatch-clinton-bam-1457328102429/adwatch-clinton-bam-1457328102429-articleLarge.jpg", 
+      "height": 338, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/07/us/elections/adwatch-clinton-bam-1457328102429/adwatch-clinton-bam-1457328102429-articleLarge.jpg", 
+        "xlargeheight": "338"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/07/us/elections/adwatch-clinton-bam-1457328102429/adwatch-clinton-bam-1457328102429-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/07/us/elections/adwatch-clinton-bam-1457328102429/adwatch-clinton-bam-1457328102429-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Clinton, Hillary Rodham", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Corporate Taxes", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Political Advertising", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Labor and Jobs", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Tax Shelters", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Factories and Manufacturing", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Executive Compensation", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "CORASANITI"
+      }
+    ], 
+    "original": "By NICK CORASANITI"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "U.S."
+}

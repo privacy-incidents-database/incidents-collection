@@ -1,0 +1,89 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Travel", 
+  "lead_paragraph": "Tango has expanded beyond the ballroom into anywhere with a suitable dance surface, including a local bakery.", 
+  "headline": {
+    "main": "In Portland, Oregon, a Warm Embrace of Tango", 
+    "kicker": "Heads Up", 
+    "print_headline": "Going Where the Tango Takes You", 
+    "content_kicker": "Heads Up"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "771", 
+  "_id": "56ded2e6798810219b64c669", 
+  "snippet": "Tango has expanded beyond the ballroom into anywhere with a suitable dance surface, including a local bakery.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/13/travel/portland-oregon-tango.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/13/travel/13HEADS1/13HEADS1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/13/travel/13HEADS1/13HEADS1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/13/travel/13HEADS1/13HEADS1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/13/travel/13HEADS1/13HEADS1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/13/travel/13HEADS1/13HEADS1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/13/travel/13HEADS1/13HEADS1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Tango", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Jessica", 
+        "middlename": "Colley", 
+        "lastname": "CLARKE", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By JESSICA COLLEY CLARKE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-13T00:00:00Z", 
+  "section_name": "Travel"
+}

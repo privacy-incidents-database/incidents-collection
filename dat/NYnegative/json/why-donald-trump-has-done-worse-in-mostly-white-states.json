@@ -1,0 +1,117 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Upshot", 
+  "lead_paragraph": "An appeal to white identity tends to work better in areas where that identity is felt to be under threat, like the racially polarized South.", 
+  "headline": {
+    "main": "Why Donald Trump Has Done Worse in Mostly White States", 
+    "kicker": "The Upshot", 
+    "content_kicker": "The 2016 Race"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1160", 
+  "_id": "56df1a117988105820728479", 
+  "snippet": "An appeal to white identity tends to work better in areas where that identity is felt to be under threat, like the racially polarized South.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/upshot/why-donald-trump-has-done-worse-in-mostly-white-states.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/upshot/09UP-Trump-White/09UP-Trump-White-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/upshot/09UP-Trump-White/09UP-Trump-White-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/upshot/09UP-Trump-White/09UP-Trump-White-articleLarge.jpg", 
+      "height": 364, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/upshot/09UP-Trump-White/09UP-Trump-White-articleLarge.jpg", 
+        "xlargeheight": "364"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/upshot/09UP-Trump-White/09UP-Trump-White-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/upshot/09UP-Trump-White/09UP-Trump-White-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Race and Ethnicity", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "States (US)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Discrimination", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Blacks", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Minorities", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Toni", 
+        "lastname": "MONKOVIC"
+      }
+    ], 
+    "original": "By TONI MONKOVIC"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "The Upshot"
+}

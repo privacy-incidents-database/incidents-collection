@@ -1,0 +1,127 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Sports", 
+  "lead_paragraph": "In a split second, a father\u2019s instinct takes over, and a risky moment becomes a picture that dazzles the Internet.", 
+  "headline": {
+    "main": "A Flying Baseball Bat, a Dad\u2019s Instinct and a Photograph"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "646", 
+  "_id": "56df286f79881058207284b1", 
+  "snippet": "In a split second, a father\u2019s instinct takes over, and a risky moment becomes a picture that dazzles the Internet.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/sports/a-flying-baseball-bat-a-dads-instinct-and-a-photograph.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/sports/09BatMan_xp/09BatMan_xp-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/sports/09BatMan_xp/09BatMan_xp-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/sports/09BatMan_xp/09BatMan_xp-articleLarge.jpg", 
+      "height": 411, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/sports/09BatMan_xp/09BatMan_xp-articleLarge.jpg", 
+        "xlargeheight": "411"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/sports/09BatMan_xp/09BatMan_xp-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/sports/09BatMan_xp/09BatMan_xp-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Baseball", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sports Injuries", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Photography", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Stadiums and Arenas", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Social Media", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Major League Baseball", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Pittsburgh Pirates", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Orlando (Fla)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Atlanta Braves", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Karen", 
+        "lastname": "WORKMAN"
+      }
+    ], 
+    "original": "By KAREN WORKMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Sports"
+}

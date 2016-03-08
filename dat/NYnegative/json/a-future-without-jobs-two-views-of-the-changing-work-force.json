@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The Business Day columnists Eduardo Porter and Farhad Manjoo discuss the concept of a universal basic income and the trajectory of our economy.", 
+  "headline": {
+    "main": "A Future Without Jobs? Two Views of the Changing Work Force"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1595", 
+  "_id": "56df3cf379881058207284fe", 
+  "snippet": "The Business Day columnists Eduardo Porter and Farhad Manjoo discuss the concept of a universal basic income and the trajectory of our economy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/economy/a-future-without-jobs-two-views-of-the-changing-work-force.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/09conversation1/09conversation1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/09conversation1/09conversation1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/09conversation1/09conversation1-articleLarge.jpg", 
+      "height": 433, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/09conversation1/09conversation1-articleLarge.jpg", 
+        "xlargeheight": "433"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/09conversation1/09conversation1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/09conversation1/09conversation1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Economy", 
+  "keywords": [
+    {
+      "value": "Labor and Jobs", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Income", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Robots and Robotics", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Gordon, Robert J", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eduardo", 
+        "lastname": "PORTER"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Farhad", 
+        "lastname": "MANJOO"
+      }
+    ], 
+    "original": "By EDUARDO PORTER and FARHAD MANJOO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

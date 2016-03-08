@@ -1,0 +1,103 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Mr. Hayes had sought to have his conviction on charges of manipulating a global benchmark interest rate reviewed by the Supreme Court of Britain.", 
+  "headline": {
+    "main": "Tom Hayes Denied Latest Bid to Appeal Libor Conviction"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "563", 
+  "_id": "56dee71c798810219b64c6a0", 
+  "snippet": "Mr. Hayes had sought to have his conviction on charges of manipulating a global benchmark interest rate reviewed by the Supreme Court of Britain.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/dealbook/tom-hayes-denied-latest-bid-to-appeal-libor-conviction.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2015/12/22/business/09db-libor1/22db-libor-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2015/12/22/business/09db-libor1/22db-libor-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2015/12/22/business/09db-libor1/22db-libor-web1-articleLarge.jpg", 
+      "height": 409, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2015/12/22/business/09db-libor1/22db-libor-web1-articleLarge.jpg", 
+        "xlargeheight": "409"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2015/12/22/business/09db-libor1/22db-libor-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2015/12/22/business/09db-libor1/22db-libor-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Libor (London Interbank Offered Rate)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Serious Fraud Office (United Kingdom)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Hayes, Thomas Alexander William", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "UBS AG", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Citigroup Inc", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Chad", 
+        "lastname": "BRAY"
+      }
+    ], 
+    "original": "By CHAD BRAY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

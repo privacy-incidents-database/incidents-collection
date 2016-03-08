@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Michael Wacha gave up one run over two innings in his first start of the exhibition season as the St. Louis Cardinals beat a Minnesota Twins' split squad 5-3 Tuesday.", 
+  "headline": {
+    "main": "Cardinals' Wacha Gives Up 1 Run in Spring Training Debut", 
+    "print_headline": "Cardinals' Wacha Gives Up 1 Run in Spring Training Debut"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "128", 
+  "_id": "56df42b27988105820728513", 
+  "snippet": "Michael Wacha gave up one run over two innings in his first start of the exhibition season as the St. Louis Cardinals beat a Minnesota Twins' split squad 5-3 Tuesday.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/sports/baseball/ap-bbo-cardinals-twins.html", 
+  "multimedia": [], 
+  "subsection_name": "Baseball", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T16:20:55Z", 
+  "section_name": "Sports"
+}

@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Nicolas Petit has taken the early lead in the 2016 Iditarod Trail Sled Dog Race.", 
+  "headline": {
+    "main": "Petit, Mackey Among Early Leaders in 2016 Iditarod", 
+    "print_headline": "Petit, Mackey Among Early Leaders in 2016 Iditarod"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "137", 
+  "_id": "56df25bb79881058207284a7", 
+  "snippet": "Nicolas Petit has taken the early lead in the 2016 Iditarod Trail Sled Dog Race.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/us/ap-us-iditarod.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:15:51Z", 
+  "section_name": "U.S."
+}

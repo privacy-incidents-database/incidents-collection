@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "A red-bearded Islamic State commander described by American officials as the group's de facto minister of war may have been killed in an air strike in Syria on Friday by the U.S.-led coalition, several U.S. officials said on Tuesday.", 
+  "headline": {
+    "main": "Islamic State's De Facto 'Minister of War' Possibly Killed: U.S. Officials", 
+    "print_headline": "Islamic State's De Facto 'Minister of War' Possibly Killed: U.S. Officials"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "416", 
+  "_id": "56df22cd798810582072849f", 
+  "snippet": "A red-bearded Islamic State commander described by American officials as the group's de facto minister of war may have been killed in an air strike in Syria on Friday by the U.S.-led coalition, several U.S. officials said on Tuesday.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/world/middleeast/08reuters-mideast-crisis-syria-aistrike.html", 
+  "multimedia": [], 
+  "subsection_name": "Middle East", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:05:21Z", 
+  "section_name": "World"
+}

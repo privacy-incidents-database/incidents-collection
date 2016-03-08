@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "Also, Josh Mazza and Steve Laycock opens Belle Shoals; Barneys in Chelsea gains a restaurant; German comfort food at Studio Kraut, and more.", 
+  "headline": {
+    "main": "Le Coq Rico Captures Essence of a Parisian Poultry Palace", 
+    "content_kicker": "Off the Menu"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "851", 
+  "_id": "56df1dae7988105820728489", 
+  "snippet": "Also, Josh Mazza and Steve Laycock opens Belle Shoals; Barneys in Chelsea gains a restaurant; German comfort food at Studio Kraut, and more.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/dining/le-coq-rico-jean-georges-vongerichten-beverly-hills.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/dining/09OFF/09OFF-thumbWide-v2.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/dining/09OFF/09OFF-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/dining/09OFF/09OFF-articleLarge-v2.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/dining/09OFF/09OFF-articleLarge-v2.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/dining/09OFF/09OFF-thumbStandard-v3.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/dining/09OFF/09OFF-thumbStandard-v3.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Restaurants", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Chefs", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Vongerichten, Jean-Georges", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "New York City", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Waldorf Astoria Hotels and Resorts", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Florence", 
+        "lastname": "FABRICANT"
+      }
+    ], 
+    "original": "By FLORENCE FABRICANT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Food"
+}

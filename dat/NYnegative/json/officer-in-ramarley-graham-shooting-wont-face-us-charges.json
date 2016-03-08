@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Mr. Graham\u2019s family had hoped that prosecutors would bring a civil rights case against the officer who killed the unarmed teenager in the bathroom of his family\u2019s Bronx home in 2012.", 
+  "headline": {
+    "main": "Officer in Ramarley Graham Shooting Won\u2019t Face U.S. Charges"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "759", 
+  "_id": "56df31da79881058207284cf", 
+  "snippet": "Mr. Graham\u2019s family had hoped that prosecutors would bring a civil rights case against the officer who killed the unarmed teenager in the bathroom of his family\u2019s Bronx home in 2012.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/nyregion/officer-in-ramarley-graham-shooting-wont-face-us-charges.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Police Brutality, Misconduct and Shootings", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Police Department (NYC)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Bronx (NYC)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Marc", 
+        "lastname": "SANTORA"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Benjamin", 
+        "lastname": "WEISER"
+      }
+    ], 
+    "original": "By MARC SANTORA and BENJAMIN WEISER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

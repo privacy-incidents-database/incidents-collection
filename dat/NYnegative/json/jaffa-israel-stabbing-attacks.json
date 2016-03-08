@@ -1,0 +1,54 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The American was killed by a Palestinian man who attacked groups of people in Jaffa, a seaside district adjoining Tel Aviv, according to local officials and Israeli media.", 
+  "headline": {
+    "main": "U.S. Tourist Killed in Stabbing Rampage Near Tel Aviv"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "492", 
+  "_id": "56df3d5e7988105820728500", 
+  "snippet": "The American was killed by a Palestinian man who attacked groups of people in Jaffa, a seaside district adjoining Tel Aviv, according to local officials and Israeli media.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/world/middleeast/jaffa-israel-stabbing-attacks.html", 
+  "multimedia": [], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Israel", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Tel Aviv (Israel)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Palestinians", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Diaa", 
+        "lastname": "HADID"
+      }
+    ], 
+    "original": "By DIAA HADID"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "World"
+}

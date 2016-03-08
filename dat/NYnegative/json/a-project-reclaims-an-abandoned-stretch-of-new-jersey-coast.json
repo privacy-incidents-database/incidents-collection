@@ -1,0 +1,112 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Groundbreaking is expected soon on former industrial land in Sayreville, for a development that is to include retail space, housing and hotels.", 
+  "headline": {
+    "main": "A Project Reclaims an Abandoned Stretch of New Jersey Coast", 
+    "kicker": "Square Feet", 
+    "print_headline": "An Abandoned New Jersey Tract Is Reclaimed", 
+    "content_kicker": "Square Feet"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1304", 
+  "_id": "56ded274798810219b64c665", 
+  "snippet": "Groundbreaking is expected soon on former industrial land in Sayreville, for a development that is to include retail space, housing and hotels.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/realestate/commercial/a-project-reclaims-an-abandoned-stretch-of-new-jersey-coast.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/08/business/09sayreville1/09sayreville1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/08/business/09sayreville1/09sayreville1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/08/business/09sayreville1/09sayreville1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/08/business/09sayreville1/09sayreville1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/08/business/09sayreville1/09sayreville1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/08/business/09sayreville1/09sayreville1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Commercial Real Estate", 
+  "keywords": [
+    {
+      "value": "Sayreville (NJ)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Real Estate (Commercial)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Bass Pro Shops Inc", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Garden State Parkway (NJ)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Shopping and Retail", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Outdoor Advertising", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jon", 
+        "lastname": "HURDLE"
+      }
+    ], 
+    "original": "By JON HURDLE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Real Estate"
+}

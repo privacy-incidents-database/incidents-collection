@@ -1,0 +1,92 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The F.C.C. is poised to approve a broadband subsidy of $9.25 a month for low-income households.", 
+  "headline": {
+    "main": "A Proposal to Bridge the Digital Divide", 
+    "content_kicker": "Bits"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "208", 
+  "_id": "56dee51d798810219b64c69c", 
+  "snippet": "The F.C.C. is poised to approve a broadband subsidy of $9.25 a month for low-income households.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/technology/a-proposalto-bridge-the-digital-divide.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbWide-v3.png", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbWide-v3.png", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge-v4.png", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge-v4.png", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard-v5.png", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard-v5.png", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Communications Commission", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Poverty", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Pui-wing", 
+        "lastname": "TAM"
+      }
+    ], 
+    "original": "By PUI-WING TAM"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Technology"
+}

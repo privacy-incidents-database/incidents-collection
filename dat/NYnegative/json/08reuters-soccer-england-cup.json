@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Arsenal kept up their bid for a hat-trick of FA Cup trophies, marching into the quarter-finals as Olivier Giroud and Theo Walcott netted twice in a 4-0 replay win at second-tier Hull City on Tuesday.  ", 
+  "headline": {
+    "main": "Doubles for Giroud, Walcott as Arsenal Reach Last Eight", 
+    "print_headline": "Doubles for Giroud, Walcott as Arsenal Reach Last Eight"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "132", 
+  "_id": "56df3edd7988105820728505", 
+  "snippet": "Arsenal kept up their bid for a hat-trick of FA Cup trophies, marching into the quarter-finals as Olivier Giroud and Theo Walcott netted twice in a 4-0 replay win at second-tier Hull City on Tuesday.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/sports/soccer/08reuters-soccer-england-cup.html", 
+  "multimedia": [], 
+  "subsection_name": "Soccer", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T16:06:15Z", 
+  "section_name": "Sports"
+}

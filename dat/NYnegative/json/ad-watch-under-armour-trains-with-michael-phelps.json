@@ -1,0 +1,109 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The Phelps ad promotes Under Armour\u2019s training apparel while serving as a reminder that success does not come easy.", 
+  "headline": {
+    "main": "Ad Watch: Under Armour Trains With Michael Phelps"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "497", 
+  "_id": "56debedd798810219b64c623", 
+  "snippet": "The Phelps ad promotes Under Armour\u2019s training apparel while serving as a reminder that success does not come easy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/media/ad-watch-under-armour-trains-with-michael-phelps.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/09adwatch-promotional/09adwatch-promotional-thumbWide.png", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/09adwatch-promotional/09adwatch-promotional-thumbWide.png", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/09adwatch-promotional/09adwatch-promotional-articleLarge.png", 
+      "height": 337, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/09adwatch-promotional/09adwatch-promotional-articleLarge.png", 
+        "xlargeheight": "337"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/09adwatch-promotional/09adwatch-promotional-thumbStandard.png", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/09adwatch-promotional/09adwatch-promotional-thumbStandard.png", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "value": "Phelps, Michael", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Under Armour Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Advertising and Marketing", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Droga5", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Olympic Games", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Swimming", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Sydney", 
+        "lastname": "EMBER"
+      }
+    ], 
+    "original": "By SYDNEY EMBER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

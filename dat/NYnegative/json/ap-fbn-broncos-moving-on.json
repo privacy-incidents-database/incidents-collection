@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "The Denver Broncos released three players who helped them win the Super Bowl: tight end Owen Daniels, guard Louis Vasquez, and long snapper Aaron Brewer.", 
+  "headline": {
+    "main": "Broncos Release Daniels, Vasquez , Brewers to Free Cap Space", 
+    "print_headline": "Broncos Release Daniels, Vasquez , Brewers to Free Cap Space"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "153", 
+  "_id": "56df37fa79881058207284e3", 
+  "snippet": "The Denver Broncos released three players who helped them win the Super Bowl: tight end Owen Daniels, guard Louis Vasquez, and long snapper Aaron Brewer.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/sports/football/ap-fbn-broncos-moving-on.html", 
+  "multimedia": [], 
+  "subsection_name": "Pro Football", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:34:42Z", 
+  "section_name": "Sports"
+}

@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Science", 
+  "lead_paragraph": "The committee said that they were not recommending that pregnant women avoid whole countries, but that they avoid only \u201careas\u201d where mosquitoes are transmitting the virus.", 
+  "headline": {
+    "main": "W.H.O Advises Pregnant Women to Avoid Areas Where Zika is Spreading"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "284", 
+  "_id": "56df41d0798810582072850e", 
+  "snippet": "The committee said that they were not recommending that pregnant women avoid whole countries, but that they avoid only \u201careas\u201d where mosquitoes are transmitting the virus.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/health/zika-virus-pregant-women-travel.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/science/09zika/09zika-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/science/09zika/09zika-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/science/09zika/09zika-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/science/09zika/09zika-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/science/09zika/09zika-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/science/09zika/09zika-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Pregnancy and Childbirth", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Zika Virus", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Birth Defects", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "World Health Organization", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "qualifier": "Jr", 
+        "firstname": "Donald", 
+        "middlename": "G.", 
+        "lastname": "McNEIL", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By DONALD G. McNEIL Jr"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Health"
+}

@@ -1,0 +1,55 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "amfAR honors Harvey Weinstein at its annual gala before New York Fashion Week; 2 Chainz and MADE hosts trap-house themed bash at Milk Studios.", 
+  "headline": {
+    "main": "Karlie Kloss, Blake Lively and Jay Z at amfAR\u2019s Fashion Week Kickoff", 
+    "content_kicker": "Scene City"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "28", 
+  "_id": "56c62d377988106f184f0b5c", 
+  "snippet": "amfAR honors Harvey Weinstein at its annual gala before New York Fashion Week; 2 Chainz and MADE hosts trap-house themed bash at Milk Studios.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/12/fashion/karlie-kloss-blake-lively-and-jay-z-at-amfars-fashion-week-kickoff.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Fashion and Apparel", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New York Fashion Week", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "amfAR, The Foundation for AIDS Research", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Katie", 
+        "lastname": "ROGERS"
+      }
+    ], 
+    "original": "By KATIE ROGERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-12T00:00:00Z", 
+  "section_name": "Fashion & Style"
+}

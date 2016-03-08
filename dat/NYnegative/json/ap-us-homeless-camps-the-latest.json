@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "The Latest on Denver's plans to clear out homeless camps (all times local):", 
+  "headline": {
+    "main": "The Latest: Denver Homeless Gather Possessions After Warning", 
+    "print_headline": "The Latest: Denver Homeless Gather Possessions After Warning"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "251", 
+  "_id": "56df2a9679881058207284bb", 
+  "snippet": "The Latest on Denver's plans to clear out homeless camps (all times local):", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/us/ap-us-homeless-camps-the-latest.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:37:16Z", 
+  "section_name": "U.S."
+}

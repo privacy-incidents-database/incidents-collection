@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "Ms. Deng was at C\u00e9line and Givenchy, then Saint Laurent and Valli, before a stop at Tuesday\u2019s Chanel show. Mr. Williams was there, too.", 
+  "headline": {
+    "main": "Faces in the Chanel Crowd: Wendi Deng and Pharrell Williams", 
+    "content_kicker": "Face in the Crowd"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "419", 
+  "_id": "56dedda1798810219b64c68a", 
+  "snippet": "Ms. Deng was at C\u00e9line and Givenchy, then Saint Laurent and Valli, before a stop at Tuesday\u2019s Chanel show. Mr. Williams was there, too.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/fashion/paris-fashion-week-chanel-wendi-deng-pharrell-williams.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/fashion/09CHANEL-PHARRELL/09CHANEL-PHARRELL-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/fashion/09CHANEL-PHARRELL/09CHANEL-PHARRELL-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/fashion/09CHANEL-PHARRELL/09CHANEL-PHARRELL-articleLarge.jpg", 
+      "height": 338, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/fashion/09CHANEL-PHARRELL/09CHANEL-PHARRELL-articleLarge.jpg", 
+        "xlargeheight": "338"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/fashion/09CHANEL-PHARRELL/09CHANEL-PHARRELL-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/fashion/09CHANEL-PHARRELL/09CHANEL-PHARRELL-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Fashion and Apparel", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Paris Fashion Week", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Williams, Pharrell", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Chanel SA", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Elizabeth", 
+        "lastname": "PATON"
+      }
+    ], 
+    "original": "By ELIZABETH PATON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Fashion & Style"
+}

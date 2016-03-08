@@ -33,17 +33,19 @@ Scenario 2: Use all the articles in the DB and use NLP for analysis
    python collect_positive.py -j JSON
    Where JSON is the name of the json file containing URL's for positive articles
 
-3. Perform NLP on the collected articles using nltk_nlp.py or spacy_nlp.py as follows:
+3. Remove the non-ascii characters by running remove_non_ascii.py
+
+4. Perform NLP on the collected articles using nltk_nlp.py or spacy_nlp.py as follows:
 
    python nltk_nlp.py DIRECTORY
    Where DIRECTORY is the name of the directory which contains text articles
 
-4. Generate an IDF log using tfid_log.py as follows:
+5. Generate an IDF log using tfid_log.py as follows:
 
    python tfid_log.py LIBRARY
    Where LIBRARY is either nltk or spacy
 
-5. Generate CSV using tfidf_csv.py as follows:
+6. Generate CSV using tfidf_csv.py as follows:
 
    python tfidf_csv.py LIBRARY
    This script will generate a CSV named tfidf-LIBRARY.csv which can be further used for analysis.

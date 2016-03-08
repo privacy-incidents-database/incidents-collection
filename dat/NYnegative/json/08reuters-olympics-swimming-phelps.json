@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "American swimmer Michael Phelps, the most decorated Olympian of all time, said on Tuesday he hopes this year's Rio Olympics can help heal a sports world hit by recent doping and corruption cases.", 
+  "headline": {
+    "main": "Phelps Hopes Rio Games Can Lift Troubled Sports World", 
+    "print_headline": "Phelps Hopes Rio Games Can Lift Troubled Sports World"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "448", 
+  "_id": "56df404a7988105820728509", 
+  "snippet": "American swimmer Michael Phelps, the most decorated Olympian of all time, said on Tuesday he hopes this year's Rio Olympics can help heal a sports world hit by recent doping and corruption cases.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/sports/olympics/08reuters-olympics-swimming-phelps.html", 
+  "multimedia": [], 
+  "subsection_name": "Olympics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T16:10:18Z", 
+  "section_name": "Sports"
+}

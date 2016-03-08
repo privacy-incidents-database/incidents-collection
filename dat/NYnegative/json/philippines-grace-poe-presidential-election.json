@@ -1,0 +1,103 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Senator Grace Poe, the adopted daughter of a movie star, had been disqualified over citizenship and residency rules.", 
+  "headline": {
+    "main": "Philippine Court Clears Way for Senator Grace Poe to Run for President"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "536", 
+  "_id": "56dec7c0798810219b64c643", 
+  "snippet": "Senator Grace Poe, the adopted daughter of a movie star, had been disqualified over citizenship and residency rules.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/world/asia/philippines-grace-poe-presidential-election.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/world/09philippines-web1/09philippines-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/world/09philippines-web1/09philippines-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/world/09philippines-web1/09philippines-web1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/world/09philippines-web1/09philippines-web1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/world/09philippines-web1/09philippines-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/world/09philippines-web1/09philippines-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "Philippines", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Aquino, Benigno S III", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Politics and Government", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Binay, Jejomar C (1942- )", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Roxas, Manuel Araneta II (1957- )", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Floyd", 
+        "lastname": "WHALEY"
+      }
+    ], 
+    "original": "By FLOYD WHALEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "World"
+}

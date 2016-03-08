@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A week before Oscar Munoz returns as C.E.O., the hedge funds PAR and Altimeter say they are aiming to install six new directors at United Continental.", 
+  "headline": {
+    "main": "Revamped United Airlines Board Could Be a Winning Compromise", 
+    "content_kicker": "Breakingviews"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "386", 
+  "_id": "56df3f8c7988105820728507", 
+  "snippet": "A week before Oscar Munoz returns as C.E.O., the hedge funds PAR and Altimeter say they are aiming to install six new directors at United Continental.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/dealbook/revamped-united-airlines-board-could-be-a-winning-compromise.html", 
+  "multimedia": [], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Boards of Directors", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United Continental Holdings Inc", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Bethune, Gordon M", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Kevin", 
+        "lastname": "ALLISON"
+      }
+    ], 
+    "original": "By KEVIN ALLISON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

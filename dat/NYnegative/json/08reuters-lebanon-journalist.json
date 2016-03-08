@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Appeals judges at a special court in The Hague quashed the conviction of a Lebanese journalist who was accused of exposing witnesses in the trial of the alleged assassins of former Lebanese prime minister Rafik al-Hariri.", 
+  "headline": {
+    "main": "Lebanese Journalist Acquitted of Contempt of Hague Court on Appeal", 
+    "print_headline": "Lebanese Journalist Acquitted of Contempt of Hague Court on Appeal"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "301", 
+  "_id": "56df29c279881058207284b7", 
+  "snippet": "Appeals judges at a special court in The Hague quashed the conviction of a Lebanese journalist who was accused of exposing witnesses in the trial of the alleged assassins of former Lebanese prime minister Rafik al-Hariri.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/world/middleeast/08reuters-lebanon-journalist.html", 
+  "multimedia": [], 
+  "subsection_name": "Middle East", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:34:56Z", 
+  "section_name": "World"
+}

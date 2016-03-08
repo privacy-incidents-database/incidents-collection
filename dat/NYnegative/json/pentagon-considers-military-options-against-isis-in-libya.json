@@ -1,0 +1,103 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "But the plan is not being actively considered, at least for now, as the U.S. presses ahead with diplomatic efforts inside Libya.", 
+  "headline": {
+    "main": "Pentagon Has Plan to Cripple ISIS in Libya With Air Barrage"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1287", 
+  "_id": "56dea2c1798810219b64c5e1", 
+  "snippet": "But the plan is not being actively considered, at least for now, as the U.S. presses ahead with diplomatic efforts inside Libya.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/world/middleeast/pentagon-considers-military-options-against-isis-in-libya.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/08/world/08MILITARY-web1/08MILITARY-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/08/world/08MILITARY-web1/08MILITARY-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/08/world/08MILITARY-web1/08MILITARY-web1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/08/world/08MILITARY-web1/08MILITARY-web1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/08/world/08MILITARY-web1/08MILITARY-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/08/world/08MILITARY-web1/08MILITARY-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Defense and Military Forces", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Defense Department", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Carter, Ashton B", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Libya", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Islamic State in Iraq and Syria (ISIS)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "SCHMITT"
+      }
+    ], 
+    "original": "By ERIC SCHMITT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "World"
+}

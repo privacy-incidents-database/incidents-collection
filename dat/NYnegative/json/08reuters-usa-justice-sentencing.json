@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "U.S. Senate Judiciary Committee Chairman Charles Grassley said on Tuesday that amendments to a bill to lower sentences for certain non-violent drug offenders are close to being finished. ", 
+  "headline": {
+    "main": "Final Sentencing Reform Bill Near, Says Senate's Grassley", 
+    "print_headline": "Final Sentencing Reform Bill Near, Says Senate's Grassley"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "405", 
+  "_id": "56df302579881058207284cc", 
+  "snippet": "U.S. Senate Judiciary Committee Chairman Charles Grassley said on Tuesday that amendments to a bill to lower sentences for certain non-violent drug offenders are close to being finished.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/us/politics/08reuters-usa-justice-sentencing.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:01:54Z", 
+  "section_name": "U.S."
+}

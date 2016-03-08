@@ -1,0 +1,56 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "TStyle", 
+  "lead_paragraph": "With subtle touches and elegant lines, Carlo Scarpa built his own legacy of modern design.", 
+  "headline": {
+    "main": "Italy\u2019s Lost Modernist Master", 
+    "print_headline": "The Stealth Modernist ", 
+    "content_kicker": "By Design"
+  }, 
+  "abstract": null, 
+  "print_page": "142", 
+  "word_count": "1086", 
+  "_id": "56df29f079881058207284b9", 
+  "snippet": "With subtle touches and elegant lines, Carlo Scarpa built his own legacy of modern design.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/20/t-magazine/design/carlo-scarpa-italys-modernist-architect.html", 
+  "multimedia": [], 
+  "subsection_name": "Design & Interiors", 
+  "keywords": [
+    {
+      "value": "Architecture", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Venice (Italy)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Japan", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nancy", 
+        "lastname": "HASS"
+      }
+    ], 
+    "original": "By NANCY HASS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-20T00:00:00Z", 
+  "section_name": "T Magazine"
+}

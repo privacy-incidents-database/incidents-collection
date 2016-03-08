@@ -1,0 +1,86 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "There is more to the actress than her inflated-doll image and tangled relationships with bad boys would suggest.", 
+  "headline": {
+    "main": "From Pinup to Muse: Pamela Anderson\u2019s Next Chapter", 
+    "print_headline": "From Pinup to Muse"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1275", 
+  "_id": "56df1c087988105820728481", 
+  "snippet": "There is more to the actress than her inflated-doll image and tangled relationships with bad boys would suggest.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/10/fashion/from-pinup-to-muse-pamela-andersons-next-chapter.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/08/fashion/08ANDERSON1/08ANDERSON1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/08/fashion/08ANDERSON1/08ANDERSON1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/08/fashion/08ANDERSON1/08ANDERSON1-articleLarge.jpg", 
+      "height": 423, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/08/fashion/08ANDERSON1/08ANDERSON1-articleLarge.jpg", 
+        "xlargeheight": "423"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/08/fashion/08ANDERSON1/08ANDERSON1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/08/fashion/08ANDERSON1/08ANDERSON1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Anderson, Pamela (1967- )", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Los Angeles (Calif)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Sophia", 
+        "lastname": "KERCHER"
+      }
+    ], 
+    "original": "By SOPHIA KERCHER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-10T00:00:00Z", 
+  "section_name": "Fashion & Style"
+}

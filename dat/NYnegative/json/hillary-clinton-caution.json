@@ -1,0 +1,103 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Mrs. Clinton\u2019s constrained campaign style may not inspire voters the way her challenger\u2019s bold promises do, but it may prove a winning strategy.", 
+  "headline": {
+    "main": "Hillary Clinton Rides a Wave of Caution in Uncertain Seas"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "631", 
+  "_id": "56df01ff798810219b64c713", 
+  "snippet": "Mrs. Clinton\u2019s constrained campaign style may not inspire voters the way her challenger\u2019s bold promises do, but it may prove a winning strategy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/us/elections/hillary-clinton-caution.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/world/09Letter-web/09Letter-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/world/09Letter-web/09Letter-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/world/09Letter-web/09Letter-web-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/world/09Letter-web/09Letter-web-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/world/09Letter-web/09Letter-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/world/09Letter-web/09Letter-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Election 2016", 
+  "keywords": [
+    {
+      "value": "Clinton, Hillary Rodham", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sanders, Bernard", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Democratic Party", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "HARWOOD"
+      }
+    ], 
+    "original": "By JOHN HARWOOD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "U.S."
+}

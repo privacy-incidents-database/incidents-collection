@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Montgomery, Alabama, officials are planning a separate review of the fatal shooting of an unarmed man by a police officer who has been charged with murder.", 
+  "headline": {
+    "main": "Montgomery Leaders Start Separate Probe Into Police Shooting", 
+    "print_headline": "Montgomery Leaders Start Separate Probe Into Police Shooting"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "139", 
+  "_id": "56df24fb79881058207284a5", 
+  "snippet": "Montgomery, Alabama, officials are planning a separate review of the fatal shooting of an unarmed man by a police officer who has been charged with murder.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/us/ap-us-police-shooting-alabama-investigation.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T14:15:16Z", 
+  "section_name": "U.S."
+}

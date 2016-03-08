@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "The U.S. Justice Department sent German automaker Volkswagen AG a subpoena under a bank fraud law in its diesel emissions probe, a person briefed on the matter said Tuesday.", 
+  "headline": {
+    "main": "U.S. Subpoenas Volkswagen Under Bank Fraud Law in Diesel Emissions Probe: Source", 
+    "print_headline": "U.S. Subpoenas Volkswagen Under Bank Fraud Law in Diesel Emissions Probe: Source"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "116", 
+  "_id": "56df3cc579881058207284fb", 
+  "snippet": "The U.S. Justice Department sent German automaker Volkswagen AG a subpoena under a bank fraud law in its diesel emissions probe, a person briefed on the matter said Tuesday.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/business/08reuters-volkswagen-emissions-subpoena.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:52:19Z", 
+  "section_name": "Business Day"
+}

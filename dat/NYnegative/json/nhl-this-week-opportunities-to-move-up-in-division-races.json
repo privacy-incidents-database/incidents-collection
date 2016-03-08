@@ -1,0 +1,139 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Sports", 
+  "lead_paragraph": "The Bruins play the Lightning with a chance at first place; the Penguins can make a move in the Metropolitan Division.", 
+  "headline": {
+    "main": "N.H.L. This Week: Opportunities to Move Up in Division Races"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "860", 
+  "_id": "56df3bfc79881058207284f8", 
+  "snippet": "The Bruins play the Lightning with a chance at first place; the Penguins can make a move in the Metropolitan Division.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/sports/hockey/nhl-this-week-opportunities-to-move-up-in-division-races.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/sports/09HOCKEYWATCH1/09HOCKEYWATCH1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/sports/09HOCKEYWATCH1/09HOCKEYWATCH1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/sports/09HOCKEYWATCH1/09HOCKEYWATCH1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/sports/09HOCKEYWATCH1/09HOCKEYWATCH1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/sports/09HOCKEYWATCH1/09HOCKEYWATCH1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/sports/09HOCKEYWATCH1/09HOCKEYWATCH1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Hockey", 
+  "keywords": [
+    {
+      "value": "Hockey, Ice", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Los Angeles Kings", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "National Hockey League", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Jones, Martin (1990- )", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "San Jose Sharks", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Winnipeg Jets", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Edmonton Oilers", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Boston Bruins", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Tampa Bay Lightning", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Pittsburgh Penguins", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Washington Capitals", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Naila-jean", 
+        "lastname": "MEYERS"
+      }
+    ], 
+    "original": "By NAILA-JEAN MEYERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Sports"
+}

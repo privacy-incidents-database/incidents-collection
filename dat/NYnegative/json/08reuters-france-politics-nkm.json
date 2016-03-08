@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Nathalie Kosciusko-Morizet, a former campaign spokeswoman of ex-French president Nicolas Sarkozy, on Tuesday joined an already crowded race for the center-right's presidential nomination in a primary due in November.", 
+  "headline": {
+    "main": "Former Sarkozy Protegee Launches Bid for French Presidential Primaries", 
+    "print_headline": "Former Sarkozy Protegee Launches Bid for French Presidential Primaries"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "399", 
+  "_id": "56df301879881058207284cb", 
+  "snippet": "Nathalie Kosciusko-Morizet, a former campaign spokeswoman of ex-French president Nicolas Sarkozy, on Tuesday joined an already crowded race for the center-right's presidential nomination in a primary due in November.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/world/europe/08reuters-france-politics-nkm.html", 
+  "multimedia": [], 
+  "subsection_name": "Europe", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:00:20Z", 
+  "section_name": "World"
+}

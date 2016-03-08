@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The Pew Research Center found that religious and social divisions in Israel are reflected in \u201cstarkly contrasting positions on many public policy questions.\u201d", 
+  "headline": {
+    "main": "Deep Rifts Among Israeli Jews Are Found in Religion Survey"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "987", 
+  "_id": "56dec02b798810219b64c628", 
+  "snippet": "The Pew Research Center found that religious and social divisions in Israel are reflected in \u201cstarkly contrasting positions on many public policy questions.\u201d", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/world/middleeast/study-israel-jews-pew-research.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/world/09Israel-web/09Israel-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/world/09Israel-web/09Israel-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/world/09Israel-web/09Israel-web-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/world/09Israel-web/09Israel-web-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/world/09Israel-web/09Israel-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/world/09Israel-web/09Israel-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Jews and Judaism", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Pew Research Center", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Israel", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Polls and Public Opinion", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Isabel", 
+        "lastname": "KERSHNER"
+      }
+    ], 
+    "original": "By ISABEL KERSHNER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "World"
+}

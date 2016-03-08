@@ -1,0 +1,100 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Ambitions that began with a drink stand and led to a lemonade business, now on hiatus, have shifted to a struggling crowdfunding app, called Stand.", 
+  "headline": {
+    "main": "A Charity-Minded Lemonade Stand Meets Silicon Valley Churn", 
+    "kicker": "Deal Professor", 
+    "content_kicker": "Deal Professor"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1330", 
+  "_id": "56deed80798810219b64c6bd", 
+  "snippet": "Ambitions that began with a drink stand and led to a lemonade business, now on hiatus, have shifted to a struggling crowdfunding app, called Stand.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/dealbook/a-charity-minded-lemonade-stand-meets-silicon-valley-churn.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/08/business/09db-dealprof/09db-dealprof-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/08/business/09db-dealprof/09db-dealprof-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/08/business/09db-dealprof/09dealprof-articleLarge.jpg", 
+      "height": 600, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/08/business/09db-dealprof/09dealprof-articleLarge.jpg", 
+        "xlargeheight": "600"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/08/business/09db-dealprof/09dealprof-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/08/business/09db-dealprof/09dealprof-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Philanthropy", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Initial Public Offerings", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Make a Stand Inc", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Steven", 
+        "middlename": "Davidoff", 
+        "lastname": "SOLOMON", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By STEVEN DAVIDOFF SOLOMON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

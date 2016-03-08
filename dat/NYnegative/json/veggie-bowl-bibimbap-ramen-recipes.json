@@ -1,0 +1,101 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "Lukas Volger, the author of the new cookbook \u201cBowl,\u201d is a master at putting together meals with a light hand that fill you up.", 
+  "headline": {
+    "main": "Vegetarian Bowls Spiked With Vibrant Asian Flavors", 
+    "kicker": "Recipes for Health", 
+    "print_headline": "Vegetarian Bowls Come Alive", 
+    "content_kicker": "Recipes for Health"
+  }, 
+  "abstract": null, 
+  "print_page": "2", 
+  "word_count": "339", 
+  "_id": "56d9d3fd7988101d57468234", 
+  "snippet": "Lukas Volger, the author of the new cookbook \u201cBowl,\u201d is a master at putting together meals with a light hand that fill you up.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/dining/veggie-bowl-bibimbap-ramen-recipes.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/dining/09MARTHA2/09MARTHA2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/dining/09MARTHA2/09MARTHA2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/dining/09MARTHA2/09MARTHA2-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/dining/09MARTHA2/09MARTHA2-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/dining/09MARTHA2/09MARTHA2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/dining/09MARTHA2/09MARTHA2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Vegetarianism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Vegetables", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Noodles", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Martha", 
+        "middlename": "Rose", 
+        "lastname": "SHULMAN", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MARTHA ROSE SHULMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Food"
+}

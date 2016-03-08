@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "Also, pandan-glazed doughnuts filled with a coconut jam; a smoky tequila; Jonathan Gold, the star Los Angeles restaurant critic; and more.", 
+  "headline": {
+    "main": "This Dessert Fits In on St. Patrick\u2019s Day", 
+    "content_kicker": "Front Burner"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "650", 
+  "_id": "56ddc831798810219b64c3a6", 
+  "snippet": "Also, pandan-glazed doughnuts filled with a coconut jam; a smoky tequila; Jonathan Gold, the star Los Angeles restaurant critic; and more.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/dining/st-patricks-day-dessert-matcha-pie.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/dining/09BURNER1/09BURNER1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/dining/09BURNER1/09BURNER1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/dining/09BURNER1/09BURNER1-articleLarge.jpg", 
+      "height": 450, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/dining/09BURNER1/09BURNER1-articleLarge.jpg", 
+        "xlargeheight": "450"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/dining/09BURNER1/09BURNER1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/dining/09BURNER1/09BURNER1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "St Patrick's Day", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Four & Twenty Blackbirds", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "City of Gold (Movie)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "creative_works"
+    }, 
+    {
+      "value": "Gabbert, Laura", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Florence", 
+        "lastname": "FABRICANT"
+      }
+    ], 
+    "original": "By FLORENCE FABRICANT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Food"
+}

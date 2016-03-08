@@ -2,18 +2,18 @@
   "type_of_material": "News", 
   "blog": [], 
   "news_desk": "Business", 
-  "lead_paragraph": "Another steep drop in oil and natural gas prices pulled the stock market lower.", 
+  "lead_paragraph": "Stocks were lower, led by declines in materials and energy companies. Traders were also discouraged by weak trade figures from China.", 
   "headline": {
-    "main": "Wall St. Is Lower on Energy Sector Drop"
+    "main": "Market Retreats as Materials and Energy Stocks Tumble"
   }, 
   "abstract": null, 
   "print_page": null, 
-  "word_count": "459", 
-  "_id": "56af70e879881036ff1c9e65", 
-  "snippet": "Another steep drop in oil and natural gas prices pulled the stock market lower.", 
+  "word_count": "547", 
+  "_id": "56dee97f798810219b64c6ac", 
+  "snippet": "Stocks were lower, led by declines in materials and energy companies. Traders were also discouraged by weak trade figures from China.", 
   "source": "The New York Times", 
   "slideshow_credits": null, 
-  "web_url": "http://www.nytimes.com/2016/02/02/business/daily-stock-market-activity.html", 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/daily-stock-market-activity.html", 
   "multimedia": [], 
   "subsection_name": null, 
   "keywords": [
@@ -48,6 +48,6 @@
     "organization": "THE ASSOCIATED PRESS"
   }, 
   "document_type": "article", 
-  "pub_date": "2016-02-02T00:00:00Z", 
+  "pub_date": "2016-03-09T00:00:00Z", 
   "section_name": "Business Day"
 }

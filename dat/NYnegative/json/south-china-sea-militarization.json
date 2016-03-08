@@ -1,0 +1,122 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The swift military expansion and island-building efforts have raised tensions while advancing China\u2019s goal of a security buffer far from its coast.", 
+  "headline": {
+    "main": "South China Sea Buildup Brings Beijing Closer to Realizing Control"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1402", 
+  "_id": "56dee321798810219b64c695", 
+  "snippet": "The swift military expansion and island-building efforts have raised tensions while advancing China\u2019s goal of a security buffer far from its coast.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/world/asia/south-china-sea-militarization.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/02/world/southchinasea-web1/southchinasea-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/02/world/southchinasea-web1/southchinasea-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/02/world/southchinasea-web1/southchinasea-web1-articleLarge.jpg", 
+      "height": 391, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/02/world/southchinasea-web1/southchinasea-web1-articleLarge.jpg", 
+        "xlargeheight": "391"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/02/world/southchinasea-web1/southchinasea-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/02/world/southchinasea-web1/southchinasea-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "United States Defense and Military Forces", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Navy", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "South China Sea", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Center for Strategic and International Studies", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Woody Island (South China Sea)", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Scarborough Shoal (South China Sea)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael", 
+        "lastname": "FORSYTHE"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Jane", 
+        "lastname": "PERLEZ"
+      }
+    ], 
+    "original": "By MICHAEL FORSYTHE and JANE PERLEZ"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "World"
+}

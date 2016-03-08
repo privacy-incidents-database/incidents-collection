@@ -1,0 +1,91 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "The film about a meeting between Elvis Presley and Richard M. Nixon is the centerpiece of the festival.", 
+  "headline": {
+    "main": "\u2018Elvis &amp; Nixon\u2019 Will Debut at Tribeca Film Festival"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "356", 
+  "_id": "56df213b798810582072849c", 
+  "snippet": "The film about a meeting between Elvis Presley and Richard M. Nixon is the centerpiece of the festival.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/movies/elvis-nixon-will-debut-at-tribeca-film-festival.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/08/movies/tribeca-elvis/tribeca-elvis-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/08/movies/tribeca-elvis/tribeca-elvis-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/08/movies/tribeca-elvis/tribeca-elvis-articleLarge.jpg", 
+      "height": 338, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/08/movies/tribeca-elvis/tribeca-elvis-articleLarge.jpg", 
+        "xlargeheight": "338"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/08/movies/tribeca-elvis/tribeca-elvis-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/08/movies/tribeca-elvis/tribeca-elvis-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Movies", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Tribeca Film Festival (NYC)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Elvis & Nixon (Movie)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "creative_works"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Mekado", 
+        "lastname": "MURPHY"
+      }
+    ], 
+    "original": "By MEKADO MURPHY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Movies"
+}

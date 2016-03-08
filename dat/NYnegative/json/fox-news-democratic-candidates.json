@@ -1,0 +1,127 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Hillary Clinton and Bernie Sanders appeared together on the channel, which has not hosted a presidential campaign event with all the Democratic candidates since 2004.", 
+  "headline": {
+    "main": "Fox News Forum May Signal Thaw Between Democrats and Network"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1212", 
+  "_id": "56debd0e798810219b64c61f", 
+  "snippet": "Hillary Clinton and Bernie Sanders appeared together on the channel, which has not hosted a presidential campaign event with all the Democratic candidates since 2004.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/us/politics/fox-news-democratic-candidates.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/us/09foxdems-2/09foxdems-2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/us/09foxdems-2/09foxdems-2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/us/09foxdems-2/09foxdems-2-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/us/09foxdems-2/09foxdems-2-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/us/09foxdems-2/09foxdems-2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/us/09foxdems-2/09foxdems-2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Debates (Political)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "News and News Media", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cable Television", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Fox News Channel", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Democratic Party", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Democratic National Committee", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Clinton, Hillary Rodham", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Sanders, Bernard", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "CORASANITI"
+      }
+    ], 
+    "original": "By NICK CORASANITI"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "U.S."
+}

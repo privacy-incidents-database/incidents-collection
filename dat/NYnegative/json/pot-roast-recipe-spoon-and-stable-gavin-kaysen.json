@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "The favorite dish of Gavin Kaysen, a former Caf\u00e9 Boulud chef and native Minnesotan, owes to his culinary skill \u2014 and his grandmother.", 
+  "headline": {
+    "main": "Coming Home to Pot Roast", 
+    "print_headline": "Like Grandma Used to Make"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1818", 
+  "_id": "56df0a6e7988105820728442", 
+  "snippet": "The favorite dish of Gavin Kaysen, a former Caf\u00e9 Boulud chef and native Minnesotan, owes to his culinary skill \u2014 and his grandmother.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/dining/pot-roast-recipe-spoon-and-stable-gavin-kaysen.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/dining/09POTROAST9/09POTROAST9-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/dining/09POTROAST9/09POTROAST9-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/dining/09POTROAST9/09POTROAST2-articleLarge.jpg", 
+      "height": 401, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/dining/09POTROAST9/09POTROAST2-articleLarge.jpg", 
+        "xlargeheight": "401"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/dining/09POTROAST9/09POTROAST9-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/dining/09POTROAST9/09POTROAST9-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Meat", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Minneapolis (Minn)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Beef", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Wines", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Brett", 
+        "lastname": "ANDERSON"
+      }
+    ], 
+    "original": "By BRETT ANDERSON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Food"
+}

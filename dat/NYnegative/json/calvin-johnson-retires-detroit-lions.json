@@ -2,28 +2,26 @@
   "type_of_material": "News", 
   "blog": [], 
   "news_desk": "Sports", 
-  "lead_paragraph": "Calvin Johnson, who may be retiring, was bigger, stronger and faster, not unlike the Transformers character that inspired his nickname.", 
+  "lead_paragraph": "Johnson, 30, who had 88 catches last season while playing through lingering injuries, retires with 731 career receptions and 83 touchdowns.", 
   "headline": {
-    "main": "Assessing Megatron: Calvin Johnson\u2019s Numbers Are Nearly Unmatched", 
-    "kicker": "Keeping Score", 
-    "content_kicker": "Keeping Score"
+    "main": "Calvin Johnson, Quiet and Classy, Retires the Way He Played"
   }, 
   "abstract": null, 
   "print_page": null, 
-  "word_count": "846", 
-  "_id": "56afa6da7988105fa9a9c258", 
-  "snippet": "Calvin Johnson, who may be retiring, was bigger, stronger and faster, not unlike the Transformers character that inspired his nickname.", 
+  "word_count": "747", 
+  "_id": "56df04e4798810219b64c71c", 
+  "snippet": "Johnson, 30, who had 88 catches last season while playing through lingering injuries, retires with 731 career receptions and 83 touchdowns.", 
   "source": "The New York Times", 
   "slideshow_credits": null, 
-  "web_url": "http://www.nytimes.com/2016/02/02/sports/football/calvin-johnson-retires-detroit-lions.html", 
+  "web_url": "http://www.nytimes.com/2016/03/09/sports/football/calvin-johnson-retires-detroit-lions.html", 
   "multimedia": [
     {
       "subtype": "wide", 
-      "url": "images/2016/02/02/sports/02JOHNSONweb/02JOHNSONweb-thumbWide.jpg", 
+      "url": "images/2016/03/09/sports/09johnson-web/09johnson-web-thumbWide.jpg", 
       "height": 126, 
       "width": 190, 
       "legacy": {
-        "wide": "images/2016/02/02/sports/02JOHNSONweb/02JOHNSONweb-thumbWide.jpg", 
+        "wide": "images/2016/03/09/sports/09johnson-web/09johnson-web-thumbWide.jpg", 
         "wideheight": "126", 
         "widewidth": "190"
       }, 
@@ -31,24 +29,24 @@
     }, 
     {
       "subtype": "xlarge", 
-      "url": "images/2016/02/02/sports/02JOHNSONweb/02JOHNSONweb-articleLarge.jpg", 
-      "height": 403, 
+      "url": "images/2016/03/09/sports/09johnson-web/09johnson-web-articleLarge.jpg", 
+      "height": 414, 
       "width": 600, 
       "legacy": {
         "xlargewidth": "600", 
-        "xlarge": "images/2016/02/02/sports/02JOHNSONweb/02JOHNSONweb-articleLarge.jpg", 
-        "xlargeheight": "403"
+        "xlarge": "images/2016/03/09/sports/09johnson-web/09johnson-web-articleLarge.jpg", 
+        "xlargeheight": "414"
       }, 
       "type": "image"
     }, 
     {
       "subtype": "thumbnail", 
-      "url": "images/2016/02/02/sports/02JOHNSONweb/02JOHNSONweb-thumbStandard.jpg", 
+      "url": "images/2016/03/09/sports/09johnson-web/09johnson-web-thumbStandard.jpg", 
       "height": 75, 
       "width": 75, 
       "legacy": {
         "thumbnailheight": "75", 
-        "thumbnail": "images/2016/02/02/sports/02JOHNSONweb/02JOHNSONweb-thumbStandard.jpg", 
+        "thumbnail": "images/2016/03/09/sports/09johnson-web/09johnson-web-thumbStandard.jpg", 
         "thumbnailwidth": "75"
       }, 
       "type": "image"
@@ -63,21 +61,15 @@
       "name": "subject"
     }, 
     {
-      "value": "National Football League", 
+      "value": "Detroit Lions", 
       "is_major": "N", 
       "rank": "2", 
       "name": "organizations"
     }, 
     {
-      "value": "Detroit Lions", 
-      "is_major": "N", 
-      "rank": "3", 
-      "name": "organizations"
-    }, 
-    {
       "value": "Johnson, Calvin (1985- )", 
       "is_major": "N", 
-      "rank": "4", 
+      "rank": "3", 
       "name": "persons"
     }
   ], 
@@ -94,6 +86,6 @@
     "original": "By BENJAMIN HOFFMAN"
   }, 
   "document_type": "article", 
-  "pub_date": "2016-02-02T00:00:00Z", 
+  "pub_date": "2016-03-09T00:00:00Z", 
   "section_name": "Sports"
 }

@@ -1,0 +1,87 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Take a step back from what\u2019s happening right now and remember that the political system is remarkably resilient, a financial planner writes.", 
+  "headline": {
+    "main": "In Politics as in Investments, a Long-Term Outlook Can Soothe", 
+    "kicker": "Sketch Guy", 
+    "content_kicker": "Sketch Guy"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "705", 
+  "_id": "56df1d317988105820728486", 
+  "snippet": "Take a step back from what\u2019s happening right now and remember that the political system is remarkably resilient, a financial planner writes.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/your-money/in-politics-as-in-investments-a-long-term-outlook-can-soothe.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/08/business/030816bucks-carl-sketch/030816bucks-carl-sketch-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/08/business/030816bucks-carl-sketch/030816bucks-carl-sketch-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/08/business/030816bucks-carl-sketch/030816bucks-carl-sketch-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/08/business/030816bucks-carl-sketch/030816bucks-carl-sketch-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/08/business/030816bucks-carl-sketch/030816bucks-carl-sketch-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/08/business/030816bucks-carl-sketch/030816bucks-carl-sketch-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Personal Finances", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Carl", 
+        "lastname": "RICHARDS"
+      }
+    ], 
+    "original": "By CARL RICHARDS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Your Money"
+}

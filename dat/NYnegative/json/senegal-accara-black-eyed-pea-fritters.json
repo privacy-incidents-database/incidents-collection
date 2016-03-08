@@ -1,0 +1,88 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "The West African street-food snack can be piled into a sandwich with a spicy bite.", 
+  "headline": {
+    "main": "Accara Offers a Taste of Senegal in Fried Form", 
+    "kicker": "City Kitchen", 
+    "print_headline": "Up From the Streets of Senegal", 
+    "content_kicker": "City Kitchen"
+  }, 
+  "abstract": null, 
+  "print_page": "2", 
+  "word_count": "370", 
+  "_id": "56d9c59a7988101d574681f1", 
+  "snippet": "The West African street-food snack can be piled into a sandwich with a spicy bite.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/dining/senegal-accara-black-eyed-pea-fritters.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/dining/09FRITTER1/09FRITTER1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/dining/09FRITTER1/09FRITTER1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/dining/09FRITTER1/09FRITTER1-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/dining/09FRITTER1/09FRITTER1-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/dining/09FRITTER1/09FRITTER1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/dining/09FRITTER1/09FRITTER1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Senegal", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "David", 
+        "lastname": "TANIS"
+      }
+    ], 
+    "original": "By DAVID TANIS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Food"
+}

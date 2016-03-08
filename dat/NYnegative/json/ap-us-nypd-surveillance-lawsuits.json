@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "State appellate judges have heard arguments over the New York Police Department's use of a Cold War-era federal legal doctrine to deny releasing records.", 
+  "headline": {
+    "main": "Judges Hear Challenge to NYPD Transparency in Spy Lawsuits", 
+    "print_headline": "Judges Hear Challenge to NYPD Transparency in Spy Lawsuits"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "132", 
+  "_id": "56df3b6d79881058207284f3", 
+  "snippet": "State appellate judges have heard arguments over the New York Police Department's use of a Cold War-era federal legal doctrine to deny releasing records.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/08/us/ap-us-nypd-surveillance-lawsuits.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:50:22Z", 
+  "section_name": "U.S."
+}

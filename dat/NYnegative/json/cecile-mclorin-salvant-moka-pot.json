@@ -1,0 +1,106 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Dining", 
+  "lead_paragraph": "The jazz singer\u2019s stovetop espresso pot fuels her rehearsals at the piano.", 
+  "headline": {
+    "main": "An Espresso Maker That Hums Along With C\u00e9cile McLorin Salvant", 
+    "kicker": "Close at Hand", 
+    "print_headline": "Riffing on the Standard Coffee Pot", 
+    "content_kicker": "Close at Hand"
+  }, 
+  "abstract": null, 
+  "print_page": "5", 
+  "word_count": "539", 
+  "_id": "56ddab9e7988107570ede1e2", 
+  "snippet": "The jazz singer\u2019s stovetop espresso pot fuels her rehearsals at the piano.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/dining/cecile-mclorin-salvant-moka-pot.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/dining/09CLOSE1/09CLOSE1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/dining/09CLOSE1/09CLOSE1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/dining/09CLOSE1/09CLOSE1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/dining/09CLOSE1/09CLOSE1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/dining/09CLOSE1/09CLOSE1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/dining/09CLOSE1/09CLOSE1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cooking and Cookbooks", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Coffee", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Salvant, Cecile McLorin", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Bialetti", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Bialetti, Renato (1923-2016)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ligaya", 
+        "lastname": "MISHAN"
+      }
+    ], 
+    "original": "By LIGAYA MISHAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Food"
+}

@@ -1,0 +1,54 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "Carl Levin, a producer of the show, cited \u201cthe loss of a major investor\u201d in announcing the step, in the musical about Bill Gates and Steve Jobs.", 
+  "headline": {
+    "main": "\u2018Nerds\u2019 on Broadway Is Canceled"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "214", 
+  "_id": "56df3bf079881058207284f7", 
+  "snippet": "Carl Levin, a producer of the show, cited \u201cthe loss of a major investor\u201d in announcing the step, in the musical about Bill Gates and Steve Jobs.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/theater/nerds-on-broadway-is-canceled.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Theater", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Nerds (Play)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "creative_works"
+    }, 
+    {
+      "value": "Jobs, Steven P", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael", 
+        "lastname": "PAULSON"
+      }
+    ], 
+    "original": "By MICHAEL PAULSON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Theater"
+}

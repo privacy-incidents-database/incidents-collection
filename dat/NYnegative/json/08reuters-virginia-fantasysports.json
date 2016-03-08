@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Virginia Governor Terry McAuliffe has signed a bill that makes the state the first in the United States to regulate fantasy sports, a multibillion-dollar online business whose legality has been challenged across the country.", 
+  "headline": {
+    "main": "Virginia Becomes First U.S. State to Regulate Fantasy Sports", 
+    "print_headline": "Virginia Becomes First U.S. State to Regulate Fantasy Sports"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "232", 
+  "_id": "56df37d379881058207284e2", 
+  "snippet": "Virginia Governor Terry McAuliffe has signed a bill that makes the state the first in the United States to regulate fantasy sports, a multibillion-dollar online business whose legality has been challenged across the country.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/08/sports/08reuters-virginia-fantasysports.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T15:35:31Z", 
+  "section_name": "Sports"
+}

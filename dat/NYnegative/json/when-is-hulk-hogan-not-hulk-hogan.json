@@ -1,0 +1,91 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The wrestler\u2019s case against the news site Gawker raises a question of identity.", 
+  "headline": {
+    "main": "When Is Hulk Hogan Not Hulk Hogan?"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "480", 
+  "_id": "56df3d827988105820728501", 
+  "snippet": "The wrestler\u2019s case against the news site Gawker raises a question of identity.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/09/business/media/when-is-hulk-hogan-not-hulk-hogan.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/09/business/09hoganbrief/09hogan-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/09/business/09hoganbrief/09hogan-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/09/business/09hoganbrief/09hogan-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/09/business/09hoganbrief/09hogan-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/09/business/09hoganbrief/09hoganbrief-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/09/business/09hoganbrief/09hoganbrief-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "value": "Hogan, Hulk", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Gawker.com", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "News and News Media", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ravi", 
+        "lastname": "SOMAIYA"
+      }
+    ], 
+    "original": "By RAVI SOMAIYA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-09T00:00:00Z", 
+  "section_name": "Business Day"
+}
