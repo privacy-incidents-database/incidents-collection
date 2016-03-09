@@ -59,8 +59,12 @@ def get_count(text, sent_detector, pstemmer, tagger):
 
             reqdTags = "(" + ")|(".join(usedTags) + ")"
 
-            reqdWords = [a.replace("'","") for (a, b) in tags if re.match(
+            reqdWords = [re.sub("[!#$=*+',%]", '', a) for (a, b) in tags if re.match(
                 reqdTags, b) and re.match('[a-z].*', a)]
+
+            #Remove special characters
+            # for word in reqdWords:
+            #     word = re.sub('[!#$=*+,%]', '', word)
 
             # Stem the required words
 
