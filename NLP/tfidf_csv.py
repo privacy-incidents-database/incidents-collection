@@ -62,6 +62,8 @@ def gen_csv(neg, pos):
                     keywords.append(key)
 
     keywords = sorted(keywords)
+    # pprint.pprint(keywords)
+    # a = raw_input()
     dic.extend(keywords)
 
     # sorted and write as header

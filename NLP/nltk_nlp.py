@@ -59,7 +59,7 @@ def get_count(text, sent_detector, pstemmer, tagger):
 
             reqdTags = "(" + ")|(".join(usedTags) + ")"
 
-            reqdWords = [a for (a, b) in tags if re.match(
+            reqdWords = [a.replace("'","") for (a, b) in tags if re.match(
                 reqdTags, b) and re.match('[a-z].*', a)]
 
             # Stem the required words
@@ -76,6 +76,7 @@ def get_count(text, sent_detector, pstemmer, tagger):
             print "Error"
         # a = raw_input()
     # pprint.pprint(dic)
+
     return dic
 
 

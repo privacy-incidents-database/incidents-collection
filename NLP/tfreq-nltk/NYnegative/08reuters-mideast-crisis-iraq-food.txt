@@ -13,7 +13,7 @@
   "go": 2, 
   "islam": 2, 
   "middl": 1, 
-  "shi'it": 1, 
+  "shiit": 1, 
   "northern": 1, 
   "priorit": 1, 
   "leap": 1, 
