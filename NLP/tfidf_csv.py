@@ -86,10 +86,10 @@ def gen_csv(neg, pos):
 
                 rank[keywords.index(key)] = val * float(idfdic[key])
 
-            flag = False
+            flag = 0
             if s == pos:
-                flag = True
-            result = [cnt, "\"" + filename + "\"", flag]
+                flag = 1
+            result = [cnt,flag]
             result.extend(rank)
 
             out.writerow(result)

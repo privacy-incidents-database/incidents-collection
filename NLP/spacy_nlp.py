@@ -1,5 +1,5 @@
 from spacy.en import English
-import os,json,operator
+import os,json,operator,re
 import pprint,string
 parser = English()
 
@@ -52,31 +52,32 @@ def nlp(text):
         for span in parsedData.sents:
             sent = [parsedData[i] for i in range(span.start, span.end)]
             for token in sent:
-                if token.pos_== 'NOUN':
-                    if token.lemma_ not in nouns:
-                        nouns[token.lemma_] = 1
-                    else:
-                        nouns[token.lemma_] +=1
-                elif token.pos_== 'VERB':
-                    if token.lemma_ != '':
-                        if token.lemma_ not in verbs :
-                            verbs[token.lemma_] = 1
+                if re.match('[a-zA-Z]{2,}',token.lemma_):
+                    if token.pos_== 'NOUN':
+                        if token.lemma_ not in nouns:
+                            nouns[token.lemma_] = 1
                         else:
-                            verbs[token.lemma_] +=1
-                elif token.pos_ == 'ADJ':
-                    if token.lemma_ not in adj:
-                        adj[token.lemma_] = 1
-                    else:
-                        adj[token.lemma_] +=1
-                elif token.pos_ == 'ADV':
-                    if token.lemma_ not in adv:
-                        adv[token.lemma_] = 1
-                    else:
-                        adv[token.lemma_] +=1
+                            nouns[token.lemma_] +=1
+                    elif token.pos_== 'VERB':
+                        if token.lemma_ != '':
+                            if token.lemma_ not in verbs :
+                                verbs[token.lemma_] = 1
+                            else:
+                                verbs[token.lemma_] +=1
+                    elif token.pos_ == 'ADJ':
+                        if token.lemma_ not in adj:
+                            adj[token.lemma_] = 1
+                        else:
+                            adj[token.lemma_] +=1
+                    elif token.pos_ == 'ADV':
+                        if token.lemma_ not in adv:
+                            adv[token.lemma_] = 1
+                        else:
+                            adv[token.lemma_] +=1
     except Exception,e:
-        print "error"
+        print "error",e
 
 traverse('../dat/NYnegative')
 traverse('../dat/content')
-pprint.pprint(nouns)
+# pprint.pprint(nouns)
 
