@@ -48,7 +48,7 @@ def gen_csv(neg, pos):
     # out = csv.writer(output)
 
     src = [neg, pos]
-    dic = ['no.', 'filename', 'isPrivacy']
+    dic = ['no.', 'isPrivacy']
     length = len(dic)
     keywords = []
 
