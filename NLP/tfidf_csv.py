@@ -51,7 +51,7 @@ def gen_csv(neg, pos):
     dic = ['no.', 'isPrivacy']
     length = len(dic)
     keywords = []
-
+    filenames = {}
     # Get all the keywords
     for s in src:
         for filename in os.listdir(s):
@@ -75,6 +75,13 @@ def gen_csv(neg, pos):
         for filename in os.listdir(s):
             # filename => every file in the directory
             fin = open(s + '/' + filename)
+            temp = {}
+            temp["name"] = filename
+            if s is pos:
+                temp["type"] = "positive"
+            else:
+                temp["type"] = "negative"
+            filenames[cnt] = temp
             dat = json.load(fin)
             print "Current File: " + filename
 
@@ -96,7 +103,9 @@ def gen_csv(neg, pos):
             rank = [0] * (len(keywords))
             cnt += 1
             fin.close()
-
+    fjson = open('file_look_up.json', 'w')
+    json.dump(filenames,fjson,indent=2)
+    # print filenames
 
 gen_csv('tfreq-' + args.library + '/NYnegative',
         'tfreq-' + args.library + '/content')
