@@ -1,0 +1,111 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The breach appeared to be by an intruder who impersonated a government employee, but officials said there was no indication that sensitive information had been stolen.", 
+  "headline": {
+    "main": "Hackers Get Employee Records at Justice and Homeland Security Depts.", 
+    "print_headline": "Hackers Get Employee Records at Justice and Homeland Security Departments"
+  }, 
+  "abstract": "Hackers obtain employee information on thousands of people at Justice Dept and Homeland Security Dept; federal officials are examining breach.", 
+  "print_page": "11", 
+  "word_count": "387", 
+  "_id": "56b8ee2538f0d8035b1d60dd", 
+  "snippet": "The breach appeared to be by an intruder who impersonated a government employee, but officials said there was no indication that sensitive information had been stolen.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/09/us/hackers-access-employee-records-at-justice-and-homeland-security-depts.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/09/us/09hack-web/09hack-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/09/us/09hack-web/09hack-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/09/us/09hack-web/09hack-web-articleLarge.jpg", 
+      "height": 372, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/09/us/09hack-web/09hack-web-articleLarge.jpg", 
+        "xlargeheight": "372"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/09/us/09hack-web/09hack-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/09/us/09hack-web/09hack-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Office of Personnel Management", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Ron Nixon contributed reporting.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }
+    ], 
+    "original": "By ERIC LICHTBLAU"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-09T00:00:00Z", 
+  "section_name": "U.S."
+}

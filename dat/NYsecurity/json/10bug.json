@@ -1,0 +1,94 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "The Transportation Security Administration launched a new blog to inform passengers \u2014 and perhaps ease their frustration with airport security screenings.", 
+  "headline": {
+    "main": "Tell the T.S.A. (and Don\u2019t Hold Back)", 
+    "kicker": "Travel Bug", 
+    "print_headline": "Tell the T.S.A. (and Don\u2019t Hold Back)", 
+    "content_kicker": "Travel Bug"
+  }, 
+  "abstract": null, 
+  "print_page": "2", 
+  "word_count": "724", 
+  "_id": "547dc17438f0d822abda2b72", 
+  "snippet": "The Transportation Security Administration launched a new blog to inform passengers \u2014 and perhaps ease their frustration with airport security screenings.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/02/10/business/10bug.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2008/02/10/business/10bug.xlarge1.jpg", 
+      "height": 350, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2008/02/10/business/10bug.xlarge1.jpg", 
+        "xlargeheight": "350"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2008/02/10/business/10bug.751.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2008/02/10/business/10bug.751.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Government Employees", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Blogs and Blogging (Internet)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-02-10T00:00:00Z", 
+  "section_name": "Business Day"
+}

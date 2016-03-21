@@ -1,0 +1,717 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 Chinese Schools Said to Be Linked to Online Attacks - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to article
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+Subscribe
+
+
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/yr/mo/day/technology/19china.html, targetedPage: www.nytimes.com/yr/mo/day/technology, position: Bar1
+Log In
+Register Now
+
+
+Home Page
+
+Today's Paper
+Video
+Most Popular
+Times Topics
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+Technology
+
+
+
+
+World
+
+U.S.
+
+N.Y. / Region
+
+Business
+
+Technology
+
+Science
+
+Health
+
+Sports
+
+Opinion
+
+Arts
+
+Style
+
+Travel
+
+Jobs
+
+Real Estate
+
+Autos
+
+
+
+
+
+
+
+
+
+Search Technology
+
+
+
+
+
+
+
+
+Inside Technology
+
+
+Internet
+
+
+Start-Ups
+
+
+Business Computing
+
+
+Companies
+
+
+
+
+
+
+Bits
+
+Blog »
+
+
+
+
+
+
+Personal Tech »
+
+
+Digital Cameras
+
+
+Cellphones
+
+
+All Products
+
+
+
+
+
+
+
+All Products
+
+
+
+
+
+DIGITAL VIDEO & PHOTOGRAPHY
+
+
+Digital Camcorders
+
+
+Digital Cameras
+
+
+
+
+MOBILE
+
+
+Cellphones
+
+
+E-Book Readers
+
+
+GPS
+
+
+
+
+Headsets &
+
+Accessories
+
+
+
+
+
+MUSIC & VIDEO
+
+
+Music Players
+
+
+Speaker & Home Theater
+
+Systems
+
+
+
+
+
+TVs
+
+
+Video Players
+
+
+
+
+PERSONAL COMPUTING
+
+
+Desktops
+
+
+Portable Computers
+
+
+Printers
+
+
+
+
+Storage
+
+
+Wi-Fi
+
+
+
+
+VIDEO GAMES
+
+
+Game Systems &
+
+Accessories
+
+
+
+Games
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2 China Schools Said to Be Tied to Online Attacks
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sign In to E-Mail
+
+
+Print
+
+
+Reprints
+
+
+
+
+
+By JOHN MARKOFF  and  DAVID BARBOZA
+
+Published: February 18, 2010 
+
+
+
+
+
+SAN FRANCISCO  A series of online attacks on Google and dozens of other American corporations have been traced to computers at two educational institutions in China, including one with close ties to the Chinese military, say people involved in  the investigation.
+
+
+Skip to next paragraph
+
+Enlarge This Image
+
+
+
+Daniel Rosenbaum for The New York Times
+
+James C. Mulvenon said the Chinese government often used volunteer “patriotic hackers” to support its policies. 
+
+
+
+Related
+
+Evidence Found for Chinese Attack on Google 
+
+(January 20, 2010)
+
+
+Google, Citing Attack, Threatens to Exit China 
+
+(January 13, 2010)
+
+Times Topics: Google Inc. | Computer Security (Cybersecurity)
+Room for Debate: Can Google Beat China?
+
+
+
+ They also said the attacks, aimed at stealing trade secrets and computer codes and capturing e-mail of Chinese human rights activists, may have begun as early as April, months earlier than previously believed. Google announced on Jan. 12 that it and other companies had been subjected to sophisticated attacks that probably came from China. Computer security experts, including investigators from the National Security Agency, have been working since then to pinpoint the source of the attacks.  Until recently, the trail had led only to servers in Taiwan.If supported by further investigation, the findings raise as many questions as they answer, including the possibility that some of the attacks came from China but not necessarily from the Chinese government, or even from Chinese sources.  Tracing the attacks further back, to an elite Chinese university and a vocational school, is a breakthrough in a difficult task. Evidence acquired by a United States military contractor that faced the same attacks as Google has even led investigators to suspect a link to a specific computer science class, taught by a Ukrainian professor at the vocational school.  The revelations were shared by the contractor at a meeting of computer security specialists.  The Chinese schools involved are Shanghai Jiaotong University and the Lanxiang Vocational School, according to several people with knowledge of the investigation who asked for anonymity because they were not authorized to discuss the inquiry. Jiaotong has one of China’s top computer science programs. Just a few weeks ago its students won an international computer programming competition sponsored by I.B.M.   the “Battle of the Brains”   beating out Stanford and other top-flight universities. Lanxiang, in east China’s Shandong Province, is a huge vocational school that was established with military support and trains some computer scientists for the military. The school’s computer network is operated by a company with close ties to Baidu, the dominant search engine in China and a competitor of  Google.  Within the computer security industry and the Obama administration, analysts differ over how to interpret the finding that the intrusions appear to come from schools instead of Chinese military installations or government agencies.  Some analysts have privately circulated a document asserting that the vocational school is being used as camouflage for government operations. But other computer industry executives and former government officials said it was possible that the schools were cover for a “false flag” intelligence operation being run by a third country. Some have also speculated that the hacking could be a giant example of criminal industrial espionage, aimed at stealing intellectual property from American technology firms.Independent researchers who monitor Chinese information warfare caution that the Chinese have adopted a highly distributed approach to online espionage, making it  almost impossible to prove where an attack originated. “We have to understand that they have a different model for computer network exploit operations,” said James C. Mulvenon, a Chinese military specialist and a director at the Center for Intelligence Research and Analysis in Washington.  Rather than tightly compartmentalizing online espionage within agencies as the United States does, he said, the Chinese government often involves volunteer “patriotic hackers” to support its policies.  Spokesmen for the Chinese schools said they had not heard that  American investigators had traced the Google attacks to their campuses. If it is true, “We’ll alert related departments and start our own investigation,” said Liu Yuxiang, head of the propaganda department of the party committee at Jiaotong University in Shanghai. But when asked about the possibility, a leading professor in Jiaotong’s School of Information Security Engineering said in a telephone interview: “I’m not surprised. Actually students hacking into foreign Web sites is quite normal.” The professor, who teaches Web security, asked not to be named for fear of reprisal.“I believe there’s two kinds of situations,” the professor continued. “One is it’s a completely individual act of wrongdoing, done by one or two geek students in the school who are just keen on experimenting with their hacking skills learned from the school, since the sources in the school and network are so limited. Or it could be that one of the university’s I.P. addresses was hijacked by others, which frequently happens.” At Lanxiang Vocational, officials said they had not heard about any possible link to the school and declined to say if a Ukrainian professor taught computer science there.A man named Mr. Shao, who said he was dean of the computer science department at Lanxiang but refused to give his first name, said, “I think it’s impossible for our students to hack Google or other U.S. companies because they are just high school graduates and not at an advanced level. Also, because our school adopts close management, outsiders cannot easily come into our school.”  Mr. Shao acknowledged that every year four or five students from his computer science department were recruited into the military.Google’s decision to step forward and challenge China over the intrusions has created a highly sensitive issue for the United States government. Shortly after the company went public with its accusations, Secretary of State Hillary Rodham Clinton challenged the Chinese in a speech on Internet censors, suggesting that the country’s efforts to control open access to the Internet were in effect an information-age Berlin Wall. A report on Chinese online warfare prepared for the  U.S.-China Economic Security Review Commission in October 2009 by Northrop Grumman identified six regions in China with military efforts to engage in such attacks. Jinan, site of the vocational school, was one of the regions.Executives at Google have said little about the intrusions and would not comment for this article.  But  the company has contacted computer security specialists to confirm what has been reported by other targeted companies: access to the companies’ servers was gained by exploiting a previously unknown flaw in Microsoft’s Internet Explorer Web browser.Forensic analysis is yielding new details of how the intruders took advantage of the flaw to gain access to internal corporate servers. They did this by using a clever technique  called man-in-the-mailbox   to exploit the natural trust shared by people who work together in organizations.  After taking over one computer, intruders insert into an e-mail conversation  a message containing a digital attachment carrying malware  that is highly likely to be opened by the second victim. The attached malware makes it possible for the intruders to take over the target computer.John Markoff reported from San Francisco and David Barboza from Shanghai. Bao Beibei and Chen Xiaoduan in Shanghai contributed research.
+
+This article has been revised to reflect the following correction:
+
+Correction: March     4, 2010
+
+An article on Feb. 19 about the tracing of a series of online attacks on Google and other American corporations to computers at two educational institutions in China misstated I.B.M.’s relationship to an international computer programming competition recently won by students at one of the institutions, Shanghai Jiaotong University. The competition, known as the “Battle of the Brains,” has been sponsored by I.B.M. since 1997, but its history dates back to 1970. It was not “organized” by I.B.M. 
+
+
+
+
+
+
+More Articles in 
+				Technology »
+A version of this article appeared in print on February 19, 2010, on page A1 of the New York edition.
+
+
+
+
+
+
+
+
+
+
+Sign In to E-Mail
+
+Print
+
+
+Reprints
+
+
+
+
+
+
+
+Related Articles
+
+
+
+FROM THE NEW YORK TIMES
+Past CoverageNew Scrutiny on Censorship Issues for U.S. Companies in China (March 2, 2010)Inquiry Puts China's Elite In New Light (February 22, 2010)Google Asks Spy Agency to Look Into Cyberattacks (February 5, 2010)Hacking for Fun and Profit in China Underworld (February 2, 2010)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Articles in 
+				Technology »
+
+
+
+
+
+
+
+Subscribe to Technology RSS Feeds
+
+
+Technology News
+
+Internet
+Start-Ups
+Business Computing
+Companies
+
+
+
+
+
+
+Bits Blog
+Personal Tech
+Pogue’s Posts
+
+
+
+
+
+
+MOST POPULAR - TECHNOLOGY
+
+
+Emailed
+Viewed
+
+
+
+
+
+Apple vs. the F.B.I.: How the Case Could Play Out
+Amazon Leans on Government in Its Quest to Be a Delivery Powerhouse
+Bits: Flinging Emojis, Twitch Chatters Revel as Julia Child Cooks
+Itâs Discounted, but Is It a Deal? How List Prices Lost Their Meaning
+Breaking Down Appleâs iPhone Fight With the U.S. Government
+Tech Fix: Siri, Alexa and Other Virtual Assistants Put to the Test
+App Smart: Checklists and Tips to Help Streamline Spring Cleaning
+
+Go to Complete List Â»
+
+
+
+Apple vs. the F.B.I.: How the Case Could Play Out
+Amazon Leans on Government in Its Quest to Be a Delivery Powerhouse
+Apple's Latest Product Event Isn't Causing a Big Stir
+Apple Encryption Engineers, if Ordered to Unlock iPhone, Might Resist
+Fans Demand Details After Death of a 13-Year-Old YouTube Star
+Apple Starts a Busy Week With New iPhone Launch
+Bits: Flinging Emojis, Twitch Chatters Revel as Julia Child Cooks
+Instagram May Change Your Feed, Personalizing It With an Algorithm
+ZTE Document Raises Questions About Huawei and Sanctions
+Twitter Rules Out Long Tweets, Sticking to 140-Character Limit
+
+Go to Complete List Â»
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+World
+U.S.
+N.Y. / Region
+Business
+Technology
+Science
+Health
+Sports
+Opinion
+Arts
+Style
+Travel
+Jobs
+Real Estate
+Automobiles
+Back to Top
+
+
+Copyright 2010
+The New York Times Company
+
+Privacy Policy
+Terms of Service
+Search
+Corrections
+RSS
+First Look
+Help
+Contact Us
+Work for Us
+Site Map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/technology/19china.html, targetedPage: www.nytimes.com/yr/mo/day/technology, position: Inv1
+

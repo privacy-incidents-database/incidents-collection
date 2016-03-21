@@ -1,0 +1,110 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The Israeli ambassador to the United Nations accused Iran of violating the nuclear accord by testing missiles capable of reaching Israel last week.", 
+  "headline": {
+    "main": "Israel Calls on U.N. to Punish Iran for Missile Tests", 
+    "print_headline": "Israel Calls on U.N. to Punish Iran for Missile Tests, Saying It Violated Nuclear Pact"
+  }, 
+  "abstract": "Israel calls on United Nations Security Council to punish Iran for missile tests, saying they violate nuclear pact reached in 2015.", 
+  "print_page": "9", 
+  "word_count": "555", 
+  "_id": "56e6f93a38f0d83d7cbf4d74", 
+  "snippet": "The Israeli ambassador to the United Nations accused Iran of violating the nuclear accord by testing missiles capable of reaching Israel last week.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/15/world/middleeast/iran-israel-un-missile-tests.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/15/world/15NATIONS-web1/15NATIONS-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/15/world/15NATIONS-web1/15NATIONS-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/15/world/15NATIONS-web1/15NATIONS-web1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/15/world/15NATIONS-web1/15NATIONS-web1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/15/world/15NATIONS-web1/15NATIONS-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/15/world/15NATIONS-web1/15NATIONS-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Israel", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Iran", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Missiles and Missile Defense Systems", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United Nations", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Nuclear Weapons", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Rick", 
+        "lastname": "GLADSTONE"
+      }
+    ], 
+    "original": "By RICK GLADSTONE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-15T00:00:00Z", 
+  "section_name": "World"
+}

@@ -1,0 +1,136 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Concerned about the government\u2019s insistence that it break into a terrorist\u2019s phone, the company wants to take that power out of its own hands.", 
+  "headline": {
+    "main": "Apple Is Said to Be Trying to Make It Harder to Hack iPhones", 
+    "print_headline": "Security \u2018Arms Race\u2019 as Apple<br />Is Said to Harden iPhone Tech"
+  }, 
+  "abstract": "Security experts and those familiar with Apple's plans say company is already developing security measures that will make it impossible for government to access locked iPhone; new technology will present significant challenge to law enforcement, even if legal battle over iPhone used by one of perpetrators of San Bernardino, Calif, attack is won by Obama administration; experts say only way for company to be compelled to make phone's accessible is for Congress to write law.", 
+  "print_page": "1", 
+  "word_count": "1246", 
+  "_id": "56ce3b3f38f0d8622592d4d6", 
+  "snippet": "Concerned about the government\u2019s insistence that it break into a terrorist\u2019s phone, the company wants to take that power out of its own hands.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/25/technology/apple-is-said-to-be-working-on-an-iphone-even-it-cant-hack.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/25/business/25security1/25security1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/25/business/25security1/25security1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/25/business/25security1/25security1-articleLarge.jpg", 
+      "height": 420, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/25/business/25security1/25security1-articleLarge.jpg", 
+        "xlargeheight": "420"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/25/business/25security1/25security1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/25/business/25security1/25security1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Matt Apuzzo reported from Washington and Katie Benner from San Francisco.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Matt", 
+        "lastname": "APUZZO"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }
+    ], 
+    "original": "By MATT APUZZO and KATIE BENNER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-25T00:00:00Z", 
+  "section_name": "Technology"
+}

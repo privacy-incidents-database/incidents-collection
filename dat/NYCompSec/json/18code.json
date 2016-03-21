@@ -1,0 +1,55 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Sergey Aleynikov is charged with stealing trade secrets and taking them to his new employer.", 
+  "headline": {
+    "seo": "Sergey Aleynikov Pleads Not Guilty to Stealing Goldman Code", 
+    "main": "Plea in Case of Stolen Code From Goldman", 
+    "print_headline": "Plea in Case Of Stolen Code From Goldman"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "236", 
+  "_id": "5442f7a138f0d8246e88c8f0", 
+  "snippet": "Sergey Aleynikov is charged with stealing trade secrets and taking them to his new employer.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/02/18/technology/18code.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Goldman Sachs Group", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Aleynikov, Sergey", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-02-18T00:00:00Z", 
+  "section_name": "Technology"
+}

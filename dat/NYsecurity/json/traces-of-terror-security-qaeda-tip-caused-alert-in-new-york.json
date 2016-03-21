@@ -1,0 +1,85 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metropolitan Desk", 
+  "lead_paragraph": "The source of a tip this week that terrorists might strike at the Brooklyn Bridge or the Statue of Liberty was Abu Zubaydah, the highest-ranking Qaeda operative captured since Sept. 11, a senior law enforcement official said yesterday. That is one reason New York officials put the city on high alert and publicized details of the threat, something the Federal Bureau of Investigation never intended to do. A senior law enforcement official said the threat against the New York landmarks was revealed last weekend during a debriefing of Mr. Zubaydah overseas. The information was deemed potentially credible because the military authorities had corroborated some, but not all, of the other statements he had made.", 
+  "headline": {
+    "main": "QAEDA TIP CAUSED ALERT IN NEW YORK", 
+    "kicker": "TRACES OF TERROR: SECURITY"
+  }, 
+  "abstract": "Source of tip that terrorists might strike at Brooklyn Bridge or Statue of Liberty was Abu Zubaydah, highest-ranking Qaeda operative captured since Sept 11; senior law enforcement official says threat against New York landmarks came during debriefing of Zubaydah overseas, and was deemed potentially credible because military authorities have corroborated some, but not all, of other statements he has made; how and when details of threat against landmarks should have been released is subject of debate between FBI and city police; New York City Police Comr Raymond W Kelly, who ordered that threat be disclosed to public, says he was under impression FBI also planned to issue public warning; spokesman for FBI's New York office says bureau never intended to go public; senior police officials say additional security put in place as result of tip would be apparent to New Yorkers and require explanation; photos (M)", 
+  "print_page": "1", 
+  "word_count": 1062, 
+  "_id": "4fd235888eb7c8105d7c6e36", 
+  "snippet": "The source of a tip this week that terrorists might strike at the Brooklyn Bridge or the Statue of Liberty was Abu Zubaydah, the highest-ranking Qaeda operative captured since Sept. 11, a senior law enforcement official said yesterday. That is one...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/05/23/nyregion/traces-of-terror-security-qaeda-tip-caused-alert-in-new-york.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "KELLY, RAYMOND W"
+    }, 
+    {
+      "name": "persons", 
+      "value": "ZUBAYDAH, ABU"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "FEDERAL BUREAU OF INVESTIGATION"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "AL QAEDA"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BROOKLYN BRIDGE (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "STATUE OF LIBERTY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Al", 
+        "lastname": "BAKER"
+      }
+    ], 
+    "original": "By AL BAKER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-05-23T00:00:00Z", 
+  "section_name": "Front Page; New York and Region"
+}

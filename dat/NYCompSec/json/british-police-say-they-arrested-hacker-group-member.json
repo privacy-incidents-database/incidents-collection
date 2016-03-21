@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The police said that a 19-year-old was the spokesman of a group that has claimed responsibility for hacking attacks.", 
+  "headline": {
+    "seo": "British Police Say They Arrested Hacker Group Member", 
+    "main": "British Police Make Arrest in Net Attacks", 
+    "print_headline": "British Police Make Arrest In Net Attacks"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "367", 
+  "_id": "5410c21b38f0d80f29521b94", 
+  "snippet": "The police said that a 19-year-old was the spokesman of a group that has claimed responsibility for hacking attacks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/07/28/technology/british-police-say-they-arrested-hacker-group-member.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Hackers (Computers)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Lulz Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Somini", 
+        "lastname": "SENGUPTA"
+      }
+    ], 
+    "original": "By SOMINI SENGUPTA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-07-28T00:00:00Z", 
+  "section_name": "Technology"
+}

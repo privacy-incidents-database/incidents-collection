@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The homeland security secretary, Janet Napolitano, is reviewing the program for testing the country\u2019s ability to respond to terrorist attacks.", 
+  "headline": {
+    "main": "Re-evaluation of National Security Ordered", 
+    "print_headline": "Secretary Orders Re-evaluation of National Security Responses"
+  }, 
+  "abstract": null, 
+  "print_page": "22", 
+  "word_count": "1070", 
+  "_id": "5471225f38f0d847c5e426d6", 
+  "snippet": "The homeland security secretary, Janet Napolitano, is reviewing the program for testing the country\u2019s ability to respond to terrorist attacks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/02/17/us/politics/17terror.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2009/02/17/us/17terror-span-600.jpg", 
+      "height": 402, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2009/02/17/us/17terror-span-600.jpg", 
+        "xlargeheight": "402"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2009/02/17/us/17terror-inline-75.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/02/17/us/17terror-inline-75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Napolitano, Janet", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Disasters and Emergencies", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Tests and Testing", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Eric", 
+        "rank": 1, 
+        "lastname": "SCHMITT"
+      }
+    ], 
+    "original": "By ERIC SCHMITT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-02-17T00:00:00Z", 
+  "section_name": "U.S."
+}

@@ -1,0 +1,80 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Circuits", 
+  "lead_paragraph": "LAST school year, thousands of student records in the Natomas Unified School District in Sacramento disappeared. Two students at Natomas High School, using a stolen password, had gained illegal access to the school's computer network. They raised their grades to A's, then, in an attempt to cover their tracks, unwittingly deleted more than 18,000 records.", 
+  "headline": {
+    "main": "The Grades That Vanished, And Some Other Threats To Students' Data", 
+    "kicker": "SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": 1296, 
+  "_id": "4fd2a8b88eb7c8105d89390e", 
+  "snippet": "The proliferation of various devices and technologies on campus has put student privacy at greater risk today than ever before. Grade changing and network snooping aren't the only threats.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://tech2.nytimes.com/2005/08/03/technology/techspecial3/03gnatek.html", 
+  "multimedia": [
+    {
+      "url": "images/2005/08/02/technology/03gnatek.gif", 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "hasthumbnail": "Y", 
+        "thumbnailheight": 75, 
+        "thumbnail": "images/2005/08/02/technology/03gnatek.gif"
+      }, 
+      "type": "image", 
+      "height": 75
+    }, 
+    {
+      "subtype": "tiny_thumb", 
+      "legacy": {
+        "tinythumbwidth": 55, 
+        "tinythumbheight": 55, 
+        "hastinythumb": "Y"
+      }, 
+      "type": "image", 
+      "width": 55, 
+      "height": 55
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "BOARD OF EDUCATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "EMPLOYMENT AGENCIES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "EDUCATION AND SCHOOLS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TEACHERS AND SCHOOL EMPLOYEES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVACY"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Tim", 
+        "rank": 1, 
+        "lastname": "GNATEK"
+      }
+    ], 
+    "original": "By TIM GNATEK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-08-03T00:00:00Z", 
+  "section_name": "Technology; Education"
+}

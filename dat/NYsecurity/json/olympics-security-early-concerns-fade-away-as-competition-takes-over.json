@@ -1,0 +1,81 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Sports Desk", 
+  "lead_paragraph": "Richard M. Wirick, a civic booster who owns a shoe store in this city's downtown, feared the worst when he got a call at home this week from a state law enforcement officer assigned to the 2002 Olympic Winter Games. He thought it might be about security, the watchword of these Games. He thought something might be happening, perhaps even an international incident.", 
+  "headline": {
+    "main": "Early Concerns Fade Away As Competition Takes Over", 
+    "kicker": "OLYMPICS: SECURITY"
+  }, 
+  "abstract": "Anxiety fades as intense security at 2002 Winter Olympics is taken in stride by residents, athletes and fans; people are much more concerned with who is winning medals, outcome of skating scandal and Games in general than with security measures, and have accepted searches and security wands as part of experience; photo (M)", 
+  "print_page": "6", 
+  "word_count": 961, 
+  "_id": "4fd21b268eb7c8105d799d82", 
+  "snippet": "Richard M. Wirick, a civic booster who owns a shoe store in this city's downtown, feared the worst when he got a call at home this week from a state law enforcement officer assigned to the 2002 Olympic Winter Games.    He thought it might be about...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/02/15/sports/olympics-security-early-concerns-fade-away-as-competition-takes-over.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "SALT LAKE CITY (UTAH)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SEARCH AND SEIZURE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WINTER GAMES (OLYMPICS)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "OLYMPIC GAMES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "OLYMPIC GAMES (2002)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Rick", 
+        "lastname": "BRAGG"
+      }
+    ], 
+    "original": "By RICK BRAGG"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-02-15T00:00:00Z", 
+  "section_name": "Sports"
+}

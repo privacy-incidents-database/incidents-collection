@@ -1,0 +1,147 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "An abundance of opinions in nearly 5,000 comments on Apple\u2019s opposition to a court order to unlock an iPhone used by one of the San Bernardino killers.", 
+  "headline": {
+    "main": "Times Readers Weigh In on the Apple Debate", 
+    "print_headline": "Times Readers Have Their Say on the Debate Over Apple"
+  }, 
+  "abstract": "New York Times readers weigh in on Apple's decision to oppose court order to unlock iPhone used by one of San Bernardino shooters. ", 
+  "print_page": "7", 
+  "word_count": "962", 
+  "_id": "56c66e3238f0d809a189bcfc", 
+  "snippet": "An abundance of opinions in nearly 5,000 comments on Apple\u2019s opposition to a court order to unlock an iPhone used by one of the San Bernardino killers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/19/technology/apple-fbi-reaction.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/19/business/19applecomments1/19applecomments1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/19/business/19applecomments1/19applecomments1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/19/business/19applecomments1/19applecomments1-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/19/business/19applecomments1/19applecomments1-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/19/business/19applecomments1/19applecomments1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/19/business/19applecomments1/19applecomments1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cook, Timothy D", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Fourth Amendment (US Constitution)", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Search and Seizure", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New York Times", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Facebook Inc", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Marie", 
+        "middlename": "Tae", 
+        "lastname": "McDERMOTT", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MARIE TAE McDERMOTT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-19T00:00:00Z", 
+  "section_name": "Technology"
+}

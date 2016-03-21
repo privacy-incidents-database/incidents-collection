@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Dora, the first of several violent neighborhoods covered by a new Baghdad security plan, represents the embryo of progress.", 
+  "headline": {
+    "main": "Troops Cut Death, but Not Fear, in Baghdad Zone", 
+    "print_headline": "Troops Cut Death, but Not Fear, in Baghdad Zone", 
+    "content_kicker": "Security"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1401", 
+  "_id": "54b1618338f0d87f811466ba", 
+  "snippet": "Dora, the first of several violent neighborhoods covered by a new Baghdad security plan, represents the embryo of progress.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/09/04/world/middleeast/04dora.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/09/04/world/04dora.xlarge1.jpg", 
+      "height": 320, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/09/04/world/04dora.xlarge1.jpg", 
+        "xlargeheight": "320"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/09/04/world/04dora.751.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/09/04/world/04dora.751.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Iraq", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United States Armament and Defense", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Armament, Defense and Military Forces", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Police", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Damien", 
+        "lastname": "CAVE"
+      }
+    ], 
+    "original": "By DAMIEN CAVE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-09-04T00:00:00Z", 
+  "section_name": "World"
+}

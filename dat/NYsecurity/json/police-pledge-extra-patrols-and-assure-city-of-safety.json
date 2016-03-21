@@ -1,0 +1,55 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metropolitan Desk", 
+  "lead_paragraph": "As local and Federal authorities worked yesterday to determine the scope of a terrorist bomb plot uncovered in Brooklyn, officials tightened security measures at transportation hubs, city landmarks and Jewish institutions and sought to reassure a jittery public. Police Commissioner Howard Safir said extra law enforcement officers would patrol specific areas across the metropolitan area.", 
+  "headline": {
+    "main": "Police Pledge Extra Patrols And Assure City of Safety", 
+    "kicker": "BOMBS IN BROOKLYN: THE SECURITY"
+  }, 
+  "abstract": "Officials tighten security at transportation hubs, city landmarks and Jewish institutions to reasure New Yorkers following arrest of Palestinian bomb-makers (S)", 
+  "print_page": "24", 
+  "word_count": 465, 
+  "_id": "4fd1fe968eb7c8105d75f963", 
+  "snippet": "As local and Federal authorities worked yesterday to determine the scope of a terrorist bomb plot uncovered in Brooklyn, officials tightened security measures at transportation hubs, city landmarks and Jewish institutions and sought to reassure a...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1997/08/02/nyregion/police-pledge-extra-patrols-and-assure-city-of-safety.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PALESTINIANS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOMBS AND EXPLOSIVES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1
+      }
+    ], 
+    "original": "By DAVID M. HERSZENHORN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1997-08-02T00:00:00Z", 
+  "section_name": "New York and Region"
+}

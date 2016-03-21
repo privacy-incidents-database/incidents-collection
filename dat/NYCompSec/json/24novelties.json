@@ -1,0 +1,77 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "Researchers are looking at new ways to stop online fraudsters and their automated programs from entering sites.", 
+  "headline": {
+    "seo": "New Puzzles to Tell Humans From Machines", 
+    "main": "New Puzzles That Tell Humans From Machines", 
+    "kicker": "Novelties", 
+    "print_headline": "New Puzzles That Tell Humans From Machines", 
+    "content_kicker": "Novelties"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "861", 
+  "_id": "546aea4338f0d84ca2c5cf1b", 
+  "snippet": "Researchers are looking at new ways to stop online fraudsters and their automated programs from entering sites.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/05/24/business/24novelties.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2009/05/24/business/24novel_600.jpg", 
+      "height": 200, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2009/05/24/business/24novel_600.jpg", 
+        "xlargeheight": "200"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2009/05/24/business/24novel_75.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/05/24/business/24novel_75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Anne", 
+        "rank": 1, 
+        "lastname": "EISENBERG"
+      }
+    ], 
+    "original": "By ANNE EISENBERG"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-05-24T00:00:00Z", 
+  "section_name": "Business Day"
+}

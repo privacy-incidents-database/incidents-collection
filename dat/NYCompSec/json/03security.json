@@ -1,0 +1,68 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "In the latest edition of its \u201cSecurity Intelligence Report,\u201d Microsoft said that the security 0f its Windows operating system has significantly improved.", 
+  "headline": {
+    "main": "On Security, Microsoft Reports Progress and Alarm", 
+    "print_headline": "On Security, Microsoft Reports Progress and Alarm"
+  }, 
+  "abstract": null, 
+  "print_page": "9", 
+  "word_count": "727", 
+  "_id": "5479b04a38f0d86bf592fb67", 
+  "snippet": "In the latest edition of its \u201cSecurity Intelligence Report,\u201d Microsoft said that the security 0f its Windows operating system has significantly improved.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/11/03/technology/companies/03security.html", 
+  "multimedia": [], 
+  "subsection_name": "Companies", 
+  "keywords": [
+    {
+      "value": "Microsoft Corp", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Viruses", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Web Browsers", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-11-03T00:00:00Z", 
+  "section_name": "Technology"
+}

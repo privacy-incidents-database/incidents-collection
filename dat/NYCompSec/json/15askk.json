@@ -1,0 +1,56 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Q. Can the data on a U.S.B. flash drive be password-protected?", 
+  "headline": {
+    "kicker": "Q & A", 
+    "main": "Password Protection for Portable Drives", 
+    "sub": "  ;", 
+    "content_kicker": "Q & A"
+  }, 
+  "abstract": null, 
+  "print_page": "12", 
+  "word_count": "654", 
+  "_id": "54b50cc338f0d8623a354f6b", 
+  "snippet": "Q. Can the data on a U.S.B. flash drive be password-protected?", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/06/15/technology/15askk.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Software", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "J."
+      }
+    ], 
+    "original": "By J.D. BIERSDORFER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-06-15T00:00:00Z", 
+  "section_name": "Technology"
+}

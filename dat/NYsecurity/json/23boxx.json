@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Circuits", 
+  "lead_paragraph": "As the storage capacity of computers has soared, parking data, whether spreadsheets or snapshots, has become less of a problem. But what if the data is for your eyes only? Micro Solutions says the answer is at the tip of your finger. Its new LockBox, 80- to 200-gigabyte external hard drives, have built-in fingerprint readers.", 
+  "headline": {
+    "main": "10 Ways to Secure Data That Belong to You Alone", 
+    "kicker": "NEWS WATCH: SECURITY"
+  }, 
+  "abstract": "Micro Solutions LockBox is external hard drive with built-in fingerprint reader to help keep data secute; photo (S)", 
+  "print_page": "3", 
+  "word_count": 198, 
+  "_id": "4fd247f18eb7c8105d7e3d93", 
+  "snippet": "As the storage capacity of computers has soared, parking data, whether spreadsheets or snapshots, has become less of a problem. But what if the data is for your eyes only?.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://tech2.nytimes.com/2004/09/23/technology/circuits/23boxx.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "MICRO SOLUTIONS"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "MICROSOFT CORPORATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "RADIO"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FINGERPRINTING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Michel", 
+        "rank": 1, 
+        "lastname": "Marriott"
+      }
+    ], 
+    "original": "By Michel Marriott"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2004-09-23T00:00:00Z", 
+  "section_name": "Technology"
+}

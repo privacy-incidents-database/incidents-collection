@@ -1,0 +1,129 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "A Security Council statement deplored the civilian deaths in Qana and called for an \u201cend to violence,\u201d but not for an immediate cease-fire.", 
+  "headline": {
+    "main": "U.N. Deplores Civilian Deaths, but Cease-Fire Call Is Blocked", 
+    "print_headline": "U.N. Deplores Civilian Deaths, But Cease-Fire Call Is Blocked", 
+    "content_kicker": "The Security Council"
+  }, 
+  "abstract": null, 
+  "print_page": "10", 
+  "word_count": "718", 
+  "_id": "54b07b5f38f0d8367c841b1c", 
+  "snippet": "A Security Council statement deplored the civilian deaths in Qana and called for an \u201cend to violence,\u201d but not for an immediate cease-fire.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/07/31/world/middleeast/31nations.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/07/30/world/middleeast/30cnd-nations2.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/07/30/world/middleeast/30cnd-nations2.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Security Council", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Bolton, John R", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Rice, Condoleezza", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Middle East", 
+      "is_major": "N", 
+      "rank": "13", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Israel", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Lebanon", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United Nations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Bombs and Explosives", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hezbollah", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Annan, Kofi", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Warren", 
+        "lastname": "HOGE"
+      }
+    ], 
+    "original": "By WARREN HOGE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-07-31T00:00:00Z", 
+  "section_name": "World"
+}

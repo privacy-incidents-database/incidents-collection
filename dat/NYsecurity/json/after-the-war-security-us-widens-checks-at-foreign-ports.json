@@ -1,0 +1,133 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "The Bush administration has decided to place teams of American inspectors at major seaports in Muslim nations and other smaller, strategically located foreign ports to prevent terrorists from using cargo containers to smuggle chemical, biological or nuclear weapons into the United States, senior administration officials said. The inspectors, they said, will be provided with radiation monitors, chemical detectors and other equipment to inspect ''high risk'' metal cargo containers before they are placed on ships bound for the United States.", 
+  "headline": {
+    "main": "U.S. WIDENS CHECKS AT FOREIGN PORTS", 
+    "kicker": "AFTER THE WAR: SECURITY"
+  }, 
+  "abstract": "Bush administration says it will place teams of American inspectors at 20 to 25 major seaports in Muslim nations and other smaller, strategically located foreign ports to prevent terrorists from using cargo containers to smuggle chemical, biological or nuclear weapons into United States; move is second phase in government program begun shortly after Sept 11 terrorist attacks, to station American customs inspectors overseas to work side by side with foreign counterparts in searching for unconventional weapons; first phase focused on 20 large container ports in Europe and Asia, none of them in countries with predominantly Muslim populations; Dept of Homeland Security will now place inspectors in Dubai and Malaysia, countries thought to have sizable presence of Al Qaeda, in Turkey and in other Muslim nations; intelligence agencies report Al Qaeda has repeatedly used cargo ships to move conventional weapons and explosives; human cargo is also concern; only weeks after Sept 11 attacks, Italian seaport authorities found Egyptian man suspected of Qaeda membership hiding in shipping container bound for Halifax, Nova Scotia, with airport maps and security passes; world map shows ports monitored by US customs agents in first and second phases of program (M)", 
+  "print_page": "1", 
+  "word_count": 1168, 
+  "_id": "4fd22a0b8eb7c8105d7b43e5", 
+  "snippet": "The Bush administration has decided to place teams of American inspectors at major seaports in Muslim nations and other smaller, strategically located foreign ports to prevent terrorists from using cargo containers to smuggle chemical, biological or...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/06/12/world/after-the-war-security-us-widens-checks-at-foreign-ports.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "EGYPT"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "HALIFAX (NOVA SCOTIA)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "EUROPE"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "CANADA"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "MALAYSIA"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "FAR EAST, SOUTH AND SOUTHEAST ASIA AND PACIFIC AREAS"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "DUBAI"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "TURKEY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "AL QAEDA"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "HOMELAND SECURITY DEPARTMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ATOMIC WEAPONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOLOGICAL AND CHEMICAL WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOMBS AND EXPLOSIVES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRPORTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "STOWAWAYS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PORTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "MAPS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Philip", 
+        "lastname": "SHENON"
+      }
+    ], 
+    "original": "By PHILIP SHENON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-06-12T00:00:00Z", 
+  "section_name": "World; Front Page"
+}

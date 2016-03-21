@@ -1,0 +1,83 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A number of good programs can locate a stolen computer through Internet information, monitor e-mail and even photograph an illegal user.", 
+  "headline": {
+    "seo": "Putting a Private Detective in Your Laptop", 
+    "main": "Putting a Private Detective in Your Laptop", 
+    "print_headline": "Putting a Private Detective in Your Laptop"
+  }, 
+  "abstract": null, 
+  "print_page": "9", 
+  "word_count": "1151", 
+  "_id": "5417890b38f0d851fd3a818e", 
+  "snippet": "A number of good programs can locate a stolen computer through Internet information, monitor e-mail and even photograph an illegal user.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/06/17/technology/personaltech/17basics.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2010/06/17/technology/17basics-web/17basics-web-articleLarge.jpg", 
+      "height": 315, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/06/17/technology/17basics-web/17basics-web-articleLarge.jpg", 
+        "xlargeheight": "315"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/06/17/technology/17basics-web/17basics-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/06/17/technology/17basics-web/17basics-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Personal Tech", 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "Eric", 
+        "middlename": "A.", 
+        "lastname": "TAUB", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By ERIC A. TAUB"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-06-17T00:00:00Z", 
+  "section_name": "Technology"
+}

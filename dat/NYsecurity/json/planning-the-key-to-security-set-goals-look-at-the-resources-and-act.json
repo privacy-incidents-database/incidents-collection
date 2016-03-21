@@ -1,0 +1,41 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Personal Investing Supplement Desk", 
+  "lead_paragraph": "THERE is an old saw in the financial planning business that few people plan to fail, but most people fail to plan. Yet, at no time in the past has such planning been so necessary. The shifting financial sands - spurred by deregulation, the growth of financial services supermarkets and the development of new legal devices - have destroyed many of the rules that formerly governed personal money management. As a result, saving, investing, borrowing and spending wisely today require continual attention and analysis. What is financial planning? According to Gaylon E. Greer, professor of finance at DePaul University, Chicago, ''Systematic personal financial planning involves considering one's financial situation from a lifetime perspective. First comes the fundamental need for security of oneself and for loved ones. There may follow plans for assuring progress in areas of health, education and welfare.''", 
+  "headline": {
+    "main": "SET GOALS, LOOK AT THE RESOURCES AND ACT", 
+    "kicker": "PLANNING, THE KEY TO SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "13", 
+  "word_count": 2104, 
+  "_id": "4fd137048eb7c8105d609113", 
+  "snippet": "THERE is an old saw in the financial planning business that few people plan to fail, but most people fail to plan. Yet, at no time in the past has such planning been so necessary. The shifting financial sands - spurred by deregulation, the growth of...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1984/05/20/business/planning-the-key-to-security-set-goals-look-at-the-resources-and-act.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "TERMS NOT AVAILABLE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Leonard", 
+        "lastname": "SLOANE"
+      }
+    ], 
+    "original": "By LEONARD SLOANE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1984-05-20T00:00:00Z", 
+  "section_name": null
+}

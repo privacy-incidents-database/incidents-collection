@@ -1,0 +1,42 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "After almost six months on the job as national security adviser, Robert C. McFarlane has made his staff into a more powerful bureaucratic instrument on day-to-day affairs, but he remains far less powerful personally on major policy issues than his predecessor, William P. Clark, according to White House and other Administration officials. ''The most McFarlane can do on the big questions like Soviet affairs, Central America and the Middle East,'' one White House official said, ''is set up temporary fences between the elephants to keep them, for a few days, from trampling all over each other.'' The ''elephants'' are Secretary of State George P. Shultz and Defense Secretary Caspar W. Weinberger. Their personal relations continue to be described as strained, and their policy views bounce off each other with upsetting regularity.", 
+  "headline": {
+    "main": "MCFARLANE CARVING HIS NICHE", 
+    "kicker": "NATIONAL SECURITY COUNCIL"
+  }, 
+  "abstract": null, 
+  "print_page": "10", 
+  "word_count": 1105, 
+  "_id": "4fd149ff8eb7c8105d627667", 
+  "snippet": "After almost six months on the job as national security adviser, Robert C. McFarlane has made his staff into a more powerful bureaucratic instrument on day-to-day affairs, but he remains far less powerful personally on major policy issues than his...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1984/03/28/us/national-security-council-mcfarlane-carving-his-niche.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "TERMS NOT AVAILABLE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Leslie", 
+        "middlename": "H.", 
+        "lastname": "GELB", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By LESLIE H. GELB"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1984-03-28T00:00:00Z", 
+  "section_name": "U.S."
+}

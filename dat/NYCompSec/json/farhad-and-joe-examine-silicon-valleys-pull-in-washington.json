@@ -1,0 +1,111 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The chat goes from new talking devices, a drone that sees things, goggles (really) and the Apple cliffhanger. (Where\u2019s Mike, anyway?)", 
+  "headline": {
+    "main": "Farhad and Joe Examine Silicon Valley\u2019s Pull in Washington", 
+    "content_kicker": "Bits"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1121", 
+  "_id": "56daed7438f0d83eee097af5", 
+  "snippet": "The chat goes from new talking devices, a drone that sees things, goggles (really) and the Apple cliffhanger. (Where\u2019s Mike, anyway?)", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/06/technology/farhad-and-joe-examine-silicon-valleys-pull-in-washington.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/06/business/06technewsletter1/06technewsletter1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/06/business/06technewsletter1/06technewsletter1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/06/business/06technewsletter1/06technewsletter1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/06/business/06technewsletter1/06technewsletter1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/06/business/06technewsletter1/06technewsletter1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/06/business/06technewsletter1/06technewsletter1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Amazon.com Inc", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Facebook Inc", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Yahoo! Inc", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Farhad", 
+        "lastname": "MANJOO"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Joseph", 
+        "lastname": "PLAMBECK"
+      }
+    ], 
+    "original": "By FARHAD MANJOO and JOSEPH PLAMBECK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-06T00:00:00Z", 
+  "section_name": "Technology"
+}

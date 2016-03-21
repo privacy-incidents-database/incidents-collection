@@ -1,0 +1,58 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "New Jersey Weekly Desk", 
+  "lead_paragraph": "The federal government should help pay for New Jersey's increased costs of maintaining security during the Republican National Convention, State Attorney General Peter C. Harvey said last week. New York City is receiving $50 million in federal funds to provide security during the convention. But New Jersey officials say that terrorism threats, and the costs they bring, do not end at the Hudson River. ''The sad truth is that New Jersey did not get a dime,'' Mr. Harvey said. He said he did not know how much overtime would be needed to conduct extra security sweeps and searches of bridges, tunnels and roads leading into New York, but he plans to keep a record of expenses to give to the federal government.", 
+  "headline": {
+    "main": "A METER IS RUNNING", 
+    "kicker": "BRIEFINGS: SECURITY"
+  }, 
+  "abstract": "New Jersey Attorney General Peter Harvey, who plans to keep record of expenses, says federal government should help pay for state's increased costs of maintaining security during Republican National Convention (S)", 
+  "print_page": "5", 
+  "word_count": 124, 
+  "_id": "4fd247fc8eb7c8105d7e4651", 
+  "snippet": "The federal government should help pay for New Jersey's increased costs of maintaining security during the Republican National Convention, State Attorney General Peter C. Harvey said last week. New York City is receiving $50 million in federal funds...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2004/08/29/nyregion/briefings-security-a-meter-is-running.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "HARVEY, PETER"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW JERSEY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FINANCES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CONVENTIONS, NATIONAL (US)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRESIDENTIAL ELECTION OF 2004"
+    }
+  ], 
+  "byline": null, 
+  "document_type": "article", 
+  "pub_date": "2004-08-29T00:00:00Z", 
+  "section_name": "New York and Region"
+}

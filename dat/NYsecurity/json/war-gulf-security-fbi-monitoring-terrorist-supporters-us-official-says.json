@@ -1,0 +1,58 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "An Assistant Director of the Federal Bureau of Investigation told the nation's mayors today that the agency was monitoring supporters in the United States of Abu Nidal, Hezbollah and other Middle East terrorist groups that \"have the capability to take action.\" But the official, William Baker, said that despite an outbreak of terrorism overseas since the Persian Gulf war began, the level of terrorist activity in this country was relatively low.", 
+  "headline": {
+    "main": "F.B.I. Is Monitoring Terrorist Supporters In U.S., Official Says", 
+    "kicker": "WAR IN THE GULF: SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "11", 
+  "word_count": 219, 
+  "_id": "4fd197e38eb7c8105d6a645d", 
+  "snippet": "An Assistant Director of the Federal Bureau of Investigation told the nation's mayors today that the agency was monitoring supporters in the United States of Abu Nidal, Hezbollah and other Middle East terrorist groups that \"have the capability to...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1991/01/25/us/war-gulf-security-fbi-monitoring-terrorist-supporters-us-official-says.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "ABU NIDAL"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "MIDDLE EAST"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "UNITED STATES"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "FEDERAL BUREAU OF INVESTIGATION"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "UNITED STATES CONFERENCE OF MAYORS"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "HEZBOLLAH"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "organization": "AP", 
+    "original": "AP", 
+    "person": []
+  }, 
+  "document_type": "article", 
+  "pub_date": "1991-01-25T00:00:00Z", 
+  "section_name": "U.S."
+}

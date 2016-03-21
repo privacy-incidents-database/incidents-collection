@@ -1,0 +1,697 @@
+
+  
+
+
+
+
+Chinese Academics’ Paper on Cyberwar Sets Off Alarms in U.S. - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Asia Pacific|Academic Paper in China Sets Off Alarms in U.S.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Asia Pacific 
+Academic Paper in China Sets Off Alarms in U.S.
+
+By JOHN MARKOFF and DAVID BARBOZAMARCH 20, 2010
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+A Chinese student, Wang Jianwei, above, and his professor, wrote an academic paper on the vulnerability of the American power grid to a computer attack. Scientists said the paper was merely a technical exercise.
+
+Credit
+            Du Bin for The New York Times        
+
+
+It came as a surprise this month to Wang Jianwei, a graduate engineering student in Liaoning, China, that he had been described as a potential cyberwarrior before the United States Congress.Larry M. Wortzel, a military strategist and China specialist, told the House Foreign Affairs Committee on March 10 that it should be concerned because “Chinese researchers at the Institute of Systems Engineering of Dalian University of Technology published a paper on how to attack a small U.S. power grid sub-network in a way that would cause a cascading failure of the entire U.S.”When reached by telephone, Mr. Wang said he and his professor had indeed published “Cascade-Based Attack Vulnerability on the U.S. Power Grid” in an international journal called Safety Science last spring. But Mr. Wang said he had simply been trying to find ways to enhance the stability of power grids by exploring potential vulnerabilities.“We usually say ‘attack’ so you can see what would happen,” he said. “My emphasis is on how you can protect this. My goal is to find a solution to make the network safer and better protected.” And independent American scientists who read his paper said it was true: Mr. Wang’s work was a conventional technical exercise that in no way could be used to take down a power grid.The difference between Mr. Wang’s explanation and Mr. Wortzel’s conclusion is of more than academic interest. It shows that in an atmosphere already charged with hostility between the United States and China over cybersecurity issues, including large-scale attacks on computer networks, even a misunderstanding has the potential to escalate tension and set off an overreaction.
+
+Advertisement
+
+Continue reading the main story
+
+“Already people are interpreting this as demonstrating some kind of interest that China would have in disrupting the U.S. power grid,” said Nart Villeneuve, a researcher with the SecDev Group, an Ottawa-based cybersecurity research and consulting group. “Once you start interpreting every move that a country makes as hostile, it builds paranoia into the system.”Mr. Wortzel’s presentation at the House hearing got a particularly strong reaction from Representative Ed Royce, Republican of California, who called the flagging of the Wang paper “one thing I think jumps out to all of these Californians here today, or should.” Continue reading the main story
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+He was alluding to concerns that arose in 2001 when The Los Angeles Times reported that intrusions into the network that controlled the electrical grid were traced to someone in Guangdong Province, China. Later reports of other attacks often included allegations that the break-ins were orchestrated by the Chinese, although no proof has been produced.In an interview last week about the Wang paper and his testimony, Mr. Wortzel said that the intention of these particular researchers almost did not matter.“My point is that now that vulnerability is out there all over China for anybody to take advantage of,” he said.But specialists in the field of network science, which explores the stability of networks like power grids and the Internet, said that was not the case.
+Photo
+
+
+
+
+
+
+Larry M. Wortzel, a military strategist, recently drew attention to the paper.
+
+Credit
+            Ken Cedeno for The New York Times        
+
+
+“Neither the authors of this article, nor any other prior article, has had information on the identity of the power grid components represented as nodes of the network,” Reka  Albert, a University of Pennsylvania physicist who has conducted similar studies, said in an e-mail interview. “Thus no practical scenarios of an attack on the real power grid can be derived from such work.”The issue of Mr. Wang’s paper aside, experts in computer security say there are genuine reasons for American officials to be wary of China, and they generally tend to dismiss disclaimers by China that it has neither the expertise nor the intention to carry out the kind of attacks that bombard American government and computer systems by the thousands every week.
+
+Advertisement
+
+Continue reading the main story
+
+The trouble is that it is so easy to mask the true source of a computer network attack that any retaliation is fraught with uncertainty. This is why a war of words, like the high-pitched one going on these past months between the United States and China, holds special peril, said John Arquilla, director of the Information Operations Center at the Naval Postgraduate School in Monterey, Calif.“What we know from network science is that dense communications across many different links and many different kinds of links can have effects that are highly unpredictable,” Mr. Arquilla said. Cyberwarfare is in some ways “analogous to the way people think about biological weapons — that once you set loose such a weapon it may be very hard to control where it goes,” he added.Tension between China and the United States intensified earlier this year after  Google threatened to withdraw from doing business in China, saying that it had evidence of Chinese involvement in a sophisticated Internet intrusion. A number of reports, including one last October by the U.S.-China Economic and Security Review Commission, of which Mr. Wortzel is vice chairman, have used strong language about the worsening threat of  computer attacks, particularly from China.“A large body of both circumstantial and forensic evidence strongly indicates Chinese state involvement in such activities, whether through the direct actions of state entities or through the actions of third-party groups sponsored by the state,” that report stated.Mr. Wang’s research subject was particularly unfortunate because of the widespread perception, particularly among American military contractors and high-technology firms, that adversaries are likely to attack critical infrastructure like the United States electric grid.Mr. Wang said in the interview that he chose the United States grid for his study basically because it was the easiest way to go. China does not publish data on power grids, he said. The United States does and had had several major blackouts; and, as he reads English, it was the only country he could find with accessible, useful data. He said that he was an “emergency events management” expert and that he was “mainly studying when a point in a network becomes ineffective.”“I chose the electricity system because the grid can best represent how power currents flow through a network,” he said. “I just wanted to do theoretical research.”The paper notes the vulnerability of different types of computer networks to “intentional” attacks. The authors suggest that certain types of attacks may generate a domino-style cascading collapse of an entire network. “It is expected that our findings will be helpful for real-life networks to protect the key nodes selected effectively and avoid cascading-failure-induced disasters,” the authors wrote.
+
+Advertisement
+
+Continue reading the main story
+
+Mr. Wang’s paper cites the network science research of Albert-Laszlo Barabasi,   a physicist at Northeastern University. Dr. Barabasi has written widely on the potential vulnerability of networks to so-called engineered attacks.“I am not well vested in conspiracy theories,” Dr. Barabasi said in an interview, “but this is a rather mainstream topic that is done for a wide range of networks, and, even in the area of power transmission, is not limited to the U.S. system — there are similar studies for power grids all over the world.”
+
+A version of this article appears in print on March 21, 2010, on page A10 of the New York edition with the headline: Academic Paper in China Sets Off Alarms in U.S.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

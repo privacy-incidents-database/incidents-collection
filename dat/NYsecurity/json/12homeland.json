@@ -1,0 +1,58 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A nearly obsessive focus on the Sept. 11 attacks may have prevented the government from combating new threats effectively, experts say.", 
+  "headline": {
+    "main": "Focused on 9/11, U.S. Is Seen to Lag on New Threats", 
+    "print_headline": "Focused on 9/11, U.S. Is Seen to Lag on New Threats", 
+    "content_kicker": "Domestic Security"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1131", 
+  "_id": "54b0cf6938f0d8367c8425f6", 
+  "snippet": "A nearly obsessive focus on the Sept. 11 attacks may have prevented the government from combating new threats effectively, experts say.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/12/washington/12homeland.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }, 
+      {
+        "firstname": "Matthew", 
+        "middlename": "L.", 
+        "lastname": "WALD", 
+        "rank": 2, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By ERIC LIPTON and MATTHEW L. WALD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-12T00:00:00Z", 
+  "section_name": "Washington"
+}

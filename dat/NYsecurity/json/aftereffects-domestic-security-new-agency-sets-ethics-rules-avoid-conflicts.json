@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "The Department of Homeland Security said today that it was establishing ethics rules to ensure that lobbyists with personal connections to Secretary Tom Ridge and other senior officials would not receive special favors from the agency. Department officials said that the rules have been under discussion for months, that they would be similar to conflict-of-interest rules at other federal agencies and that the details would be supplied to Congress when the rules were completed.", 
+  "headline": {
+    "main": "New Agency Sets Ethics Rules To Avoid Conflicts of Interest", 
+    "kicker": "AFTEREFFECTS: DOMESTIC SECURITY"
+  }, 
+  "abstract": "Homeland Security Dept is establishing ethics rules to ensure that lobbyists with personal connections to Sec Tom Ridge and other senior officials will not receive special favors from agency; officials say rules will be similar to conflict-of-interest rules at other federal agencies (M)", 
+  "print_page": "11", 
+  "word_count": 547, 
+  "_id": "4fd2428c8eb7c8105d7db453", 
+  "snippet": "The Department of Homeland Security said today that it was establishing ethics rules to ensure that lobbyists with personal connections to Secretary Tom Ridge and other senior officials would not receive special favors from the agency.    Department...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/05/03/world/aftereffects-domestic-security-new-agency-sets-ethics-rules-avoid-conflicts.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "RIDGE, TOM"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "HOMELAND SECURITY DEPARTMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ETHICS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LOBBYING AND LOBBYISTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Philip", 
+        "lastname": "SHENON"
+      }
+    ], 
+    "original": "By PHILIP SHENON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-05-03T00:00:00Z", 
+  "section_name": "World"
+}

@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The attack on the Dutch government's preferred provider of security certificates exposed the fragility of the global system of digital authentication that underpins the Internet.", 
+  "headline": {
+    "main": "Hacking in Netherlands Points to Weak Spot in Web Security", 
+    "print_headline": "Hacking in Netherlands Points to Weak Spot in Web Security"
+  }, 
+  "abstract": null, 
+  "print_page": "", 
+  "word_count": "1020", 
+  "_id": "5400eb2738f0d841b2f391cd", 
+  "snippet": "The attack on the Dutch government's preferred provider of security certificates exposed the fragility of the global system of digital authentication that underpins the Internet.", 
+  "source": "International Herald Tribune", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/09/13/technology/hacking-in-netherlands-points-to-weak-spot-in-web-security.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Netherlands", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "VeriSign Inc", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "Kevin", 
+        "middlename": "J.", 
+        "lastname": "O'BRIEN", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By KEVIN J. O'BRIEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-09-13T00:00:00Z", 
+  "section_name": "Technology"
+}

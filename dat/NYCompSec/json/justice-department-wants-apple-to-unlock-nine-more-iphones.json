@@ -1,0 +1,130 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The disclosure seems to bolster the company\u2019s position that cooperating with prosecutors in a California mass shooting case could have a wider effect.", 
+  "headline": {
+    "main": "Apple Faces U.S. Demand to Unlock 9 More iPhones", 
+    "print_headline": "Justice Dept. Wants Apple to Unlock More Phones  "
+  }, 
+  "abstract": "Justice Dept is demanding Apple's assistance in unlocking at least nine iPhones nationwide in addition to phone used by San Bernardino gunman, citing 1789 law; Apple is battling government's demands in at least seven of other nine cases.", 
+  "print_page": "1", 
+  "word_count": "849", 
+  "_id": "56cd0d2138f0d838c6ea4bc5", 
+  "snippet": "The disclosure seems to bolster the company\u2019s position that cooperating with prosecutors in a California mass shooting case could have a wider effect.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/24/technology/justice-department-wants-apple-to-unlock-nine-more-iphones.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/24/business/24APPLEsub/24APPLEsub-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/24/business/24APPLEsub/24APPLEsub-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/24/business/24APPLEsub/24APPLEsub-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/24/business/24APPLEsub/24APPLEsub-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/24/business/24APPLEsub/24APPLEsub-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/24/business/24APPLEsub/24APPLEsub-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Eric Lichtblau reported from Washington, and Joseph Goldstein from New York. Al Baker contributed reporting from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Joseph", 
+        "lastname": "GOLDSTEIN"
+      }
+    ], 
+    "original": "By ERIC LICHTBLAU and JOSEPH GOLDSTEIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-24T00:00:00Z", 
+  "section_name": "Technology"
+}

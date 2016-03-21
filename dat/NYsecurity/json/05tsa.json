@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The decision to mandate extra scrutiny for people from 14 mostly Muslim nations provoked criticism from foreign officials and skepticism from some security experts.", 
+  "headline": {
+    "main": "New Air Security Checks From 14 Nations to U.S. Draw Criticism", 
+    "print_headline": "New Air Security Checks From 14 Nations to U.S. Draw Criticism"
+  }, 
+  "abstract": null, 
+  "print_page": "10", 
+  "word_count": "879", 
+  "_id": "54246e6538f0d8525e453537", 
+  "snippet": "The decision to mandate extra scrutiny for people from 14 mostly Muslim nations provoked criticism from foreign officials and skepticism from some security experts.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/05/us/05tsa.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/01/05/us/05tsa_CA0/thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/01/05/us/05tsa_CA0/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Islam", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Bombs and Explosives", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Flora Fair and Sarah Maslin Nir contributed reporting from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-05T00:00:00Z", 
+  "section_name": "U.S."
+}

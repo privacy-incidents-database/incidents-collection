@@ -1,0 +1,92 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The National Security Agency\u2019s efforts to lead cybersecurity programs are prompting privacy and civil liberties concerns.", 
+  "headline": {
+    "main": "Control of Cybersecurity Becomes Divisive Issue", 
+    "print_headline": "Control of Cybersecurity Becomes Divisive Issue"
+  }, 
+  "abstract": null, 
+  "print_page": "18", 
+  "word_count": "926", 
+  "_id": "54698f5e38f0d8317bec142f", 
+  "snippet": "The National Security Agency\u2019s efforts to lead cybersecurity programs are prompting privacy and civil liberties concerns.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/04/17/us/politics/17cyber.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "National Security Agency", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Surveillance of Citizens by Government", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "United States Politics and Government", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "8", 
+      "is_major": "N", 
+      "value": "Civil Rights and Liberties", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "9", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "James", 
+        "rank": 1, 
+        "lastname": "RISEN"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Eric", 
+        "rank": 2, 
+        "lastname": "LICHTBLAU"
+      }
+    ], 
+    "original": "By JAMES RISEN and ERIC LICHTBLAU"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-04-17T00:00:00Z", 
+  "section_name": "U.S."
+}

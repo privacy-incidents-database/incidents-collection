@@ -1,0 +1,58 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Retirement", 
+  "lead_paragraph": "FORGET, for a moment, the rhetoric from President Bush and his Democratic opponents over Social Security. Like actors in a Japanese Kabuki play, both sides spar constantly over generalities but hint only vaguely about the specific choices that lie just below the surface.", 
+  "headline": {
+    "main": "Pros vs. Cons: A Guide to the Debate", 
+    "kicker": "SOCIAL SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "10", 
+  "word_count": 1560, 
+  "_id": "4fd25dfc8eb7c8105d80cda7", 
+  "snippet": "Both sides of the debate on social security reform often express themselves in the jargon of benefit formulas and actuarial analysis. Here is a guide to the debate.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/04/12/business/retirement/12andrews.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "CONGRESSIONAL BUDGET OFFICE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WAGES AND SALARIES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SOCIAL SECURITY (US)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PENSIONS AND RETIREMENT PLANS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "RETIREMENT"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Edmund", 
+        "middlename": "L.", 
+        "lastname": "ANDREWS", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By EDMUND L. ANDREWS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-04-12T00:00:00Z", 
+  "section_name": "Job Market"
+}

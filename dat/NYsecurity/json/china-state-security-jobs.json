@@ -1,0 +1,136 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "An advertisement on a career website at a Chinese university offers a glimpse into what skills the state security system finds valuable for employees.", 
+  "headline": {
+    "main": "Speak Uighur? Have Good Vision? China\u2019s Security Services Want You", 
+    "kicker": "Sinosphere", 
+    "content_kicker": "Sinosphere"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "707", 
+  "_id": "56c712c738f0d809a189beb7", 
+  "snippet": "An advertisement on a career website at a Chinese university offers a glimpse into what skills the state security system finds valuable for employees.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/20/world/asia/china-state-security-jobs.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/20/world/20chinajobs-web1/20chinajobs-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/20/world/20chinajobs-web1/20chinajobs-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/20/world/20chinajobs-web1/20chinajobs-web1-articleLarge.jpg", 
+      "height": 380, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/20/world/20chinajobs-web1/20chinajobs-web1-articleLarge.jpg", 
+        "xlargeheight": "380"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/20/world/20chinajobs-web1/20chinajobs-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/20/world/20chinajobs-web1/20chinajobs-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "Labor and Jobs", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "East China Normal University", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Shanghai State Security Bureau", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Colleges and Universities", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Espionage and Intelligence Services", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Uighurs (Chinese Ethnic Group)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Ministry of State Security of the People's Republic of China", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Online Advertising", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Japanese Language", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Didi", 
+        "middlename": "Kirsten", 
+        "lastname": "TATLOW", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By DIDI KIRSTEN TATLOW"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-20T00:00:00Z", 
+  "section_name": "World"
+}

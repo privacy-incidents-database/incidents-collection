@@ -1,0 +1,75 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "There seemed to be little second-guessing of the broad security alert in response to a man smoking on a plane.", 
+  "headline": {
+    "main": "Few Worry About Overreaction on Jet", 
+    "print_headline": "Few Worry"
+  }, 
+  "abstract": null, 
+  "print_page": "", 
+  "word_count": "1201", 
+  "_id": "5444e9fb38f0d82782d9c3e4", 
+  "snippet": "There seemed to be little second-guessing of the broad security alert in response to a man smoking on a plane.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/04/10/us/10plane.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/04/09/us/09plane_CA0/09plane_CA0-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/04/09/us/09plane_CA0/09plane_CA0-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Matthew L. Wald contributed reporting from Washington, and Michael Slackman from Doha, Qatar.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Scott", 
+        "rank": 1, 
+        "lastname": "SHANE"
+      }
+    ], 
+    "original": "By SCOTT SHANE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-04-10T00:00:00Z", 
+  "section_name": "U.S."
+}

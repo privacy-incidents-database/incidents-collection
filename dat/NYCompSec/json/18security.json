@@ -1,0 +1,89 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Security expects say that new hacking threats from smartphone and Web links require a new generation of tools.", 
+  "headline": {
+    "main": "Deploying New Tools to Stop the Hackers", 
+    "print_headline": "Deploying New Tools To Stop the Hackers"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1208", 
+  "_id": "540eded938f0d863ce5a5547", 
+  "snippet": "Security expects say that new hacking threats from smartphone and Web links require a new generation of tools.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/18/technology/18security.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2011/06/18/business/Security/Security-articleLarge.jpg", 
+      "height": 345, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2011/06/18/business/Security/Security-articleLarge.jpg", 
+        "xlargeheight": "345"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/06/18/business/Security/Security-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/06/18/business/Security/Security-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hackers (Computers)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Symantec Corp", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Christopher", 
+        "lastname": "DREW"
+      }, 
+      {
+        "firstname": "Verne", 
+        "middlename": "G.", 
+        "lastname": "KOPYTOFF", 
+        "rank": 2, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By CHRISTOPHER DREW and VERNE G. KOPYTOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-18T00:00:00Z", 
+  "section_name": "Technology"
+}

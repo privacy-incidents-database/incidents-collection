@@ -1,0 +1,68 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Hector Xavier Monsegur, who helped authorities indict members of the hacker collective Anonymous, has been denounced as a \u201ctraitor\u201d and a \u201csnitch.\u201d", 
+  "headline": {
+    "main": "Hacker Group Lashes Out Against Informant", 
+    "print_headline": "Hacker Group Lashes Out Against Informant"
+  }, 
+  "abstract": null, 
+  "print_page": "", 
+  "word_count": "401", 
+  "_id": "538140e038f0d86b9becf749", 
+  "snippet": "Hector Xavier Monsegur, who helped authorities indict members of the hacker collective Anonymous, has been denounced as a \u201ctraitor\u201d and a \u201csnitch.\u201d", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/05/25/nyregion/hacker-group-lashes-out-against-informant.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Hammond, Jeremy", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Anonymous (Internet Group)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Monsegur, Hector Xavier", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-05-25T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

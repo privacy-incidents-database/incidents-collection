@@ -1,0 +1,120 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Despite repeated mandates from Congress, the U.S. still has no reliable system for verifying that foreign visitors on temporary visas have left the country.", 
+  "headline": {
+    "main": "U.S. Can\u2019t Trace Foreign Visitors on Expired Visas", 
+    "sub": "No System Yet to Verify Tourists Are Leaving as Expected ;", 
+    "print_headline": "U.S. CAN\u2019T TRACE FOREIGN VISITORS ON EXPIRED VISAS"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1303", 
+  "_id": "54572c9538f0d86ef22a14a3", 
+  "snippet": "Despite repeated mandates from Congress, the U.S. still has no reliable system for verifying that foreign visitors on temporary visas have left the country.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/10/12/us/12visa.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2009/10/12/us/visa1-XL.jpg", 
+      "height": 450, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2009/10/12/us/visa1-XL.jpg", 
+        "xlargeheight": "450"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2009/10/12/us/visa75.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/10/12/us/visa75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Immigration and Emigration", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Visas", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Illegal Immigrants", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Smadi, Hosam Maher Husein", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Dallas (Tex)", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "8", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "qualifier": "Jr.", 
+        "firstname": "James", 
+        "middlename": "C.", 
+        "lastname": "McKINLEY", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Julia", 
+        "rank": 2, 
+        "lastname": "PRESTON"
+      }
+    ], 
+    "original": "By JAMES C. McKINLEY Jr. and JULIA PRESTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-10-12T00:00:00Z", 
+  "section_name": "U.S."
+}

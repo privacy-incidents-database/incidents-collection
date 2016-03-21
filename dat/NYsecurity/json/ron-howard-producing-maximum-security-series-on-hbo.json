@@ -1,0 +1,56 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Society Desk", 
+  "lead_paragraph": "Hollywood production companies have relied on most of the city's smarter restaurants to hold luncheons and cocktail parties to announce upcoming films and television shows. But last week producers turned to the recently closed Lincoln Heights jail in downtown Los Angeles for a news conference to introduce the principals involved in creating ''Maximum Security,'' a series that will begin on Home Box Office, the pay-cable service, on Tuesday at 10 P.M. The production company had filmed the television series in the abandoned prison last summer, when the temperature in the windowless edifice sometimes climbed to 110 degrees. Robert Desiderio and Geoffrey Lewis star as convicts and Jean Smart plays the prison psychologist in the series, which is produced by Ron Howard's Major H Productions in association with New World Television. The idea for ''Maximum Security'' came from Iris Dugow, HBO's West Coast senior vice president in charge of original programming. ''I wanted to do something that you could not see on network TV,'' Miss Dugow said. ''We could do a prison show with the frankness that the subject required.''", 
+  "headline": {
+    "main": "RON HOWARD PRODUCING 'MAXIMUM SECURITY,' SERIES ON HBO"
+  }, 
+  "abstract": null, 
+  "print_page": "18", 
+  "word_count": 711, 
+  "_id": "4fd159468eb7c8105d63e166", 
+  "snippet": "Hollywood production companies have relied on most of the city's smarter restaurants to hold luncheons and cocktail parties to announce upcoming films and television shows. But last week producers turned to the recently closed Lincoln Heights jail in...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1985/03/04/style/ron-howard-producing-maximum-security-series-on-hbo.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "creative_works", 
+      "value": "MAXIMUM SECURITY (TV PROGRAM)"
+    }, 
+    {
+      "name": "persons", 
+      "value": "HOWARD, RON"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "HOME BOX OFFICE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CABLE TELEVISION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TELEVISION"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Stephen", 
+        "lastname": "FARBER"
+      }
+    ], 
+    "original": "By STEPHEN FARBER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1985-03-04T00:00:00Z", 
+  "section_name": "Style"
+}

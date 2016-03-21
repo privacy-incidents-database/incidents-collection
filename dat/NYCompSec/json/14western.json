@@ -1,0 +1,71 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The company\u2019s move reflects a deeper shift in longstanding unease among executives doing business in China.", 
+  "headline": {
+    "seo": "Google Is Not Alone in Discontent, but Its Threat Stands Out", 
+    "main": "Google Is Not Alone in Discontent, but Its Threat to Leave Stands Out", 
+    "sub": "Google Is Not Alone in Discontent,  But Its Threat Stands Out;", 
+    "print_headline": "Google Is Not Alone in Discontent,\r\nBut Its Threat Stands Out"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1326", 
+  "_id": "5424c55b38f0d8525e453d6d", 
+  "snippet": "The company\u2019s move reflects a deeper shift in longstanding unease among executives doing business in China.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/14/business/global/14western.html", 
+  "multimedia": [], 
+  "subsection_name": "Global Business", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Google Inc", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "China", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Keith Bradsher reported from Hong Kong and David Barboza from Shanghai. Michael Wines contributed reporting from Beijing.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Keith", 
+        "rank": 1, 
+        "lastname": "BRADSHER"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "David", 
+        "rank": 2, 
+        "lastname": "BARBOZA"
+      }
+    ], 
+    "original": "By KEITH BRADSHER  and DAVID BARBOZA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-14T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,130 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The government is portraying its request that Apple open an iPhone used by a terrorist as a one-time demand. Apple sees a much broader issue.", 
+  "headline": {
+    "main": "Narrow Focus May Aid F.B.I. in Apple Case", 
+    "print_headline": "Narrow Focus May Aid F.B.I. in Apple Case"
+  }, 
+  "abstract": "Federal Bureau of Investigation, in demanding Apple grant access to iPhone of San Bernardino gunman, is pursuing narrow focus in case; tactic involves one-time request for alternative operating system for single phone, and could provide advantage for FBI as two sides settle down to protracted legal battle; Apple is presenting its case as broadly as possible.", 
+  "print_page": "1", 
+  "word_count": "1394", 
+  "_id": "56caf1cf38f0d873cb950491", 
+  "snippet": "The government is portraying its request that Apple open an iPhone used by a terrorist as a one-time demand. Apple sees a much broader issue.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/23/technology/apple-unlock-iphone-san-bernardino.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/23/world/23Apple-web/23Apple-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/23/world/23Apple-web/23Apple-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/23/world/23Apple-web/23Apple-web-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/23/world/23Apple-web/23Apple-web-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/23/world/23Apple-web/23Apple-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/23/world/23Apple-web/23Apple-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Katie Benner reported from San Francisco and Matt Apuzzo from Washington. Mike Isaac contributed reporting from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Matt", 
+        "lastname": "APUZZO"
+      }
+    ], 
+    "original": "By KATIE BENNER and MATT APUZZO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-23T00:00:00Z", 
+  "section_name": "Technology"
+}

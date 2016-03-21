@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "New Jersey Weekly Desk", 
+  "lead_paragraph": "JUST how well New Jersey would respond to a biological or chemical attack is a matter of life and death. The short answer is: probably a lot better than it would have a year ago.", 
+  "headline": {
+    "main": "Disaster Plan Less Disastrous", 
+    "kicker": "HOMELAND SECURITY"
+  }, 
+  "abstract": "New Jersey Health Comr Clifton Lacy meets with county public health officials to discuss procedures to follow in event of smallpox outbreak; new procedures are part of larger plan introduced by Lacy to help local, county and state health agencies, hospitals and other healthcare providers deal with chemical or biological attacks; Lacy, commenting on report on terrorism and public health emergency preparedness made public by Gov James McGreevey, says New Jersey is far better prepared today than year ago; photos (M)", 
+  "print_page": "6", 
+  "word_count": 1156, 
+  "_id": "4fd23cf48eb7c8105d7d2cf1", 
+  "snippet": "JUST how well New Jersey would respond to a biological or chemical attack is a matter of life and death.    The short answer is: probably a lot better than it would have a year ago.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/11/03/nyregion/homeland-security-disaster-plan-less-disastrous.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "MCGREEVEY, JAMES E"
+    }, 
+    {
+      "name": "persons", 
+      "value": "LACY, CLIFTON"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW JERSEY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOLOGICAL AND CHEMICAL WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SMALLPOX"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "George", 
+        "lastname": "JAMES"
+      }
+    ], 
+    "original": "By GEORGE JAMES"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-11-03T00:00:00Z", 
+  "section_name": "New York and Region"
+}

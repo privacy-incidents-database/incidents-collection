@@ -1,0 +1,177 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Magazine", 
+  "lead_paragraph": "A decade ago, the ex-spy\u2019s murder captivated the country. Now it\u2019s just background noise.", 
+  "headline": {
+    "main": "Alexander Litvinenko and the Banality of Evil in Putin\u2019s Russia", 
+    "kicker": "Notebook", 
+    "content_kicker": "Notebook"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "897", 
+  "_id": "56a1611e38f0d83189a62ca0", 
+  "snippet": "A decade ago, the ex-spy\u2019s murder captivated the country. Now it\u2019s just background noise.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/21/magazine/alexander-litvinenko-and-the-banality-of-evil-in-putins-russia.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/21/magazine/21mag-poisoning-1/21mag-poisoning-1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/21/magazine/21mag-poisoning-1/21mag-poisoning-1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/21/magazine/21mag-poisoning-1/21mag-poisoning-1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/21/magazine/21mag-poisoning-1/21mag-poisoning-1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/21/magazine/21mag-poisoning-1/21mag-poisoning-1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/21/magazine/21mag-poisoning-1/21mag-poisoning-1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Murders, Attempted Murders and Homicides", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "May, Theresa M", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Medvedev, Dmitri A", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Nemtsov, Boris Y", 
+      "is_major": "N", 
+      "rank": "13", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Owen, Robert V", 
+      "is_major": "N", 
+      "rank": "14", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Putin, Vladimir V", 
+      "is_major": "N", 
+      "rank": "15", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Russia", 
+      "is_major": "N", 
+      "rank": "16", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "17", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Poisoning and Poisons", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Assassinations and Attempted Assassinations", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Security Service", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Politkovskaya, Anna", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Magnitsky, Sergei L", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Litvinenko, Alexander V", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Kadyrov, Ramzan", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Lugovoi, Andrei K", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Julia", 
+        "lastname": "IOFFE"
+      }
+    ], 
+    "original": "By JULIA IOFFE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-21T00:00:00Z", 
+  "section_name": "Magazine"
+}

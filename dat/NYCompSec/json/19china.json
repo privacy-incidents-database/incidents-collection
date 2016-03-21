@@ -1,0 +1,83 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Experts traced attacks on Google and other corporations to two schools in China, including one with military ties.", 
+  "headline": {
+    "seo": "2 Chinese Schools Said to Be Linked to Online Attacks", 
+    "main": "2 China Schools Said to Be Tied to Online Attacks", 
+    "print_headline": "Inquiry Is Said to Link Attack On Google to Chinese Schools"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1104", 
+  "_id": "5442fd4338f0d8246e88c96a", 
+  "snippet": "Experts traced attacks on Google and other corporations to two schools in China, including one with military ties.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/02/19/technology/19china.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/02/19/business/19china_CA0/19china_CA0-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/02/19/business/19china_CA0/19china_CA0-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "China", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Google Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "John Markoff reported from San Francisco and David Barboza from Shanghai. Bao Beibei and Chen Xiaoduan in Shanghai contributed research.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "David", 
+        "lastname": "BARBOZA"
+      }
+    ], 
+    "original": "By JOHN MARKOFF  and  DAVID BARBOZA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-02-19T00:00:00Z", 
+  "section_name": "Technology"
+}

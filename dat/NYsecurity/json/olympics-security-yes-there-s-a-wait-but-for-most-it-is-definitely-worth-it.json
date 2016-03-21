@@ -1,0 +1,65 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Sports Desk", 
+  "lead_paragraph": "F-16 fighter jets and helicopters patrolled the night sky. Salt Lake City International Airport was closed for the duration of the opening ceremony for the Olympic Winter Games tonight, a strict no-flight zone enforced before, during and after the festivities. Nearly 300 yellow-and-black-jacketed local law enforcement officers from around the nation have been brought in to bolster the Secret Service, the F.B.I. and every domestic and international security agency imaginable. One of those officers, Mark Boger, a Fairfax, Va., sheriff, drove 2,220 miles with a carload of other volunteers from his town with one mission: to guard the opening ceremony.", 
+  "headline": {
+    "main": "Yes, There's a Wait, but for Most It Is Definitely Worth It", 
+    "kicker": "OLYMPICS: SECURITY"
+  }, 
+  "abstract": "Article describes security measures in place for opening ceremony of 2002 Winter Games; security is especially tight with Pres Bush in attendance (M)", 
+  "print_page": "3", 
+  "word_count": 697, 
+  "_id": "4fd21b928eb7c8105d79a829", 
+  "snippet": "F-16 fighter jets and helicopters patrolled the night sky. Salt Lake City International Airport was closed for the duration of the opening ceremony for the Olympic Winter Games tonight, a strict no-flight zone enforced before, during and after the...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/02/09/sports/olympics-security-yes-there-s-a-wait-but-for-most-it-is-definitely-worth-it.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "SALT LAKE CITY (UTAH)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WINTER GAMES (OLYMPICS)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "OLYMPIC GAMES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "OLYMPIC GAMES (2002)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Mike", 
+        "lastname": "WISE"
+      }
+    ], 
+    "original": "By MIKE WISE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-02-09T00:00:00Z", 
+  "section_name": "Sports"
+}

@@ -1,0 +1,118 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Senators John D. Rockefeller IV, and Richard Blumenthal said Target&#8217;s failure to heed warning signs of incursions by cybercriminals was the fault of its top executives and board.", 
+  "headline": {
+    "main": "Target Had Chance to Stop Breach, Senators Say", 
+    "print_headline": "Target Had Chance to Stop Breach, Senators Say"
+  }, 
+  "abstract": "Democratic Sens John D Rockefeller IV and Richard Blumenthal criticize Target\u2019s management for not stopping a huge data breach of its systems, citing several missed opportunities to thwart attack; criticism comes amid apologetic testimony before the Senate Commerce Committee from Target chief financial officer John J Mulligan.", 
+  "print_page": "10", 
+  "word_count": "700", 
+  "_id": "5333701f38f0d87e2de04985", 
+  "snippet": "Senators John D. Rockefeller IV, and Richard Blumenthal said Target&#8217;s failure to heed warning signs of incursions by cybercriminals was the fault of its top executives and board.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/03/27/business/target-had-chance-to-stop-breach-senators-say.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2014/03/27/business/Target/Target-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2014/03/27/business/Target/Target-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2014/03/27/business/Target/Target-articleLarge.jpg", 
+      "height": 401, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2014/03/27/business/Target/Target-articleLarge.jpg", 
+        "xlargeheight": "401"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2014/03/27/business/Target/Target-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2014/03/27/business/Target/Target-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Rockefeller, John D IV", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Blumenthal, Richard", 
+      "is_major": "Y", 
+      "rank": "7", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Mulligan, John J", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Target Corporation", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Senate Committee on Commerce, Science, and Transportation", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "Elizabeth", 
+        "middlename": "A.", 
+        "lastname": "HARRIS", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By ELIZABETH A. HARRIS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-03-27T00:00:00Z", 
+  "section_name": "Business Day"
+}

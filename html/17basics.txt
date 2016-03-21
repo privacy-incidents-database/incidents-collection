@@ -1,0 +1,696 @@
+
+  
+
+
+
+
+Putting a Private Detective in Your Laptop - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Personal Tech|Putting a Private Detective in Your Laptop
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Personal Tech 
+Putting a Private Detective in Your Laptop
+
+By ERIC A. TAUBJUNE 16, 2010
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+James Butler recovered his stolen laptop a month after it was stolen from his car. 
+
+Credit
+            Hiroko Masuike for The New York Times        
+
+
+Baruch Sienna figured his teenage son’s laptop was gone forever. During a party in Israel, a thief had taken his MacBook, and there were no witnesses.“The police were very unhelpful,” Mr. Sienna said, speaking from Jerusalem. “They said, ‘You’ll never see your laptop again.’ ”But the son was fortunate that his father had installed Undercover, an antitheft program, on his computer. He remotely activated the software, which grabbed screen shots of the thief’s online activities, while the Mac’s built-in camera shot pictures of him. After eight months of activity on the Mac, the software had given police enough information to identify the thief and put the MacBook back in Mr. Sienna’s hands.For the very reason you like to carry laptops, iPads, e-book readers and smartphones — they are lightweight and portable — they are easy to steal or misplace. The 2009 Computer Security Institute Computer Crime and Security Survey found that 42 percent of respondents had lost a laptop or other portable device to a thief in the last year. According to a study  by the Ponemon Institute, 12,000 laptops are lost each week in American airports. Most people assume they are gone for good; only a third of those turned in to the airports’ lost-and-found departments are reclaimed.You can keep an eye on your devices and not leave them visible and unattended, but they might best be protected with some software. A number of good programs are available for laptops, phones and tablets. Many will try to locate the computer when it is connected to the Internet. Others log keystrokes, take snapshots of Web pages visited, monitor e-mail being written and even take a picture of the user with the device’s built-in Webcam.
+
+Advertisement
+
+Continue reading the main story
+
+In addition, some software can lock down the computer and display on-screen messages letting the user (who may not be the thief) know the device has been stolen and where to return it.All antitheft manufacturers claim recovery rates in the 90 percent range. None of the companies contacted could document this, and some recoveries may be incidental to the presence of the antitheft software. Continue reading the main story
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+AdeonaCreated by faculty and students at the University of Washington, Adeona reports the Internet address that the laptop is using, takes photos of the user (in the Mac version only) and provides information on the user’s current wireless access point.Adeona is open-source software, so others can add their own features. While the software is available free for Linux, Mac and Windows, the university does not recommend its use until further testing is completed.GadgetTrakAvailable for Mac and Windows PCs, with versions for BlackBerrys, iPhones and Windows Mobile phones, all priced at  $24.95 a year with multiyear discounts available, GadgetTrak takes a photo of the user with the computer’s Webcam, either every 30 minutes or whenever the computer is awakened from sleep. Pictures, along with location data gleaned from Skyhook, which triangulates cellphone tower locations and GPS data, are sent to the user’s Flickr account (and for security, not to GadgetTrak itself); the user can create a map of the laptop’s location.While ActiveTrak, the maker, says the tracking is accurate down to 10 meters, in one of my tests the computer was hundreds of yards away on an adjacent street. (In another, it determined my exact address.)
+Photo
+
+
+
+
+
+
+GadgetTrack uses a laptop’s Webcam to take regular photographs of a user, then combines the photos with data on the computer’s location. 
+
+
+Laptop Cop“We record everything,” said Tom Bilyeu, the chief marketing officer of Awareness Technologies, the maker of Laptop Cop. That includes every keystroke, user name and password, and all Web sites.Laptop Cop ($49.95 a year or $99.95 for three years; Windows only, with mobile versions scheduled in four months) also gives its customers the ability to selectively lock out, delete and retrieve data. As a result, even if the laptop is not recoverable, one’s data often is.
+
+Advertisement
+
+Continue reading the main story
+
+As with other programs, users can also send commands to make messages appear on the screen, such as, “Give me my laptop back, you crook, or you’re going to jail.” (That is probably the last step you want to take. A warning will most likely encourage the thief to stay off the Internet to avoid being found.)LoJack for LaptopsOne of the best-selling antitheft packages, with 1.2 million users in 51 countries, LoJack for Laptops ($39.99 to $59.99; Macs and PCs, plus corporate smartphones) monitors a device’s activities once a laptop is reported stolen. When Absolute Software, the company that licenses the LoJack name from the maker of auto-theft tracking devices, gathers enough information to identify the thief, it notifies the local police.Unlike its competitors, Absolute Software does not release any specific information to the device’s owner, who pays a minimum of $40 a year for its services. Rather, one of its 40 former police officers on staff report their findings to local authorities.That was fine for James Butler, a New Jersey limo driver whose laptop was stolen from his car while he was picking up customers  in Manhattan. (A month after the theft, Mr. Butler’s laptop was returned. It had been sold on the Internet to an innocent person in Boston.)“It makes sense to have the company deal with it,” Mr. Butler said. “You don’t know what you’re walking into; someone could have other stolen merchandise as well.”UndercoverAvailable for Macs and iPhones, Undercover takes pictures of a laptop’s user every time the device is turned on. Once the machine is connected to the Internet, it uploads those photos, as well as screen shots of a user’s activity, every six minutes. The laptop’s location is also noted using Skyhook technology, and all the information is sent to the laptop’s rightful owner, who can pass the information on to the local police.Undercover captures e-mail and Web sites visited, allowing the machine to be tracked. Customers have retrieved their laptops after watching thieves send e-mail, log on to their own Facebook pages and even edit their résumés, said Peter Schols, owner of the parent company, Orbicule. Orbicule charges a one-time $49 fee for one device and $59 for a five-PC site license.When looking for antitheft applications for smartphones, do not expect the same capabilities as found in their much more expensive laptop cousins. Police are not likely to make the retrieval of a smartphone a priority.
+
+Advertisement
+
+Continue reading the main story
+
+Orbicule’s iPad and iPhone software ($4.99) tracks the device’s location. GadgetTrak’s BlackBerry and Windows Mobile apps ($24.95) remotely lock and delete personal data, as well as track the phone’s location. Its iPhone version (free, because of its limited abilities) tricks a user into opening a fake browser, which relays the phone’s location to its rightful owner.There is one effective step anyone can take to secure a portable device’s content: password-protect your machine. But if you use the antitheft software, set up a nonpassword-protected guest account. You will safeguard your data while also making it easy for thieves to keep using your computer and unwittingly be tracked.
+
+ Correction: June 18, 2010  
+An article in the Personal Tech pages on Thursday about software that can help recover stolen laptops and other electronic devices misstated the number of laptops lost each week in American airports, according to a Ponemon Institute study. It is 12,000 — not 17,000. 
+
+
+
+A version of this article appears in print on June 17, 2010, on page B9 of the New York edition with the headline: Putting a Private Detective in Your Laptop.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

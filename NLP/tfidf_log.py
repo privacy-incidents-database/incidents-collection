@@ -47,5 +47,5 @@ def gen_csv(neg,pos):
         log_val.append(float(math.log10(length/v)))
     out.writerow(log_val)
     fin.close()
-    
-gen_csv('tfreq-' + args.library + '/content','tfreq-' + args.library + '/NYnegative')
+
+gen_csv('tfreq-' + args.library + '/content','tfreq-' + args.library + '/NYCompSec')

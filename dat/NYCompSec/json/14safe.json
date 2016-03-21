@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The T\u00e2ke Personal Pocket Safe from Blackbox Innovations is like a safety deposit box to hold your critical digital information, including credit card and bank account numbers and all your passwords.", 
+  "headline": {
+    "main": "A Pocket-Size Digital Security Guard That Keeps Your Numbers Secret", 
+    "print_headline": "A Pocket-Size Digital Security Guard That Keeps Your Numbers Secret"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "186", 
+  "_id": "5476c87c38f0d839249023ab", 
+  "snippet": "The T\u00e2ke Personal Pocket Safe from Blackbox Innovations is like a safety deposit box to hold your critical digital information, including credit card and bank account numbers and all your passwords.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/08/14/technology/personaltech/14safe.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2008/08/14/technology/personaltech/14safe.600.jpg", 
+      "height": 208, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2008/08/14/technology/personaltech/14safe.600.jpg", 
+        "xlargeheight": "208"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Personal Tech", 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Stephen", 
+        "middlename": "C.", 
+        "lastname": "MILLER", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By STEPHEN C. MILLER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-08-14T00:00:00Z", 
+  "section_name": "Technology"
+}

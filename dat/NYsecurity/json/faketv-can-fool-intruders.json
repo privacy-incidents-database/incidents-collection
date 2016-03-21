@@ -1,0 +1,96 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Home", 
+  "lead_paragraph": "A new gadget replicates a television\u2019s winking light to scare off prowlers.", 
+  "headline": {
+    "seo": "FakeTV Can Fool Intruders", 
+    "main": "Stay Tuned for Another Flicker", 
+    "kicker": "Security", 
+    "print_headline": "Stay Tuned For Another Flicker", 
+    "content_kicker": "Currents | Security"
+  }, 
+  "abstract": "Engineer Blaine Readler has created FakeTV, security gadget that tricks potential burglars into thinking someone is home by replicating flickering light from television; device saves electricity as well as wear and tear on real TV.", 
+  "print_page": "3", 
+  "word_count": "159", 
+  "_id": "510a364100315214fbb8826a", 
+  "snippet": "A new gadget replicates a television\u2019s winking light to scare off prowlers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/01/31/garden/faketv-can-fool-intruders.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/01/31/garden/31SECURITY/31CURR5-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/01/31/garden/31SECURITY/31CURR5-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/01/31/garden/31SECURITY/31CURR5-articleLarge.jpg", 
+      "height": 510, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/01/31/garden/31SECURITY/31CURR5-articleLarge.jpg", 
+        "xlargeheight": "510"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2013/01/31/garden/31SECURITY/31CURR5-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2013/01/31/garden/31SECURITY/31CURR5-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Television", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Readler, Blaine", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joyce", 
+        "lastname": "COHEN"
+      }
+    ], 
+    "original": "By JOYCE COHEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-01-31T00:00:00Z", 
+  "section_name": "Home & Garden"
+}

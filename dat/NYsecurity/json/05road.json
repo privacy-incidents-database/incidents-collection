@@ -1,0 +1,73 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Given the routine at airport checkpoints, it is no wonder 27,000 people signed up in Florida for the Registered Traveler program.", 
+  "headline": {
+    "main": "Registered Traveler Program Appears Ready to Take Off", 
+    "print_headline": "Registered Traveler Program Appears Ready to Take Off"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "785", 
+  "_id": "54b1649338f0d87f81146726", 
+  "snippet": "Given the routine at airport checkpoints, it is no wonder 27,000 people signed up in Florida for the Registered Traveler program.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/09/05/business/05road.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Identification Devices", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Orlando (Fla)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-09-05T00:00:00Z", 
+  "section_name": "Business Day"
+}

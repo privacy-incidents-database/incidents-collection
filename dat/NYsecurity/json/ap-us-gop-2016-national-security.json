@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Republican national security leaders and experts have assailed GOP presidential candidate Donald Trump as unfit to be commander in chief, calling him dishonest and describing his positions on key issues as dangerous and uninformed.", 
+  "headline": {
+    "main": "Conservative National Security Leaders Unite to Oppose Trump", 
+    "print_headline": "Conservative National Security Leaders Unite to Oppose Trump"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "604", 
+  "_id": "56d8762e38f0d810eb12c597", 
+  "snippet": "Republican national security leaders and experts have assailed GOP presidential candidate Donald Trump as unfit to be commander in chief, calling him dishonest and describing his positions on key issues as dangerous and uninformed.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/03/us/politics/ap-us-gop-2016-national-security.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-03T12:33:24Z", 
+  "section_name": "U.S."
+}

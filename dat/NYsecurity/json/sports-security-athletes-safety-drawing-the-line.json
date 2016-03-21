@@ -1,0 +1,38 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Sports Desk", 
+  "lead_paragraph": "Steffi Graf said yesterday that she would play in the Citizen Cup tournament in Hamburg, Germany, today despite an anonymous threat to harm her. A fan obsessively devoted to Graf stabbed Monica Seles in the back at the same tournament last year. The police in Hamburg said they had received an anonymous letter threatening an even more dire attack on Graf if she plays in this year's tournament, which began yesterday amid extenssive security.", 
+  "headline": {
+    "main": "Athletes' Safety: Drawing the Line", 
+    "kicker": "SPORTS SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "15", 
+  "word_count": 629, 
+  "_id": "4fd1be208eb7c8105d6eb315", 
+  "snippet": "Steffi Graf said yesterday that she would play in the Citizen Cup tournament in Hamburg, Germany, today despite an anonymous threat to harm her.   A fan obsessively devoted to Graf stabbed Monica Seles in the back at the same tournament last year....", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1994/04/26/sports/sports-security-athletes-safety-drawing-the-line.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "GRAF, STEFFI"
+    }, 
+    {
+      "name": "subject", 
+      "value": "THREATS AND THREATENING MESSAGES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TENNIS"
+    }
+  ], 
+  "byline": null, 
+  "document_type": "article", 
+  "pub_date": "1994-04-26T00:00:00Z", 
+  "section_name": "Sports"
+}

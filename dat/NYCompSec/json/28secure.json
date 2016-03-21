@@ -1,0 +1,51 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A new system of guidance unveiled on Monday by the Homeland Security Department is intended to reduce programming errors that make Web sites susceptible to hacking.", 
+  "headline": {
+    "seo": "U.S. Guidelines Aim to Bolster Software Security", 
+    "main": "U.S. Guidelines Aim to Bolster Software Security", 
+    "print_headline": "U.S. Guidelines Aim to Bolster Software Security"
+  }, 
+  "abstract": null, 
+  "print_page": "", 
+  "word_count": "663", 
+  "_id": "540f275938f0d87641c6770e", 
+  "snippet": "A new system of guidance unveiled on Monday by the Homeland Security Department is intended to reduce programming errors that make Web sites susceptible to hacking.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/28/technology/28secure.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Christine Hauser contributed reporting.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Riva", 
+        "lastname": "RICHMOND"
+      }
+    ], 
+    "original": "By RIVA RICHMOND"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-28T00:00:00Z", 
+  "section_name": "Technology"
+}

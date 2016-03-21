@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "At the invitation of election officials, a University of Michigan team altered votes and inserted a fight song.", 
+  "headline": {
+    "seo": "Hacking Into Washington\u2019s Online Voting Experiment", 
+    "main": "Voting Test Falls Victim to Hackers", 
+    "print_headline": "Voting Test Falls Victim To Hackers"
+  }, 
+  "abstract": null, 
+  "print_page": "12", 
+  "word_count": "467", 
+  "_id": "541b7d8b38f0d8296cb0fadc", 
+  "snippet": "At the invitation of election officials, a University of Michigan team altered votes and inserted a fight song.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/10/09/us/politics/09vote.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Washington (DC)", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Voting and Voters", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "University of Michigan", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Sarah", 
+        "rank": 1, 
+        "lastname": "WHEATON"
+      }
+    ], 
+    "original": "By SARAH WHEATON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-10-09T00:00:00Z", 
+  "section_name": "U.S."
+}

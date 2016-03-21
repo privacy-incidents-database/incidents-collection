@@ -1,0 +1,77 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "EdLife", 
+  "lead_paragraph": "The events of 9/11 gave birth to specialized programs designed to school students in protection against domestic and international terrorism.", 
+  "headline": {
+    "main": "Safety First", 
+    "kicker": "Homeland Security", 
+    "print_headline": "Safety First", 
+    "content_kicker": "Homeland Security"
+  }, 
+  "abstract": null, 
+  "print_page": "18", 
+  "word_count": "767", 
+  "_id": "5424537f38f0d8525e4532c9", 
+  "snippet": "The events of 9/11 gave birth to specialized programs designed to school students in protection against domestic and international terrorism.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/03/education/edlife/03homeland.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/01/03/education/03homeart/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/01/03/education/03homeart/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Education Life", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Education and Schools", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Careers and Professions", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Police", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Cecilia", 
+        "middlename": "Capuzzi", 
+        "lastname": "SIMON", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By CECILIA CAPUZZI SIMON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-03T00:00:00Z", 
+  "section_name": "Education"
+}

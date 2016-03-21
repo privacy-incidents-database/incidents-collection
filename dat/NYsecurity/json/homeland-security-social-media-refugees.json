@@ -1,0 +1,134 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Experts say the effort faces technical, language and other hurdles, while immigration rights advocates say it could ensnare innocent people.", 
+  "headline": {
+    "main": "U.S. to Further Scour Social Media Use of Visa and Asylum Seekers", 
+    "print_headline": "U.S. Faces Challenges in More Thoroughly Screening Visa and Asylum Applicants"
+  }, 
+  "abstract": "Homeland Security Dept is working on creating new policy for vigorously examining social media accounts of visa applicants and those wanting asylum or refugee status in United States, seeking possible links to terrorist groups.", 
+  "print_page": "9", 
+  "word_count": "1132", 
+  "_id": "56cc4c2338f0d80fb3eb2493", 
+  "snippet": "Experts say the effort faces technical, language and other hurdles, while immigration rights advocates say it could ensnare innocent people.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/24/us/politics/homeland-security-social-media-refugees.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/24/us/24social-web/24social-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/24/us/24social-web/24social-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/24/us/24social-web/24social-web-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/24/us/24social-web/24social-web-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/24/us/24social-web/24social-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/24/us/24social-web/24social-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Social Media", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Immigration and Emigration", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Refugees and Displaced Persons", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Visas", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Asylum, Right of", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Citizenship and Immigration Services (US)", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Johnson, Jeh C", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ron", 
+        "lastname": "NIXON"
+      }
+    ], 
+    "original": "By RON NIXON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-24T00:00:00Z", 
+  "section_name": "U.S."
+}

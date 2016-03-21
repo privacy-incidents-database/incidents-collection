@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The Transportation Security Administration chief said that the agency would consider changes to its new security measures.", 
+  "headline": {
+    "main": "Administration to Seek Balance in Airport Screening", 
+    "print_headline": "Some Suggest U.S. Look at Israeli Airport Screening Methods"
+  }, 
+  "abstract": null, 
+  "print_page": "24", 
+  "word_count": "1005", 
+  "_id": "5420e05b38f0d81f7a600b0f", 
+  "snippet": "The Transportation Security Administration chief said that the agency would consider changes to its new security measures.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/11/23/us/23tsa.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2010/11/23/us/TSA/TSA-articleLarge.jpg", 
+      "height": 350, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/11/23/us/TSA/TSA-articleLarge.jpg", 
+        "xlargeheight": "350"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2010/11/22/us/JP-TSA/JP-TSA-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/11/22/us/JP-TSA/JP-TSA-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Obama, Barack", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Airports", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Helene", 
+        "rank": 1, 
+        "lastname": "COOPER"
+      }
+    ], 
+    "original": "By HELENE COOPER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-11-23T00:00:00Z", 
+  "section_name": "U.S."
+}

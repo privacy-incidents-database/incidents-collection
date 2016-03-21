@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "The president of Turkmenistan has reshuffled senior security officials amid continued tension in neighboring Afghanistan.", 
+  "headline": {
+    "main": "President of Turkmenistan Reshuffles Security Officials", 
+    "print_headline": "President of Turkmenistan Reshuffles Security Officials"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "112", 
+  "_id": "56d71ddc38f0d8655e09ba22", 
+  "snippet": "The president of Turkmenistan has reshuffled senior security officials amid continued tension in neighboring Afghanistan.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/02/world/europe/ap-eu-turkmenistan-security-.html", 
+  "multimedia": [], 
+  "subsection_name": "Europe", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-02T12:04:07Z", 
+  "section_name": "World"
+}

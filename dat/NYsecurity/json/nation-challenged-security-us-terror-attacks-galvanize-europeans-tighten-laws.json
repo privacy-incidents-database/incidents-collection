@@ -1,0 +1,105 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "European governments have reacted to the terrorist attacks in the United States by proposing new laws that are in many cases tougher and more restrictive than the ones they instituted in response to terrorism at home. In rapid succession, France has expanded police powers to search private property without warrants, Spain has curbed organizations associated with the Basque guerrilla group E.T.A., and the European Council has moved to create a pan-European arrest warrant and a common definition of ''terrorist crime.''", 
+  "headline": {
+    "main": "U.S. Terror Attacks Galvanize Europeans to Tighten Laws", 
+    "kicker": "A NATION CHALLENGED: SECURITY"
+  }, 
+  "abstract": "European governments react to terrorist attacks in United States by proposing new laws that are tougher and more restrictive than ones they instituted in response to terrorism at home; France expands police powers to search private property without warrants, Spain curbs organizations associated with Basque guerrilla group ETA, and European Council moves to create pan-European arrest warrant and common definition of 'terrorist crime'; Germany loosens restraints on phone tapping and monitoring of e-mail and bank records and frees up once-proscribed communication between police and secret services; debate over restricting civil liberties in name of fighting terrorism is not as heated in Europe as in US, but tightening up since Sept 11 in countries that have faced terrorist bombings and assassinations continually over last three decades does provoke some argument; photo (M)", 
+  "print_page": "1", 
+  "word_count": 1149, 
+  "_id": "4fd2292a8eb7c8105d7b2bef", 
+  "snippet": "European governments have reacted to the terrorist attacks in the United States by proposing new laws that are in many cases tougher and more restrictive than the ones they instituted in response to terrorism at home.    In rapid succession, France...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2001/12/06/world/nation-challenged-security-us-terror-attacks-galvanize-europeans-tighten-laws.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "GERMANY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "EUROPE"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "SPAIN"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "FRANCE"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "ETA"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ASSASSINATIONS AND ATTEMPTED ASSASSINATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ELECTRONIC MAIL"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOMBS AND EXPLOSIVES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BASQUES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FREEDOM AND HUMAN RIGHTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WIRETAPPING AND OTHER EAVESDROPPING DEVICES AND METHODS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Warren", 
+        "lastname": "HOGE"
+      }
+    ], 
+    "original": "By WARREN HOGE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2001-12-06T00:00:00Z", 
+  "section_name": "World"
+}

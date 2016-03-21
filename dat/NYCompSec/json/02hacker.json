@@ -1,0 +1,94 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A young hacker let a reporter into his world of trolling for information that may one day be worth money.", 
+  "headline": {
+    "seo": "In China Underworld, Hacking for Fun and Profit", 
+    "main": "Hacking for Fun and Profit in China\u2019s Underworld", 
+    "print_headline": "Hacking for Fun and Profit in China Underworld"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1281", 
+  "_id": "5438452e38f0d83c143b93f3", 
+  "snippet": "A young hacker let a reporter into his world of trolling for information that may one day be worth money.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/02/02/business/global/02hacker.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2010/02/02/business/02hacker_CA0/articleLarge.jpg", 
+      "height": 330, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/02/02/business/02hacker_CA0/articleLarge.jpg", 
+        "xlargeheight": "330"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2010/02/02/business/02hacker_CA0/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/02/02/business/02hacker_CA0/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Global Business", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "China", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Google Inc", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Computer Malware", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Bao Beibei contributed research from Shanghai, and John Markoff contributed reporting from San Francisco.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "David", 
+        "rank": 1, 
+        "lastname": "BARBOZA"
+      }
+    ], 
+    "original": "By DAVID BARBOZA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-02-02T00:00:00Z", 
+  "section_name": "Business Day"
+}

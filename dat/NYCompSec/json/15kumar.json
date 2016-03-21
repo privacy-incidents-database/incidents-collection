@@ -1,0 +1,60 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Sanjay Kumar, former chief executive of Computer Associates, now known as CA Inc., began serving a 12-year prison term Tuesday.", 
+  "headline": {
+    "main": "Ex-Software Executive Begins Prison Term", 
+    "print_headline": "Ex-Software Executive Begins Prison Term"
+  }, 
+  "abstract": null, 
+  "print_page": "5", 
+  "word_count": "183", 
+  "_id": "54843f0438f0d80df4fa4e03", 
+  "snippet": "Sanjay Kumar, former chief executive of Computer Associates, now known as CA Inc., began serving a 12-year prison term Tuesday.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/08/15/business/15kumar.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Frauds and Swindling", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Associates", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Kumar, Sanjay", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Prisons and Prisoners", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-08-15T00:00:00Z", 
+  "section_name": "Business Day"
+}

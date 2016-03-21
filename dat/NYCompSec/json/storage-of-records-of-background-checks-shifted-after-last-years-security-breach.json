@@ -1,0 +1,111 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A major component of the overhaul will be the creation of a new agency that will process federal background checks, called the National Background Investigations Bureau.", 
+  "headline": {
+    "main": "Storage of Records of Background Checks Shifted After Last Year&#8217;s Security Breach ", 
+    "print_headline": "Storage of Records of Background Checks Shifted After Last Year&#8217;s Security Breach "
+  }, 
+  "abstract": "Obama administration announces Defense Dept will take over storage of personal information and records resulting from federal background checks on government employees, part of response to 2015 cybersecurity breach at Office of Personnel Management that compromised records of more than 20 million people; Pres Obama will request $95 million in 2017 budget for comprehensive overhaul of nation's cybersecurity program, including creation of National Background Investigations Bureau, which will process all federal background checks.", 
+  "print_page": "11", 
+  "word_count": "795", 
+  "_id": "56a2ce3c38f0d85aa1bb1973", 
+  "snippet": "A major component of the overhaul will be the creation of a new agency that will process federal background checks, called the National Background Investigations Bureau.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/23/us/politics/storage-of-records-of-background-checks-shifted-after-last-years-security-breach.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "United States", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Government Employees", 
+      "is_major": "Y", 
+      "rank": "12", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberwarfare and Defense", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Defense and Military Forces", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Office of Personnel Management", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Budget (US)", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Defense Department", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Office of Management and Budget (US)", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "David Sanger contributed reporting.", 
+    "person": [
+      {
+        "firstname": "Julie", 
+        "middlename": "Hirschfeld", 
+        "lastname": "DAVIS", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By JULIE HIRSCHFELD DAVIS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-23T00:00:00Z", 
+  "section_name": "U.S."
+}

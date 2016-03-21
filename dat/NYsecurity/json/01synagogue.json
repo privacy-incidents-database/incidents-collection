@@ -1,0 +1,80 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Gov. David A. Paterson announced that each of the Bronx congregations marked in a bomb plot would get $25,000 from the Department of Homeland Security.", 
+  "headline": {
+    "seo": "2 Bronx Synagogues in Bomb Plot to Get Federal Funds for Security", 
+    "main": "2 Synagogues to Get Money for Security", 
+    "print_headline": "2 Synagogues To Get Money For Security"
+  }, 
+  "abstract": null, 
+  "print_page": "17", 
+  "word_count": "385", 
+  "_id": "545260fd38f0d81b603ec6e6", 
+  "snippet": "Gov. David A. Paterson announced that each of the Bronx congregations marked in a bomb plot would get $25,000 from the Department of Homeland Security.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/06/01/nyregion/01synagogue.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Synagogues", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Bronx (NYC)", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Federal Aid (US)", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Paterson, David A", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Jennifer", 
+        "rank": 1, 
+        "lastname": "MASCIA"
+      }
+    ], 
+    "original": "By JENNIFER MASCIA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-06-01T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

@@ -1,0 +1,17 @@
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/archive/article/us, targetedPage: www.nytimes.com/archive/article/us, position: Bar1
+The nation needs more Federal judges to prevent backlogs and delay in its judicial system, Chief Justice Warren E. Burger says.
+He implied in his 1983 year-end report on the judiciary that too many lawyers were creating too much work for Federal judges.
+''The United States has been described as the most litigious country in the world, but it has fewer judges and more attorneys per thousand people than most of the advanced European countries,'' the Chief Justice said in the report, made public today. ''The judiciary cannot be held responsible for litigation delay when it is not given the tools and resources needed to cope with the problem.''
+Chief Justice Burger said the United States Judicial Conference, which acts as a board of directors for the Federal judiciary he heads, estimated that 51 new trial judges and 24 new appeals court judges were needed. There are now 515 authorized Federal trial judge posts and 144 Federal appellate judge posts.
+The Chief Justice, who mailed copies of his report to members of Congress and Federal judges, blamed Congress for what he said were past failures to provide new judgeships until the court was on ''the verge of collapse.''
+Congress last created new Federal judgeships in 1978, when it added 152. But the Chief Justice said it took more than three and a half years to fill all the positions.
+''Creation of many judgeships following a lengthy period of demonstrated need is not an effective way of responding to the judgeship problem,'' he said. ''A much sounder approach would be the creation of judgeships in response to the Judicial Conference's periodic surveys and recommendations.''
+He said that southern Florida, which he said had an ''enormous and growing crime problem'' as its population grew over the last decade, offered ''one example of the need for new judgeships.''
+''At the end of statistical year 1983, the Southern District of Florida had the largest pending criminal docket in the nation,'' he said. ''While the average district had 200.6 criminal cases pending at the end of the year, the Southern District of Florida had 1,386. Over half those cases were drug-related.''
+The Chief Justice's report included these recommendations:
+- Prisons should be training inmates to give them marketable skills and should offset prison costs by letting inmates produce goods for sale. ''Congress must repeal statutes that unnecessarily limit prison industries and discriminate against the sale or transportation of prison-made goods.''
+- Judges need to penalize lawyers who unnecessarily prolong pretrial proceedings.
+The Chief Justice also urged Congress to amend the Social Security Act so that retired Federal judges who sit without being paid will not have their benefits taxed.
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York City’s top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/us, targetedPage: www.nytimes.com/archive/article/us, position: Inv1

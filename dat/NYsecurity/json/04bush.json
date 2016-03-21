@@ -1,0 +1,70 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "President Bush took his proposal for a new Social Security system on the road on Thursday with a stark warning to younger workers that the retirement program will go ''bust'' within four decades if it is not overhauled and with a call for his supporters to demand action from Congress. But a day after he made overhauling Social Security the centerpiece of his State of the Union address, Mr. Bush ran into a brick wall of opposition from Democrats in Washington and skepticism even from influential members of his own party in Congress, leaving him facing perhaps the toughest and highest-stakes legislative battle of his presidency.", 
+  "headline": {
+    "main": "BUSH, ON ROAD, PUSHES WARNING ON RETIREMENT", 
+    "kicker": "SOCIAL SECURITY: THE CAMPAIGN"
+  }, 
+  "abstract": "Pres Bush takes his proposal for new Social Security system on the road, warning younger workers that retirement program will go 'bust' within four decades if it is not overhauled and calling for supporters to demand action from Congress; he has run into brick wall of opposition from Democrats in Washington and skepticism even from influential members of his own party in Congress; he makes some gestures to bipartisanship but shows no signs of backing down; he stops in Montana and North Dakota, on first day of two-day, five-state swing to push for his plan; White House still has not answered fundamental questions about his proposal to reshape immensely popular and successful program whose problems are not projected to become acute for years, despite dire picture Bush paints; photo (M)", 
+  "print_page": "1", 
+  "word_count": 1222, 
+  "_id": "4fd257198eb7c8105d801200", 
+  "snippet": "But the president ran into a brick wall of opposition from Democrats and skepticism from influential Republicans.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/02/04/politics/04bush.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NORTH DAKOTA"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "MONTANA"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "SOCIAL SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PUBLIC OPINION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVATIZATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POLITICS AND GOVERNMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SOCIAL SECURITY (US)"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Richard", 
+        "middlename": "W.", 
+        "lastname": "STEVENSON", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By RICHARD W. STEVENSON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-02-04T00:00:00Z", 
+  "section_name": "Front Page; U.S."
+}

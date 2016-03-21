@@ -1,0 +1,118 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "As Donald Trump\u2019s campaign events have grown more vitriolic, the security presence surrounding the Republican front-runner has become increasingly on edge.", 
+  "headline": {
+    "main": "For Donald Trump, \u2018Get \u2019Em Out\u2019 Is the New \u2018You\u2019re Fired\u2019", 
+    "print_headline": "For Trump, &#8216;Get &#8217;Em Out&#8217; Is the New &#8216;You&#8217;re Fired&#8217;"
+  }, 
+  "abstract": "Increasingly volatile atmosphere at Donald J Trump's events requires growing security presence, including private detail, local police and Secret Service; harsh ejections of protesters sparks free speech debate, with each side claiming their rights are violated.", 
+  "print_page": "15", 
+  "word_count": "801", 
+  "_id": "56e60dd438f0d82d8fe39f88", 
+  "snippet": "As Donald Trump\u2019s campaign events have grown more vitriolic, the security presence surrounding the Republican front-runner has become increasingly on edge.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/14/us/politics/donald-trump-security.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/14/us/14security-web1/14security-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/14/us/14security-web1/14security-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/14/us/14security-web1/14security-web1-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/14/us/14security-web1/14security-web1-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/14/us/14security-web1/14security-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/14/us/14security-web1/14security-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Demonstrations, Protests and Riots", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Freedom of Speech and Expression", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Republican Party", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Alan", 
+        "lastname": "RAPPEPORT"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Maggie", 
+        "lastname": "HABERMAN"
+      }
+    ], 
+    "original": "By ALAN RAPPEPORT and MAGGIE HABERMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-14T00:00:00Z", 
+  "section_name": "U.S."
+}

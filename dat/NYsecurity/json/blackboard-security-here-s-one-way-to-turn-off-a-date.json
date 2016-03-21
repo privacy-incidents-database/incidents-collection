@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Education Life Supplement", 
+  "lead_paragraph": "THERE'S a home test for pregnancy and a drug test kit for parents. Now there's a do-it-yourself test to see if your drink has been spiked with the date-rape drugs GHB or ketamine -- odorless, colorless sedatives that impair judgment and induce sleep. The test, made by Drink Safe Technologies in Plantation, Fla., consists of a four-inch cardboard coaster that fits into a purse or pocket. Students can slip it under their beverage and dribble liquid with a swizzle stick or finger on one of two test areas. If the spot turns blue, the drink has been dosed. The company also makes a personal test kit with 20 strips.", 
+  "headline": {
+    "main": "Here's One Way to Turn Off a Date", 
+    "kicker": "BLACKBOARD: SECURITY"
+  }, 
+  "abstract": "New do-it-yourself test lets user determine if drink has been spiked with date-rape drugs GHB or ketamine; more than 40 colleges and universities have ordered them for distribution to students; photo (special section, Education Life) (M)", 
+  "print_page": "7", 
+  "word_count": 337, 
+  "_id": "4fd23f638eb7c8105d7d67ee", 
+  "snippet": "THERE'S a home test for pregnancy and a drug test kit for parents. Now there's a do-it-yourself test to see if your drink has been spiked with the date-rape drugs GHB or ketamine -- odorless, colorless sedatives that impair judgment and induce sleep....", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/01/12/education/blackboard-security-here-s-one-way-to-turn-off-a-date.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "GHB (DRUG)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "KETAMINE (DRUG)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SEX CRIMES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "DRUGS (PHARMACEUTICALS)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COLLEGES AND UNIVERSITIES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TESTS AND TESTING"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Abby", 
+        "lastname": "Ellin"
+      }
+    ], 
+    "original": "By Abby Ellin"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-01-12T00:00:00Z", 
+  "section_name": "Health; Education; U.S."
+}

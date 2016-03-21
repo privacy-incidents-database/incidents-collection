@@ -1,0 +1,81 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Travelers are advised to brush up on the security agency\u2019s rules before heading to the airport.", 
+  "headline": {
+    "seo": "What to Expect as the T.S.A. Tightens Airport Security", 
+    "main": "What to Expect as T.S.A. Tightens Airport Security", 
+    "print_headline": "What to Expect as Airport Security Rules Are Tightened"
+  }, 
+  "abstract": null, 
+  "print_page": "10", 
+  "word_count": "669", 
+  "_id": "54244f2938f0d8525e45324f", 
+  "snippet": "Travelers are advised to brush up on the security agency\u2019s rules before heading to the airport.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/02/us/02bags.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/01/02/business/02bags_CA0/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/01/02/business/02bags_CA0/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Airports", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Travel and Vacations", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Christine", 
+        "rank": 1, 
+        "lastname": "NEGRONI"
+      }
+    ], 
+    "original": "By CHRISTINE NEGRONI"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-02T00:00:00Z", 
+  "section_name": "U.S."
+}

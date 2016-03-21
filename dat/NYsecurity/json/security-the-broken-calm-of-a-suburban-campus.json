@@ -1,0 +1,65 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "New Jersey Weekly Desk", 
+  "lead_paragraph": "WITH a police helicopter circling above, the normal calm of the campus of Fairleigh Dickinson University here, built on a former country estate, was shattered last week. Campus entrances and exits were barricaded after a brawl that left one student shot and six other people injured. A common reaction was disbelief.", 
+  "headline": {
+    "main": "The Broken Calm Of a Suburban Campus", 
+    "kicker": "SECURITY"
+  }, 
+  "abstract": "Normal calm of Fairleigh Dickinson campus in Florham Park-Madison has been shattered by brawl that left one student dead and six other people injured; local authorities discuss problems with security; photo; recent violence involving other New Jerseys campuses also noted (M)", 
+  "print_page": "6", 
+  "word_count": 1219, 
+  "_id": "4fd24f4c8eb7c8105d7f1e3b", 
+  "snippet": "WITH a police helicopter circling above, the normal calm of the campus of Fairleigh Dickinson University here, built on a former country estate, was shattered last week. Campus entrances and exits were barricaded after a brawl that left one student...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2004/04/11/nyregion/security-the-broken-calm-of-a-suburban-campus.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "FLORHAM PARK (NJ)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW JERSEY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "MADISON (NJ)"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "FAIRLEIGH DICKINSON UNIVERSITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COLLEGES AND UNIVERSITIES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ASSAULTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jeremy", 
+        "lastname": "PEARCE"
+      }
+    ], 
+    "original": "By JEREMY PEARCE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2004-04-11T00:00:00Z", 
+  "section_name": "Education; New York and Region"
+}

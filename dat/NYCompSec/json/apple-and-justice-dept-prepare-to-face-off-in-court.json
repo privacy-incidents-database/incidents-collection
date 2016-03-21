@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The issue is complicated, the stakes are high and both sides expect the case will end up in the Supreme Court.", 
+  "headline": {
+    "main": "Apple and Justice Dept. Prepare to Face Off in Court", 
+    "kicker": "Bits", 
+    "content_kicker": "Bits"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "262", 
+  "_id": "56f00f1938f0d81c2692dd71", 
+  "snippet": "The issue is complicated, the stakes are high and both sides expect the case will end up in the Supreme Court.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/22/technology/apple-and-justice-dept-prepare-to-face-off-in-court.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbWide-v3.png", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbWide-v3.png", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge-v4.png", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge-v4.png", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard-v5.png", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard-v5.png", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Quentin", 
+        "lastname": "HARDY"
+      }
+    ], 
+    "original": "By QUENTIN HARDY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-22T00:00:00Z", 
+  "section_name": "Technology"
+}

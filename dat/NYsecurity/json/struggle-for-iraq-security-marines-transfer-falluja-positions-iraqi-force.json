@@ -1,0 +1,88 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "Marines withdrew Friday from most of the positions they had taken during the three-week siege of this city, as the American military began handing over control of security here to an Iraqi general under Saddam Hussein and up to 1,100 men under his command. Marines abandoned buildings and bulldozed earthworks in southern and western neighborhoods of the city as the former major general, Jasim Muhammad Saleh, rolled into town wearing his old uniform with its crossed swords and eagle on the epaulets. Hundreds of residents cheered him along the streets, some waving the old Iraqi flag.", 
+  "headline": {
+    "main": "MARINES TRANSFER FALLUJA POSITIONS TO AN IRAQI FORCE", 
+    "kicker": "THE STRUGGLE FOR IRAQ: SECURITY"
+  }, 
+  "abstract": "Marines withdraw from most positions they took during three-week siege of Falluja, as US military begins handing over control of security there to Jasim Muhammad Saleh, former Iraqi general under Saddam Hussein and up to 1,100 men under his command; suicide bomber kills two marines and wounds six others; over 1,000 Iraqis in Najaf protest against Bush administration's decision to loosen ban on participation in government by members of once-ruling Baath Party; map; photos (M)", 
+  "print_page": "1", 
+  "word_count": 1342, 
+  "_id": "4fd2a1e78eb7c8105d886e4c", 
+  "snippet": "Marines withdrew Friday from most of the positions they had taken during the three-week siege of this city, as the American military began handing over control of security here to an Iraqi general under Saddam Hussein and up to 1,100 men under his...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2004/05/01/world/struggle-for-iraq-security-marines-transfer-falluja-positions-iraqi-force.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "SALEH, JASIM MUHAMMAD"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "persons", 
+      "value": "HUSSEIN, SADDAM"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NAJAF (IRAQ)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "FALLUJA (IRAQ)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "DEMONSTRATIONS AND RIOTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "KIFNER"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Edward", 
+        "lastname": "WONG"
+      }
+    ], 
+    "original": "By JOHN KIFNER and EDWARD WONG; John Kifner reported from Falluja for this article and Edward Wong from Baghdad"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2004-05-01T00:00:00Z", 
+  "section_name": "World; Front Page; Washington"
+}

@@ -1,0 +1,80 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The Obama administration is moving ahead with deportations of migrants fleeing from three violence-racked countries in Central America, despite a furor among refugee advocates.", 
+  "headline": {
+    "main": "U.S. Continues to Deport Central American Migrants", 
+    "print_headline": "U.S. Continues to Deport Central American Migrants "
+  }, 
+  "abstract": "Homeland Security Dept reports that federal authorities detained 336 migrants from Central America for deportation in January, continuing deportations of those fleeing violence in region despite protests from Democrats and advocates.", 
+  "print_page": "11", 
+  "word_count": "314", 
+  "_id": "56e0d62638f0d80718d561be", 
+  "snippet": "The Obama administration is moving ahead with deportations of migrants fleeing from three violence-racked countries in Central America, despite a furor among refugee advocates.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/10/us/us-continues-to-deport-central-american-migrants.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Illegal Immigration", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Central America", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Deportation", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Immigration Detention", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Asylum, Right of", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Johnson, Jeh C", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Julia", 
+        "lastname": "PRESTON"
+      }
+    ], 
+    "original": "By JULIA PRESTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-10T00:00:00Z", 
+  "section_name": "U.S."
+}

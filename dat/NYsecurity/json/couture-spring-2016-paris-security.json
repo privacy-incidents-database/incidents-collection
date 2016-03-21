@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "Guests had been told to bring identification for entry to the shows, but for the most part, it hasn\u2019t been needed.", 
+  "headline": {
+    "main": "Security at Paris Fashion Shows Less Strict Than Anticipated"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "458", 
+  "_id": "56a647c238f0d81529067e69", 
+  "snippet": "Guests had been told to bring identification for entry to the shows, but for the most part, it hasn\u2019t been needed.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/26/fashion/couture-spring-2016-paris-security.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/25/fashion/26security/26security-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/25/fashion/26security/26security-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/25/fashion/26security/26security-articleLarge.jpg", 
+      "height": 401, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/25/fashion/26security/26security-articleLarge.jpg", 
+        "xlargeheight": "401"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/25/fashion/26security/26security-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/25/fashion/26security/26security-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Couture (Fashion)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Fashion and Apparel", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Paris Attacks (November 2015)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Paris (France)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Stuart Emmrich contributed reporting.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Elizabeth", 
+        "lastname": "PATON"
+      }
+    ], 
+    "original": "By ELIZABETH PATON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-26T00:00:00Z", 
+  "section_name": "Fashion & Style"
+}

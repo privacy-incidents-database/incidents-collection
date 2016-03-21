@@ -1,0 +1,78 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "U.S. officials need to weigh the uncertain benefits against the broader implications of breaching personal security, the high commissioner said.", 
+  "headline": {
+    "main": "U.N. Rights Chief Says Unlocking Gunman\u2019s iPhone Could Open \u2018Pandora\u2019s Box\u2019"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "631", 
+  "_id": "56d9792738f0d810eb12c8c9", 
+  "snippet": "U.S. officials need to weigh the uncertain benefits against the broader implications of breaching personal security, the high commissioner said.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/05/technology/un-apple-gunman-iphone.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Zeid Ra'ad Zeid Al Hussein", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "United Nations", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "CUMMING-BRUCE"
+      }
+    ], 
+    "original": "By NICK CUMMING-BRUCE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-05T00:00:00Z", 
+  "section_name": "Technology"
+}

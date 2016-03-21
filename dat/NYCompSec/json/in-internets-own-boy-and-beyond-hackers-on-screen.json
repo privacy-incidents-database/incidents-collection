@@ -1,0 +1,106 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Arts&Leisure", 
+  "lead_paragraph": "The trickster character has seen better days. As the documentary \u201cThe Internet\u2019s Own Boy\u201d demonstrates, it\u2019s not always possible to think of the high-tech incarnation of this type as a folk hero.", 
+  "headline": {
+    "seo": "In \u2018Internet\u2019s Own Boy\u2019 and Beyond, Hackers on Screen", 
+    "main": "Telling Folk Heroes From Monsters", 
+    "print_headline": "Telling Folk Heroes From Monsters"
+  }, 
+  "abstract": "Brian Knappenberger documentary film The Internet's Own Boy: The Story of Aaron Swartz, which explores complex life of computer prodigy and hacker Aaron Swartz, raises questions about role of high-tech tricksters in today's culture.", 
+  "print_page": "17", 
+  "word_count": "994", 
+  "_id": "53a432f838f0d82561c76454", 
+  "snippet": "The trickster character has seen better days. As the documentary \u201cThe Internet\u2019s Own Boy\u201d demonstrates, it\u2019s not always possible to think of the high-tech incarnation of this type as a folk hero.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/06/22/movies/in-internets-own-boy-and-beyond-hackers-on-screen.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2014/06/22/arts/22TRICKSTER3/22TRICKSTER3-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2014/06/22/arts/22TRICKSTER3/22TRICKSTER3-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2014/06/22/arts/22TRICKSTER3/22TRICKSTER3-articleLarge.jpg", 
+      "height": 450, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2014/06/22/arts/22TRICKSTER3/22TRICKSTER3-articleLarge.jpg", 
+        "xlargeheight": "450"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2014/06/22/arts/22TRICKSTER3/22TRICKSTER3-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2014/06/22/arts/22TRICKSTER3/22TRICKSTER3-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Movies", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberwarfare", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Knappenberger, Brian", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Swartz, Aaron (1986-2013)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Chris", 
+        "lastname": "WALLACE"
+      }
+    ], 
+    "original": "By CHRIS WALLACE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-06-22T00:00:00Z", 
+  "section_name": "Movies"
+}

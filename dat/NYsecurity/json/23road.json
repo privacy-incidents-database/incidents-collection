@@ -1,0 +1,82 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Even though we spend about $5 billion a year on airport security, why do airport checkpoints still look like garage sales?", 
+  "headline": {
+    "main": "Bad Enough Being Shoeless but Just Look at This D\u00e9cor", 
+    "kicker": "On The Road", 
+    "print_headline": "Bad Enough Being Shoeless But Just Look at This D\u00e9cor", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "673", 
+  "_id": "5486ba1938f0d8164e21e857", 
+  "snippet": "Even though we spend about $5 billion a year on airport security, why do airport checkpoints still look like garage sales?", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/10/23/business/23road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2007/10/22/business/23road-75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2007/10/22/business/23road-75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sharkey, Joe", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-10-23T00:00:00Z", 
+  "section_name": "Business Day"
+}

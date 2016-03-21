@@ -1,0 +1,68 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Two former officials say that MSA Security tolerated racial harassment of one of the few African-American employees in the corporate office.", 
+  "headline": {
+    "main": "Suit Claims Racial Harassment at Security Firm With New York City Contracts", 
+    "print_headline": "Suit Claims Racial Harassment at Security Firm With City Contracts"
+  }, 
+  "abstract": "MSA Security, contractor that has made tens of millions of dollars guarding Lower Manhattan since September 11, is at center of controversy; its former chief executive and another former company official have charged in lawsuit that company tolerated racial harassment of one of its few African-American employees in corporate office.", 
+  "print_page": "20", 
+  "word_count": "1014", 
+  "_id": "5295609038f0d807e9ba45e5", 
+  "snippet": "Two former officials say that MSA Security tolerated racial harassment of one of the few African-American employees in the corporate office.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/11/27/nyregion/suit-claims-racial-harassment-at-security-firm-with-new-york-city-contracts.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Blacks", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Suits and Litigation (Civil)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "MSA Security", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Discrimination", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joseph", 
+        "lastname": "GOLDSTEIN"
+      }
+    ], 
+    "original": "By JOSEPH GOLDSTEIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-11-27T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

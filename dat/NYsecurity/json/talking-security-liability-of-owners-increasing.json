@@ -1,0 +1,65 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Real Estate Desk", 
+  "lead_paragraph": "IF an office worker is held up at gunpoint in an unattended elevator, taken to a vacant floor and raped, can the building owner be held liable for damages? If a rental tenant or shareholder is burglarized because of lax building security, can the landlord or co-op corporation be held responsible? A decade ago, these questions were of minor concern because few such cases were ever brought. But today owners and operators of office buildings, rental-apartment buildings, hotels, co-ops and condominiums are increasingly having to face such possibilities as the cases pile up and the courts find in favor of the plaintiffs. ''It's something nobody can afford to ignore any more,'' said Joseph Kelner, former president of the American and New York State Trial Lawyers Associations. Not only are such cases becoming commonplace, he said, but awards against owners are also reaching into many thousands of dollars.", 
+  "headline": {
+    "main": "LIABILITY OF OWNERS INCREASING", 
+    "kicker": "TALKING SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": 1072, 
+  "_id": "4fd158b88eb7c8105d63cfb6", 
+  "snippet": "IF an office worker is held up at gunpoint in    an unattended elevator, taken to a vacant   floor and raped, can the building owner be held liable for damages? If a rental tenant or shareholder is burglarized because of lax building security, can...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1985/01/06/realestate/talking-security-liability-of-owners-increasing.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "HOUSING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HOTELS AND MOTELS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SUITS AND LITIGATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "OFFICE BUILDINGS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CRIME AND CRIMINALS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "APARTMENT HOUSES"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Andree", 
+        "lastname": "BROOKS"
+      }
+    ], 
+    "original": "By ANDREE BROOKS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1985-01-06T00:00:00Z", 
+  "section_name": "Real Estate"
+}

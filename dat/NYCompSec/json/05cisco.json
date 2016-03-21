@@ -1,0 +1,55 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Cisco Systems agreed to buy IronPort Systems for $830 million to push into the security software market.", 
+  "headline": {
+    "main": "Cisco to Buy Maker of Security Software", 
+    "print_headline": "Cisco to Buy Maker Of Security Software"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "171", 
+  "_id": "548d6aa638f0d80cddfa0934", 
+  "snippet": "Cisco Systems agreed to buy IronPort Systems for $830 million to push into the security software market.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/01/05/technology/05cisco.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cisco Systems Inc", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Mergers, Acquisitions and Divestitures", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Bloomberg", 
+        "lastname": "NEWS"
+      }
+    ], 
+    "original": "By BLOOMBERG NEWS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-01-05T00:00:00Z", 
+  "section_name": "Technology"
+}

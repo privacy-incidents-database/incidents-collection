@@ -1,0 +1,123 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The ruling, which Apple opposed, handed the F.B.I. a potentially important victory in its battle with tech companies over encrypted data.", 
+  "headline": {
+    "main": "Judge Tells Apple to Help Unlock iPhone Used by San Bernardino Gunman", 
+    "print_headline": "Judge Tells Apple to Help Unlock Gunman&#8217;s iPhone"
+  }, 
+  "abstract": "Federal District Court Judge Sheri Pym of California orders Apple to aid Federal Bureau of Investigation in unlocking iPhone used by San Bernardino gunman Syed Rizwan Farook.", 
+  "print_page": "16", 
+  "word_count": "747", 
+  "_id": "56c3f11738f0d82fc3a19aaa", 
+  "snippet": "The ruling, which Apple opposed, handed the F.B.I. a potentially important victory in its battle with tech companies over encrypted data.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/17/us/judge-tells-apple-to-help-unlock-san-bernardino-gunmans-iphone.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-articleLarge.jpg", 
+      "height": 398, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-articleLarge.jpg", 
+        "xlargeheight": "398"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Farook, Syed Rizwan", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Search and Seizure", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }
+    ], 
+    "original": "By ERIC LICHTBLAU"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-17T00:00:00Z", 
+  "section_name": "U.S."
+}

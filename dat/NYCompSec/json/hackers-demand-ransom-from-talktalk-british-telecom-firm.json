@@ -1,0 +1,72 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Hackers may have gained access to the personal data of some of the British telecommunications company\u2019s four million customers, but it was unclear who had committed the breach.", 
+  "headline": {
+    "main": "Hackers Demand Ransom From TalkTalk, British Telecom Firm"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "426", 
+  "_id": "562a4d9138f0d843c6276098", 
+  "snippet": "Hackers may have gained access to the personal data of some of the British telecommunications company\u2019s four million customers, but it was unclear who had committed the breach.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/10/24/technology/hackers-demand-ransom-from-talktalk-british-telecom-firm.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "TalkTalk Telecom Group plc", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Europe", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Harding, Diana Mary (1967- )", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Mark", 
+        "lastname": "SCOTT"
+      }
+    ], 
+    "original": "By MARK SCOTT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-10-24T00:00:00Z", 
+  "section_name": "Technology"
+}

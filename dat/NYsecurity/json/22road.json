@@ -1,0 +1,84 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Travelers said that they wished some agents using the body scan machines were nicer and that the procedure was better explained.", 
+  "headline": {
+    "seo": "Complaints of Poor Attitude in Airport  Body Scans", 
+    "main": "In Body Scans, Less Attitude Please", 
+    "kicker": "On the Road", 
+    "print_headline": "In Body Scans, Less Attitude Please", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "782", 
+  "_id": "5417b70838f0d851fd3a85b7", 
+  "snippet": "Travelers said that they wished some agents using the body scan machines were nicer and that the procedure was better explained.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/06/22/business/22road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/06/22/business/22Road_inline/22Road_inline-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/06/22/business/22Road_inline/22Road_inline-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Scanning Devices", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-06-22T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,117 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "More and more hospital guards across the country carry weapons. For Alan Pean, seeking help for mental distress, that resulted in a gunshot to the chest.", 
+  "headline": {
+    "main": "When the Hospital Fires the Bullet", 
+    "print_headline": "When the Hospital Fires the Bullet"
+  }, 
+  "abstract": "Shooting of mentally ill patient Alan Pean by security guard at Houston hospital points to rising number of patients who have been injured or killed by those guarding hospitals across United States; hospitals are increasingly arming guards with guns and Tasers, responding to rising violence against patients and staff; incident has prompted debate over wisdom and safety of practice.", 
+  "print_page": "1", 
+  "word_count": "3123", 
+  "_id": "56bdcb2138f0d810e6a1a47f", 
+  "snippet": "More and more hospital guards across the country carry weapons. For Alan Pean, seeking help for mental distress, that resulted in a gunshot to the chest.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/14/us/hospital-guns-mental-health.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/12/us/14hospitals1/14hospitals1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/12/us/14hospitals1/14hospitals1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/12/us/14hospitals1/14hospitals1-articleLarge-v5.jpg", 
+      "height": 737, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/12/us/14hospitals1/14hospitals1-articleLarge-v5.jpg", 
+        "xlargeheight": "737"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/12/us/14hospitals1/14hospitals1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/12/us/14hospitals1/14hospitals1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Hospitals", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Guards", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Pean, Alan C (1989- )", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Mental Health and Disorders", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Emergency Medical Treatment", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Stun Guns", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Paul DeBenedetto contributed reporting from Houston.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Elisabeth", 
+        "lastname": "ROSENTHAL"
+      }
+    ], 
+    "original": "By ELISABETH ROSENTHAL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-14T00:00:00Z", 
+  "section_name": "U.S."
+}

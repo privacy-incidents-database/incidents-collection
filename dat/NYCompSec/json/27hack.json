@@ -1,0 +1,83 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "In its farewell, Lulz Security urged other hackers to join the \u201crevolution\u201d aimed at governments and corporations.", 
+  "headline": {
+    "seo": "LulzSec Hacker Group Urges New Cyberattacks", 
+    "main": "Dissolution of Hacker Group Might Not End Attacks", 
+    "print_headline": "Saying It\u2019s Disbanding, Hacker Group Urges New Cyberattacks"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1109", 
+  "_id": "540f272938f0d87641c6770a", 
+  "snippet": "In its farewell, Lulz Security urged other hackers to join the \u201crevolution\u201d aimed at governments and corporations.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/27/technology/27hack.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/06/27/business/hack/hack-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/06/27/business/hack/hack-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Lulz Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hackers (Computers)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Anonymous (Internet Group)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Mark Mazzetti contributed reporting.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Riva", 
+        "lastname": "RICHMOND"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Nick", 
+        "lastname": "BILTON"
+      }
+    ], 
+    "original": "By RIVA RICHMOND and NICK BILTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-27T00:00:00Z", 
+  "section_name": "Technology"
+}

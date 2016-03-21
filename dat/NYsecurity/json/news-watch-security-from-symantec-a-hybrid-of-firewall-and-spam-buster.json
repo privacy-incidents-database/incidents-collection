@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Circuits", 
+  "lead_paragraph": "It's not true. Despite that promise in the e-mail subject line, the vice president for marketing does not love you. So you won't be fooled again, Symantec has upgraded its Norton Internet Security software suite to intercept more viruses, mass mailers and worms. It also promises to eliminate bandwidth-hogging pop-up ads and reduce spam. If that sounds like a Herculean task, it is. Symantec has cataloged 61,000 threats to your data and program files, and it says there are 10 to 15 new ones appearing daily. Norton Internet Security 2003 adds features that monitor traffic on many instant messaging networks and help make your computer less visible to hackers and more resistant to viruses and to Trojan horses, those malicious programs disguised as friendly or useful software. Should a virus penetrate your system's defenses, the product employs heuristics, or sets of logical rules, to prevent fast-spreading worms like Nimda and script-based threats like the I Love You virus from infecting other computers to which you link through a network or by e-mail. For example, Internet Security will notify Microsoft Outlook users if a program tries to send batched e-mail messages.", 
+  "headline": {
+    "main": "From Symantec, a Hybrid Of Firewall and Spam Buster", 
+    "kicker": "NEWS WATCH: SECURITY"
+  }, 
+  "abstract": "Symantec upgrades it Norton Internet Security software suite to intercept more viruses, mass mailers and worms and to eliminate pop-up ads and reduce spam; photo (M)", 
+  "print_page": "3", 
+  "word_count": 311, 
+  "_id": "4fd238978eb7c8105d7cb969", 
+  "snippet": "It's not true. Despite that promise in the e-mail subject line, the vice president for marketing does not love you. So you won't be fooled again, Symantec has upgraded its Norton Internet Security software suite to intercept more viruses, mass...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/09/12/technology/news-watch-security-from-symantec-a-hybrid-of-firewall-and-spam-buster.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "SYMANTEC CORP"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ELECTRONIC MAIL"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ADVERTISING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SOFTWARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Howard", 
+        "lastname": "Millman"
+      }
+    ], 
+    "original": "By Howard Millman"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-09-12T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,65 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "The United States plans to enforce strict new security rules on Feb. 2 for imports by sea in containers, despite complaints from many shippers that they are not ready, an American official said here today. Drafted in response to the Sept. 11 attacks, the rules are aimed at reducing the risk that a nuclear bomb or other bulky weapon of mass destruction could be shipped to the United States. But exporters in Hong Kong in particular have been warning of delays and possible chaos at docks and warehouses because of the rules.", 
+  "headline": {
+    "main": "Hong Kong Shippers Scramble to Meet New U.S. Cargo Rules", 
+    "kicker": "THREATS AND RESPONSES: SECURITY"
+  }, 
+  "abstract": "United States plans to enforce strict new security rules on Feb 2 for imports by sea in containers, despite complaints from many shippers that they are not ready; rules, drafted in response to Sept 11 attacks, are aimed at reducing risk that nuclear bomb or other bulky weapon of mass destruction could be shipped to United States; but exporters in Hong Kong in particular have been warning of delays and possible chaos at docks and warehouses because of rules (M)", 
+  "print_page": "15", 
+  "word_count": 680, 
+  "_id": "4fd2207c8eb7c8105d7a3fba", 
+  "snippet": "The United States plans to enforce strict new security rules on Feb. 2 for imports by sea in containers, despite complaints from many shippers that they are not ready, an American official said here today.     Drafted in response to the Sept. 11...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/01/26/world/threats-responses-security-hong-kong-shippers-scramble-meet-new-us-cargo-rules.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "HONG KONG"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ATOMIC WEAPONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SHIPS AND SHIPPING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CONTAINERIZATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Keith", 
+        "lastname": "BRADSHER"
+      }
+    ], 
+    "original": "By KEITH BRADSHER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-01-26T00:00:00Z", 
+  "section_name": "World"
+}

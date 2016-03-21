@@ -1,0 +1,423 @@
+
+
+
+
+NEWS WATCH -  SECURITY -  Stopping Hackers, While Doing Detective Work on the Side - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+Subscribe
+
+
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/archive/article/technology, targetedPage: www.nytimes.com/archive/article/technology, position: Bar1
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+Business Day
+Technology
+
+
+
+
+
+World
+ 
+U.S.
+ 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+NEWS WATCH: SECURITY
+NEWS WATCH: SECURITY; Stopping Hackers, While Doing Detective Work on the Side
+
+
+By J. D. Biersdorfer
+
+
+Published: March 7, 2002
+
+
+
+
+
+
+
+
+
+                    Worrying about hackers and viruses is becoming a way of life for Windows users, but Macintosh owners should not assume they are immune to Internet ills. For them, Symantec has announced Version 2 of its Norton Personal Firewall for Macintosh ($69.95 or $39.95 for an upgrade). The program is also available ($99.95 or $69.95 for the upgrade) in the larger Norton Internet Security suite, which includes Norton Anti-Virus and Aladdin's iClean clutter-reducing software.        
+
+                    Symantec has also updated its Norton Utilities and Norton AntiVirus software, along with its SystemWorks suite. The updated programs include versions written specifically for Mac OS X and separate versions for Mac OS 8.1 to OS 9. (Details can be found at www.symantec.com/mac.)        
+
+                    For Windows users, the company has added a tracing service to its Security Check Web site (www.symantec.com/securitycheck). Users alerted to a potential hacker intrusion from their firewall software can go to the site, type in the Internet Protocol address number of the intruding machine from the firewall alert and see on a map where the attack originated. The site can identify the Internet service provider of the intruder, making it easier to complain to his system administrator.   J. D. Biersdorfer        
+
+                    Photo        
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Subscribe to Technology RSS Feeds
+
+
+
+
+
+Technology News
+
+Internet
+Start-Ups
+Business Computing
+Companies
+
+
+
+
+
+
+
+
+Bits Blog
+Personal Tech
+Pogue’s Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/technology, targetedPage: www.nytimes.com/archive/article/technology, position: Inv1

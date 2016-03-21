@@ -1,0 +1,121 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "President Obama told an audience of technology enthusiasts he supported efforts to gain protected information from electronic devices, opposing the stance taken by Apple.", 
+  "headline": {
+    "main": "Obama, at South by Southwest, Calls for Law Enforcement Access in Encryption Fight", 
+    "print_headline": "Obama Calls for Law Enforcement Access in Encryption Fight"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "889", 
+  "_id": "56e310de38f0d81b768a679e", 
+  "snippet": "President Obama told an audience of technology enthusiasts he supported efforts to gain protected information from electronic devices, opposing the stance taken by Apple.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/12/us/politics/obama-heads-to-south-by-southwest-festival-to-talk-about-technology.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/12/us/12obama-vid/12obama-vid-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/12/us/12obama-vid/12obama-vid-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/12/us/12obama-vid/12obama-vid-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/12/us/12obama-vid/12obama-vid-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/12/us/12obama-vid/12obama-vid-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/12/us/12obama-vid/12obama-vid-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "South by Southwest Music and Media Conference", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Austin (Tex)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Search and Seizure", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael"
+      }
+    ], 
+    "original": "By MICHAEL D. SHEAR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-12T00:00:00Z", 
+  "section_name": "U.S."
+}

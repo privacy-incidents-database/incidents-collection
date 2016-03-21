@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Former officials who comment publicly on security issues often also have relationships with for-profit companies.", 
+  "headline": {
+    "main": "Company Ties Not Always Noted in Security Push ", 
+    "print_headline": "Company Ties Not Always Noted In Push to Tighten U.S. Security", 
+    "content_kicker": "Homeland Security Inc."
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "2260", 
+  "_id": "54b52aee38f0d8623a355364", 
+  "snippet": "Former officials who comment publicly on security issues often also have relationships with for-profit companies.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/06/19/washington/19port.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2006/06/19/washington/0619-nat-subPORTS.190.gif", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2006/06/19/washington/0619-nat-subPORTS.190.gif", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/06/19/us/19port.751.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/06/19/us/19port.751.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Lobbying and Lobbyists", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Politics and Government", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Defense Contracts", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-06-19T00:00:00Z", 
+  "section_name": "Washington"
+}

@@ -1,0 +1,65 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Circuits", 
+  "lead_paragraph": "AS the wheels on the bus go round and round, Norm Foust is watching. Mr. Foust, transportation director for the Metropolitan School District of Washington Township in Indianapolis, has equipped his 120-bus fleet with sensors and Global Positioning System units that follow nearly every move the bus drivers make.", 
+  "headline": {
+    "main": "Where's Johnny? Smart Cards and Satellites Help Keep Track", 
+    "kicker": "SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": 1245, 
+  "_id": "4fd260f38eb7c8105d8116a2", 
+  "snippet": "Schools are upgrading video cameras in and around school buildings (and sometimes in buses) to enable real-time monitoring in remote offices.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://tech2.nytimes.com/2005/08/03/technology/techspecial3/03guernsey.html", 
+  "multimedia": [
+    {
+      "url": "images/2005/08/03/arts/03guernsey.bus.gif", 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "hasthumbnail": "Y", 
+        "thumbnailheight": 75, 
+        "thumbnail": "images/2005/08/03/arts/03guernsey.bus.gif"
+      }, 
+      "type": "image", 
+      "height": 75
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "SCHOOL OF THE FUTURE"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "MICROSOFT CORPORATION"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "AMERICAN CIVIL LIBERTIES UNION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CHILDREN AND YOUTH"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Lisa", 
+        "rank": 1, 
+        "lastname": "GUERNSEY"
+      }
+    ], 
+    "original": "By LISA GUERNSEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-08-03T00:00:00Z", 
+  "section_name": "Technology"
+}

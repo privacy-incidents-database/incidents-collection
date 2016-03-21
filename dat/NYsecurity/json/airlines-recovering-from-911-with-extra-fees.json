@@ -1,0 +1,108 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Airlines in the United States lost $55 billion and shed 160,000 jobs during the 10 years after Sept. 11. But they have worked through the economic tumult.", 
+  "headline": {
+    "seo": "Airlines Recovering From 9/11 With Extra Fees", 
+    "main": "Since Sept. 11, Years of Change for Airlines", 
+    "kicker": "On the Road", 
+    "print_headline": "Since Sept. 11, Years of Change For Airlines", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "853", 
+  "_id": "5400c50a38f0d841b2f38dcb", 
+  "snippet": "Airlines in the United States lost $55 billion and shed 160,000 jobs during the 10 years after Sept. 11. But they have worked through the economic tumult.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/09/06/business/airlines-recovering-from-911-with-extra-fees.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/09/06/business/ROAD/ROAD-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/09/06/business/ROAD/ROAD-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "September 11 (2001)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Business Travel", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-09-06T00:00:00Z", 
+  "section_name": "Business Day"
+}

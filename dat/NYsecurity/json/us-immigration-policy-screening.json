@@ -1,0 +1,116 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Both sides point to the case of a California man suspected of going to Syria to fight with terrorist groups and of lying about it to the authorities.", 
+  "headline": {
+    "main": "Arrest of Refugee Fuels U.S. Debate on Immigration Policy", 
+    "print_headline": "Refugee&#8217;s Arrest Stokes U.S. Immigration Debate"
+  }, 
+  "abstract": "Case of California man Aws Mohammed Younis al-Jayab, Iraqi-born Syrian refugee who was arrested in January for traveling to Syria to fight with terrorist groups and for lying to federal authorities, is at center of debate over whether to restrict immigration from countries linked with terrorism.", 
+  "print_page": "9", 
+  "word_count": "1139", 
+  "_id": "56c75cfc38f0d83592db627a", 
+  "snippet": "Both sides point to the case of a California man suspected of going to Syria to fight with terrorist groups and of lying about it to the authorities.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/20/us/politics/us-immigration-policy-screening.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/20/us/20screen/20screen-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/20/us/20screen/20screen-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/20/us/20screen/20screen-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/20/us/20screen/20screen-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/20/us/20screen/20screen-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/20/us/20screen/20screen-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Immigration and Emigration", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Jayab, Aws Mohammed Younis Al-", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Refugees and Displaced Persons", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Visas", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Citizenship and Immigration Services (US)", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ron", 
+        "lastname": "NIXON"
+      }
+    ], 
+    "original": "By RON NIXON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-20T00:00:00Z", 
+  "section_name": "U.S."
+}

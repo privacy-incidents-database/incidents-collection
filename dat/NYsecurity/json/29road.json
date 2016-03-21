@@ -1,0 +1,83 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Frequent travelers say it\u2019s a mistake to complicate security so much that normal travel is further discouraged.", 
+  "headline": {
+    "seo": "For Security Ideas, Ask the Business Traveler", 
+    "main": "For Security Ideas, Ask Business Travelers", 
+    "kicker": "On the Road", 
+    "print_headline": "For Security Ideas, Ask Business Travelers", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "803", 
+  "_id": "54246af038f0d8525e4534ed", 
+  "snippet": "Frequent travelers say it\u2019s a mistake to complicate security so much that normal travel is further discouraged.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/12/29/business/29road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2009/12/29/business/29road_illus/thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/12/29/business/29road_illus/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Business Travel", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-12-29T00:00:00Z", 
+  "section_name": "Business Day"
+}

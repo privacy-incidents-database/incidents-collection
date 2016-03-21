@@ -1,0 +1,45 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Small Business", 
+  "lead_paragraph": "AS long as employers have wanted to check up on job applicants, an industry of tiny background-checking companies has existed, prowling courthouses to check criminal records and working the phones to verify employment and education. Driven by post-Sept. 11 wariness and the spread of public databases that enables more efficient checking from distant locations, the industry is now rapidly consolidating. A handful of national companies is bulking up by buying smaller competitors, seeking dominance in a business expected to double in sales over the next five years to $4 billion.", 
+  "headline": {
+    "main": "As Background Checks Get Big, The Little Guys Get Bigger", 
+    "kicker": "SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": 1237, 
+  "_id": "4fd264558eb7c8105d817a3c", 
+  "snippet": "Does the little guy stand a chance in the background-checking buisness? The answer appears to be yes, with enough capital and some smart investments in technology.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/11/16/business/businessspecial/16bailey.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "HIRING AND PROMOTION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SMALL BUSINESS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Jeff", 
+        "rank": 1, 
+        "lastname": "BAILEY"
+      }
+    ], 
+    "original": "By JEFF BAILEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-11-16T00:00:00Z", 
+  "section_name": "Business"
+}

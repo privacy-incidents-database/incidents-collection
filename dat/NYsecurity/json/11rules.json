@@ -1,0 +1,137 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Everything from bottled water and coffee to toiletries like contact-lens solution and toothpaste now must be checked.", 
+  "headline": {
+    "main": "U.S. Transportation Security Agency Prohibits Carrying Liquids and Gels on Flights", 
+    "print_headline": "U.S. Transportation Security Agency Prohibits Carrying Liquids and Gels on Flights", 
+    "content_kicker": "Restrictions"
+  }, 
+  "abstract": null, 
+  "print_page": "9", 
+  "word_count": "937", 
+  "_id": "54b0c8c738f0d8367c842521", 
+  "snippet": "Everything from bottled water and coffee to toiletries like contact-lens solution and toothpaste now must be checked.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/11/world/europe/11rules.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2006/08/11/world/0811-for-RULES_190x126.gif", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2006/08/11/world/0811-for-RULES_190x126.gif", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Europe", 
+      "is_major": "N", 
+      "rank": "13", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Luggage", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Law and Legislation", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Chertoff, Michael", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Jeremy", 
+        "middlename": "W.", 
+        "lastname": "PETERS", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "James", 
+        "lastname": "KANTER"
+      }
+    ], 
+    "original": "By JEREMY W. PETERS  and JAMES KANTER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-11T00:00:00Z", 
+  "section_name": "World"
+}

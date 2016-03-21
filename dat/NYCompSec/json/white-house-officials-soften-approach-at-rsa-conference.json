@@ -1,0 +1,129 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Administration officials showed up at the symposium, urging cooperation, just as the tech community is roiled by the case between Apple and the F.B.I.", 
+  "headline": {
+    "main": "White House Officials Soften Approach at RSA Conference", 
+    "print_headline": "Obama Administration Officials Soften Approach at Tech Symposium"
+  }, 
+  "abstract": "Atty Gen Loretta E Lynch delivers speech at RSA Conference, one of largest gatherings of computer security experts in world, in which she calls on tech industry to cooperate with federal government to help bolster national security; Lynch avoids direct references to FBI's fight with Apple over iPhone security scheme.", 
+  "print_page": "9", 
+  "word_count": "813", 
+  "_id": "56d646a538f0d83a4dd60e08", 
+  "snippet": "Administration officials showed up at the symposium, urging cooperation, just as the tech community is roiled by the case between Apple and the F.B.I.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/02/technology/white-house-officials-soften-approach-at-rsa-conference.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/02/business/02RSA/02RSA-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/02/business/02RSA/02RSA-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/02/business/02RSA/02RSA-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/02/business/02RSA/02RSA-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/02/business/02RSA/02RSA-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/02/business/02RSA/02RSA-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Lynch, Loretta E", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "RSA, The Security Division of EMC Corporation", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Silicon Valley (Calif)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Katie Benner contributed reporting.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-02T00:00:00Z", 
+  "section_name": "Technology"
+}

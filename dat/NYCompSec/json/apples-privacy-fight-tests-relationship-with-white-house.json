@@ -1,0 +1,130 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The encryption debate and the government\u2019s legal action against Apple have created more tension between the company and the Obama administration.", 
+  "headline": {
+    "main": "Apple\u2019s Privacy Fight Tests Relationship With White House", 
+    "kicker": "White House Memo", 
+    "print_headline": "Cook vs. Obama at Center of Bitter Debate", 
+    "content_kicker": "White House Memo"
+  }, 
+  "abstract": "White House Memo; Apple chief executive Timothy D Cook and Pres Obama, despite their similarities and mutual admiration, have become central antagonists in heated debate between privacy on encrypted devices like iPhone and national security.", 
+  "print_page": "1", 
+  "word_count": "1122", 
+  "_id": "56d1022e38f0d83825735af7", 
+  "snippet": "The encryption debate and the government\u2019s legal action against Apple have created more tension between the company and the Obama administration.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/27/technology/apples-privacy-fight-tests-relationship-with-white-house.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/27/business/27cook1/27cook1-thumbWide-v2.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/27/business/27cook1/27cook1-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/27/business/27cook1/27cook1-articleLarge.jpg", 
+      "height": 419, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/27/business/27cook1/27cook1-articleLarge.jpg", 
+        "xlargeheight": "419"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/27/business/27cook1/27cook1-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/27/business/27cook1/27cook1-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cook, Timothy D", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Michael D. Shear reported from Washington, and Katie Benner from San Francisco.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael"
+      }
+    ], 
+    "original": "By MICHAEL D. SHEAR and KATIE BENNER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-27T00:00:00Z", 
+  "section_name": "Technology"
+}

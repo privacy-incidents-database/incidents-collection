@@ -1,0 +1,67 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Week in Review Desk", 
+  "lead_paragraph": "COULD this be the same Republican Party that was on such triumphant display after President Bush's re-election just four months ago? Republicans and conservatives are quarreling over Congress's intervention in the Terri Schiavo case, and the rising influence of Christian conservatives. Some Republicans in Washington and statehouses are balking at federal tax cuts in the face of deficits or spending cuts, while a few are worried that the war in Iraq will lead to more foreign entanglements. Republicans are beginning to whisper in the past tense as they discuss Mr. Bush's signature second-term measure, the revamping of Social Security.", 
+  "headline": {
+    "main": "The Nation:  Squabbles Under the Big Tent", 
+    "kicker": "Schiavo to Social Security"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": 1184, 
+  "_id": "4fd2460b8eb7c8105d7e1026", 
+  "snippet": "Passions unleashed by events since President Bush's second inauguration are putting the Republican Party's many wings and factions on display.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/04/03/weekinreview/03nago.html", 
+  "multimedia": [
+    {
+      "width": 55, 
+      "url": "images/2005/04/02/weekinreview/nwr_GOP_55.gif", 
+      "height": 55, 
+      "subtype": "tiny_thumb", 
+      "legacy": {
+        "tinythumbwidth": 55, 
+        "tinythumbheight": 55, 
+        "tinythumb": "images/2005/04/02/weekinreview/nwr_GOP_55.gif", 
+        "hastinythumb": "Y"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "CONGRESS"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "REPUBLICAN PARTY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES POLITICS AND GOVERNMENT"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Adam", 
+        "rank": 1, 
+        "lastname": "NAGOURNEY"
+      }
+    ], 
+    "original": "By ADAM NAGOURNEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-04-03T00:00:00Z", 
+  "section_name": "Washington; Week in Review"
+}

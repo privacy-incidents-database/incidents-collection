@@ -1,0 +1,95 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "An increase in attacks on computer systems that control critical infrastructure, factories and databases has prompted a new focus on cybersecurity legislation.", 
+  "headline": {
+    "seo": "New Interest in Hacking as Threat to U.S. Security", 
+    "main": "New Interest in Hacking as Threat to Security", 
+    "print_headline": "New Interest In Hacking As Threat To Security"
+  }, 
+  "abstract": "Increase in attacks on computer systems that control critical infrastructure, factories and databases prompt new focus on cybersecurity legislation that could require new standards at facilities where a breach could cause significant casualties or economic damage.", 
+  "print_page": "16", 
+  "word_count": "834", 
+  "_id": "53f496a838f0d857ea2d1260", 
+  "snippet": "An increase in attacks on computer systems that control critical infrastructure, factories and databases has prompted a new focus on cybersecurity legislation.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/03/14/us/new-interest-in-hacking-as-threat-to-us-security.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2012/03/14/us/CYBER-1/CYBER-1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2012/03/14/us/CYBER-1/CYBER-1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Law and Legislation", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Lieberman, Joseph I", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Collins, Susan M", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "Michael", 
+        "middlename": "S.", 
+        "lastname": "SCHMIDT", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MICHAEL S. SCHMIDT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-03-14T00:00:00Z", 
+  "section_name": "U.S."
+}

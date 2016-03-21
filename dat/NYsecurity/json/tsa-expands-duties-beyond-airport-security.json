@@ -1,0 +1,129 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "With little fanfare, the agency best known for airport screenings has vastly expanded its reach to public events. Not everyone is happy.", 
+  "headline": {
+    "main": "T.S.A. Expands Duties Beyond Airport Security", 
+    "print_headline": "T.S.A. Expands Duties Beyond Airport Security"
+  }, 
+  "abstract": "Transportation Security Administration expands duties beyond airport security, deploying Visible Intermodal Prevention and Response squads at sporting events, music festivals, rodeos, highway weigh stations and train terminals; TSA and local law enforcement officials say the teams are a critical component of the nation's counterterrorism efforts, but some members of Congress argue that the teams are not effective.", 
+  "print_page": "11", 
+  "word_count": "1154", 
+  "_id": "5200440838f0d8740ac89dd9", 
+  "snippet": "With little fanfare, the agency best known for airport screenings has vastly expanded its reach to public events. Not everyone is happy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/08/06/us/tsa-expands-duties-beyond-airport-security.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/08/06/us/VIPER/VIPER-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/08/06/us/VIPER/VIPER-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/08/06/us/VIPER/VIPER-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/08/06/us/VIPER/VIPER-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2013/08/06/us/VIPER/VIPER-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2013/08/06/us/VIPER/VIPER-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "House Committee on Homeland Security", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "Y", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transit Systems", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airport Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Civil Rights and Liberties", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Search and Seizure", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ron", 
+        "lastname": "NIXON"
+      }
+    ], 
+    "original": "By RON NIXON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-08-06T00:00:00Z", 
+  "section_name": "U.S."
+}

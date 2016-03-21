@@ -1,0 +1,29 @@
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/yr/mo/day/garden/23hackside.html, targetedPage: www.nytimes.com/yr/mo/day/garden, position: Bar1
+HOW do you protect a home network against a hackers attack?
+You begin by following the instructions and employing any and all of the security abilities, including encryption features and creating custom identification names, that a manufacturer of a device or its software might already have included. This is
+something youre probably not doing now because, as Detective Sgt.
+Art Martinez of the San Mateo County Sheriffs Office, who works with React, an electronic crimes task force in
+If somethings working, people dont want to mess with it. They set up DSL, get it to work, and dont want to touch the security features.
+you havent implemented the security features and youve thrown out the manuals, the devices manufacturers often have help available online. Wireless devices have a default
+identification name, or SSID, a code assigned by the manufacturer. Change the name and customize it, as you would a password, as well as any passwords used anywhere on your computer network. Change IDs and passwords frequently. Use a combination of letters and numbers, experts say, and dont use dictionary words. Hackers have vast dictionaries that scan computers for words or likely combinations. Update your operating system and your software frequently. Security patches are released routinely by manufacturers as
+vulnerabilities become known. The received wisdom for years was that Apples Mac computers
+were less vulnerable to attack, because with Macs less popular than PCs, it didnt pay for hackers to
+design viruses for Apples operating system. With the advent and spread of the iPod, and Apples entry into the television market early next year,
+that could change. If peripheral devices like printers have security features, enable those too, because computers have been hacked into through them.
+If you are contemplating a sophisticated home network with features like remote control of lighting or temperature, or a home security system, hire a professional installer who has an accreditation with an association like
+Custom Electronic Design and Installation Association.
+And check with your Internet provider that you are using its
+security measures as well.Dont buy security packages through e-mail or unsolicited online offers. A typical security scam involves the arrival of an
+you that your computer has a security risk. It offers to sell you the fix to download, but is instead a
+Trojan horse of viruses or security risks. Sites that offer free software online are particularly high-risk places to visit, experts say.Use common sense about what needs to be automated or networked, experts say. A lot doesnt. A refrigerator that cant go online doesnt have the gleam of the future, but its also safe as milk.
+Related ArticlesReport Finds Security Gaps In Medicare And Medicaid(October 8, 2006)TALKING BUSINESS; Feeling Free To Take Shots At an Old Bully(October 7, 2006)INTERNATIONAL BUSINESS; Plan for Vista Draws Warning To Microsoft From Europe(September 13, 2006)Hackers Gain Data On AT&T; Shoppers(August 30, 2006)
+Related SearchesComputer SecurityComputers and the InternetSecurity and Warning Systems
+Republican Leaders Map a Strategy to Derail Donald Trump
+Republican Leaders Map a Strategy to Derail Donald Trump
+Nicholas Kristof: The Worlds Modern-Day Lepers: Women With Fistulas
+Cubans Pack the Streets for a Glimpse of President Obama
+Obama Lands in Cuba With a Pledge to Listen to Its People
+Spain Bus Crash Kills 13 Exchange Students; 34 Injured
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York Citys top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/garden/23hackside.html, targetedPage: www.nytimes.com/yr/mo/day/garden, position: Inv1

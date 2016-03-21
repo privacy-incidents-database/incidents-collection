@@ -1,0 +1,62 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SpecialSections", 
+  "lead_paragraph": "The idea of setting up a wireless network at home can have you reaching for the aspirin before you hit the electronics store, but many problems can be avoided easily.", 
+  "headline": {
+    "main": "How to Ease the Pain in Setting Up a Wi-Fi Network", 
+    "print_headline": "How to Ease the Pain in Setting Up a Wi-Fi Network", 
+    "content_kicker": "Getting Connected"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "1158", 
+  "_id": "54b384d038f0d82eb90f1432", 
+  "snippet": "The idea of setting up a wireless network at home can have you reaching for the aspirin before you hit the electronics store, but many problems can be avoided easily.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/05/03/technology/techspecial3/03net.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/05/02/technology/03net.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/05/02/technology/03net.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Technology", 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "J."
+      }
+    ], 
+    "original": "By J. D. BIERSDORFER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-05-03T00:00:00Z", 
+  "section_name": "Technology"
+}

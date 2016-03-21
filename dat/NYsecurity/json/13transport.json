@@ -1,0 +1,80 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "Airport security screeners soon may be poking around Picassos in addition to sweaters and socks.", 
+  "headline": {
+    "main": "New Rule on Cargo Is Shaking Art World", 
+    "print_headline": "New Rule On Cargo Is Shaking Art World"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1003", 
+  "_id": "5442c8af38f0d8246e88c52b", 
+  "snippet": "Airport security screeners soon may be poking around Picassos in addition to sweaters and socks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/02/13/arts/design/13transport.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/02/13/arts/13transport_CA0/13transport_CA0-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/02/13/arts/13transport_CA0/13transport_CA0-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Art & Design", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Art", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Museums", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Randy", 
+        "rank": 1, 
+        "lastname": "KENNEDY"
+      }
+    ], 
+    "original": "By RANDY KENNEDY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-02-13T00:00:00Z", 
+  "section_name": "Arts"
+}

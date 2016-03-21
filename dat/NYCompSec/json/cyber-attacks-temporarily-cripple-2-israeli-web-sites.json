@@ -1,0 +1,82 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Unknown attackers disrupted access on Monday to the symbolically strategic Web sites of the Tel Aviv Stock Exchange and El Al, the national airline.", 
+  "headline": {
+    "seo": "Cyberattacks Temporarily Cripple 2 Israeli Web Sites", 
+    "main": "2 Israeli Web Sites Crippled as Cyberwar Escalates", 
+    "print_headline": "2 Israeli Web Sites Crippled As Cyberwar Escalates"
+  }, 
+  "abstract": "Israel faces an escalating cyberwar as unknown attackers disrupt access to Web sites of the Tel Aviv Stock Exchange and national airline El Al; hacker identifying himself as oxOmar, notorious for posting details of more that 20,000 Israeli credit cards, warned Israeli news outlets that pro-Palestinian cyberattackers were planning to bring down the sites.", 
+  "print_page": "9", 
+  "word_count": "487", 
+  "_id": "53f290fa38f0d847437dfc5f", 
+  "snippet": "Unknown attackers disrupted access on Monday to the symbolically strategic Web sites of the Tel Aviv Stock Exchange and El Al, the national airline.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/01/17/world/middleeast/cyber-attacks-temporarily-cripple-2-israeli-web-sites.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2012/01/17/world/ISRAEL/ISRAEL-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2012/01/17/world/ISRAEL/ISRAEL-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Cyberwarfare", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Israel", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Hamas", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Isabel", 
+        "lastname": "KERSHNER"
+      }
+    ], 
+    "original": "By ISABEL KERSHNER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-01-17T00:00:00Z", 
+  "section_name": "World"
+}

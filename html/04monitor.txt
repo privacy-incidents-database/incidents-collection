@@ -1,0 +1,484 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Software Being Developed to Monitor Opinions of U.S. - New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to article
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+Subscribe
+
+
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/yr/mo/day/us/04monitor.html, targetedPage: www.nytimes.com/yr/mo/day/us, position: Bar1
+Log In
+Register Now
+
+
+Home Page
+My Times
+Today's Paper
+Video
+Most Popular
+Times Topics
+
+
+
+
+
+
+
+
+
+
+ U.S.
+
+
+ All NYT
+
+
+
+
+
+
+
+
+
+
+
+U.S.
+
+
+
+
+World
+
+U.S.
+
+Politics
+
+Washington
+
+Education
+
+
+
+N.Y. / Region
+
+Business
+
+Technology
+
+Science
+
+Health
+
+Sports
+
+Opinion
+
+Arts
+
+Style
+
+Travel
+
+Jobs
+
+Real Estate
+
+Autos
+
+
+
+
+
+
+
+
+
+
+
+Software Being Developed to Monitor Opinions of U.S.
+
+
+
+
+
+
+
+
+
+Sign In to E-Mail This
+
+
+Print
+
+
+Reprints
+
+Save
+
+
+
+
+
+
+By ERIC LIPTON
+
+Published: October 4, 2006
+
+
+WASHINGTON, Oct. 3  A consortium of major universities, using Homeland Security Department money, is developing software that would let the government monitor  negative opinions of the United States or its leaders in newspapers and other publications overseas.
+
+Skip to next paragraph
+
+Threats & ResponsesGo to Complete Coverage »
+
+
+
+Such a  sentiment analysis is intended to identify potential threats to the nation, security officials said. Researchers at institutions including Cornell, the University of Pittsburgh and the University of Utah intend to test the system on hundreds of articles published in 2001 and 2002 on topics like President Bushs use of the term axis of evil, the handling of detainees at Guantánamo Bay, the debate over global warming and the coup attempt against President Hugo Chávez of Venezuela.  A $2.4 million grant will finance the research over three years.American officials have long relied on newspapers and other news sources to track events and opinions here and abroad, a goal that has included the routine translation of articles from many foreign publications and news services. The new software would allow much more rapid and comprehensive monitoring of the global news media, as the Homeland Security Department and, perhaps, intelligence agencies look to identify common patterns from numerous sources of information which might be indicative of potential threats to the nation, a statement by the department said.It could take several years for such a monitoring system to be in place, said Joe Kielman, coordinator of the research effort. The monitoring would not extend to United States news, Mr. Kielman said.We want to understand the rhetoric that is being published and how intense it is, such as the difference between dislike and excoriate, he said.Even the basic research has raised concern among journalism advocates and privacy groups, as well as representatives of the foreign news media.It is just creepy and Orwellian, said Lucy Dalglish, a lawyer and former editor who is executive director of the Reporters Committee for Freedom of the Press.Andrei Sitov, Washington bureau chief of the Itar-Tass news agency of Russia, said he hoped that the objective did not go beyond simply identifying threats to efforts to stifle criticism about an American president or administration.This is what makes your country great, the open society where people can criticize their own government, Mr. Sitov said.The researchers, using an grant provided by a research group once affiliated with the Central Intelligence Agency, have complied a database of hundreds of articles that it is being used to train a computer to recognize, rank and interpret statements. The software would need to be able to distinguish between statements like this spaghetti is good and this spaghetti is not very good  its excellent, said Claire T. Cardie, a professor of computer science at Cornell. Professor Cardie ranked the second statement as a more intense positive opinion than the first.The articles in the database include work from many American newspapers and news wire services, including The Miami Herald and The New York Times, as well as foreign sources like Agence France-Presse and The Dawn, a newspaper in Pakistan. One article discusses how a rabid fox bit a grazing cow in Romania, hardly a threat to the United States. Another item, an editorial in response to Mr. Bushs use in 2002 of axis of evil to describe Iraq, Iran and North Korea, said: The U.S. is the first nation to have developed nuclear weapons. Moreover, the U.S. is the first and only nation ever to deploy such weapons. The approach, called natural language processing, has been under development for decades. It is widely used to summarize basic facts in a text or to create abridged versions of articles.But interpreting and rating expressions of opinion, without making too many errors, has been much more challenging, said Professor Cardie and Janyce M. Wiebe, an associate professor of computer science at the University of Pittsburgh. Their system would include a confidence rating for each opinion that it evaluates and would allow an official to refer quickly to the actual text that the computer indicates contains an intense anti-American statement.Ultimately, the government could in a semiautomated way track a statement by specific individuals abroad or track reports by particular foreign news outlets or journalists, rating comments about American policies or officials.Marc Rotenberg, executive director of the Electronic Privacy Information Center in Washington, said the effort recalled the aborted 2002 push by a Defense Department agency to develop a tracking system called Total Information Awareness that was intended to detect terrorists by analyzing troves of information.That is really chilling, Mr. Rotenberg said. And it seems far afield from the mission of homeland security.Federal law prohibits the Homeland Security Department or other intelligence agencies from building such a database on American citizens, and no effort would be made to do that, a spokesman for the department, Christopher Kelly, said. But there would be no such restrictions on using foreign news media, Mr. Kelly said.Mr. Kielman, the project coordinator, said questions on using the software were premature because the department was just now financing the basic research necessary to set up an operating system.Professors Cardie and Wiebe said they understood that there were legitimate questions about the ultimate use of their software. There has to be guidelines and restrictions on the use of this kind of technology by the government, Professor Wiebe said. But it doesnt mean it is not useful. It can just as easily help the government understand what is going on in places around the world. 
+
+More Articles in 
+				National »
+
+
+
+
+Related ArticlesON THE ROAD; To Do List: Rename Laptop Files ‘Grandma’s Favorite Recipes’ (November 7, 2006) Threat Made To 7 Stadiums; U.S. Is Skeptical (October 19, 2006) Software Being Developed To Monitor Opinions of U.S. (October 4, 2006) U.S. Warns PC Users Of Flaw in Windows (August 10, 2006)
+
+
+Related SearchesHomeland Security DepartmentComputers and the InternetNewspapersComputer Software
+
+
+
+
+
+More Articles in 
+				National »
+
+
+
+
+
+
+
+MOST POPULAR
+
+
+Emailed
+Searched
+Viewed
+
+
+
+
+
+Cuba on the Edge of Change
+Teenage Drivers? Be Very Afraid
+Opinion: When Did Porn Become Sex Ed?
+The Voyages Issue: The Secrets of the Wave Pilots
+David Brooks: No, Not Trump, Not Ever
+What Happens When Millennials Run the Workplace?
+Op-Ed | Peter Wehner: The Man the Founders Feared
+Puerto Rico Braces for Its Own Zika Epidemic
+Republican Leaders Map a Strategy to Derail Donald Trump
+36 Hours: 36 Hours in Mexico City
+
+Go to Complete List Â»
+
+
+
+brazil
+donald trump
+david brooks
+modern love
+social q's
+china
+crossword
+paul krugman
+education
+obama
+
+Go to Complete List »
+
+
+
+Republican Leaders Map a Strategy to Derail Donald Trump
+Maureen Dowd: Will Trump Be Dumped?
+Op-Ed | Peter Wehner: The Man the Founders Feared
+Nicholas Kristof: The Worldâs Modern-Day Lepers: Women With Fistulas
+Cubans Pack the Streets for a Glimpse of President Obama
+What Happens When Millennials Run the Workplace?
+Apple vs. the F.B.I.: How the Case Could Play Out
+Cuba on the Edge of Change
+Obama Lands in Cuba With a Pledge to Listen to Its People
+Spain Bus Crash Kills 13 Exchange Students; 34 Injured
+
+Go to Complete List Â»
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+World
+U.S.
+N.Y. / Region
+Business
+Technology
+Science
+Health
+Sports
+Opinion
+Arts
+Style
+Travel
+Job Market
+Real Estate
+Automobiles
+Back to Top
+
+
+Copyright 2006
+The New York Times Company
+
+Privacy Policy
+Search
+Corrections
+RSS
+First Look
+Help
+Contact Us
+Work for Us
+Site Map
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/us/04monitor.html, targetedPage: www.nytimes.com/yr/mo/day/us, position: Inv1
+

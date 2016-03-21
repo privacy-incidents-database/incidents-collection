@@ -1,0 +1,62 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Small Business", 
+  "lead_paragraph": "IT is the corporate version of keeping up with the Joneses: every day, it seems, someone arrives at the office with a shiny new gadget that combines a cellphone with all sorts of features you used to find only on your computer. They can get e-mail messages, surf the Web, manage contact lists and calendars, and even create Word and Excel documents that can run on a conventional PC. These smart phones and hand-held computers are so powerful that many office workers now travel without their laptops. Why bother with a clunky box that takes several minutes to start up and connect to a network, when you have a device that is always online and can access information on demand?", 
+  "headline": {
+    "main": "Too Many New Gadgets, Too Much Information at Risk", 
+    "kicker": "CORPORATE SECURITY"
+  }, 
+  "abstract": "Survey by Pointsec Mobile Technologies finds that pocket-size smart phones and hand-held computers are misplaced all time--travelers left 85,000 cellphones and 21,000 hand-held computers in Chicago taxis during six-month period last year; some experts are concerned about increasing vulnerability of files as devices become capable of storing larger volumes of data; analysts say workers are too caught up with buying latest gadgets, forgetting that their data is fare more valuable than device it runs on; some companies are getting ahead on mobile security by actually buying small gadgets for their employees, albeit with security strings attached; drawing (special section, Small Business) (M)", 
+  "print_page": "12", 
+  "word_count": 1045, 
+  "_id": "4fd2ab7a8eb7c8105d898178", 
+  "snippet": "Workers' smart phones and hand-held computers can represent a sizable security risk if confidential files are stored on them.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/02/21/business/businessspecial2/21secure.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "POINTSEC MOBILE TECHNOLOGIES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LOST AND FOUND PROPERTY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CELLULAR TELEPHONES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TELEPHONES AND TELECOMMUNICATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "David", 
+        "middlename": "S.", 
+        "lastname": "JOACHIM", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By DAVID S. JOACHIM"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-02-21T00:00:00Z", 
+  "section_name": "Technology; Business"
+}

@@ -1,0 +1,125 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The potential resistance adds a wrinkle to a very public fight over access to an iPhone used by one of the San Bernardino attackers.", 
+  "headline": {
+    "main": "Apple Encryption Engineers, if Ordered to Unlock iPhone, Might Resist", 
+    "print_headline": "Reluctant Staff Could Impede IPhone Ruling "
+  }, 
+  "abstract": "Independent-minded culture at Apple may pose roadblock to unlocking iPhone encryption even if courts rule company must comply with FBI demands; employees discuss possible actions,  including refusing to do work or quitting, rather than undermine security.", 
+  "print_page": "1", 
+  "word_count": "1096", 
+  "_id": "56eb120338f0d82753b972be", 
+  "snippet": "The potential resistance adds a wrinkle to a very public fight over access to an iPhone used by one of the San Bernardino attackers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/18/technology/apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/18/business/18apple/18apple-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/18/business/18apple/18apple-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/18/business/18apple/18apple-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/18/business/18apple/18apple-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/18/business/18apple/18apple-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/18/business/18apple/18apple-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }, 
+      {
+        "firstname": "Brian", 
+        "middlename": "X.", 
+        "lastname": "CHEN", 
+        "rank": 3, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By JOHN MARKOFF, KATIE BENNER and BRIAN X. CHEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-18T00:00:00Z", 
+  "section_name": "Technology"
+}

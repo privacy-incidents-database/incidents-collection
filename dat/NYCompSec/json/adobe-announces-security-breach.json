@@ -1,0 +1,56 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The security breach, which Adobe called a part of a \u201csophisticated attack,\u201d allowed hackers to obtain encrypted passwords and other personal information from customers.", 
+  "headline": {
+    "main": "Adobe Announces Security Breach", 
+    "print_headline": "Adobe Announces Security Breach"
+  }, 
+  "abstract": "Software company Adobe discloses security breach in which hackers infiltrated computer systems and gained access to credit card information and other personal data from 2.9 million of its customers.", 
+  "print_page": "7", 
+  "word_count": "369", 
+  "_id": "524e282838f0d819897402ff", 
+  "snippet": "The security breach, which Adobe called a part of a \u201csophisticated attack,\u201d allowed hackers to obtain encrypted passwords and other personal information from customers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/10/04/technology/adobe-announces-security-breach.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Adobe Systems Inc", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "David", 
+        "lastname": "KOCIENIEWSKI"
+      }
+    ], 
+    "original": "By DAVID KOCIENIEWSKI"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-10-04T00:00:00Z", 
+  "section_name": "Technology"
+}

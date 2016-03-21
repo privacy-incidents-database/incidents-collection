@@ -1,0 +1,130 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The company said a ruling on unlocking the phone of a gunman in a mass shooting had to take into account the national debate over data privacy.", 
+  "headline": {
+    "main": "Apple and Justice Dept. Trade Barbs in iPhone Privacy Case", 
+    "print_headline": "Justice Dept. and Apple Trade Barbs Over Law"
+  }, 
+  "abstract": "Apple files new legal brief underscoring its opposition to court order that requires it to unlock iPhone used by one of attackers involved in San Bernardino, Calif, terrorist attack; Justice Dept criticizes company over brief and its resistance to court order.", 
+  "print_page": "1", 
+  "word_count": "869", 
+  "_id": "56e88b1638f0d85c820e63f1", 
+  "snippet": "The company said a ruling on unlocking the phone of a gunman in a mass shooting had to take into account the national debate over data privacy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/16/technology/apple-court-filing-iphone-case.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/16/business/16apple/16apple-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/16/business/16apple/16apple-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/16/business/16apple/16apple-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/16/business/16apple/16apple-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/16/business/16apple/16apple-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/16/business/16apple/16apple-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Pym, Sheri (Judge)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "Katie Benner reported from San Francisco and Eric Lichtblau from Washington.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }
+    ], 
+    "original": "By KATIE BENNER and ERIC LICHTBLAU"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-16T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,83 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "It\u2019s becoming increasingly clear that body scanners will soon be a standard part of the air travel experience.", 
+  "headline": {
+    "main": "Annoyances Mount Over the Body Scanner", 
+    "kicker": "On the Road", 
+    "print_headline": "Annoyances Mount Over the Body Scanner", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "5", 
+  "word_count": "747", 
+  "_id": "5418b22238f0d86afc9a069d", 
+  "snippet": "It\u2019s becoming increasingly clear that body scanners will soon be a standard part of the air travel experience.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/07/20/business/20road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/07/20/business/20Road/20Road-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/07/20/business/20Road/20Road-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Scanning Devices", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-07-20T00:00:00Z", 
+  "section_name": "Business Day"
+}

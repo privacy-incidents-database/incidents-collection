@@ -1,0 +1,117 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Younger firms like FireEye and Palo Alto Networks are competing with Symantec and McAfee in a market that is expected to swell to $87 billion by 2016.", 
+  "headline": {
+    "main": "Tech Security Upstarts Enter Fray", 
+    "print_headline": "Tech Security Upstarts Enter Fray"
+  }, 
+  "abstract": "Younger tech security companies like FireEye and Palo Alto Networks are competing with Symantec and McAfee in a market that is expected to swell to $87 billion by 2016; younger outfits say older technology reacts to security threats rather than anticipating them, and they can help solve that problem, which is estimated to cost United States economy $100 billion annually.", 
+  "print_page": "1", 
+  "word_count": "1271", 
+  "_id": "52d5e4f138f0d85057b2e33b", 
+  "snippet": "Younger firms like FireEye and Palo Alto Networks are competing with Symantec and McAfee in a market that is expected to swell to $87 billion by 2016.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/01/15/technology/upstarts-challenge-old-timers-in-lucrative-computer-security-field.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2014/01/15/business/jp-security2/jp-security2-thumbWide-v2.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2014/01/15/business/jp-security2/jp-security2-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2014/01/15/business/jp-security1/jp-security1-articleLarge.jpg", 
+      "height": 421, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2014/01/15/business/jp-security1/jp-security1-articleLarge.jpg", 
+        "xlargeheight": "421"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2014/01/15/business/jp-security2/jp-security2-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2014/01/15/business/jp-security2/jp-security2-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Intel Corporation", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "FireEye Inc", 
+      "is_major": "Y", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Symantec Corporation", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Palo Alto Networks Inc", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "McAfee Inc", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-01-15T00:00:00Z", 
+  "section_name": "Technology"
+}

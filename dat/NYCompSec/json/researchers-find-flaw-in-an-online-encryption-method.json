@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A study of a widely used security system for Internet shopping, banking and other services showed that it failed to work correctly in a small number of cases.", 
+  "headline": {
+    "seo": "Researchers Find Flaw in an Online Encryption Method", 
+    "main": "Flaw Found in an Online Encryption Method", 
+    "print_headline": "Researchers Find a Flaw in a Widely Used Online Encryption Method"
+  }, 
+  "abstract": "Team of European and American researchers discovers an unexpected weakness in the encryption system widely used for online shopping, banking, e-mail and other supposedly secure Internet services; flaw, which has to do with the way the system generates random numbers, may affect confidence in Web transactions.", 
+  "print_page": "4", 
+  "word_count": "1090", 
+  "_id": "53f3925a38f0d857ea2d03b1", 
+  "snippet": "A study of a widely used security system for Internet shopping, banking and other services showed that it failed to work correctly in a small number of cases.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/02/15/technology/researchers-find-flaw-in-an-online-encryption-method.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "E-Commerce", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hughes, James P", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Lenstra, Arjen K", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-02-15T00:00:00Z", 
+  "section_name": "Technology"
+}

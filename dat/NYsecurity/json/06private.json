@@ -1,0 +1,92 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Some 10,000 air operators would lose at least some of their exemption status if a new security plan is adopted.", 
+  "headline": {
+    "main": "Air Security Could Involve Private Jets", 
+    "print_headline": "Air Security Could Involve Private Jets"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "877", 
+  "_id": "545be4e438f0d85e5ee91593", 
+  "snippet": "Some 10,000 air operators would lose at least some of their exemption status if a new security plan is adopted.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/01/06/business/06private.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2009/01/06/business/06private.75.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/01/06/business/06private.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Regulation and Deregulation of Industry", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Millionaires and Billionaires", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Personal Finances", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Christine", 
+        "rank": 1, 
+        "lastname": "NEGRONI"
+      }
+    ], 
+    "original": "By CHRISTINE NEGRONI"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-01-06T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Transportation Security Administration screeners failed to detect weapons and other prohibited items 95 percent of the time in a covert test.", 
+  "headline": {
+    "main": "Head of T.S.A. Out After Tests Reveal Flaws", 
+    "print_headline": "Head of T.S.A. Out After Tests Reveal Flaws"
+  }, 
+  "abstract": "Homeland Security Dept Sec Jeh Johnson orders Transportation Security Administration to revise its security procedures after screeners at airport checkpoints failed to detect weapons and other prohibited items 95 percent of time in covert test; also replaces TSA administrator Melvin Carraway with Mark Hatfield.", 
+  "print_page": "11", 
+  "word_count": "306", 
+  "_id": "556d2af438f0d81d5c02ce28", 
+  "snippet": "Transportation Security Administration screeners failed to detect weapons and other prohibited items 95 percent of the time in a covert test.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/06/02/us/head-of-tsa-out-after-tests-reveal-flaws.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airport Security", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Carraway, Melvin", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Hatfield, Mark O", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Johnson, Jeh C", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Neffenger, Peter V", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "Jada", 
+        "middlename": "F.", 
+        "lastname": "SMITH", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By JADA F. SMITH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-06-02T00:00:00Z", 
+  "section_name": "U.S."
+}

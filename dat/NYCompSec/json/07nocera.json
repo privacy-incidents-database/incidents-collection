@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Computer security firms are complaining that a feature in Microsoft\u2019s new operating system would cripple their industry\u2019s innovation.", 
+  "headline": {
+    "main": "Feeling Free to Take Shots at an Old Bully", 
+    "kicker": "Talking Business", 
+    "print_headline": "Feeling Free To Take Shots At an Old Bully", 
+    "content_kicker": "Talking Business"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1681", 
+  "_id": "54a3b8c938f0d80267d29a7e", 
+  "snippet": "Computer security firms are complaining that a feature in Microsoft\u2019s new operating system would cripple their industry\u2019s innovation.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/10/07/business/07nocera.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Microsoft Corp", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computer Software", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Joe", 
+        "rank": 1, 
+        "lastname": "NOCERA"
+      }
+    ], 
+    "original": "By JOE NOCERA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-10-07T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "A United Nations investigator urged a significant expansion of the international security force in Afghanistan, warning that failing to do this could torpedo efforts to create democratic institutions in the war-devastated country. ''The first priority in restoring human rights is security,'' said Kamel Hossain, the United Nations's special representative on human rights in Afghanistan. ''How do you start the rule of law after the rule of the gun for so many years?''", 
+  "headline": {
+    "main": "U.N. Official Calls for a Much Larger International Force in Afghanistan", 
+    "kicker": "A NATION CHALLENGED: SECURITY"
+  }, 
+  "abstract": "Kamel Hossain, United Nations's special representative on human rights in Afghanistan, urges significant expansion of international security force there, warning that failing to do this could torpedo efforts to create democratic institutions in war-devastated country; his recommendation runs counter to view of United States and France, which have expressed opposition to expanding 4,800-member International Security Assistance Force (M)", 
+  "print_page": "14", 
+  "word_count": 559, 
+  "_id": "4fd21b9e8eb7c8105d79b1b9", 
+  "snippet": "A United Nations investigator urged a significant expansion of the international security force in Afghanistan, warning that failing to do this could torpedo efforts to create democratic institutions in the war-devastated country.     ''The first...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/03/28/world/nation-challenged-security-un-official-calls-for-much-larger-international-force.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "HOSSAIN, KAMAL"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "FRANCE"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "AFGHANISTAN"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "UNITED NATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POLITICS AND GOVERNMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FREEDOM AND HUMAN RIGHTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Elizabeth", 
+        "lastname": "OLSON"
+      }
+    ], 
+    "original": "By ELIZABETH OLSON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-03-28T00:00:00Z", 
+  "section_name": "World; Washington"
+}

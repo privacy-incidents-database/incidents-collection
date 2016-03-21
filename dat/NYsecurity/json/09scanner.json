@@ -1,0 +1,101 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The plan for broad use of \u201cbackscatter scanners\u201d at airports has raised questions about the safety of delivering small doses of radiation to millions of people.", 
+  "headline": {
+    "main": "Cancer Risks Debated for Type of X-Ray Scan", 
+    "sub": "Wide Use of System Planned at Airports ;", 
+    "print_headline": "Cancer Risks Debated For Type of X-Ray Scan"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "1131", 
+  "_id": "5424914738f0d8525e45388f", 
+  "snippet": "The plan for broad use of \u201cbackscatter scanners\u201d at airports has raised questions about the safety of delivering small doses of radiation to millions of people.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/09/health/09scanner.html", 
+  "multimedia": [
+    {
+      "width": 190, 
+      "url": "images/2010/01/09/health/09scanner-graphic/thumbWide.jpg", 
+      "height": 126, 
+      "subtype": "wide", 
+      "legacy": {
+        "wide": "images/2010/01/09/health/09scanner-graphic/thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2010/01/09/world/09scanner01/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/01/09/world/09scanner01/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "X-Rays", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Radiation", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Cancer", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Nicola Clark contributed reporting from Paris.", 
+    "person": [
+      {
+        "firstname": "Matthew", 
+        "middlename": "L.", 
+        "lastname": "WALD", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MATTHEW L. WALD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-09T00:00:00Z", 
+  "section_name": "Health"
+}

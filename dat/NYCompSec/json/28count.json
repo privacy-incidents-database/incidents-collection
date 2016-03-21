@@ -1,0 +1,50 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "It's wonderful that information about millions of people can fit on a few computer disks. But not when those disks are stolen.", 
+  "headline": {
+    "kicker": "The Count", 
+    "main": "For Data Security, Sometimes Small Is Not Beautiful ", 
+    "sub": " ;", 
+    "content_kicker": "The Count"
+  }, 
+  "abstract": null, 
+  "print_page": "2", 
+  "word_count": "175", 
+  "_id": "54b435b438f0d8623a353e08", 
+  "snippet": "It's wonderful that information about millions of people can fit on a few computer disks. But not when those disks are stolen.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/05/28/business/yourmoney/28count.html", 
+  "multimedia": [], 
+  "subsection_name": "Your Money", 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Hubert"
+      }
+    ], 
+    "original": "By HUBERT B. HERRING"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-05-28T00:00:00Z", 
+  "section_name": "Business Day"
+}

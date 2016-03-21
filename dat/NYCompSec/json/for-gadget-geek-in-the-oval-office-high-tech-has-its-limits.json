@@ -1,0 +1,129 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "President Obama has an affinity for cutting-edge personal technology, but security concerns mean his devices must have certain features disabled.", 
+  "headline": {
+    "main": "For Gadget Geek in the Oval Office, High Tech Has Its Limits", 
+    "kicker": "White House Letter", 
+    "print_headline": "For Gadget Geek in the Oval Office, High Tech Has Its Limits", 
+    "content_kicker": "White House Letter"
+  }, 
+  "abstract": "White House Letter; avid technology enthusiast Pres Obama faces limitations on his use of cutting edge high-tech gadgets; White House technology experts and Secret Service agents must curtail his use of certain devices to ensure all presidential communications are properly safeguarded for national security and his personal protection. ", 
+  "print_page": "9", 
+  "word_count": "1126", 
+  "_id": "56a593a338f0d81529067c67", 
+  "snippet": "President Obama has an affinity for cutting-edge personal technology, but security concerns mean his devices must have certain features disabled.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/25/us/politics/for-gadget-geek-in-the-oval-office-high-tech-has-its-limits.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/25/us/25whletter-web/25whletter-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/25/us/25whletter-web/25whletter-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/25/us/25whletter-web/25whletter-web-articleLarge.jpg", 
+      "height": 387, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/25/us/25whletter-web/25whletter-web-articleLarge.jpg", 
+        "xlargeheight": "387"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/25/us/25whletter-web/25whletter-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/25/us/25whletter-web/25whletter-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Obama, Barack", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Science and Technology", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Secret Service", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Wireless Communications", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Twitter", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "BlackBerry", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Fitbit", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael"
+      }
+    ], 
+    "original": "By MICHAEL D. SHEAR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-25T00:00:00Z", 
+  "section_name": "U.S."
+}

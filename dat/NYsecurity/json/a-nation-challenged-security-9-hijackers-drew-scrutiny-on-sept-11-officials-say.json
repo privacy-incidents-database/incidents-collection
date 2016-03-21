@@ -1,0 +1,73 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "Nine of the 19 terrorists who hijacked four jetliners on Sept. 11 had been singled out for special scrutiny that morning under aviation-security guidelines, government officials said today, as they looked back sadly at what might have been. But because their baggage contained no explosives, the hijackers were allowed to board.", 
+  "headline": {
+    "main": "9 Hijackers Drew Scrutiny On Sept. 11, Officials Say", 
+    "kicker": "A NATION CHALLENGED: SECURITY"
+  }, 
+  "abstract": "Government officials say 9 of 19 terrorists who hijacked four jets on Sept 11 were singled out for special scrutiny that morning under aviation-security guidelines, but that they were allowed to board because their baggage contained no explosives; say system prior to Sept 11 was geared to prevent bombs from being smuggled on board in luggage; details that are slowly emerging about Sept 11 suspicions and searches seem to tell story not of ineptitude but of security procedures overtaken by new terrorist tactics; for example, hijackers apparently wielded boxcutter knives of type that were then allowed on board but are now banned (M)", 
+  "print_page": "20", 
+  "word_count": 844, 
+  "_id": "4fd22e9a8eb7c8105d7bc793", 
+  "snippet": "Nine of the 19 terrorists who hijacked four jetliners on Sept. 11 had been singled out for special scrutiny that morning under aviation-security guidelines, government officials said today, as they looked back sadly at what might have been.     But...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/03/03/us/a-nation-challenged-security-9-hijackers-drew-scrutiny-on-sept-11-officials-say.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOMBS AND EXPLOSIVES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LUGGAGE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "David", 
+        "lastname": "STOUT"
+      }
+    ], 
+    "original": "By DAVID STOUT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-03-03T00:00:00Z", 
+  "section_name": "U.S."
+}

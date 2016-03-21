@@ -1,0 +1,49 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Because of a flaw, Facebook users who downloaded contact data for their list of friends obtained additional information that they were not supposed to have.", 
+  "headline": {
+    "main": "Facebook Says Technical Flaw Exposed 6 Million Users", 
+    "print_headline": "Facebook Says Technical Flaw Exposed 6 Million Users"
+  }, 
+  "abstract": "Facebook says it inadvertently exposed six million users' phone numbers and e-mail addresses to unauthorized viewers over last year, blaming technical flaw in its massive archive of contact information collected from its 1.1 billion users worldwide.", 
+  "print_page": "4", 
+  "word_count": "277", 
+  "_id": "51c4ed457e0d9c0839d2aee6", 
+  "snippet": "Because of a flaw, Facebook users who downloaded contact data for their list of friends obtained additional information that they were not supposed to have.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/06/22/business/facebook-says-technical-flaw-exposed-6-million-users.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Facebook Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-06-22T00:00:00Z", 
+  "section_name": "Business Day"
+}

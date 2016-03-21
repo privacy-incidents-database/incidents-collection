@@ -1,0 +1,76 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "The goal of Veracode\u2019s SecurityReview service is to find vulnerabilities that could leave data exposed or that hackers could exploit.", 
+  "headline": {
+    "main": "To Find the Danger, This Software Poses as the Bad Guys", 
+    "kicker": "Prototype", 
+    "print_headline": "To Find the Danger, This Software Poses as the Bad Guys", 
+    "content_kicker": "Prototype"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "1114", 
+  "_id": "5497e87138f0d82b2e2f4483", 
+  "snippet": "The goal of Veracode\u2019s SecurityReview service is to find vulnerabilities that could leave data exposed or that hackers could exploit.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/04/22/business/yourmoney/22proto.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2007/04/21/business/22PROTO.600.jpg", 
+      "height": 299, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2007/04/21/business/22PROTO.600.jpg", 
+        "xlargeheight": "299"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2007/04/21/business/22PROTO.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2007/04/21/business/22PROTO.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Your Money", 
+  "keywords": [
+    {
+      "value": "Computer Software", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael", 
+        "lastname": "FITZGERALD"
+      }
+    ], 
+    "original": "By MICHAEL FITZGERALD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-04-22T00:00:00Z", 
+  "section_name": "Business Day"
+}

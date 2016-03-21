@@ -1,0 +1,89 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Westchester Weekly Desk", 
+  "lead_paragraph": "PASSENGERS accustomed to the mild-mannered feel at Westchester County Airport might be intimidated by the blue military-style tank parked out front these days. But the airport manager, Joel Russell, said that the vehicle, which belongs to the county police, ''sends a message about our police presence here.'' ''I like it,'' Mr. Russell said last week. ''It's symbolic and it has a practical use too.'' Creating a warm impression for passengers is not a priority right now, he said. In fact, the airport is set to install a bomb-proof ''curtain'' in the parking lot to protect the nearby passenger terminal from a possible car bomb.", 
+  "headline": {
+    "main": "County Airport Gets Tank And More Police Officers", 
+    "kicker": "SECURITY"
+  }, 
+  "abstract": "Scene at Westchester County Airport described as it operates under level four security regulations mandated by Federal Aviation Administration after terrorist attacks; photos (M)", 
+  "print_page": "7", 
+  "word_count": 627, 
+  "_id": "4fd2323a8eb7c8105d7c1cb1", 
+  "snippet": "PASSENGERS accustomed to the mild-mannered feel at Westchester County Airport might be intimidated by the blue military-style tank parked out front these days. But the airport manager, Joel Russell, said that the vehicle,  which belongs to the county...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2001/09/30/nyregion/security-county-airport-gets-tank-and-more-police-officers.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WESTCHESTER COUNTY (NY)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRPORTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PENTAGON BUILDING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WESTCHESTER COUNTY AIRPORT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "MISSING PERSONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Corey", 
+        "lastname": "KILGANNON"
+      }
+    ], 
+    "original": "By COREY KILGANNON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2001-09-30T00:00:00Z", 
+  "section_name": "New York and Region"
+}

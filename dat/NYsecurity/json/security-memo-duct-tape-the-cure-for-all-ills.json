@@ -1,0 +1,45 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Connecticut Weekly Desk", 
+  "lead_paragraph": "LIKE we need another excuse to buy duct tape. What's it been, maybe just a few months since duct tape was last flying off store shelves? In October, the tape had a bigger comeback than Ozzy Osbourne when a Cincinnati doctor announced it was a better and less painful remedy than liquid nitrogen for wart removal. The head of the wart study said he didn't know for sure why it worked, but thought it may have something to do with irritation of the immune system.", 
+  "headline": {
+    "main": "Duct Tape: The Cure for All Ills", 
+    "kicker": "SECURITY MEMO"
+  }, 
+  "abstract": "Christine Digrazia Security Memo column on heightened interest in duct tape, which is once again being seen as cure for all ills; drawing (M)", 
+  "print_page": "1", 
+  "word_count": 772, 
+  "_id": "4fd225df8eb7c8105d7ad1ed", 
+  "snippet": "LIKE we need another excuse to buy duct tape.   What's it been, maybe just a few months since duct tape was last flying off store shelves? In October, the tape had a bigger comeback than Ozzy Osbourne when a Cincinnati doctor announced it was a...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/02/23/nyregion/security-memo-duct-tape-the-cure-for-all-ills.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "ADHESIVES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Christine", 
+        "lastname": "DIGRAZIA"
+      }
+    ], 
+    "original": "By CHRISTINE DIGRAZIA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-02-23T00:00:00Z", 
+  "section_name": "New York and Region"
+}

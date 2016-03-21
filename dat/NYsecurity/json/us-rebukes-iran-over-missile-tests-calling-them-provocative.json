@@ -1,0 +1,67 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The United States ambassador to the United Nations, Samantha Power, scheduled a Security Council meeting on Monday to address what she called \u201cthese dangerous launches.\u201d", 
+  "headline": {
+    "main": "U.S. Rebukes Iran Over Missile Tests, Calling Them Provocative", 
+    "print_headline": "U.S. Calls for Security Council Action on Iran&#8217;s &#8216;Provocative&#8217; Missile Tests"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "375", 
+  "_id": "56e3711c38f0d81b768a68c1", 
+  "snippet": "The United States ambassador to the United Nations, Samantha Power, scheduled a Security Council meeting on Monday to address what she called \u201cthese dangerous launches.\u201d", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/12/world/middleeast/us-rebukes-iran-over-missile-tests-calling-them-provocative.html", 
+  "multimedia": [], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Iran", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Missiles and Missile Defense Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Nuclear Weapons", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Power, Samantha", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Rick", 
+        "lastname": "GLADSTONE"
+      }
+    ], 
+    "original": "By RICK GLADSTONE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-12T00:00:00Z", 
+  "section_name": "World"
+}

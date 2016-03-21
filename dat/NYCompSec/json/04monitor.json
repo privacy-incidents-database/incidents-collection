@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A consortium of major universities, using Homeland Security Department money, is developing software that would let the government monitor negative opinions of the United States overseas.", 
+  "headline": {
+    "main": "Software Being Developed to Monitor Opinions of U.S.", 
+    "print_headline": "Software Being Developed To Monitor Opinions of U.S."
+  }, 
+  "abstract": null, 
+  "print_page": "28", 
+  "word_count": "919", 
+  "_id": "54a39b5938f0d80267d29713", 
+  "snippet": "A consortium of major universities, using Homeland Security Department money, is developing software that would let the government monitor negative opinions of the United States overseas.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/10/04/us/04monitor.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Newspapers", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Software", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-10-04T00:00:00Z", 
+  "section_name": "U.S."
+}

@@ -1,0 +1,657 @@
+
+  
+
+
+
+
+New Puzzles to Tell Humans From Machines - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Business Day|New Puzzles That Tell Humans From Machines
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Business Day |                    Novelties                
+New Puzzles That Tell Humans From Machines
+
+By ANNE EISENBERGMAY 23, 2009
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+One test uses identification programs to decipher images scanned from books for digitization. Another requires people to flip an image right-side up.
+
+Credit
+            Google        
+
+
+ROGUE programs try their best to register at Web sites and then wreak havoc, but a clever puzzle often bars them from entry: a set of distorted, squiggly letters and numbers that people can decipher and type correctly for admission, but that machines still can’t.Well, at least for the moment.Now, to stay one jump ahead of fraudsters and their automated programs, researchers are devising more versions of the puzzles, called captchas, to help sites block abuse that includes spam e-mail, illegal postings and skewed online voting.Researchers at Google  are testing a new captcha that requires people to turn upright randomly rotated images, like that of a parrot perched temporarily upside-down on a leafy branch. The task is a breeze for people — using a cellphone touchscreen, for example, to flip the image — but hard for machines.The new puzzles could be built around a site’s theme — for instance, cartoons at a Disney site, or objects for sale at eBay, said Rich Gossweiler, a senior research scientist at Google who led the team that developed the system. It can be put in place rapidly, he said, and has an almost limitless supply of images. “Our technique expands the vocabulary of captchas” beyond obfuscated characters, he said. “And it might make the process less of a chore. It’s fun to solve a puzzle.”The program rejects images like those for human faces that computers have already learned to recognize, he said. “We first remove all those images that computers can turn upright, and then the ones that humans have trouble with,” he said.
+
+Advertisement
+
+Continue reading the main story
+
+People may have trouble orienting abstract art, but they can quickly distinguish a parrot’s image, for example, even if it is shown amid objects like leaves. “We can see it needs to be upright,” he said, “but it’s more difficult for the computer to segment out the parrot” and then orient it.Google can keep replenishing its library of images by testing new candidates. “If a bunch of people put an image upright, we keep it,” he said. But if the image is troublesome, it will be discarded.Another new approach in the captcha arms race was developed by Luis von Ahn, a professor at Carnegie Mellon University and a pioneer in captcha development. (The term is short for “completely automated public Turing test to tell computers and humans apart,” a reference to the test proposed by Alan Turing, the British mathematician, to determine if a computer can be said to think like a human.)Dr. von Ahn has created a more secure version of audio captchas used by the visually impaired in surfing the Internet with screen readers. Traditionally in audio captchas, a distorted voice reads numbers and the user types them in. But research led by Dr. von Ahn and a student, Jennifer Tam, showed that such captchas are easily deciphered by automatic programs and may lead to security risks.In the new captchas, which Dr. von Ahn said had proved to be more secure in research trials, the audio clips are not of numbers, but of phrases drawn from old radio shows posted on the Internet Archive. They will be easy for people to solve, but tough for automated programs.Dr. von Ahn has also created a free  system, called reCaptcha (recaptcha.net), now used by about 120,000 sites including Ticketmaster, Craigslist, Facebook, Twitter and The New York Times.The system has an unusual twist that provides an added benefit to projects that are digitizing books and papers in archives: the source of the wiggly images that people must decipher is not random. The images are drawn from books and other media that are being digitized in mass projects, but that machines haven’t been able to read because, for instance, the page is wrinkled.Automatic character recognition lets people who are having the work scanned know which words it cannot read. These are the words that recaptcha farms out and, once they are interpreted, returns to the original document. In this way, word by word, most of the mystery words are deciphered, in this case by humans. “We are digitizing about 25 million words per day by having people type in captchas,” Dr. von Ahn said.
+
+Advertisement
+
+Continue reading the main story
+
+The audio captchas are also being used for transcription and digitization projects. “We are doing both speech and text,” Dr. von Ahn said. “Take your choice.”The Times is paying reCaptcha for its help in digitizing its archives, said Marc Frons, chief technology officer, digital operations. So far, puzzling words in archives covering about 30 years have been deciphered with reCaptchas, he said.Many people worry that as machines become smarter, the days of captcha protection will be numbered, whether the puzzles take the form of distorted text, audio snippets or rotated images. But Henry Baird, a professor in the department of computer science and engineering at Lehigh University, disagrees. Dr. Baird and colleagues have proposed a system for captchas that, like Google’s, can be woven into the theme of a Web site.“Machines’ abilities are slowly improving,” he said, “but I think there is still a huge gap between human inborn perceptual abilities and machine skills.”
+
+E-mail: novelties@nytimes.com
+A version of this article appears in print on , on page BU4 of the New York edition with the headline: New Puzzles That Tell Humans From Machines.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

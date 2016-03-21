@@ -1,0 +1,71 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Spam around the world dropped by an estimated one-fifth after Russia\u2019s pursuit of a suspected spam kingpin.", 
+  "headline": {
+    "seo": "Igor A. Gusev, Leader of SpamIt, Investigated by Russian Police", 
+    "main": "E-Mail Spam Falls After Russian Crackdown", 
+    "print_headline": "Spam Slows After Russia Investigates"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "974", 
+  "_id": "541c125638f0d8296cb10812", 
+  "snippet": "Spam around the world dropped by an estimated one-fifth after Russia\u2019s pursuit of a suspected spam kingpin.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/10/27/business/27spam.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/10/27/business/27spam/27spam-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/10/27/business/27spam/27spam-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Spam (Electronic Mail)", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Russia", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "Andrew", 
+        "middlename": "E.", 
+        "lastname": "KRAMER", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By ANDREW E. KRAMER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-10-27T00:00:00Z", 
+  "section_name": "Business Day"
+}

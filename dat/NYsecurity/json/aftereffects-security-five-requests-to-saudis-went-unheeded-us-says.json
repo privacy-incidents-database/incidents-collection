@@ -1,0 +1,89 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "In the month before Monday's bombings in Riyadh, the United States asked Saudi Arabia on at least five separate occasions to deploy armed uniformed government guards around all Western targets of a possible terrorist attack, Bush administration officials said today. Among those requests, the officials said, was one by Stephen J. Hadley, the deputy national security adviser who was diverted to Saudi Arabia during a trip to Moscow and Israel and was instructed by the White House to meet directly with Crown Prince Abdullah, the kingdom's day-to-day leader.", 
+  "headline": {
+    "main": "Five Requests to Saudis Went Unheeded, U.S. Says", 
+    "kicker": "AFTEREFFECTS: SECURITY"
+  }, 
+  "abstract": "Bush administration officials say that in month before bombings in Riyadh, United States asked Saudi Arabia on at least five separate occasions to deploy armed uniformed government guards around all Western targets of possible terrorist attack; say one request was made by Stephen J Hadley, deputy national security adviser, in May 5 meeting with Crown Prince Abdullah, kingdom's day-to-day leader; say Saudi authorities did nothing to augment security at any of sites; Saudi ambassador to US Prince Bandar bin Sultan says Saudi security agencies concluded that they had adequate measures in place; notes near impossibility of deterring 'determined, crazy, evil person'; other Saudi officials point out that there are hundreds of potential Western targets in kingdom; American officials acknowledge that at no time did US specify which sites it wanted guarded; say precise nature of attacks in Riyadh raises questions about their assumption that they had successfully reined in Al Qaeda (M)", 
+  "print_page": "15", 
+  "word_count": 857, 
+  "_id": "4fd2432f8eb7c8105d7dca99", 
+  "snippet": "In the month before Monday's bombings in Riyadh, the United States asked Saudi Arabia on at least five separate occasions to deploy armed uniformed government guards around all Western targets of a possible terrorist attack, Bush administration...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/05/16/world/aftereffects-security-five-requests-to-saudis-went-unheeded-us-says.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "HADLEY, STEPHEN J"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BANDAR BIN SULTAN"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "persons", 
+      "value": "ABDULLAH"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "RIYADH (SAUDI ARABIA)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "SAUDI ARABIA"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "AL QAEDA"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOMBS AND EXPLOSIVES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Douglas", 
+        "lastname": "JEHL"
+      }, 
+      {
+        "firstname": "David", 
+        "middlename": "E.", 
+        "lastname": "SANGER", 
+        "rank": 2, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By DOUGLAS JEHL and DAVID E. SANGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-05-16T00:00:00Z", 
+  "section_name": "World; Washington"
+}

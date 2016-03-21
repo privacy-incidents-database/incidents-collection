@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "At least 16 Iraqis were killed and dozens were wounded Friday in separate car bomb attacks outside a mosque in Baghdad and near a wedding party south of the capital, according to Iraqi government and hospital officials. With just over a week before national elections on Jan. 30, the wave of violence that American and Iraqi officials had predicted appeared to be gaining momentum as insurgents continued their campaign of car bomb attacks, kidnappings and beheadings.", 
+  "headline": {
+    "main": "At Least 16 Iraqis Are Killed in Car Bomb Attacks as Violence Surges", 
+    "kicker": "THE CONFLICT IN IRAQ: SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": 860, 
+  "_id": "4fd2a5708eb7c8105d88d464", 
+  "snippet": "With just over a week before national elections, the wave of violence that U.S. and Iraqi officials had predicted appeared to be gaining momentum.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/01/22/international/middleeast/22iraq.html", 
+  "multimedia": [
+    {
+      "url": "images/2005/01/22/international/middleeast/22iraq1_75.jpg", 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "hasthumbnail": "Y", 
+        "thumbnailheight": 75, 
+        "thumbnail": "images/2005/01/22/international/middleeast/22iraq1_75.jpg"
+      }, 
+      "type": "image", 
+      "height": 75
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "AL-ZARQAWI, ABU MUSAB"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "subject", 
+      "value": "VIOLENCE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Christine", 
+        "rank": 1, 
+        "lastname": "HAUSER"
+      }
+    ], 
+    "original": "By CHRISTINE HAUSER; Zaineb Obeid contributed reporting for this article"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-01-22T00:00:00Z", 
+  "section_name": "World"
+}

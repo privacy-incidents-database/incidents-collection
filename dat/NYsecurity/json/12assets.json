@@ -1,0 +1,80 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A database of targets is so flawed, inspectors said, that it lists more sites in Indiana than in New York or California.", 
+  "headline": {
+    "main": "Come One, Come All, Join the Terror Target List", 
+    "print_headline": "Come One, Come All, Join the Terror Target List"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "869", 
+  "_id": "54ae67c338f0d817e02e7a4b", 
+  "snippet": "A database of targets is so flawed, inspectors said, that it lists more sites in Indiana than in New York or California.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/07/12/washington/12assets.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/07/11/us/assets.600.jpg", 
+      "height": 251, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/07/11/us/assets.600.jpg", 
+        "xlargeheight": "251"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/07/11/us/assets.7575.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/07/11/us/assets.7575.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-07-12T00:00:00Z", 
+  "section_name": "Washington"
+}

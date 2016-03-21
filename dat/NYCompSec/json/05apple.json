@@ -1,0 +1,64 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Technical experts found weaknesses in iOS, which it said could be exploited to infect the company\u2019s popular hand-held devices.", 
+  "headline": {
+    "seo": "German Agency Warns of Flaws in Apple&#8217;s Mobile Software", 
+    "main": "German Agency Finds Flaws in Apple\u2019s Mobile Software", 
+    "print_headline": "German Agency Finds Flaws In Apple\u2019s Mobile Software"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "348", 
+  "_id": "54193b1138f0d86afc9a12f9", 
+  "snippet": "Technical experts found weaknesses in iOS, which it said could be exploited to infect the company\u2019s popular hand-held devices.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/08/05/technology/05apple.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Germany", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Miguel Helft contributed reporting from San Francisco.", 
+    "person": [
+      {
+        "firstname": "Kevin", 
+        "middlename": "J.", 
+        "lastname": "O'BRIEN", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By KEVIN J. O'BRIEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-08-05T00:00:00Z", 
+  "section_name": "Technology"
+}

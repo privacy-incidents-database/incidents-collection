@@ -1,0 +1,75 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The new approach will replace the extra scrutiny that had been imposed on passengers from 14 countries.", 
+  "headline": {
+    "main": "Security Checks on Flights to U.S. to Be Revamped", 
+    "sub": "Search for Terror Links Is a Response to Jet Threat of Dec. 25;", 
+    "print_headline": "SECURITY CHECKS ON FLIGHTS TO U.S. TO BE REVAMPED"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1050", 
+  "_id": "5444a65c38f0d82782d9be12", 
+  "snippet": "The new approach will replace the extra scrutiny that had been imposed on passengers from 14 countries.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/04/02/us/02terror.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Islam", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "Eric Lipton contributed reporting.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jeff", 
+        "lastname": "ZELENY"
+      }
+    ], 
+    "original": "By JEFF ZELENY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-04-02T00:00:00Z", 
+  "section_name": "U.S."
+}

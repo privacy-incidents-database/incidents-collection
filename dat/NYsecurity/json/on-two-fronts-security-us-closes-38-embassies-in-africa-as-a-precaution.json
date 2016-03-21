@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "The United States has closed 38 embassies in Africa for at least two days to protect employees against possible terrorist reprisals for the American air strikes on Iraq, Administration officials said today. Secretary of State Madeleine K. Albright said the Administration was taking this highly unusual step of closing so many embassies today and Friday ''because we are concerned about general threats and the heightened situation.''", 
+  "headline": {
+    "main": "U.S. Closes 38 Embassies In Africa as a Precaution", 
+    "kicker": "ON TWO FRONTS: SECURITY"
+  }, 
+  "abstract": "US closes 38 embassies in Africa for at least two days to protect employees against possible terrorist reprisals for US air strikes on Iraq; State Dept officials say embassies in South Africa and Nigeria will remain open (M)", 
+  "print_page": "24", 
+  "word_count": 394, 
+  "_id": "4fd20c398eb7c8105d77b4df", 
+  "snippet": "The United States has closed 38 embassies in Africa for at least two days to protect employees against possible terrorist reprisals for the American air strikes on Iraq, Administration officials said today.    Secretary of State Madeleine K. Albright...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1998/12/18/world/on-two-fronts-security-us-closes-38-embassies-in-africa-as-a-precaution.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "AFRICA"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "SOUTH AFRICA"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NIGERIA"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "UNITED STATES FOREIGN SERVICE"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "STATE DEPARTMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ATOMIC WEAPONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOLOGICAL AND CHEMICAL WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "IRAQ-INTERNATIONAL RELATIONS-US"
+    }, 
+    {
+      "name": "subject", 
+      "value": "MISSILES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Robert", 
+        "lastname": "PEAR"
+      }
+    ], 
+    "original": "By ROBERT PEAR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1998-12-18T00:00:00Z", 
+  "section_name": "World; Washington"
+}

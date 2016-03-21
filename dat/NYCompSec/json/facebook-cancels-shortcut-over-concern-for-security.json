@@ -1,0 +1,56 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "What was supposed to be a shortcut for Facebook users to log into their pages ended up exposing their e-mail addresses, potentially allowing access to their accounts as well.", 
+  "headline": {
+    "main": "Facebook Cancels Shortcut Over Concern for Security", 
+    "print_headline": "Facebook Cancels Shortcut Over Concern for Security"
+  }, 
+  "abstract": "Facebook cancels shortcut that was intended for users to log into their pages, but ended up exposing their e-mail addresses, potentially allowing access to their accounts as well.", 
+  "print_page": "2", 
+  "word_count": "458", 
+  "_id": "5094701795e998af7118b033", 
+  "snippet": "What was supposed to be a shortcut for Facebook users to log into their pages ended up exposing their e-mail addresses, potentially allowing access to their accounts as well.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/11/03/technology/facebook-cancels-shortcut-over-concern-for-security.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Facebook Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Somini", 
+        "lastname": "SENGUPTA"
+      }
+    ], 
+    "original": "By SOMINI SENGUPTA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-11-03T00:00:00Z", 
+  "section_name": "Technology"
+}

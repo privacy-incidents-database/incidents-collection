@@ -1,0 +1,121 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "In the 1970s, Whitfield Diffie and Martin E. Hellman invented the technology that underpins web commerce.", 
+  "headline": {
+    "main": "Cryptography Pioneers Win Turing Award"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "642", 
+  "_id": "56d5d7b138f0d83a4dd60c98", 
+  "snippet": "In the 1970s, Whitfield Diffie and Martin E. Hellman invented the technology that underpins web commerce.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/02/technology/cryptography-pioneers-to-win-turing-award.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/02/business/02turing2/02turing2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/02/business/02turing2/02turing2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/02/business/02turing2/02turing2-articleLarge.jpg", 
+      "height": 1171, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/02/business/02turing2/02turing2-articleLarge.jpg", 
+        "xlargeheight": "1171"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/02/business/02turing2/02turing2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/02/business/02turing2/02turing2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cryptography, Codes and Ciphers", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Turing, Alan M", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Hellman, Martin E", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Diffie, Whitfield (1944- )", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Awards, Decorations and Honors", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "RSA, The Security Division of EMC Corporation", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-02T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,635 @@
+
+  
+
+
+
+
+Facebook Cancels Shortcut Over Concern for Security - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Technology|Facebook Cancels Shortcut Over Concern for Security
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/RBLSq7
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Technology 
+Facebook Cancels Shortcut Over Concern for Security
+
+By SOMINI SENGUPTANOV. 2, 2012
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+SAN FRANCISCO — What was supposed to be a shortcut for Facebook users to log into their pages ended up exposing their e-mail addresses — and, in some cases, potentially allowing access to their accounts as well.A Facebook spokesman said on Friday that the company had created the shortcut, called auto login, to let some users go directly to their pages by clicking on a Web link sent to their e-mail addresses. Once they clicked on the link, they could get into their accounts, rather than having to go to Facebook.com and log in.Some of the links required users to type their passwords, while others did not, the company said.On the Web site Hacker News, a technology discussion board, Matt Jones, an engineer at Facebook, said the company had offered the service for “ease of use” and never made the Web addresses “publicly available.”But they did become publicly available, as the discussion on Hacker News revealed on Friday.The Facebook spokesman, Frederic Wolens, said some users may have posted the links on the Web, allowing anyone to search for them. Those links could give a stranger access to the Facebook pages connected to them, as well as the e-mail addresses of those users. Mr. Wolens said he had no explanation why someone would post the links.  When Facebook found the problem, it discontinued the shortcut.The Hacker News thread said over one million Facebook accounts had been affected. Facebook could not confirm that figure on Friday afternoon.
+
+Advertisement
+
+Continue reading the main story
+
+TrendMicro, a private security company that offers safety tools for Facebook users, said Web address shortcuts were inherently dangerous because they could ultimately end up on the Web.“Many, many hackers are targeting these portals because of the ubiquitous trust and use of them,” said Tom Kellermann, vice president for cybersecurity at TrendMicro. He added, “You don’t take shortcuts through the woods in cyberspace.”The news of the security hole comes a week after a Bulgarian blogger, Bogomil Shopov, said he had bought 1.1 million Facebook users’ names and e-mail addresses on the Web for $5. He found the information for sale on a marketplace site, gigbucks.com. The items are no longer available.Mr. Wolens of Facebook said the data had been acquired and compiled by someone who took whatever information Facebook users made public on their pages — and from other publicly available data about those users.Mr. Kellermann of TrendMicro said the problem with the shortcut could explain how the names and e-mail addresses that Mr. Shopov had found became public. Facebook said the security flaw and the user data for sale had nothing to do with each another.“We have no reason whatsoever to believe that these two incidents are related,” Mr. Wolens said.
+
+A version of this article appears in print on November 3, 2012, on page B2 of the New York edition with the headline: Facebook Cancels Shortcut Over Concern for Security.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

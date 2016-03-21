@@ -1,0 +1,90 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Two women have filed complaints against the Transportation Security Administration, saying they were subjected to racially motivated searches.", 
+  "headline": {
+    "seo": "Natural Hair Pat-Downs Warrant a Rethinking", 
+    "main": "With Hair Pat-Downs, Complaints of Racial Bias", 
+    "kicker": "On the Road", 
+    "print_headline": "With Hair Pat-Downs, Complaints of Racial Bias", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "769", 
+  "_id": "5411656938f0d80f29522742", 
+  "snippet": "Two women have filed complaints against the Transportation Security Administration, saying they were subjected to racially motivated searches.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/08/16/business/natural-hair-pat-downs-warrant-a-rethinking.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/08/16/business/16ROAD/16ROAD-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/08/16/business/16ROAD/16ROAD-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Racial Profiling", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hair", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Race and Ethnicity", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Blacks", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-08-16T00:00:00Z", 
+  "section_name": "Business Day"
+}

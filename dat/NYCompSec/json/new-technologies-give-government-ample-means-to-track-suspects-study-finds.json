@@ -1,0 +1,147 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Fears that encrypted communication will prevent agencies from tracking terrorists are overstated, according to a study that included current and former intelligence officials.", 
+  "headline": {
+    "main": "New Technologies Give Government Ample Means to Track Suspects, Study Finds", 
+    "print_headline": "New Technologies Give Government Ample Means to Track Suspects, Study Finds"
+  }, 
+  "abstract": "Harvard study finds that alarm in intelligence community concerning encrypted communications is overblown, noting that governments have range of opportunity to conduct surveillance through network-connected appliances, toys and other devices; findings call into question demands from intelligence and security officials that companies like Apple give government 'back door' access to encrypted data; findings also raise privacy concerns about Internet-connected devices. ", 
+  "print_page": "6", 
+  "word_count": "1092", 
+  "_id": "56aeaece38f0d82f06c0cc97", 
+  "snippet": "Fears that encrypted communication will prevent agencies from tracking terrorists are overstated, according to a study that included current and former intelligence officials.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/01/us/politics/new-technologies-give-government-ample-means-to-track-suspects-study-finds.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/world/ENCRYPTION/ENCRYPTION-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/world/ENCRYPTION/ENCRYPTION-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/world/ENCRYPTION/ENCRYPTION-articleLarge.jpg", 
+      "height": 389, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/world/ENCRYPTION/ENCRYPTION-articleLarge.jpg", 
+        "xlargeheight": "389"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/world/ENCRYPTION/ENCRYPTION-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/world/ENCRYPTION/ENCRYPTION-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cook, Timothy D", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "persons"
+    }, 
+    {
+      "value": "National Security Agency", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Berkman Center for Internet and Society", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Olsen, Matthew G", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Comey, James B", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "David", 
+        "middlename": "E.", 
+        "lastname": "SANGER", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By DAVID E. SANGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-01T00:00:00Z", 
+  "section_name": "U.S."
+}

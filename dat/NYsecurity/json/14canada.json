@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A Homeland Security Department plan would require Canadian airlines to turn over data about passengers flying over the United States.", 
+  "headline": {
+    "main": "U.S. Plan for Airline Security Meets Resistance in Canada", 
+    "print_headline": "U.S. Plan for Airline Security Meets Resistance in Canada"
+  }, 
+  "abstract": null, 
+  "print_page": "34", 
+  "word_count": "362", 
+  "_id": "548622ea38f0d8164e21df29", 
+  "snippet": "A Homeland Security Department plan would require Canadian airlines to turn over data about passengers flying over the United States.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/10/14/us/14canada.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Canada", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ian", 
+        "lastname": "AUSTEN"
+      }
+    ], 
+    "original": "By IAN AUSTEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-10-14T00:00:00Z", 
+  "section_name": "U.S."
+}

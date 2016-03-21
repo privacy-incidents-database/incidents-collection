@@ -1,0 +1,77 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The names and Social Security numbers of 3.5 million people were publicly available on the state comptroller\u2019s Web site for a year. The agency\u2019s response to this blunder has hardly been admirable.", 
+  "headline": {
+    "main": "How Not to Say Sorry After a Blunder Affecting Millions", 
+    "kicker": "The Texas Tribune", 
+    "print_headline": "How Not to Say Sorry After a Blunder Affecting Millions", 
+    "content_kicker": "The Texas Tribune"
+  }, 
+  "abstract": null, 
+  "print_page": "21A", 
+  "word_count": "718", 
+  "_id": "540d019c38f0d85bf2515160", 
+  "snippet": "The names and Social Security numbers of 3.5 million people were publicly available on the state comptroller\u2019s Web site for a year. The agency\u2019s response to this blunder has hardly been admirable.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/04/22/us/22ttramsey.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/04/22/us/22TTRAMSEY/22TTRAMSEY-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/04/22/us/22TTRAMSEY/22TTRAMSEY-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Identity Fraud", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Social Security (US)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Texas Tribune", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ross", 
+        "lastname": "RAMSEY"
+      }
+    ], 
+    "original": "By ROSS RAMSEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-04-22T00:00:00Z", 
+  "section_name": "U.S."
+}

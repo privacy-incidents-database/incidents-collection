@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Security fears are on everybody's lips at the ITB travel trade fair in Berlin this year as a battered tourist industry seeks to reassure travelers and tour operators that they need not shy away from booking summer holidays for this year.", 
+  "headline": {
+    "main": "Security Fears Overshadow World's Biggest Travel Fair", 
+    "print_headline": "Security Fears Overshadow World's Biggest Travel Fair"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "522", 
+  "_id": "56e1bd4c38f0d87369b23efa", 
+  "snippet": "Security fears are on everybody's lips at the ITB travel trade fair in Berlin this year as a battered tourist industry seeks to reassure travelers and tour operators that they need not shy away from booking summer holidays for this year.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/10/business/10reuters-europe-tourism-outlook.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-10T13:28:43Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,90 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metropolitan Desk", 
+  "lead_paragraph": "With $100 million in federal funds allocated to improve security along the labyrinth of railroad tracks and tunnels leading to Pennsylvania Station, a top official of the Department of Homeland Security joined Senator Charles E. Schumer on a tour of the station yesterday, and both said the work was off to a good start. But Mr. Schumer warned that much more was needed.", 
+  "headline": {
+    "main": "Schumer Praises Work for Safer Penn Station, but Wants More", 
+    "kicker": "THREATS AND RESPONSES: SECURITY"
+  }, 
+  "abstract": "Asa Hutchinson of Homeland Security Dept joins Sen Charles E Schumer of New York on tour of Pennsylvania Station to discuss security along labyrinth of railroad tracks and tunnels leading to station; $100 million in federal funds have been allocated to project, but Schumer warns that much more is needed; Amtrak, which owns and maintains station, says about $25 million has been spent since work began year ago; project has so far included installation of underground lighting, sensors, alarms, security cameras, barricades and other devices intended to protect against terrorism; photo (M)", 
+  "print_page": "14", 
+  "word_count": 497, 
+  "_id": "4fd22e168eb7c8105d7bbda8", 
+  "snippet": "With $100 million in federal funds allocated to improve security along the labyrinth of railroad tracks and tunnels leading to Pennsylvania Station, a top official of the Department of Homeland Security joined Senator Charles E. Schumer on a tour of...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/06/17/nyregion/threats-responses-security-schumer-praises-work-for-safer-penn-station-but-wants.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "HUTCHINSON, ASA"
+    }, 
+    {
+      "name": "persons", 
+      "value": "SCHUMER, CHARLES E"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "UNITED STATES"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "HOMELAND SECURITY DEPARTMENT"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "AMTRAK"
+    }, 
+    {
+      "name": "subject", 
+      "value": "RECORDINGS (VIDEO)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BRIDGES AND TUNNELS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FINANCES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "RAILROADS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BUDGETS AND BUDGETING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PENNSYLVANIA STATION (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Thomas", 
+        "middlename": "J.", 
+        "lastname": "LUECK", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By THOMAS J. LUECK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-06-17T00:00:00Z", 
+  "section_name": "New York and Region"
+}

@@ -1,0 +1,129 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The North Korean leader\u2019s comments were reported a day after the United Nations Security Council approved tougher sanctions aimed at curtailing his country\u2019s nuclear and ballistic-missile programs.", 
+  "headline": {
+    "main": "North Korea\u2019s Kim Jong-un Tells Military to Have Nuclear Warheads on Standby", 
+    "print_headline": "North Korean Leader Instructs Military to Have Nuclear Warheads on Standby"
+  }, 
+  "abstract": "North Korean leader Kim Jong-un orders country's military to prepare its nuclear warheads for imminent launch, day after United Nations Security Council adopts stricter sanctions against country; South Korea is still considering installation of American-made missile defense system, despite China's objections and doubts about North's capabilities.", 
+  "print_page": "7", 
+  "word_count": "694", 
+  "_id": "56d8ff2038f0d810eb12c776", 
+  "snippet": "The North Korean leader\u2019s comments were reported a day after the United Nations Security Council approved tougher sanctions aimed at curtailing his country\u2019s nuclear and ballistic-missile programs.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/04/world/asia/north-koreas-kim-jong-un-tells-military-to-have-nuclear-warheads-on-standby.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/04/world/04KOREA-web/04KOREA-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/04/world/04KOREA-web/04KOREA-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/04/world/04KOREA-web/04KOREA-web-articleLarge.jpg", 
+      "height": 419, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/04/world/04KOREA-web/04KOREA-web-articleLarge.jpg", 
+        "xlargeheight": "419"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/04/world/04KOREA-web/04KOREA-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/04/world/04KOREA-web/04KOREA-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "North Korea", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Nuclear Weapons", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "South Korea", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Kim Jong-un", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Embargoes and Sanctions", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Missiles and Missile Defense Systems", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Choe", 
+        "lastname": "SANG-HUN"
+      }
+    ], 
+    "original": "By CHOE SANG-HUN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-04T00:00:00Z", 
+  "section_name": "World"
+}

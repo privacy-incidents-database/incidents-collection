@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A day after The Times reported that Chinese hackers had infiltrated its computers, The Wall Street Journal said it was coping with a similar attack.", 
+  "headline": {
+    "seo": "Wall Street Journal Reports Attack by China Hackers", 
+    "main": "Wall Street Journal Announces That It, Too, Was Hacked by the Chinese", 
+    "print_headline": "Wall Street Journal Announces That It Was Hacked by the Chinese, Too"
+  }, 
+  "abstract": "Wall Street Journal reports that its network was attacked by Chinese hackers who were attempting to monitor company's coverage of China; announcement comes day after New York Times reports similar hacking.", 
+  "print_page": "4", 
+  "word_count": "580", 
+  "_id": "510b25e900315214fbb88732", 
+  "snippet": "A day after The Times reported that Chinese hackers had infiltrated its computers, The Wall Street Journal said it was coping with a similar attack.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/02/01/technology/wall-street-journal-reports-attack-by-china-hackers.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New York Times", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Wall Street Journal", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "News Corporation", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Bloomberg Business News", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "7", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Xi Jinping", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Wen Jiabao", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "Michael Gordon contributed reporting from Washington.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-02-01T00:00:00Z", 
+  "section_name": "Technology"
+}

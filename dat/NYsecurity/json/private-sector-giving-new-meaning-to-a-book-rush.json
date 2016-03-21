@@ -1,0 +1,77 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Money and Business/Financial Desk", 
+  "lead_paragraph": "It can often take months for the business book industry to adjust to changing economic conditions. But in the case of the trauma caused by the Sept. 11 attacks, the business publishing world has already responded. The first of what could be a business book trend, ''Financial Security in Troubled Times: What You Need to Do Now,'' by Ric Edelman, goes on sale Oct. 30. Mr. Edelman, a financial adviser in Fairfax, Va., who has written three personal-finance books including a best seller, ''Ordinary People, Extraordinary Wealth,'' said he wrote the book because the attack had ''left many people uncertain about the future and troubled about their personal financial security.'' He said his proceeds from the book, which costs $14.95 and is to be published by HarperBusiness, will be donated to Sept. 11 relief charities. Normally, Mr. Edelman said, it takes him months to research and write a book. But he wrote ''Financial Security in Troubled Times'' over the weekend of Sept. 29-30 after his publisher, Cathy Hemming, told him: ''We'll do it right now. When can you give us the manuscript?''", 
+  "headline": {
+    "main": "Private Sector; Giving New Meaning to a Book Rush"
+  }, 
+  "abstract": "Ric Edelman writes Financial Security in Troubled Times in a weekend following terrorist attacks of Sept 11; will donate his proceeds to Sept 11 relief charities; photo (S)", 
+  "print_page": "2", 
+  "word_count": 243, 
+  "_id": "4fd20f998eb7c8105d782735", 
+  "snippet": "It can often take months for the business book industry to adjust to changing economic conditions. But in the case of the trauma caused by the Sept. 11 attacks, the business publishing world has already responded. The first of what could be a...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2001/10/07/business/private-sector-giving-new-meaning-to-a-book-rush.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "creative_works", 
+      "value": "FINANCIAL SECURITY IN TROUBLED TIMES (BOOK)"
+    }, 
+    {
+      "name": "persons", 
+      "value": "EDELMAN, RIC"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOOKS AND LITERATURE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PERSONAL FINANCES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Compiled", 
+        "middlename": "Rick", 
+        "lastname": "GLADSTONE", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "(COMPILED BY RICK GLADSTONE)"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2001-10-07T00:00:00Z", 
+  "section_name": "Business; Books"
+}

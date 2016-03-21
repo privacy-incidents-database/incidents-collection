@@ -1,0 +1,73 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "Just what went wrong at Logan International Airport? Hundreds of investigators in what one official called ''a massive investigation'' began trying today to pinpoint how terrorists managed to penetrate the two airliners that set off from here to destroy the World Trade Center towers, even as airport officials maintained that Logan was as safe as any of its counterparts. Two of the four jetliners that were hijacked by terrorists this morning originated at Logan. The first, American Airlines Flight 11, with 92 people aboard, left Boston at 7:59 bound for Los Angeles and crashed into the World Trade Center at about 8:45. The second, United Airlines Flight 175, also headed for Los Angeles and carrying 63, left Boston at 8:14 and struck the World Trade Center shortly after 9.", 
+  "headline": {
+    "main": "Boston's Airport Security Is Described as Standard", 
+    "kicker": "A DAY OF TERROR: SECURITY"
+  }, 
+  "abstract": "Investigators begin trying to pinpoint how terrorists managed to penetrate two airliners that set off from Logan International Airport in Boston and ultimately slammed into World Trade Center in New York; Logan's level of security is considered typical of large international airports; photo (M)", 
+  "print_page": "16", 
+  "word_count": 1021, 
+  "_id": "4fd250338eb7c8105d7f3499", 
+  "snippet": "Just what went wrong at Logan International Airport? Hundreds of investigators in what one official called ''a massive investigation'' began trying today to pinpoint how terrorists managed to penetrate the two airliners that set off from here to...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2001/09/12/us/a-day-of-terror-security-boston-s-airport-security-is-described-as-standard.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "BOSTON (MASS)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRPORTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LOGAN INTERNATIONAL AIRPORT (BOSTON)"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Carey", 
+        "lastname": "GOLDBERG"
+      }
+    ], 
+    "original": "By CAREY GOLDBERG"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2001-09-12T00:00:00Z", 
+  "section_name": "U.S."
+}

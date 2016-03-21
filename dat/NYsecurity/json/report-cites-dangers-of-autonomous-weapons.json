@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A former Pentagon official who helped establish United States policy on such weapons says they could be uncontrollable in real-world situations.", 
+  "headline": {
+    "main": "Report Cites Dangers of Autonomous Weapons", 
+    "print_headline": "Autonomous Weapons\u2019 Safety Is Questioned"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "762", 
+  "_id": "56d357af38f0d86ef22e174a", 
+  "snippet": "A former Pentagon official who helped establish United States policy on such weapons says they could be uncontrollable in real-world situations.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/29/technology/report-cites-dangers-of-autonomous-weapons.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/29/business/29autonomous-web2/29autonomous-web2-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/29/business/29autonomous-web2/29autonomous-web2-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/29/business/29autonomous-web2/29autonomous-web2-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/29/business/29autonomous-web2/29autonomous-web2-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/29/business/29autonomous-web2/29autonomous-web2-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/29/business/29autonomous-web2/29autonomous-web2-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Artificial Intelligence", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Drones (Pilotless Planes)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Center for a New American Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Defense Department", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-29T00:00:00Z", 
+  "section_name": "Technology"
+}

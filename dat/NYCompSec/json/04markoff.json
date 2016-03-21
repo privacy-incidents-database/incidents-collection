@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "WeekInReview", 
+  "lead_paragraph": "The Internet affords anonymity to its users, but that very anonymity is also behind the explosion of cybercrime that has swept across the Web.", 
+  "headline": {
+    "main": "Taking the Mystery Out of Web Anonymity", 
+    "print_headline": "Taking the Mystery Out of Web Anonymity"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "938", 
+  "_id": "5418246738f0d851fd3a8f92", 
+  "snippet": "The Internet affords anonymity to its users, but that very anonymity is also behind the explosion of cybercrime that has swept across the Web.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/07/04/weekinreview/04markoff.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/07/04/weekinreview/MARKOFF/MARKOFF-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/07/04/weekinreview/MARKOFF/MARKOFF-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-07-04T00:00:00Z", 
+  "section_name": "Week in Review"
+}

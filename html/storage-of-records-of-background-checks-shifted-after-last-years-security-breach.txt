@@ -1,0 +1,860 @@
+
+  
+
+
+
+
+Storage of Records of Background Checks Shifted After Last Year’s Security Breach  - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Politics|Storage of Records of Background Checks Shifted After Last Year’s Security Breach 
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/1Tehepw
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Politics 
+Storage of Records of Background Checks Shifted After Last Year’s Security Breach 
+
+By JULIE HIRSCHFELD DAVISJAN. 22, 2016
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+WASHINGTON —  The Obama administration on Friday said that the Defense Department would take over the storage of records from federal background checks, part of an overhaul prompted by a colossal cybersecurity breach at the Office of Personnel Management.That intrusion, which compromised the personal information of more than 20 million people, embarrassed President Obama and raised troubling questions about his administration’s ability to counter mounting cyberthreats.A major component of the overhaul will be the creation of a new agency that will process federal background checks. That agency, called the National Background Investigations Bureau, will be part of the personnel office but will be led by a presidential appointee.Mr. Obama will request $95 million in his budget for 2017 to carry out the upgrades, the administration said. The budget will be submitted to Congress within weeks.A senior administration official said that people undergoing background checks may not see many changes; investigators will still interview co-workers, friends and family members of anyone seeking a clearance.
+
+Advertisement
+
+Continue reading the main story
+
+But the information gathered will no longer be stored in the personnel office’s systems. Most will be stored in the Internet “cloud,” in systems designed and run by the Defense Department.“They have learned a lot at Defense, and we want to exploit that experience,” the official said.The Defense Department has had its own troubles with cybersecurity, including the release of hundreds of thousands of documents to WikiLeaks in 2010 by Pvt. Chelsea Manning, formerly Bradley Manning. The department has since invested heavily to protect its networks.The overhaul of the background check system is the latest fallout from the hacking episode at the personnel agency, which forced a leadership shake-up and a broad review of how the government investigates prospective employees and contractors. The personnel agency conducts about 95 percent of those investigations, including more than 600,000 security clearance checks and 400,000 “suitability” investigations each year.“This is primarily about recognizing the evolving threats and national security importance of the background investigation systems and data,” said Samuel J. Schumach, the personnel agency’s press secretary. He said that Defense Department investigations accounted for more than 70 percent of the background checks, so it made sense for its experts to take over the storage system.“Utilizing what D.O.D. can provide — a large and trained cybersecurity work force to protect against and respond to cyberintrusions, and a strong focus on national security — is the right step to take,” Mr. Schumach said.In the breach at the personnel agency, about 22 million records were stolen by the intruders — widely believed to be Chinese, though the administration has avoided publicly naming the Chinese government as the offender. The records include Social Security numbers; medical and financial histories; the names of friends, family members and people from past relationships; and, in more than six million files, complete fingerprints.The attackers lurked undetected in the system for more than a year. Only when long-delayed system upgrades began did the scope of the theft become clear, or the stealth with which the data was shipped out of the databases, some of which were located in the Interior Department.The overhaul was announced without fanfare on a quiet day in Washington, an hour before federal offices closed to prepare for a huge snowstorm. Mr. Obama had no public schedule on Friday, and the daily White House briefing was canceled because of the weather.
+
+Advertisement
+
+Continue reading the main story
+
+It was not clear how quickly the changes would take effect. White House officials said that they “will take time to fully implement,” and that a transition team would manage the formation of the new office. It will absorb the existing entity responsible for background checks, known as Federal Investigative Services.The new office will have “a senior privacy official to advance privacy by design,” referring to the concept of building security measures into products from their inception, rather than after a devastating breach.“We are committed to protecting the security of not only our systems and data, but also the personally identifiable information of the people we entrust with protecting our national security,” administration officials who conducted the review of the background check system wrote in a blog post announcing the overhaul. Among the officials who signed the post were James R. Clapper Jr., the director of national intelligence, and Beth Cobert, the personnel office’s acting director.Since the revelations last year of the data theft, the personnel agency has rushed to bolster the security of its information. Mr. Schumach said it had moved to put in place “real-time monitoring” of its computer systems, installed controls to bar unknown devices from logging on to its network, and enforced “two-factor authentication” for gaining access to the network — a basic measure that had been lacking on many government systems.
+
+David Sanger contributed reporting.
+Follow the New York Times’s politics and Washington coverage on Facebook and Twitter, and sign up for the First Draft politics newsletter.
+A version of this article appears in print on January 23, 2016, on page A11 of the New York edition with the headline: Storage of Records of Background Checks Shifted After Last Year’s Security Breach .  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+
+
+
+
+Hacking of Government Computers Exposed 21.5 Million People
+JULY 9, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hackers Took Fingerprints of 5.6 Million U.S. Workers, Government Says
+SEPT. 23, 2015
+
+
+
+
+
+
+
+
+
+China Calls Hacking of U.S. Workers’ Data a Crime, Not a State Act
+DEC. 2, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+Target and PayPal Sites Report Problems on Cyber Monday
+NOV. 30, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iranian Hackers Attack State Dept. via Social Media Accounts
+NOV. 24, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+
+Hacking of Government Computers Exposed 21.5 Million People
+JULY 9, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hackers Took Fingerprints of 5.6 Million U.S. Workers, Government Says
+SEPT. 23, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+China Calls Hacking of U.S. Workers’ Data a Crime, Not a State Act
+DEC. 2, 2015
+
+
+
+
+
+
+
+
+
+
+
+Target and PayPal Sites Report Problems on Cyber Monday
+NOV. 30, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+Iranian Hackers Attack State Dept. via Social Media Accounts
+NOV. 24, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+Senate Approves a Cybersecurity Bill Long in the Works and Largely Dated
+OCT. 27, 2015
+
+
+
+
+
+
+
+
+FIRST DRAFT 
+
+Cybersecurity Looms as Obstacle for Nominee to Lead the Office of Personnel Management
+NOV. 11, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+Show All
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

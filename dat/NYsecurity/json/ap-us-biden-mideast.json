@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Vice President Joe Biden is heading to the Middle East this week for a visit that won't focus on the flare up of violence between the Palestinians and Israelis.", 
+  "headline": {
+    "main": "Biden Heads to Mideast for Talks on Security", 
+    "print_headline": "Biden Heads to Mideast for Talks on Security"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "114", 
+  "_id": "56d9c2df38f0d83eee097815", 
+  "snippet": "Vice President Joe Biden is heading to the Middle East this week for a visit that won't focus on the flare up of violence between the Palestinians and Israelis.", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/aponline/2016/03/04/us/politics/ap-us-biden-mideast.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-04T12:13:48Z", 
+  "section_name": "U.S."
+}

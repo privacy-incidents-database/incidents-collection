@@ -1,0 +1,55 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Home", 
+  "lead_paragraph": "How do you protect a home network against a hacker\u2019s attack?", 
+  "headline": {
+    "main": "Barbarians at the Modern"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "443", 
+  "_id": "54a7cc6b38f0d85f31aaefe7", 
+  "snippet": "How do you protect a home network against a hacker\u2019s attack?", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/11/23/garden/23hackside.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "William", 
+        "middlename": "L.", 
+        "lastname": "HAMILTON", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By WILLIAM L. HAMILTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-11-23T00:00:00Z", 
+  "section_name": "Home & Garden"
+}

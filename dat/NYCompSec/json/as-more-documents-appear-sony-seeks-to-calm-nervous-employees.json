@@ -1,0 +1,80 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The company said the F.B.I. had dedicated \u201csenior staff\u201d to the global hacking investigation.", 
+  "headline": {
+    "main": "As More Documents Appear, Sony Seeks to Calm Nervous Employees"
+  }, 
+  "abstract": null, 
+  "print_page": "", 
+  "word_count": "365", 
+  "_id": "54864abb38f0d8164e21e0a9", 
+  "snippet": "The company said the F.B.I. had dedicated \u201csenior staff\u201d to the global hacking investigation.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/12/09/business/media/as-more-documents-appear-sony-seeks-to-calm-nervous-employees.html", 
+  "multimedia": [], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Cyberattacks and Hackers", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Sony Pictures Entertainment", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Sony Corporation", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Federal Bureau of Investigation", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "The Interview (Movie)", 
+      "name": "creative_works"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Brooks", 
+        "rank": 1, 
+        "lastname": "BARNES"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Nicole", 
+        "rank": 2, 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By BROOKS BARNES and NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-12-09T00:00:00Z", 
+  "section_name": "Business Day"
+}

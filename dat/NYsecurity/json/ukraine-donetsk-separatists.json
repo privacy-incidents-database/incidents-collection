@@ -1,0 +1,110 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "A minivan trying to bypass traffic at a checkpoint near Donetsk tripped a land mine, killing four occupants. It was unclear which side had planted the mine.", 
+  "headline": {
+    "main": "Mine Kills Civilians as Fighting Heats Up in Eastern Ukraine", 
+    "print_headline": "Fighting Heats Up in Ukraine"
+  }, 
+  "abstract": "Violence in Ukraine between pro-Russian separatists and government forces erupts after period of relative quiet, putting civilians at risk with mortar fire and land mines.", 
+  "print_page": "8", 
+  "word_count": "429", 
+  "_id": "56bbaf3f38f0d862fbbced05", 
+  "snippet": "A minivan trying to bypass traffic at a checkpoint near Donetsk tripped a land mine, killing four occupants. It was unclear which side had planted the mine.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/11/world/europe/ukraine-donetsk-separatists.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/11/world/11UKRAINE-web1/11UKRAINE-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/11/world/11UKRAINE-web1/11UKRAINE-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/11/world/11UKRAINE-web1/11UKRAINE-web1-articleLarge.jpg", 
+      "height": 401, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/11/world/11UKRAINE-web1/11UKRAINE-web1-articleLarge.jpg", 
+        "xlargeheight": "401"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/11/world/11UKRAINE-web1/11UKRAINE-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/11/world/11UKRAINE-web1/11UKRAINE-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "Ukraine", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Russia", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Mines, Explosive", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Civilian Casualties", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Donetsk (Ukraine)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Organization for Security and Cooperation in Europe", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Alisa", 
+        "lastname": "SOPOVA"
+      }
+    ], 
+    "original": "By ALISA SOPOVA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-11T00:00:00Z", 
+  "section_name": "World"
+}

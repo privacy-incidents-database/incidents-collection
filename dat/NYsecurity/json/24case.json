@@ -1,0 +1,74 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "When laptops are placed in certain cases, like the ScanFast line from Mobile Edge, the Transportation Security Administration does not require them to be removed from the case for screening.", 
+  "headline": {
+    "main": "Computer Cases That Offer a Speedier Inspection on Your Dash to the Plane", 
+    "print_headline": "Computer Cases That Offer A Speedier Inspection On Your Dash to the Plane"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "143", 
+  "_id": "5483427738f0d80df4fa33b1", 
+  "snippet": "When laptops are placed in certain cases, like the ScanFast line from Mobile Edge, the Transportation Security Administration does not require them to be removed from the case for screening.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/07/24/technology/personaltech/24case.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2008/07/24/technology/personaltech/24bag.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2008/07/24/technology/personaltech/24bag.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Personal Tech", 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Laptop Computers", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "BIGGS"
+      }
+    ], 
+    "original": "By JOHN BIGGS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-07-24T00:00:00Z", 
+  "section_name": "Technology"
+}

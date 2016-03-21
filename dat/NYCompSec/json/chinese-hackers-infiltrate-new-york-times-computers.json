@@ -1,0 +1,88 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The timing of the attacks coincided with reporting for an investigation that found that the relatives of China\u2019s prime minister had accumulated a fortune worth several billion dollars through business dealings.", 
+  "headline": {
+    "seo": "Chinese Hackers Infiltrate New York Times Computers", 
+    "main": "Hackers in China Attacked The Times for Last 4 Months", 
+    "print_headline": "Hackers in China Attacked The Times for Last 4 Months"
+  }, 
+  "abstract": "New York Times investigation reveals that Chinese hackers have been persistently attacking the newspaper for months, infiltrating computer systems and gaining access to passwords for reporters and other employees; attacks, using methods that some consultants have associated with Chinese military in the past, coincided with Times reports that relatives of China\u2019s prime minister accumulated fortune worth several billion dollars through business dealings.", 
+  "print_page": "1", 
+  "word_count": "2377", 
+  "_id": "510a4ad200315214fbb883b4", 
+  "snippet": "The timing of the attacks coincided with reporting for an investigation that found that the relatives of China\u2019s prime minister had accumulated a fortune worth several billion dollars through business dealings.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/01/31/technology/chinese-hackers-infiltrate-new-york-times-computers.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/01/31/technology/31hack-web/31hack-web-thumbWide-v2.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/01/31/technology/31hack-web/31hack-web-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2013/01/31/technology/31hack-web/31hack-web-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2013/01/31/technology/31hack-web/31hack-web-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "New York Times", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-01-31T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,129 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The investment in K2 will give A.I.G. ties to a provider of investigations and analytics that can benefit its clients, particularly on online defense.", 
+  "headline": {
+    "main": "A.I.G. Invests in Kroll\u2019s K2 Intelligence Firm", 
+    "print_headline": "A.I.G. Invests Again in Kroll Family, With a Focus on Online Threats"
+  }, 
+  "abstract": "American International Group will announce that it has made investment in K2 Intelligence, corporate investigations firm founded by Jules B Kross and his son Jeremy; deal, part of which is based on growing need to address online crime, marks renewal of relationship between Kroll family and AIG, which first invested in different Kroll firm in 1993.", 
+  "print_page": "4", 
+  "word_count": "556", 
+  "_id": "552ebf9a38f0d824112d665a", 
+  "snippet": "The investment in K2 will give A.I.G. ties to a provider of investigations and analytics that can benefit its clients, particularly on online defense.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/04/16/business/dealbook/back-to-the-future-aig-to-invest-in-kroll-firm.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2015/04/16/business/16DB-KROLL/16DB-KROLL-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2015/04/16/business/16DB-KROLL/16DB-KROLL-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2015/04/16/business/16DB-KROLL/16DB-KROLL-articleLarge.jpg", 
+      "height": 380, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2015/04/16/business/16DB-KROLL/16DB-KROLL-articleLarge.jpg", 
+        "xlargeheight": "380"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2015/04/16/business/16DB-KROLL/16DB-KROLL-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2015/04/16/business/16DB-KROLL/16DB-KROLL-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "American International Group Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "K2 Intelligence LLC", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Kroll, Jeremy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Kroll, Jules B", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Cyberwarfare and Defense", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Kroll Associates Inc", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Doyle, John", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Hancock, Peter D", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Michael", 
+        "middlename": "J.", 
+        "lastname": "de la MERCED", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MICHAEL J. de la MERCED"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-04-16T00:00:00Z", 
+  "section_name": "Business Day"
+}

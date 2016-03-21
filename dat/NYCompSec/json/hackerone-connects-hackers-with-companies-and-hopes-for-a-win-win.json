@@ -1,0 +1,116 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "HackerOne\u2019s co-founders are betting they can persuade the world\u2019s hackers to spend their free time solving security\u2019s problems, not causing them, and that businesses will pay them a bounty for their service.", 
+  "headline": {
+    "main": "HackerOne Connects Hackers With Companies, and Hopes for a Win-Win", 
+    "print_headline": "Hacking, Responsibly "
+  }, 
+  "abstract": "Michiel Prins, Jobert Abma, Merijn Terheggen and Alex Rice are co-founders of HackerOne, which hopes to become middleman between companies and hackers who find cybersecurity flaws in companies' websites and products; company seeks to upend current system of discovering companies' cybersecurity flaws, which essentially incentivizes criminality instead of coming up with solutions to those flaws.", 
+  "print_page": "1", 
+  "word_count": "1348", 
+  "_id": "5574e66d38f0d8502adcc20e", 
+  "snippet": "HackerOne\u2019s co-founders are betting they can persuade the world\u2019s hackers to spend their free time solving security\u2019s problems, not causing them, and that businesses will pay them a bounty for their service.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/06/08/technology/hackerone-connects-hackers-with-companies-and-hopes-for-a-win-win.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2015/06/08/business/hackerone/hackerone-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2015/06/08/business/hackerone/hackerone-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2015/06/08/business/hackerone/hackerone-articleLarge.jpg", 
+      "height": 398, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2015/06/08/business/hackerone/hackerone-articleLarge.jpg", 
+        "xlargeheight": "398"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2015/06/08/business/hackerone/hackerone-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2015/06/08/business/hackerone/hackerone-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "HackerOne Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Rice, Alex", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Prins, Michiel", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Terheggen, Merijn", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Abma, Jobert", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-06-08T00:00:00Z", 
+  "section_name": "Technology"
+}

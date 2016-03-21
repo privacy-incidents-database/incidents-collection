@@ -1,0 +1,45 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "In early July, the Homeland security secretary, Tom Ridge, declared that credible intelligence showed Al Qaeda intended to launch a ''large-scale attack'' inside the United States to ''disrupt our democratic process.'' More than three months later, counterterrorism officials in the United States and overseas say they are still concerned, but have uncovered little specific evidence of a plot timed to the election. Extensive investigations into the most significant reported threat unearthed this year, a years-old Qaeda surveillance operation thought to be aimed at five financial institutions in New York, Newark and Washington, has found no sign that it had evolved into concrete operations.", 
+  "headline": {
+    "main": "Little Evidence of Qaeda Plot Timed to Vote", 
+    "kicker": "THE 2004 CAMPAIGN: SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "29", 
+  "word_count": 1761, 
+  "_id": "4fd259f88eb7c8105d806522", 
+  "snippet": "In early July, the Homeland security secretary, Tom Ridge, declared that credible intelligence showed Al Qaeda intended to launch a ''large-scale attack'' inside the United States to ''disrupt our democratic process.'' More than three months later,...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://query.nytimes.com/gst/fullpage.html?res=9901E6DE163DF937A15753C1A9629C8B63", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "David", 
+        "rank": 1, 
+        "lastname": "JOHNSTON"
+      }, 
+      {
+        "qualifier": "Jr.", 
+        "firstname": "Don", 
+        "middlename": "Van", 
+        "lastname": "NATTA", 
+        "rank": 2, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By DAVID JOHNSTON and DON VAN NATTA Jr.; David Johnston reported from Washington for this article, and Don Van Natta Jr., from London. William K. Rashbaum contributed reporting from New York, and Christopher Drew and Eric Lipton from Washington"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2004-10-24T00:00:00Z", 
+  "section_name": "U.S."
+}

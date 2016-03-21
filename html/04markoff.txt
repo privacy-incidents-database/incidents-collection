@@ -1,0 +1,655 @@
+
+  
+
+
+
+
+Taking the Mystery Out of Web Anonymity - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Week in Review|Taking the Mystery Out of Web Anonymity
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Week in Review 
+Taking the Mystery Out of Web Anonymity
+
+By JOHN MARKOFFJULY 3, 2010
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+THE Obama Administration is trying to fix the Internet’s dog problem.The problem, as depicted in Peter Steiner’s legendary 1993 New Yorker cartoon, is that on the Internet nobody knows you’re a dog. And thus the enduring conundrum over who can be trusted in cyberspace.The Internet affords anonymity to its users — a boon to privacy and freedom of speech. But that very anonymity is also behind the explosion of cybercrime that has swept across the Web.Can privacy be preserved while bringing a semblance of safety and security to a world that seems increasingly lawless?Last month, Howard Schmidt, the nation’s cyberczar, offered the Obama administration’s proposal to make the Web a safer place — a “voluntary trusted identity” system that would be the high-tech equivalent of a physical key, a fingerprint and a photo ID card, all rolled into one. The system might use a smart identity card, or a digital credential linked to a specific computer, and would authenticate users at a range of online services.The idea is to create a federation of private online identity systems. Users could select which system to join, and only registered users whose identities have been authenticated could navigate those systems. The approach contrasts with one that would require a government-issued Internet driver’s license. (Civil liberties groups oppose a government system, fearful that it could lead to national identity cards.)
+
+Advertisement
+
+Continue reading the main story
+
+Google and Microsoft are among companies that already have these “single sign-on” systems that make it possible for users to log in just once but use many different services.In effect, the approach would create a “walled garden” in cyberspace, with (virtually) safe neighborhoods and bright (cyber) streetlights to establish a sense of a trusted community.Mr. Schmidt described it as a “voluntary ecosystem” in which “individuals and organizations can complete online transactions with confidence, trusting the identities of each other and the identities of the infrastructure that the transaction runs on.”Still, the administration’s plan has divided privacy rights activists. Some applaud the approach; others are apprehensive. “It seems clear,” Lauren Weinstein, the editor of Privacy Journal, wrote “that such a scheme is a pre-emptive push toward what would eventually be a mandated Internet ‘driver’s license’ mentality.”
+Photo
+
+
+
+
+
+
+
+Credit
+            Jonathon Rosen        
+
+
+The plan has also been greeted with skepticism by some computer security experts, who worry that the “voluntary ecosystem” envisioned by Mr. Schmidt would still leave much of the Internet vulnerable. They argue that all Internet users should be forced to register and identify themselves, in the same way that drivers must be licensed to drive on public roads.“The privacy standards the administration wants to adopt will make the system both unwieldy and less effective and not good for security,” said Stewart Baker, a former chief counsel of the National Security Agency who favors government-issued Internet driver’s licenses.But Marc Rotenberg, executive director of the Electronic Privacy Information Center, a privacy rights group, said such criticism was unfair. He said the Obama administration had created a policy framework that will make it possible for private industry to improve privacy and security technologies.Some members of the Internet’s technical community say that the Web-of-trust approach is too little, too late to solve the Internet’s security problems. The problem is no longer just about cyberspace stalkers, thieves and con artists, but about the trustworthiness of the very fabric of the network itself.
+
+Advertisement
+
+Continue reading the main story
+
+“We’re now seeing attacks on the Internet’s plumbing,” said Rodney Joffe, senior technologist at Neustar, an Internet infrastructure firm. “If you get control of the plumbing there are lots of things you can do because the plumbing was never designed for a world where there is a lack of trust.”The essential plumbing components are the routers, which direct traffic on computer networks. Operators of these routers — mostly private companies — share instructions with each other on how to direct that traffic. They trust the information is accurate. But at least three times this year, a substantial fraction of the global network’s messages were mis-routed through China, potentially opening millions of users to spying or tampering. Chinese Internet engineers say the misroutings were mistakes; other engineers are not so sure.“If our web of trust is corrupted or penetrated or broken, I don’t quite know what to do about that,” said Vinton Cerf, a Google vice president and one of the designers of the Internet. “That’s one of the nightmares that I worry about.”He is pushing efforts to create standards that would secure the Internet’s plumbing, though those may take longer than a decade to be put in place globally. As for making the network more secure for users, he said he was optimistic and that he saw a relatively straightforward — though not exactly inexpensive — way to make the network more secure.In the future, he envisions a card that each of us will carry, perhaps equipped with a fingerprint reader, that will in effect be a one-time password system. It will digitally hold all of our different personalities: who we are at work, while playing on-line games, banking and using our smart phones and make it possible for others to be sure we are who we say we are.But Mr. Joffe said he worried that the time for such systems might already have run out.“Imagine what would happen if people lost trust in using the Internet: what would that do to our economy?” Mr. Joffe asked. “You would have to go down to your local bank branch and you’d join 5,000 other people waiting to do their banking. That infrastructure has gone away and the banks can’t cope with it anymore.”
+
+A version of this article appears in print on July 4, 2010, on page WK3 of the New York edition with the headline: Taking the Mystery Out of Web Anonymity.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

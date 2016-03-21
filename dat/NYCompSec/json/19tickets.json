@@ -1,0 +1,51 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The owners of Wiseguy Tickets admit to evading computer security and buying and reselling more than a million seats for events like Bruce Springsteen concerts.", 
+  "headline": {
+    "seo": "Men Plead Guilty in Ticket Conspiracy", 
+    "main": "Men Plead Guilty in Ticket Conspiracy", 
+    "print_headline": "Men Plead Guilty in Ticket Conspiracy"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "195", 
+  "_id": "5420cd8838f0d81f7a600964", 
+  "snippet": "The owners of Wiseguy Tickets admit to evading computer security and buying and reselling more than a million seats for events like Bruce Springsteen concerts.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/11/19/business/19tickets.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Ticket Scalping", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Bloomberg", 
+        "rank": 1, 
+        "lastname": "NEWS"
+      }
+    ], 
+    "original": "By BLOOMBERG NEWS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-11-19T00:00:00Z", 
+  "section_name": "Business Day"
+}

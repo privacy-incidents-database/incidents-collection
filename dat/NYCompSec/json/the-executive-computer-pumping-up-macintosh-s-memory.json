@@ -1,0 +1,45 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Financial Desk", 
+  "lead_paragraph": "ONE of the amusing facets of writing a review column is that with a little skill and luck one can quite often achieve that happy state wherein almost all readers agree - that the columnist is wrong. Whenever I write about the Macintosh, I try to balance the machine's faults against its strengths, watching carefully for my own prejudices. Invariably, on such occasions, I receive letters from Macintosh radicals accusing me of being a true-blue I.B.M.'er who simply does not understand the marvel that Apple has created. I receive an equal number of missives from I.B.M. fanatics, who are convinced that I am an Apple spokesman who has been taken in by the Macintosh's fancy graphics and now is simply incapable of understanding how far superior to the Mac I.B.M.'s computers are.", 
+  "headline": {
+    "main": "PUMPING UP MACINTOSH'S MEMORY", 
+    "kicker": "THE EXECUTIVE COMPUTER"
+  }, 
+  "abstract": null, 
+  "print_page": "10", 
+  "word_count": 1175, 
+  "_id": "4fd14f6e8eb7c8105d62fc0a", 
+  "snippet": "ONE of the amusing facets of writing a review column is that with a little skill and luck one can quite often achieve that happy state wherein almost all readers agree - that the columnist is wrong. Whenever I write about the Macintosh, I try to...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1985/08/11/business/the-executive-computer-pumping-up-macintosh-s-memory.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "APPLE COMPUTER INC"
+    }, 
+    {
+      "name": "subject", 
+      "value": "DATA PROCESSING"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Erik", 
+        "lastname": "Sandberg-Diment"
+      }
+    ], 
+    "original": "By Erik Sandberg-Diment"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1985-08-11T00:00:00Z", 
+  "section_name": "Business"
+}

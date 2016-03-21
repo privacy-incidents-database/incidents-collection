@@ -1,0 +1,26 @@
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/archive/article/sports, targetedPage: www.nytimes.com/archive/article/sports, position: Bar1
+BaseballN.F.L.College FootballN.B.A.College BasketballHockeySoccerGolfTennisInternational Sports
+SPORTS SECURITY; Athletes' Safety: Drawing the Line
+Steffi Graf said yesterday that she would play in the Citizen Cup tournament in Hamburg, Germany, today despite an anonymous threat to harm her.
+A fan obsessively devoted to Graf stabbed Monica Seles in the back at the same tournament last year. The police in Hamburg said they had received an anonymous letter threatening an even more dire attack on Graf if she plays in this year's tournament, which began yesterday amid extenssive security.
+Graf, who is scheduled to play Silke Frankl today, said she would not be deterred by the threat. 'I Am Not Afraid'
+"I am not afraid," she said. "By playing here I want to show that I am not worried about an attack."
+Seles has yet to return to the women's tour, and in the aftermath of that incident the safety of athletes has become a major concern. Security at many sports events has been increased, and some athletes have been carrying guns to protect themselves, a habit that led to the arrest of several pro players this past season.
+Concerned about the issue, a National Football League player-management committee plans to discuss it today as part of a regularly scheduled meeting in New York. In particular, the league is concerned about reports that gun dealers have been approaching players outide locker rooms. Trying to Educate
+"What we're trying to do is educate players and provide a safe work place for them in all respects," Commissioner Paul Tagliabue said yesterday.
+Jeff Alm of the Houston Oilers used a shotgun to commit suicide in December after a friend who had been a passenger in a car Alm was driving died in an automobile accident.
+Andre Rison, the Falcons' receiver, was arrested last Sept. 2 for firing a pistol during a domestic dispute.
+Jayson Williams of the Nets was charged earlier this year with shooting at the hubcaps of an unoccupied vehicle at the Meadowlands parking lot. It was one of several arrests involving National Basketball Association players, who said they carried guns for their own safety. They included Scottie Pippen of the Bulls and Vernon Maxwell of the Houston Rockets. The charges against Pippen were dropped; last month, Maxwell pleaded guilty to illegally carrying a gun, and was fined and given a four-day jail sentence, most of which was suspended.
+The threat to Graf was made in an anonymous handwritten letter receieved by the police on Friday. 'Little Substance'
+A police spokesman, Hartmut Kapp, said the police found the threatening letter to contain "little substance."
+He said security at the tournament had already been beefed up, and no new security measures were planned.
+Jens-Peter Hecht, a spokesman for the German Tennis Federation, said security at the tournament was sufficient and more police protection was available if necessary.
+Players in Hamburg have been assigned 150 bodyguards and undercover police officers have been deployed at the Rothenbaum tennis club.
+In addition, benches used by players during changeovers have been moved further from the stands, and only accredited photographers will be allowed to use the first row.
+Seles, who was ranked No. 1 at the time, was attacked during a court changeover last April 30 by a man who leaned out of a forward seat and stabbed her in the back.
+Graf is the second German tennis star to be threatened recently. The police said last week that an extortionist had threatened to kill Boris Becker, his wife and baby son, his manager and his manager's family.
+The extortionist never specified his demands and has not made any new threats since March, the police said.
+Becker pulled out of last week's Monte Carlo tournament with a wrist injury. He signed up for this week's BMW Open in Munich, but later told organizers he would play only doubles.
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York City’s top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/sports, targetedPage: www.nytimes.com/archive/article/sports, position: Inv1

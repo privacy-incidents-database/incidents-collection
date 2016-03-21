@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Money and Business/Financial Desk", 
+  "lead_paragraph": "Call it a sign of the times. Late last week a publicist called, peddling a new book meant to replace ''Security Analysis'' by Benjamin Graham and David Dodd, the 1934 bible for value investors. ''Badly outmoded and out of date,'' the pitch went. In fact, the tome is more timely than ever.", 
+  "headline": {
+    "main": "A Time To Value Words of Wisdom", 
+    "kicker": "MARKET WATCH"
+  }, 
+  "abstract": "Gretchen Morgenson column suggests investors, as stock prices continue to slow, read 1934 book Security Analysis by Benjamin Graham and David Dodd (M)", 
+  "print_page": "1", 
+  "word_count": 669, 
+  "_id": "4fd2190c8eb7c8105d7969d3", 
+  "snippet": "Call it a sign of the times.    Late last week a publicist called, peddling a new book meant to replace ''Security Analysis'' by Benjamin Graham and David Dodd, the 1934 bible for value investors. ''Badly outmoded and out of date,'' the pitch went.  ...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1998/08/16/business/market-watch-a-time-to-value-words-of-wisdom.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "creative_works", 
+      "value": "SECURITY ANALYSIS (BOOK)"
+    }, 
+    {
+      "name": "persons", 
+      "value": "DODD, DAVID"
+    }, 
+    {
+      "name": "persons", 
+      "value": "GRAHAM, BENJAMIN"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOOKS AND LITERATURE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "STOCKS AND BONDS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Gretchen", 
+        "lastname": "MORGENSON"
+      }
+    ], 
+    "original": "By GRETCHEN MORGENSON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1998-08-16T00:00:00Z", 
+  "section_name": "Business; Books"
+}

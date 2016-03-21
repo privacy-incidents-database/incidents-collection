@@ -1,0 +1,86 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Working remotely, attackers conducted \u201cextensive reconnaissance\u201d of the Ukraine power system\u2019s networks, stole the credentials of operators and learned how to switch off the breakers, plunging more than 225,000 Ukrainians into darkness.", 
+  "headline": {
+    "main": "Utilities Cautioned About Potential for a Cyberattack After Ukraine\u2019s", 
+    "print_headline": "Utilities Cautioned About Potential for a Cyberattack"
+  }, 
+  "abstract": "American investigators say blackout of Ukraine's electrical grid was managed by cyberattack, and similar techniques could be used to compromise utility companies in United States; officials see attack, unofficially attributed to Russia, as crucial opportunity for US corporations to shore up cybersecurity.", 
+  "print_page": "6", 
+  "word_count": "953", 
+  "_id": "56d4f9ba38f0d811294b81d7", 
+  "snippet": "Working remotely, attackers conducted \u201cextensive reconnaissance\u201d of the Ukraine power system\u2019s networks, stole the credentials of operators and learned how to switch off the breakers, plunging more than 225,000 Ukrainians into darkness.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/01/us/politics/utilities-cautioned-about-potential-for-a-cyberattack-after-ukraines.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Cyberwarfare and Defense", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Ukraine", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Russia", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Power Failures and Blackouts", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "David", 
+        "middlename": "E.", 
+        "lastname": "SANGER", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By DAVID E. SANGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-01T00:00:00Z", 
+  "section_name": "U.S."
+}

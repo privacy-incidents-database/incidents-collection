@@ -1,0 +1,81 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A manual for a program monitoring sites like Facebook and Twitter has come under scrutiny over how far and broadly officials should look without violating privacy or free speech rights.", 
+  "headline": {
+    "seo": "Homeland Analysts Told to Monitor Policy Debates in Social Media", 
+    "main": "Homeland Analysts Told to Monitor Policy Debates in Social Media", 
+    "print_headline": "Hearing Held on Program Monitoring Social Media"
+  }, 
+  "abstract": "Manual for a Homeland Security Department program monitoring sites like Facebook and Twitter has come under scrutiny over how far and broadly officials should look without violating privacy or free speech rights.", 
+  "print_page": "17", 
+  "word_count": "782", 
+  "_id": "53f3e03138f0d857ea2d0844", 
+  "snippet": "A manual for a program monitoring sites like Facebook and Twitter has come under scrutiny over how far and broadly officials should look without violating privacy or free speech rights.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/02/23/us/house-questions-homeland-security-program-on-social-media.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Social Networking (Internet)", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Freedom of Speech and Expression", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Charlie", 
+        "lastname": "SAVAGE"
+      }
+    ], 
+    "original": "By CHARLIE SAVAGE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-02-23T00:00:00Z", 
+  "section_name": "U.S."
+}

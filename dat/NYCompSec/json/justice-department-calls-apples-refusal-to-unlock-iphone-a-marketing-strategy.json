@@ -1,0 +1,136 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Prosecutors offered a sharp rejoinder to Apple\u2019s position that refusing to help the government was a matter of protecting customers\u2019 privacy.", 
+  "headline": {
+    "main": "Justice Department Calls Apple\u2019s Refusal to Unlock iPhone a \u2018Marketing Strategy\u2019", 
+    "print_headline": "U.S. Says Apple\u2019s Refusal to Unlock Its iPhone Is a \u2018Marketing Strategy\u2019"
+  }, 
+  "abstract": "Justice Dept insists judge immediately order Apple to supply it technical tools to unlock iPhone of San Bernardino gunman; says Apple's refusal to grant phone access is 'marketing strategy.'", 
+  "print_page": "1", 
+  "word_count": "960", 
+  "_id": "56c76c8438f0d83592db62c8", 
+  "snippet": "Prosecutors offered a sharp rejoinder to Apple\u2019s position that refusing to help the government was a matter of protecting customers\u2019 privacy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/20/business/justice-department-calls-apples-refusal-to-unlock-iphone-a-marketing-strategy.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/20/business/20justice/20justice-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/20/business/20justice/20justice-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/20/business/20justice/20justice-articleLarge.jpg", 
+      "height": 371, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/20/business/20justice/20justice-articleLarge.jpg", 
+        "xlargeheight": "371"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/20/business/20justice/20justice-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/20/business/20justice/20justice-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cook, Timothy D", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Katie Benner contributed reporting from San Francisco.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Matt", 
+        "lastname": "APUZZO"
+      }
+    ], 
+    "original": "By ERIC LICHTBLAU and MATT APUZZO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-20T00:00:00Z", 
+  "section_name": "Technology"
+}

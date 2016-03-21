@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Gov. Janet Napolitano of Arizona, President-elect Barack Obama\u2019s nominee to head the Homeland Security Department, breezed through a \u201cwarm and fuzzy\u201d confirmation hearing.", 
+  "headline": {
+    "main": "Homeland Security Nominee Vows to Safeguard Country, but Offers Few Specifics", 
+    "print_headline": "Janet Napolitano", 
+    "content_kicker": "Homeland Security"
+  }, 
+  "abstract": null, 
+  "print_page": "18", 
+  "word_count": "375", 
+  "_id": "5471c23a38f0d847c5e4347f", 
+  "snippet": "Gov. Janet Napolitano of Arizona, President-elect Barack Obama\u2019s nominee to head the Homeland Security Department, breezed through a \u201cwarm and fuzzy\u201d confirmation hearing.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/01/16/us/16napolitano.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Napolitano, Janet", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "United States Politics and Government", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "David", 
+        "rank": 1, 
+        "lastname": "JOHNSTON"
+      }
+    ], 
+    "original": "By DAVID JOHNSTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-01-16T00:00:00Z", 
+  "section_name": "U.S."
+}

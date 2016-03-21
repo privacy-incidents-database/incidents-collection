@@ -1,0 +1,96 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "A paper imagining a cyberattack and a power failure in  the U.S. has highlighted an atmosphere charged with hostility between the U.S. and China over cybersecurity.", 
+  "headline": {
+    "seo": "Chinese Academics\u2019 Paper on Cyberwar Sets Off Alarms in U.S.", 
+    "main": "Academic Paper in China Sets Off Alarms in U.S.", 
+    "sub": "Imagining Computer Attack on Power Grid;", 
+    "print_headline": "Academic Paper in China Sets Off Alarms in U.S."
+  }, 
+  "abstract": null, 
+  "print_page": "10", 
+  "word_count": "1157", 
+  "_id": "54442d3938f0d82782d9b3c8", 
+  "snippet": "A paper imagining a cyberattack and a power failure in  the U.S. has highlighted an atmosphere charged with hostility between the U.S. and China over cybersecurity.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/03/21/world/asia/21grid.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2010/03/21/world/21grid_CA0/21grid_CA0-articleLarge.jpg", 
+      "height": 315, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/03/21/world/21grid_CA0/21grid_CA0-articleLarge.jpg", 
+        "xlargeheight": "315"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2010/03/21/world/21grid_CA0/21grid_CA0-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/03/21/world/21grid_CA0/21grid_CA0-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Cyberattacks and Cyberwarfare", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "China", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "United States", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "John", 
+        "rank": 1, 
+        "lastname": "MARKOFF"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "David", 
+        "rank": 2, 
+        "lastname": "BARBOZA"
+      }
+    ], 
+    "original": "By JOHN MARKOFF and DAVID BARBOZA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-03-21T00:00:00Z", 
+  "section_name": "World"
+}

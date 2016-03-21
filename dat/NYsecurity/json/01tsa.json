@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "U.S. and foreign airlines will no longer be responsible for matching names of passengers against the terror watch list.", 
+  "headline": {
+    "seo": "Terror Watch Checks of Air Passengers Now in U.S. Hands", 
+    "main": "U.S. Takes Over Airline Passenger Checks", 
+    "print_headline": "U.S. Takes Over Airline Passenger Checks"
+  }, 
+  "abstract": null, 
+  "print_page": "18", 
+  "word_count": "489", 
+  "_id": "5421cfd838f0d83c6e5b7459", 
+  "snippet": "U.S. and foreign airlines will no longer be responsible for matching names of passengers against the terror watch list.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/12/01/us/01tsa.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Eric", 
+        "rank": 1, 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-12-01T00:00:00Z", 
+  "section_name": "U.S."
+}

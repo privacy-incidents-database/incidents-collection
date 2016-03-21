@@ -1,0 +1,59 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Circuits", 
+  "lead_paragraph": "Laptop theft is a nagging worry for business travelers and those who compute on the go. While the computer can in theory be replaced, confidential and personal data stored on it may be priceless. So the nTracker by SyNet Electronics aims to protect both your hardware and your software. Once installed and configured on a laptop, the nTracker software sends a periodic e-mail message to the mailbox of your choice, listing the Internet Protocol (I.P.) address the computer is using (even if it is in your possession and everything is fine). This can help the authorities locate a stolen machine when it is being used online. During the nTracker setup process, the user is asked to create a password that must be entered periodically. If the laptop is stolen and the correct password is not entered by the thief after three tries, nTracker encrypts specified folders on the machine and the screen displays a message that the computer has been stolen.", 
+  "headline": {
+    "main": "Help, I've Been Kidnapped. And Here's Where I Am.", 
+    "kicker": "NEWS WATCH: SECURITY"
+  }, 
+  "abstract": "SyNet Electronics nTracker software sends e-mails listing computer's Internet Protocol address, which can help authorities locate stolen machine when it is being used online; photo (S)", 
+  "print_page": "3", 
+  "word_count": 268, 
+  "_id": "4fd24f4a8eb7c8105d7f1cee", 
+  "snippet": "Laptop theft is a nagging worry for business travelers and those who compute on the go. While the computer can in theory be replaced, confidential and personal data stored on it may be priceless. So the nTracker by SyNet Electronics aims to protect...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2004/04/29/technology/news-watch-security-help-i-ve-been-kidnapped-and-here-s-where-i-am.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "SYNET ELECTRONICS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ROBBERIES AND THEFTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ELECTRONIC MAIL"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SOFTWARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1
+      }
+    ], 
+    "original": "By J.D. Biersdorfer"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2004-04-29T00:00:00Z", 
+  "section_name": "Technology"
+}

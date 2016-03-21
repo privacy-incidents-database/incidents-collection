@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "In the biggest leveraged buyout of the year so far, Apollo Global plans to merge the security company ADT Corporation with two other security firms.", 
+  "headline": {
+    "main": "ADT in $6.9 Billion Deal to Sell Itself to Apollo Buyout Firm", 
+    "print_headline": "ADT in $6.9 Billion Deal to Be Acquired by Apollo"
+  }, 
+  "abstract": "Home and business security systems provider ADT Corporation will be acquired by Apollo Global Management in $6.9 billion leveraged buyout; Apollo plans to merge ADT with two other security companies, Protection 1 and ASG Security.", 
+  "print_page": "3", 
+  "word_count": "652", 
+  "_id": "56c3245238f0d810c38f6243", 
+  "snippet": "In the biggest leveraged buyout of the year so far, Apollo Global plans to merge the security company ADT Corporation with two other security firms.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/17/business/apollo-global-management-to-buy-adt-for-6-9-billion.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/17/business/db-adt-web1/db-adt-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/17/business/db-adt-web1/db-adt-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/17/business/db-adt-web1/db-adt-web1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/17/business/db-adt-web1/db-adt-web1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/17/business/db-adt-web1/db-adt-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/17/business/db-adt-web1/db-adt-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Apollo Global Management", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "ADT Corporation", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Mergers, Acquisitions and Divestitures", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Leslie", 
+        "lastname": "PICKER"
+      }
+    ], 
+    "original": "By LESLIE PICKER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-17T00:00:00Z", 
+  "section_name": "Business Day"
+}

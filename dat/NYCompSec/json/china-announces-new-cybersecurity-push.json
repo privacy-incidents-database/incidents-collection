@@ -1,0 +1,111 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "President Xi Jinping is presiding over a working group on security, a sign that the Communist Party views the issue as a pressing strategic concern.", 
+  "headline": {
+    "main": "China\u2019s President Will Lead a New Effort on Cybersecurity", 
+    "print_headline": "China\u2019s President Will Lead a New Effort on Cybersecurity"
+  }, 
+  "abstract": "Chinese Pres Xi Jinping is presiding over new working group on cybersecurity and information security; move is sign that Communist Party views issue as one of country's most pressing strategic concerns.", 
+  "print_page": "4", 
+  "word_count": "548", 
+  "_id": "530f8fe838f0d82dfa203ff5", 
+  "snippet": "President Xi Jinping is presiding over a working group on security, a sign that the Communist Party views the issue as a pressing strategic concern.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/02/28/world/asia/china-announces-new-cybersecurity-push.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2014/02/28/world/shanghai/shanghai-thumbWide-v3.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2014/02/28/world/shanghai/shanghai-thumbWide-v3.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2014/02/28/world/shanghai/shanghai-articleLarge-v2.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2014/02/28/world/shanghai/shanghai-articleLarge-v2.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2014/02/28/world/shanghai/shanghai-thumbStandard-v3.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2014/02/28/world/shanghai/shanghai-thumbStandard-v3.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "Li Keqiang", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Liu Yunshan", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Xi Jinping", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Cyberwarfare", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "David", 
+        "lastname": "BARBOZA"
+      }
+    ], 
+    "original": "By DAVID BARBOZA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-02-28T00:00:00Z", 
+  "section_name": "World"
+}

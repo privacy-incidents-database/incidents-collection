@@ -1,0 +1,84 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The Transportation Security Administration&#8217;s plan to put hundreds of new body-imaging machines in airports promises a summer of adjustment for travelers.", 
+  "headline": {
+    "seo": "First Impressions of Airport Body-Imaging Scanners", 
+    "main": "A Summer Invasion of the Body Scanners", 
+    "kicker": "On the Road", 
+    "print_headline": "A Summer Invasion Of the Body Scanners", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "746", 
+  "_id": "5417781d38f0d851fd3a8015", 
+  "snippet": "The Transportation Security Administration&#8217;s plan to put hundreds of new body-imaging machines in airports promises a summer of adjustment for travelers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/06/15/business/15road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/06/15/business/15Road/15Road-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/06/15/business/15Road/15Road-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Scanning Devices", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-06-15T00:00:00Z", 
+  "section_name": "Business Day"
+}

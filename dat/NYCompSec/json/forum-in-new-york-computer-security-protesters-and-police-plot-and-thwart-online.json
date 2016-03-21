@@ -1,0 +1,62 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metropolitan Desk", 
+  "lead_paragraph": "As the police and federal agents and scores of protest groups prepare for disruptive demonstrations outside the World Economic Forum, both sides are taking up positions on another potential battleground -- the Internet. Demonstrators are using the Internet to organize protests and publicize their causes. The New York Police Department is using it to glean information about groups that it says may pose a threat. And federal authorities say they fear that some protesters will use it as a tool of disruption or destruction.", 
+  "headline": {
+    "main": "Protesters and Police Plot and Thwart Online", 
+    "kicker": "FORUM IN NEW YORK: COMPUTER SECURITY"
+  }, 
+  "abstract": "Internet is being used by demonstrators to organize protests and publicize their causes during World Economic Forum, and by New York Police Dept to glean information about groups it says may pose threat; specter of tumult in streets has driven concern about protests; but increasingly, potential havoc wrought by computer attack is drawing attention of federal authorities; representatives of several large umbrella groups planning protests dismiss idea of 'cyberattacks' and claim none are planned (M)", 
+  "print_page": "19", 
+  "word_count": 445, 
+  "_id": "4fd2127a8eb7c8105d788d7a", 
+  "snippet": "As the police and federal agents and scores of protest groups prepare for disruptive demonstrations outside the World Economic Forum, both sides are taking up positions on another potential battleground -- the Internet.    Demonstrators are using the...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/02/01/nyregion/forum-in-new-york-computer-security-protesters-and-police-plot-and-thwart-online.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD ECONOMIC FORUM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ECONOMIC CONDITIONS AND TRENDS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "DEMONSTRATIONS AND RIOTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "William", 
+        "middlename": "K.", 
+        "lastname": "RASHBAUM", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By WILLIAM K. RASHBAUM"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-02-01T00:00:00Z", 
+  "section_name": "Technology; New York and Region"
+}

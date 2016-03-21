@@ -1,0 +1,86 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A computer security research group has developed a way to steal encrypted information from computer hard disks.", 
+  "headline": {
+    "main": "Researchers Find Way to Steal Encrypted Data", 
+    "print_headline": "A Method For Stealing Critical Data"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "959", 
+  "_id": "547e4fdc38f0d84a61c0e6b3", 
+  "snippet": "A computer security research group has developed a way to steal encrypted information from computer hard disks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/02/22/technology/22chip.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2008/02/22/technology/chip.600.jpg", 
+      "height": 280, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2008/02/22/technology/chip.600.jpg", 
+        "xlargeheight": "280"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2008/02/22/technology/chip.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2008/02/22/technology/chip.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Princeton University", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-02-22T00:00:00Z", 
+  "section_name": "Technology"
+}

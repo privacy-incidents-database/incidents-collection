@@ -1,0 +1,136 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Apple\u2019s refusal to help the F.B.I. break into its secure mobile operating system may benefit its brand in the rest of the world.", 
+  "headline": {
+    "main": "Apple Sees Value in Its Stand to Protect Security", 
+    "print_headline": "Apple Sees Its Privacy Stance as Crucial to Its Global Brand"
+  }, 
+  "abstract": "Apple's opposition to federal government's request for access to encrypted iPhone of San Bernardino, Calif, attacker is motivated by company's ambitions abroad, where privacy and security assume greater importance; fear is that Apple's willingness to cooperate with one government would obligate it to cooperate with all of them; China presents situation where agreement would be particularly risky.", 
+  "print_page": "1", 
+  "word_count": "1301", 
+  "_id": "56c89e0238f0d85de7db6d1a", 
+  "snippet": "Apple\u2019s refusal to help the F.B.I. break into its secure mobile operating system may benefit its brand in the rest of the world.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/21/technology/apple-sees-value-in-privacy-vow.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/21/business/21apple1/21apple1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/21/business/21apple1/21apple1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/21/business/21apple1/21apple1-articleLarge.gif", 
+      "height": 1147, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/21/business/21apple1/21apple1-articleLarge.gif", 
+        "xlargeheight": "1147"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/21/business/21apple1/21apple1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/21/business/21apple1/21apple1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino (Calif)", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Katie Benner reported from San Francisco and Paul Mozur from Hong Kong. David E. Sanger contributed reporting from Berlin and Mark Scott from Rome. Owen Guo contributed research from Beijing.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Paul", 
+        "lastname": "MOZUR"
+      }
+    ], 
+    "original": "By KATIE BENNER and PAUL MOZUR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-21T00:00:00Z", 
+  "section_name": "Technology"
+}

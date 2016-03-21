@@ -1,0 +1,69 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "A two-week meeting opened here today to prepare an agenda for a new 35-nation European security conference that is to open in November. Delegations from 35 nations - the United States, Canada and all the European countries apart from Albania -began preparing the agenda and timetable for the conference, the third follow-up meeting in the so-called Helsinki process, which was begun in 1975. The only public sessions so far agreed to for November are speeches by the delegation leaders.", 
+  "headline": {
+    "main": "TALKS ARE BEGUN ON VIENNA AGENDA"
+  }, 
+  "abstract": null, 
+  "print_page": "11", 
+  "word_count": 520, 
+  "_id": "4fd16bdf8eb7c8105d65d90e", 
+  "snippet": "A two-week meeting opened here today to prepare an agenda for a new 35-nation European security conference that is to open in November.   Delegations from 35 nations - the United States, Canada and all the European countries apart from Albania -began...", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1986/09/24/world/talks-are-begun-on-vienna-agenda.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "creative_works", 
+      "value": "SECURITY AND COOPERATION IN EUROPE, CONFERENCE ON"
+    }, 
+    {
+      "name": "persons", 
+      "value": "JANKOWITSCH, PETER"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "VIENNA (AUSTRIA)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "EUROPE"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "UNION OF SOVIET SOCIALIST REPUBLICS"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "AUSTRIA"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "organization": "Reuters", 
+    "original": "Reuters", 
+    "person": []
+  }, 
+  "document_type": "article", 
+  "pub_date": "1986-09-24T00:00:00Z", 
+  "section_name": "World; Washington"
+}

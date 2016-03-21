@@ -1,0 +1,140 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "A day before a planned meeting with Chinese officials, a senior State Department envoy urged Beijing to do more to curb the North\u2019s nuclear ambitions.", 
+  "headline": {
+    "main": "U.S. Weighs Tighter Sanctions on North Korea if China Fails to Act", 
+    "print_headline": "World Briefing | Asia; North Korea: U.S. Presses China to Curb Ally\u2019s Nuclear Program"
+  }, 
+  "abstract": "Top American diplomat announces United States and its allies will increase sanctions against North Korea if China does not make stronger effort to help curb North's nuclear plans.", 
+  "print_page": "6", 
+  "word_count": "870", 
+  "_id": "569f42b038f0d85519ba7bb3", 
+  "snippet": "A day before a planned meeting with Chinese officials, a senior State Department envoy urged Beijing to do more to curb the North\u2019s nuclear ambitions.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/21/world/asia/north-korea-nuclear-china.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/21/world/21korea/21korea-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/21/world/21korea/21korea-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/21/world/21korea/21korea-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/21/world/21korea/21korea-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/21/world/21korea/21korea-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/21/world/21korea/21korea-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "North Korea", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Nuclear Weapons", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "South Korea", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Nuclear Tests", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Embargoes and Sanctions", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Missiles and Missile Defense Systems", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Blinken, Antony J", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Choe", 
+        "lastname": "SANG-HUN"
+      }
+    ], 
+    "original": "By CHOE SANG-HUN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-21T00:00:00Z", 
+  "section_name": "World"
+}

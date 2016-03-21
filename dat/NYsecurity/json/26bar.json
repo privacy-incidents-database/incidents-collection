@@ -1,0 +1,76 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Privacy advocates are concerned about a plan by the Department of Homeland Security to collect fingerprints from foreigners arriving at the American border.", 
+  "headline": {
+    "main": "Adding to Security but Multiplying the Fears", 
+    "kicker": "Sidebar", 
+    "print_headline": "Adding to Security but Multiplying the Fears", 
+    "content_kicker": "Sidebar"
+  }, 
+  "abstract": null, 
+  "print_page": "14", 
+  "word_count": "818", 
+  "_id": "548f73a838f0d8019c0ad8f3", 
+  "snippet": "Privacy advocates are concerned about a plan by the Department of Homeland Security to collect fingerprints from foreigners arriving at the American border.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/02/26/us/26bar.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2007/02/25/us/26bar.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2007/02/25/us/26bar.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Immigration and Refugees", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Identification Devices", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Adam", 
+        "lastname": "LIPTAK"
+      }
+    ], 
+    "original": "By ADAM LIPTAK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-02-26T00:00:00Z", 
+  "section_name": "U.S."
+}

@@ -1,0 +1,92 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Transportation Security Administration staff will replace contractors at airport checkpoints.", 
+  "headline": {
+    "main": "Screeners to Be Changed at U.S. Airports", 
+    "print_headline": "Screeners to Be Changed at U.S. Airports"
+  }, 
+  "abstract": null, 
+  "print_page": "18", 
+  "word_count": "631", 
+  "_id": "54b0d63938f0d8367c8426e0", 
+  "snippet": "Transportation Security Administration staff will replace contractors at airport checkpoints.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/14/washington/14rules.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Chertoff, Michael", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cosmetics and Toiletries", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Christine", 
+        "lastname": "HAUSER"
+      }
+    ], 
+    "original": "By ERIC LIPTON  and CHRISTINE HAUSER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-14T00:00:00Z", 
+  "section_name": "Washington"
+}

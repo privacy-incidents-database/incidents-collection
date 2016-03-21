@@ -1,0 +1,178 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The Council adopted a draft resolution calling for stricter measures to curb the North\u2019s nuclear program, but much depends on whether China will enforce it.", 
+  "headline": {
+    "main": "U.N. Toughens Sanctions on North Korea in Response to Its Nuclear Program", 
+    "print_headline": "Security Council, Led by U.S. and China, Toughens Penalties on North Korea "
+  }, 
+  "abstract": "Resolution of stalemate between America and China on how to rein in North Korea's nuclear program leads to approval of strictest sanctions yet; United Nations Security Council unanimously adopts broad package of severe penalties that will require vigorous enforcement; experts hope resolution will help lure North Korea to negotiating table.", 
+  "print_page": "4", 
+  "word_count": "1051", 
+  "_id": "56d7065338f0d83a4dd61010", 
+  "snippet": "The Council adopted a draft resolution calling for stricter measures to curb the North\u2019s nuclear program, but much depends on whether China will enforce it.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/03/world/asia/north-korea-un-sanctions.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/03/world/03KOREA/03KOREA-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/03/world/03KOREA/03KOREA-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/03/world/03KOREA/03KOREA-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/03/world/03KOREA/03KOREA-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/03/world/03KOREA/03KOREA-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/03/world/03KOREA/03KOREA-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "North Korea", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Kim Jong-un", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "persons"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "13", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Human Rights and Human Rights Violations", 
+      "is_major": "N", 
+      "rank": "14", 
+      "name": "subject"
+    }, 
+    {
+      "value": "International Trade and World Market", 
+      "is_major": "N", 
+      "rank": "15", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Arms Control and Limitation and Disarmament", 
+      "is_major": "N", 
+      "rank": "16", 
+      "name": "subject"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United Nations", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Nuclear Weapons", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Nuclear Tests", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Embargoes and Sanctions", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Missiles and Missile Defense Systems", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Somini Sengupta reported from the United Nations, and Choe Sang-Hun from Seoul, South Korea. Gardiner Harris contributed reporting from Washington, and Rick Gladstone from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Somini", 
+        "lastname": "SENGUPTA"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Choe", 
+        "lastname": "SANG-HUN"
+      }
+    ], 
+    "original": "By SOMINI SENGUPTA and CHOE SANG-HUN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-03T00:00:00Z", 
+  "section_name": "World"
+}

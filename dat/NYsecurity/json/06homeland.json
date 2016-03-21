@@ -1,0 +1,48 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The Homeland Security Department has failed to meet even half its performance expectations in the four years it has been in existence, Congressional auditors have concluded.", 
+  "headline": {
+    "main": "Security Dept. Falls Short of Goals, Auditors Report", 
+    "print_headline": "Security Dept. Falls Short Of Goals, Auditors Report"
+  }, 
+  "abstract": null, 
+  "print_page": "25", 
+  "word_count": "344", 
+  "_id": "5484edd538f0d84e18ddf941", 
+  "snippet": "The Homeland Security Department has failed to meet even half its performance expectations in the four years it has been in existence, Congressional auditors have concluded.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/09/06/us/06homeland.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [], 
+    "original": "By THE ASSOCIATED PRESS", 
+    "organization": "THE ASSOCIATED PRESS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-09-06T00:00:00Z", 
+  "section_name": "U.S."
+}

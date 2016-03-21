@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "New Jersey Weekly Desk", 
+  "lead_paragraph": "A mailbox at Nassau and Bank Streets in Princeton near the entrance to Princeton University was removed by law enforcement officials last week after anthrax spores were found in it. The discovery was made during the inspection of all mailboxes that fed a postal processing center in Hamilton. Anthrax-tainted letters delivered to government offices in Washington last fall were processed at the Hamilton center, which remains closed. The state health department says there is no health risk to residents and that this was the only mailbox found with anthrax. Karen DeMasters", 
+  "headline": {
+    "main": "ANTHRAX IN PRINCETON MAILBOX", 
+    "kicker": "BRIEFING: SECURITY"
+  }, 
+  "abstract": "Law enforcement officials remove mail box near entrance to Princeton University after anthrax spores are found in it; photo (S)", 
+  "print_page": "5", 
+  "word_count": 93, 
+  "_id": "4fd238288eb7c8105d7cb1af", 
+  "snippet": "A mailbox at Nassau and Bank Streets in Princeton near the entrance to Princeton University was removed by law enforcement officials last week after anthrax spores were found in it. The discovery was made during the inspection of all mailboxes that...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/08/18/nyregion/briefing-security-anthrax-in-princeton-mailbox.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "PRINCETON (NJ)"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "PRINCETON UNIVERSITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "MAIL BOXES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ANTHRAX"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POSTAL SERVICE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Karen", 
+        "lastname": "DeMasters"
+      }
+    ], 
+    "original": "By Karen DeMasters"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-08-18T00:00:00Z", 
+  "section_name": "New York and Region"
+}

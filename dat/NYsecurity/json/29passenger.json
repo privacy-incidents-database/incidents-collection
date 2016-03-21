@@ -1,0 +1,77 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Inconsistencies in new safety measures for air travelers in the days following an attempted terrorist attack.", 
+  "headline": {
+    "seo": "After Detroit Plane Scare, a Bewildering Array of Rules", 
+    "main": "Rules Are Topsy-Turvy After Terror Attempt", 
+    "sub": "Inconsistencies for Airline Passengers  ;", 
+    "print_headline": "Rules Are Topsy-Turvy After Terror Attempt"
+  }, 
+  "abstract": null, 
+  "print_page": "12", 
+  "word_count": "968", 
+  "_id": "545af5f038f0d842c59d1e76", 
+  "snippet": "Inconsistencies in new safety measures for air travelers in the days following an attempted terrorist attack.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/12/29/us/29passenger.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2009/12/29/us/29passenger_CA1_337-395/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/12/29/us/29passenger_CA1_337-395/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Reporting was contributed by Rebecca Cathcart in Los Angeles, Sean D. Hamill in Pittsburgh, Robert C. Herguth in Chicago and Colin Moynihan in New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Jennifer", 
+        "rank": 1, 
+        "lastname": "STEINHAUER"
+      }
+    ], 
+    "original": "By JENNIFER STEINHAUER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-12-29T00:00:00Z", 
+  "section_name": "U.S."
+}

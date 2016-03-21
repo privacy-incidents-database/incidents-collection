@@ -1,0 +1,111 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "As lawmakers questioned representatives from Apple and the F.B.I. on Tuesday, they struggled over where to draw the line between security and privacy.", 
+  "headline": {
+    "main": "Debate Over Privacy Finds Little Agreement", 
+    "kicker": "Bits", 
+    "content_kicker": "Bits"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "231", 
+  "_id": "56d6fadc38f0d83a4dd60fe4", 
+  "snippet": "As lawmakers questioned representatives from Apple and the F.B.I. on Tuesday, they struggled over where to draw the line between security and privacy.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/03/technology/debate-over-privacy-finds-little-agreement.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbWide-v3.png", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbWide-v3.png", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge-v4.png", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-articleLarge-v4.png", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard-v5.png", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/11/30/technology/bits-daily-report/bits-daily-report-thumbStandard-v5.png", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "House Committee on the Judiciary", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "RSA, The Security Division of EMC Corporation", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joseph", 
+        "lastname": "PLAMBECK"
+      }
+    ], 
+    "original": "By JOSEPH PLAMBECK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-03T00:00:00Z", 
+  "section_name": "Technology"
+}

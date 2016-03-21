@@ -1,0 +1,72 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "Elaborate requirements for account passwords may sound invincible, but experts say Americans aren\u2019t paying enough attention to other online security threats.", 
+  "headline": {
+    "seo": "A Strong Password Isn\u2019t the Strongest Security", 
+    "main": "A Strong Password Isn\u2019t the Strongest Security", 
+    "kicker": "Digital Domain", 
+    "print_headline": "A Strong Password Isn\u2019t the Strongest Security", 
+    "content_kicker": "Digital Domain"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "937", 
+  "_id": "541a3e2f38f0d80959e6c59a", 
+  "snippet": "Elaborate requirements for account passwords may sound invincible, but experts say Americans aren\u2019t paying enough attention to other online security threats.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/09/05/business/05digi.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/09/05/business/DIGI/DIGI-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/09/05/business/DIGI/DIGI-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Randall", 
+        "lastname": "STROSS"
+      }
+    ], 
+    "original": "By RANDALL STROSS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-09-05T00:00:00Z", 
+  "section_name": "Business Day"
+}

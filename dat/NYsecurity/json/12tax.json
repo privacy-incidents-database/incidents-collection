@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SpecialSections", 
+  "lead_paragraph": "Combing through this year\u2019s tax and pension laws, leading tax professionals have identified provisions and strategies that small businesses can use to their advantage.", 
+  "headline": {
+    "main": "Richer Retirement Accounts Aid Small Employers", 
+    "kicker": "Security", 
+    "print_headline": "Richer Retirement Accounts Aid Small Employers", 
+    "content_kicker": "Security"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "877", 
+  "_id": "54b1944838f0d87f81146d5b", 
+  "snippet": "Combing through this year\u2019s tax and pension laws, leading tax professionals have identified provisions and strategies that small businesses can use to their advantage.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/09/12/business/smallbusiness/12tax.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/09/11/business/12tax600.jpg", 
+      "height": 439, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/09/11/business/12tax600.jpg", 
+        "xlargeheight": "439"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/09/11/business/12tax75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/09/11/business/12tax75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Small Business", 
+  "keywords": [
+    {
+      "value": "Small Business", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Pensions and Retirement Plans", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Income Tax", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Retirement", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Personal Finances", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jan"
+      }
+    ], 
+    "original": "By JAN M. ROSEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-09-12T00:00:00Z", 
+  "section_name": "Business Day"
+}

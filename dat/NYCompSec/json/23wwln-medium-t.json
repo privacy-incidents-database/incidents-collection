@@ -1,0 +1,89 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Magazine", 
+  "lead_paragraph": "The cult hacker Virgil Griffith combines geekdom with a James Bond-like suaveness.", 
+  "headline": {
+    "seo": "Virgil Griffith, Internet Man of Mystery", 
+    "main": "Internet Man of Mystery", 
+    "kicker": "The Medium", 
+    "print_headline": "THE WAY WE LIVE NOW: 11-23-08: Internet Man of Mystery", 
+    "content_kicker": "The Medium"
+  }, 
+  "abstract": null, 
+  "print_page": "38", 
+  "word_count": "1496", 
+  "_id": "547a3a8b38f0d803f445b4f0", 
+  "snippet": "The cult hacker Virgil Griffith combines geekdom with a James Bond-like suaveness.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/11/23/magazine/23wwln-medium-t.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2008/11/23/magazine/23medium-600.jpg", 
+      "height": 350, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2008/11/23/magazine/23medium-600.jpg", 
+        "xlargeheight": "350"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2008/11/23/magazine/23medium-75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2008/11/23/magazine/23medium-75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Griffith, Virgil", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "WikiScanner", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Virginia", 
+        "lastname": "HEFFERNAN"
+      }
+    ], 
+    "original": "By VIRGINIA HEFFERNAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-11-23T00:00:00Z", 
+  "section_name": "Magazine"
+}

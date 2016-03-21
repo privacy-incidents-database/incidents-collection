@@ -1,0 +1,427 @@
+
+
+
+
+NEWS WATCH -  SECURITY -  From Symantec, a Hybrid Of Firewall and Spam Buster - NYTimes.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe Now
+
+
+
+
+
+Subscribe
+
+
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/archive/article/technology, targetedPage: www.nytimes.com/archive/article/technology, position: Bar1
+Log In
+Register Now
+Help
+
+
+
+Home Page
+Today's Paper
+Video
+Most Popular
+
+
+
+    Edition: U.S. / Global
+
+
+
+
+
+
+
+
+Search All NYTimes.com
+
+
+
+
+
+
+
+
+
+
+Business Day
+Technology
+
+
+
+
+
+World
+ 
+U.S.
+ 
+N.Y. / Region
+ 
+Business
+ 
+Technology
+ 
+Science
+ 
+Health
+ 
+Sports
+ 
+Opinion
+ 
+Arts
+ 
+Style
+ 
+Travel
+ 
+Jobs
+ 
+Real Estate
+ 
+Autos
+
+
+
+
+
+
+
+
+NEWS WATCH: SECURITY
+NEWS WATCH: SECURITY; From Symantec, a Hybrid Of Firewall and Spam Buster
+
+
+By Howard Millman
+
+
+Published: September 12, 2002
+
+
+
+
+
+
+
+
+
+                    It's not true. Despite that promise in the e-mail subject line, the vice president for marketing does not love you. So you won't be fooled again, Symantec has upgraded its Norton Internet Security software suite to intercept more viruses, mass mailers and worms. It also promises to eliminate bandwidth-hogging pop-up ads and reduce spam. If that sounds like a Herculean task, it is. Symantec has cataloged 61,000 threats to your data and program files, and it says there are 10 to 15 new ones appearing daily.        
+
+                    Norton Internet Security 2003 adds features that monitor traffic on many instant messaging networks and help make your computer less visible to hackers and more resistant to viruses and to Trojan horses, those malicious programs disguised as friendly or useful software. Should a virus penetrate your system's defenses, the product employs heuristics, or sets of logical rules, to prevent fast-spreading worms like Nimda and script-based threats like the I Love You virus from infecting other computers to which you link through a network or by e-mail. For example, Internet Security will notify Microsoft Outlook users if a program tries to send batched e-mail messages.        
+
+                    Its spam-filtering feature works with e-mail applications that work with the POP3 protocol like Outlook, Eudora and Netscape Mail. It excludes MIME-based e-mail applications like those of America Online and MSN. Other filters allow parents to place some restrictions on what children can view on the Internet.        
+
+                    Symantec has redesigned Internet Security's user interface, making it easier to install the program and set preferences for cookies and animated ads.        
+
+                    Internet Security 2003, which includes Norton AntiVirus 2003, Norton Personal Firewall and Norton Privacy Control, is $69.95 and is expected to become available by the end of the month. Upgrading from an earlier version costs $39.95. Versions are available for Windows 98 through XP operating systems only.   Howard Millman        
+
+                    Photo        
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Subscribe to Technology RSS Feeds
+
+
+
+
+
+Technology News
+
+Internet
+Start-Ups
+Business Computing
+Companies
+
+
+
+
+
+
+
+
+Bits Blog
+Personal Tech
+Pogue’s Posts
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+            Inside NYTimes.com        
+
+
+
+
+
+
+
+
+Health » 
+
+
+
+Too Hot to Handle
+
+
+
+
+
+Arts » 
+
+
+
+The Harmony of Liberty
+
+
+
+
+Opinion »
+Should Beach Privatization Be Allowed?
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+
+
+
+
+
+Sports » 
+
+
+
+A Woman’s Leadership May Steady Murray
+
+
+
+
+
+
+
+
+
+
+Opinion » 
+
+
+
+Menagerie: Streaming Eagles
+
+
+
+
+
+U.S. »
+
+
+
+
+Curlers’ Aim: Sweep to a Win Over the Heat
+
+
+
+
+
+Television » 
+
+
+
+The Cold War Brews Anew in Prime Time
+
+
+
+
+
+Book Review » 
+
+
+
+Command Performance
+
+
+
+
+
+Opinion » 
+
+
+
+Op-Ed: Fooling Mexican Fans
+
+
+
+
+
+World »
+
+
+
+
+Reading, Writing and Allegations
+
+
+
+
+Opinion »
+Op-Ed: Elite, Separate, Unequal
+New York City’s top public schools must become more diverse.
+
+
+
+
+
+Business »
+
+
+
+
+Vice Has Media Giants Salivating
+
+
+
+
+
+
+
+
+
+
+
+
+© 2016 The New York Times Company
+Site Map
+Privacy
+Your Ad Choices
+Advertise
+Terms of Sale
+Terms of Service
+Work With Us
+RSS
+Help
+Contact Us
+Site Feedback
+
+
+
+
+
+
+
+
+
+
+
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/technology, targetedPage: www.nytimes.com/archive/article/technology, position: Inv1

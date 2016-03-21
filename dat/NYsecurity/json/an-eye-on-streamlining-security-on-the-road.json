@@ -1,0 +1,84 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Clear, the company that expedites airport security clearance, is starting to expand aggressively again.", 
+  "headline": {
+    "seo": "An Eye on Streamlining Security - On the Road", 
+    "main": "A Partnership Aims at Streamlining Security", 
+    "kicker": "On the Road", 
+    "print_headline": "A Partnership Aims At Streamlining Security", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": "Joe Sharkey On the Road column observes that airport security clearance expediter Clear is starting to expand aggressively again after emerging from bankruptcy; notes it is proposing a pilot program with the Transportation Security Administration that would rejuvenate the idea of partnerships between private enterprise and the government in air travel security.", 
+  "print_page": "6", 
+  "word_count": "765", 
+  "_id": "53f48b8438f0d857ea2d11bb", 
+  "snippet": "Clear, the company that expedites airport security clearance, is starting to expand aggressively again.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/03/13/business/an-eye-on-streamlining-security-on-the-road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2012/03/13/business/Road/Road-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2012/03/13/business/Road/Road-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airport Security", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Business Travel", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-03-13T00:00:00Z", 
+  "section_name": "Business Day"
+}

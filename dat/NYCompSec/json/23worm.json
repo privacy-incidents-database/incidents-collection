@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The infection seems to be the first step of a multistage attack, but experts do not know the form it will take.", 
+  "headline": {
+    "main": "Worm Infects Millions of Computers Worldwide", 
+    "print_headline": "Worm Infects Millions Of Computers Worldwide"
+  }, 
+  "abstract": null, 
+  "print_page": "12", 
+  "word_count": "959", 
+  "_id": "54710fff38f0d847c5e4252a", 
+  "snippet": "The infection seems to be the first step of a multistage attack, but experts do not know the form it will take.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/01/23/technology/internet/23worm.html", 
+  "multimedia": [], 
+  "subsection_name": "Internet", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Computer Viruses", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Microsoft Corp", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "John", 
+        "rank": 1, 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-01-23T00:00:00Z", 
+  "section_name": "Technology"
+}

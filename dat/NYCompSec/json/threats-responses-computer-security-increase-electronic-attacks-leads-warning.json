@@ -1,0 +1,77 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "Intelligence officials are concerned that a recent rise in electronic attacks against government and military computer networks in the United States may be the work of pro-Iraqi hackers and could signal a ''potential crisis'' in national security, according to a classified F.B.I. assessment. The assessment, prepared last week by the National Infrastructure Protection Center at the Federal Bureau of Investigation, warned intelligence officials that the attacks, which have been relatively limited, are likely to grow more widespread and ''more dangerous'' as tension over a possible war against Iraq grows.", 
+  "headline": {
+    "main": "Increase in Electronic Attacks Leads to Warning on Iraqi Hackers and U.S. Safety", 
+    "kicker": "THREATS AND RESPONSES: COMPUTER SECURITY"
+  }, 
+  "abstract": "National Infrastructure Protection Center at FBI warns that that recent rise in electronic attacks against government and military computer networks in US may be work of pro-Iraqi hackers and could be signal of potential crisis in national security; says attacks, which have been reltively limited, are likely to grow more widespread and more dangerous as tensions over possible war against Iraq grows (M)", 
+  "print_page": "10", 
+  "word_count": 906, 
+  "_id": "4fd28dc08eb7c8105d8637fa", 
+  "snippet": "Intelligence officials are concerned that a recent rise in electronic attacks against government and military computer networks in the United States may be the work of pro-Iraqi hackers and could signal a ''potential crisis'' in national security,...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/01/17/us/threats-responses-computer-security-increase-electronic-attacks-leads-warning.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "FEDERAL BUREAU OF INVESTIGATION"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "NATIONAL INFRASTRUCTURE PROTECTION CENTER"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ATOMIC WEAPONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOLOGICAL AND CHEMICAL WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }
+    ], 
+    "original": "By ERIC LICHTBLAU"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-01-17T00:00:00Z", 
+  "section_name": "Technology; U.S.; Washington"
+}

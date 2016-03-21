@@ -1,0 +1,86 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "With vast resources from stolen financial information, cyberattackers are winning a technology arms race.", 
+  "headline": {
+    "main": "Thieves Winning Online War, Maybe Even in Your Computer", 
+    "print_headline": "Thieves Winning Online War, Maybe Even in Your Computer"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1369", 
+  "_id": "547ae66e38f0d803f445c366", 
+  "snippet": "With vast resources from stolen financial information, cyberattackers are winning a technology arms race.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/12/06/technology/internet/06security.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2008/12/05/technology/06security.600.jpg", 
+      "height": 300, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2008/12/05/technology/06security.600.jpg", 
+        "xlargeheight": "300"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2008/12/05/technology/06security.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2008/12/05/technology/06security.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Internet", 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Viruses", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-12-06T00:00:00Z", 
+  "section_name": "Technology"
+}

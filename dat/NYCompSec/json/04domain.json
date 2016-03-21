@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "WikiLeaks directed users to a Swiss host for its Web site after being dropped by an American provider.", 
+  "headline": {
+    "seo": "WikiLeaks Struggles to Keep a Step Ahead of Hackers", 
+    "main": "WikiLeaks Struggles to Stay Online After Attacks", 
+    "print_headline": "WikiLeaks Struggles to Keep a Step Ahead of Hackers"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "776", 
+  "_id": "5421e8bd38f0d83c6e5b769b", 
+  "snippet": "WikiLeaks directed users to a Swiss host for its Web site after being dropped by an American provider.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/12/04/world/europe/04domain.html", 
+  "multimedia": [], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Wikileaks", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Ravi Somaiya contributed reporting from London, and J. David Goodman and Riva Richmond from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Ashlee", 
+        "rank": 1, 
+        "lastname": "VANCE"
+      }
+    ], 
+    "original": "By ASHLEE VANCE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-12-04T00:00:00Z", 
+  "section_name": "World"
+}

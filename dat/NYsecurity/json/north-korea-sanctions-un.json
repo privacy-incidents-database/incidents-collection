@@ -1,0 +1,130 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Analysts say a draft resolution circulating at the United Nations has too many loopholes for it to induce the isolated nation to denuclearize.", 
+  "headline": {
+    "main": "Doubts in Asia Over Whether New Sanctions Against North Korea Can Work", 
+    "print_headline": "Doubts in Asia Over Whether New Sanctions Against North Korea Can Work"
+  }, 
+  "abstract": "South Korea and China express doubts that sanctions against North Korea under consideration by United Nations will be strong enough to force nation to relinquish its nuclear weapons program.", 
+  "print_page": "8", 
+  "word_count": "1216", 
+  "_id": "56d078fb38f0d80b98a14ead", 
+  "snippet": "Analysts say a draft resolution circulating at the United Nations has too many loopholes for it to induce the isolated nation to denuclearize.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/27/world/asia/north-korea-sanctions-un.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/27/world/27KOREA-1/27KOREA-1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/27/world/27KOREA-1/27KOREA-1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/27/world/27KOREA-1/27KOREA-1-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/27/world/27KOREA-1/27KOREA-1-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/27/world/27KOREA-1/27KOREA-1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/27/world/27KOREA-1/27KOREA-1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "North Korea", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Nuclear Weapons", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "South Korea", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United Nations", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Embargoes and Sanctions", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Choe Sang-Hun reported from Seoul, and Edward Wong from Beijing. Yufan Huang contributed research.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Choe", 
+        "lastname": "SANG-HUN"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Edward", 
+        "lastname": "WONG"
+      }
+    ], 
+    "original": "By CHOE SANG-HUN and EDWARD WONG"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-27T00:00:00Z", 
+  "section_name": "World"
+}

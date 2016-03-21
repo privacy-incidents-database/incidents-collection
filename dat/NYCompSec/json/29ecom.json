@@ -1,0 +1,88 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "EarthLink will announce new security services aimed at thwarting hacking techniques that specialists regard as particularly insidious.", 
+  "headline": {
+    "main": "Harnessing the Web to Sell Online Security", 
+    "kicker": "E-Commerce Report", 
+    "print_headline": "Harnessing the Web To Sell Online Security", 
+    "content_kicker": "E-Commerce Report"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "1086", 
+  "_id": "548e56f138f0d8437a5dbd39", 
+  "snippet": "EarthLink will announce new security services aimed at thwarting hacking techniques that specialists regard as particularly insidious.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/01/29/technology/29ecom.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2007/01/29/business/29ecom.600.jpg", 
+      "height": 300, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2007/01/29/business/29ecom.600.jpg", 
+        "xlargeheight": "300"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2007/01/29/business/29ecom.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2007/01/29/business/29ecom.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "EarthLink Incorporated", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Software", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Bob", 
+        "lastname": "TEDESCHI"
+      }
+    ], 
+    "original": "By BOB TEDESCHI"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-01-29T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,65 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "Mark Silverman has a .357 revolver and a couple of dogs he can use to deal with anyone foolish enough to wander down his street, Scenic View Drive, after dark. ''I'm not kidding about this,'' Mr. Silverman said, gesturing at his family's property. ''Looting will not be tolerated. This is all we've got.''", 
+  "headline": {
+    "main": "Fear of Looting Is on Rise, If Not the Reality of It", 
+    "kicker": "HURRICANE CHARLEY: SECURITY"
+  }, 
+  "abstract": "Rumors are rife about robbers on prowl in Charlotte County, Fla, which took brunt of Hurricane Charley, but relief workers say there has been very little looting in wake of storm; photos (M)", 
+  "print_page": "9", 
+  "word_count": 1220, 
+  "_id": "4fd23e5e8eb7c8105d7d5380", 
+  "snippet": "Mark Silverman has a .357 revolver and a couple of dogs he can use to deal with anyone foolish enough to wander down his street, Scenic View Drive, after dark.    ''I'm not kidding about this,'' Mr. Silverman said, gesturing at his family's property....", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2004/08/21/us/hurricane-charley-security-fear-of-looting-is-on-rise-if-not-the-reality-of-it.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "CHARLOTTE COUNTY (FLA)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "FLORIDA"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ROBBERIES AND THEFTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "RUMORS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CHARLEY (STORM)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LOOTING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HURRICANES AND TROPICAL STORMS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Rick", 
+        "lastname": "LYMAN"
+      }
+    ], 
+    "original": "By RICK LYMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2004-08-21T00:00:00Z", 
+  "section_name": "U.S."
+}

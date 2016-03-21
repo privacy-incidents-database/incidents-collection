@@ -1,0 +1,86 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Democrats agreed to compromises in the legislation, prompting concerns over the effectiveness of some of the promised security enhancements.", 
+  "headline": {
+    "main": "Revised Antiterrorism Bill Moves Closer to Approval", 
+    "print_headline": "Revised Antiterrorism Bill Moves Closer to Approval"
+  }, 
+  "abstract": null, 
+  "print_page": "14", 
+  "word_count": "952", 
+  "_id": "548d0be538f0d80cddfa00e6", 
+  "snippet": "Democrats agreed to compromises in the legislation, prompting concerns over the effectiveness of some of the promised security enhancements.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/07/26/washington/26home.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2007/07/26/us/26home.600.jpg", 
+      "height": 280, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2007/07/26/us/26home.600.jpg", 
+        "xlargeheight": "280"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2007/07/26/us/26home.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2007/07/26/us/26home.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Law and Legislation", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-07-26T00:00:00Z", 
+  "section_name": "Washington"
+}

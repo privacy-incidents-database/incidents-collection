@@ -1,0 +1,142 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "An elaborate behind-the-scenes effort aims to ensure that the president\u2019s historic visit yields both powerful symbolism and concrete policy progress.", 
+  "headline": {
+    "main": "White House and Cuba Maneuver Over Obama\u2019s Visit", 
+    "print_headline": "Baseball? Yes. Seeing Fidel? No. U.S. and Cuba Negotiate Obama&#8217;s Visit.", 
+    "content_kicker": "White House Letter"
+  }, 
+  "abstract": "White House Letter; American and Cuban officials are going to great lengths to ensure Pres Obama's historic visit to Cuba produces resonant symbolism and solid policy progress; both countries have much at stake, amid many risks.", 
+  "print_page": "4", 
+  "word_count": "1087", 
+  "_id": "56dcd10938f0d874be467b87", 
+  "snippet": "An elaborate behind-the-scenes effort aims to ensure that the president\u2019s historic visit yields both powerful symbolism and concrete policy progress.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/07/world/americas/white-house-and-cuba-maneuver-over-obamas-visit.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/07/world/07WHLETTER1/07WHLETTER1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/07/world/07WHLETTER1/07WHLETTER1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/07/world/07WHLETTER1/07WHLETTER1-articleLarge.jpg", 
+      "height": 377, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/07/world/07WHLETTER1/07WHLETTER1-articleLarge.jpg", 
+        "xlargeheight": "377"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/07/world/07WHLETTER1/07WHLETTER1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/07/world/07WHLETTER1/07WHLETTER1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Americas", 
+  "keywords": [
+    {
+      "value": "Cuba", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Major League Baseball", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Havana (Cuba)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Castro, Raul", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Embargoes and Sanctions", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Diplomatic Service, Embassies and Consulates", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "National Security Council", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Rhodes, Benjamin J", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Julie", 
+        "middlename": "Hirschfeld", 
+        "lastname": "DAVIS", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By JULIE HIRSCHFELD DAVIS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-07T00:00:00Z", 
+  "section_name": "World"
+}

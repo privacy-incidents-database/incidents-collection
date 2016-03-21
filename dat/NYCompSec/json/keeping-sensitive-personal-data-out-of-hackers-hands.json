@@ -1,0 +1,111 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "First and foremost, change all your passwords and make sure they aren&#8217;t based on dictionary words.", 
+  "headline": {
+    "main": "Keeping Confidential Personal Data Out of Hackers&#8217; Hands", 
+    "print_headline": "Keeping Confidential Personal Data Out of Hackers\u2019 Hands"
+  }, 
+  "abstract": "Tips for those worried about security of their personal data in light of discovery by Hold Security that Russian hackers possess hundreds of millions of email addresses and other types of personal identification.", 
+  "print_page": "3", 
+  "word_count": "482", 
+  "_id": "53e14b6638f0d81effd09b4e", 
+  "snippet": "First and foremost, change all your passwords and make sure they aren&#8217;t based on dictionary words.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/08/06/technology/personaltech/keeping-sensitive-personal-data-out-of-hackers-hands.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2014/08/06/business/06secure-web1/06secure-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2014/08/06/business/06secure-web1/06secure-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2014/08/06/business/06secure-web1/06secure-web1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2014/08/06/business/06secure-web1/06secure-web1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2014/08/06/business/06secure-web1/06secure-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2014/08/06/business/06secure-web1/06secure-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Personal Tech", 
+  "keywords": [
+    {
+      "value": "LastPass.com", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Russia", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Identity Theft", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hold Security LLC", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Molly", 
+        "lastname": "WOOD"
+      }
+    ], 
+    "original": "By MOLLY WOOD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-08-06T00:00:00Z", 
+  "section_name": "Technology"
+}

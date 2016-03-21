@@ -1,0 +1,72 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business/Financial Desk", 
+  "lead_paragraph": "An international team of researchers demonstrated this week that it was possible to break the security codes commonly used to protect financial transactions over the Internet. The actual feat involved finding the two prime factors for a number about 155 digits long. The answer enables one to obtain the key used to decode a particular piece of encrypted data.", 
+  "headline": {
+    "main": "Researchers Demonstrate Computer Code Can Be Broken"
+  }, 
+  "abstract": "International team of researchers demonstrated this week that it was possible to break security codes commonly used to protect financial transactions over Internet; actual feat involved finding two prime factors for a number about 155 digits long; answer enables one to obtain key used to decode particular piece of encrypted data; while seven-month effort required significant amount of computer power--involving 292 computers at 11 sites in 6 countries--it showed that standard level of encryption for Internet transactions, known as 512-bit encryption, was not secure; feat also raises questions about Government's policy of export controls on encryption; 512-bit system has become standard because, with some exceptions, it is most secure encryption allowed for export; Burt Kaliski, chief scientist for RSA Research, part of Security Dynamics Technologies' RSA Data Security Inc, which makes encryption technology and sponsored challenge to break 512-bit code, comments (M)", 
+  "print_page": "2", 
+  "word_count": 530, 
+  "_id": "4fd2107f8eb7c8105d784ef0", 
+  "snippet": "An international team of researchers demonstrated this week that it was possible to break the security codes commonly used to protect financial transactions over the Internet.    The actual feat involved finding the two prime factors for a number...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1999/08/27/business/researchers-demonstrate-computer-code-can-be-broken.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "KALISKI, BURT"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "SECURITY DYNAMICS TECHNOLOGIES INC"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "RSA DATA SECURITY INC"
+    }, 
+    {
+      "name": "subject", 
+      "value": "INTERNATIONAL TRADE AND WORLD MARKET"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SOFTWARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "STANDARDS AND STANDARDIZATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "RESEARCH"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Sara", 
+        "lastname": "ROBINSON"
+      }
+    ], 
+    "original": "By SARA ROBINSON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1999-08-27T00:00:00Z", 
+  "section_name": "Technology; Business"
+}

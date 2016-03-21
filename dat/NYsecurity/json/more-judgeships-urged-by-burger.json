@@ -1,0 +1,69 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "The nation needs more Federal judges to prevent backlogs and delay in its judicial system, Chief Justice Warren E. Burger says. He implied in his 1983 year-end report on the judiciary that too many lawyers were creating too much work for Federal judges. ''The United States has been described as the most litigious country in the world, but it has fewer judges and more attorneys per thousand people than most of the advanced European countries,'' the Chief Justice said in the report, made public today. ''The judiciary cannot be held responsible for litigation delay when it is not given the tools and resources needed to cope with the problem.''", 
+  "headline": {
+    "main": "MORE JUDGESHIPS URGED BY BURGER"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": 448, 
+  "_id": "4fd147438eb7c8105d6230fa", 
+  "snippet": "The nation needs more Federal judges to prevent backlogs and delay in its judicial system, Chief Justice Warren E. Burger says.   He implied in his 1983 year-end report on the judiciary that too many lawyers were creating too much work for Federal...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1984/01/03/us/more-judgeships-urged-by-burger.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "creative_works", 
+      "value": "SOCIAL SECURITY ACT"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BURGER, WARREN E"
+    }, 
+    {
+      "name": "subject", 
+      "value": "JUDGES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LAWYERS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LABOR"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FEDERAL DISTRICT COURTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRISONS AND PRISONERS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COURTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LAW AND LEGISLATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LEGAL PROFESSION"
+    }
+  ], 
+  "byline": {
+    "organization": "AP", 
+    "original": "AP", 
+    "person": []
+  }, 
+  "document_type": "article", 
+  "pub_date": "1984-01-03T00:00:00Z", 
+  "section_name": "U.S."
+}

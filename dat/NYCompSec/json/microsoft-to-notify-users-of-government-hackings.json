@@ -1,0 +1,79 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The company joins Google, Facebook and others in disclosing when users of email and other services have probably been targeted by hackers working on behalf of governments.", 
+  "headline": {
+    "main": "Microsoft to Notify Users of Government Hackings", 
+    "print_headline": "Microsoft to Notify Users of Government Hackings"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "479", 
+  "_id": "5685b6f338f0d85a6c1301f3", 
+  "snippet": "The company joins Google, Facebook and others in disclosing when users of email and other services have probably been targeted by hackers working on behalf of governments.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/01/technology/microsoft-to-notify-users-of-government-hackings.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Microsoft Corp", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cyberwarfare and Defense", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Tibet", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Middle East", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "WINGFIELD"
+      }
+    ], 
+    "original": "By NICK WINGFIELD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-01T00:00:00Z", 
+  "section_name": "Technology"
+}

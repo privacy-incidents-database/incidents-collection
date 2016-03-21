@@ -1,0 +1,74 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Activists want a judge to prevent the state from using electronic voting machines that they say are highly vulnerable to hackers.", 
+  "headline": {
+    "main": "Suit Seeks to Ensure Ballot Safety in New Jersey", 
+    "print_headline": "Suit Seeks To Ensure Ballot Safety In New Jersey"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "410", 
+  "_id": "548ef3ba38f0d8437a5dcbcd", 
+  "snippet": "Activists want a judge to prevent the state from using electronic voting machines that they say are highly vulnerable to hackers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/02/13/nyregion/13vote.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "New Jersey", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Voting Machines", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Venetis, Penny M", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Princeton University", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Feinberg, Linda R", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Richard", 
+        "middlename": "G.", 
+        "lastname": "JONES", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By RICHARD G. JONES"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-02-13T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

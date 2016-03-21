@@ -1,0 +1,76 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "With smartphones outselling PCs for the first time, the long-predicted crime wave on hand-held devices appears to have arrived.", 
+  "headline": {
+    "seo": "For Smartphones, Safeguards Against Swindlers", 
+    "main": "Security to Ward Off Crime on Phones", 
+    "print_headline": "Security\nTo Thwart\nSwindlers\nOn Phones"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "1612", 
+  "_id": "540b14cc38f0d84fb88345d8", 
+  "snippet": "With smartphones outselling PCs for the first time, the long-predicted crime wave on hand-held devices appears to have arrived.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/02/24/technology/personaltech/24basics.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/02/24/business/24basics/24basics-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/02/24/business/24basics/24basics-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Personal Tech", 
+  "keywords": [
+    {
+      "value": "Smartphones", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Mobile Applications", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Malware", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Riva", 
+        "lastname": "RICHMOND"
+      }
+    ], 
+    "original": "By RIVA RICHMOND"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-02-24T00:00:00Z", 
+  "section_name": "Technology"
+}

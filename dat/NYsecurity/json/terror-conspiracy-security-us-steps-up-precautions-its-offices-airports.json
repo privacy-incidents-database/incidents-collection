@@ -1,0 +1,73 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metropolitan Desk", 
+  "lead_paragraph": "At government buildings in New York and at airports across the country, security was tightened yesterday within hours of the conviction of Sheik Omar Abdel Rahman and his followers in a bombing conspiracy trial. Federico F. Pena, the United States Transportation Secretary, who ordered heightened security at the nation's airports in August, ordered still more security measures yesterday.", 
+  "headline": {
+    "main": "U.S. Steps Up Precautions At Its Offices And Airports", 
+    "kicker": "THE TERROR CONSPIRACY: THE SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "5", 
+  "word_count": 392, 
+  "_id": "4fd1ec488eb7c8105d73d46d", 
+  "snippet": "At government buildings in New York and at airports across the country, security was tightened yesterday within hours of the conviction of Sheik Omar Abdel Rahman and his followers in a bombing conspiracy trial.   Federico F. Pena, the United States...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1995/10/02/nyregion/terror-conspiracy-security-us-steps-up-precautions-its-offices-airports.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "ABDEL RAHMAN, OMAR"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "UNITED NATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LINCOLN TUNNEL"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HOLLAND TUNNEL"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOMBS AND BOMB PLOTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ISLAM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Richard", 
+        "lastname": "PEREZ-PENA"
+      }
+    ], 
+    "original": "By RICHARD PEREZ-PENA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1995-10-02T00:00:00Z", 
+  "section_name": "New York and Region"
+}

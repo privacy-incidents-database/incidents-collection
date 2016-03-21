@@ -1,0 +1,128 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A Senate panel will hold a hearing on the EB-5 visa program, which allows wealthy foreign investors, for a price, to put themselves on a path to citizenship.", 
+  "headline": {
+    "main": "Program That Lets Foreigners Write a Check, and Get a Visa, Draws Scrutiny", 
+    "print_headline": "Scrutiny for Visa Program That Aids Foreign Investors "
+  }, 
+  "abstract": "Homeland Security officials, along with federal lawmakers, say EB-5 visa process permits wealthy foreign investors, for price that can top $1 million, to move toward United States citizenship; program is under increased scrutiny as potential national security risk as revelations of fraud and money laundering have emerged.", 
+  "print_page": "13", 
+  "word_count": "1177", 
+  "_id": "56e7cf2338f0d83d7cbf4fb5", 
+  "snippet": "A Senate panel will hold a hearing on the EB-5 visa program, which allows wealthy foreign investors, for a price, to put themselves on a path to citizenship.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/16/us/politics/program-that-lets-foreigners-write-a-check-and-get-a-visa-draws-scrutiny.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/16/us/16visa/16visa-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/16/us/16visa/16visa-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/16/us/16visa/16visa-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/16/us/16visa/16visa-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/16/us/16visa/16visa-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/16/us/16visa/16visa-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Foreign Workers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Citizenship and Naturalization", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Visas", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Foreign Investments", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Immigration and Emigration", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Citizenship and Immigration Services (US)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Senate Committee on Homeland Security and Governmental Affairs", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ron", 
+        "lastname": "NIXON"
+      }
+    ], 
+    "original": "By RON NIXON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-16T00:00:00Z", 
+  "section_name": "U.S."
+}

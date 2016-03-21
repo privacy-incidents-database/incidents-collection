@@ -1,0 +1,77 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "The American military said Sunday that it had arrested a senior commander of the nascent Iraqi National Guard, raising concerns about the loyalty and reliability of the new security forces just months before general elections are scheduled across the embattled country. The Iraqi commander, Brig. Gen. Talib Abid Ghayib al-Lahibi, based in restive Diyala Province, was arrested Thursday on suspicion of ''having associations with known insurgents,'' the military said in a written statement.", 
+  "headline": {
+    "main": "U.S. Military Arrests an Iraqi Commander", 
+    "kicker": "THE CONFLICT IN IRAQ: SECURITY"
+  }, 
+  "abstract": "American military announces arrest of senior commander of nascent Iraqi National Guard, saying Brig Gen Talib Abid Ghayib al-Lahibi is suspected of having association with known insurgents; arrest raises concerns about loyalty and reliability of new security forces just months before general elections; photo (M)", 
+  "print_page": "11", 
+  "word_count": 946, 
+  "_id": "4fd247f28eb7c8105d7e3e4e", 
+  "snippet": "The arrest of a commander of the Iraqi National Guard raises concerns about the loyalty and reliability of the new security forces.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2004/09/27/international/middleeast/27iraq.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "LAHIBI, TALIB ABID GHAYIB AL-"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "VIOLENCE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POLITICS AND GOVERNMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CIVIL WAR AND GUERRILLA WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ELECTIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Edward", 
+        "rank": 1, 
+        "lastname": "WONG"
+      }
+    ], 
+    "original": "By EDWARD WONG; John F. Burns contributed reporting for this article"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2004-09-27T00:00:00Z", 
+  "section_name": "World; Washington"
+}

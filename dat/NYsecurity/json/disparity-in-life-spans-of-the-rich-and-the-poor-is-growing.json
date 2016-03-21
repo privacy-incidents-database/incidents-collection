@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Despite advances in medicine, a longevity gap that has long favored wealthy Americans has more than doubled since the 1970s, researchers say.", 
+  "headline": {
+    "main": "Disparity in Life Spans of the Rich and the Poor Is Growing", 
+    "print_headline": "Life Spans of the Rich Leave the Poor Behind"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1202", 
+  "_id": "56be04a838f0d810e6a1a555", 
+  "snippet": "Despite advances in medicine, a longevity gap that has long favored wealthy Americans has more than doubled since the 1970s, researchers say.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/13/health/disparity-in-life-spans-of-the-rich-and-the-poor-is-growing.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/13/science/13LIFESPAN/13LIFESPAN-thumbWide-v3.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/13/science/13LIFESPAN/13LIFESPAN-thumbWide-v3.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/13/science/13LIFESPAN/13LIFESPAN-articleLarge.jpg", 
+      "height": 399, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/13/science/13LIFESPAN/13LIFESPAN-articleLarge.jpg", 
+        "xlargeheight": "399"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/13/science/13LIFESPAN/13LIFESPAN-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/13/science/13LIFESPAN/13LIFESPAN-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Longevity", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Income Inequality", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Social Security Administration", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Brookings Institution", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Sabrina", 
+        "lastname": "TAVERNISE"
+      }
+    ], 
+    "original": "By SABRINA TAVERNISE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-13T00:00:00Z", 
+  "section_name": "Health"
+}

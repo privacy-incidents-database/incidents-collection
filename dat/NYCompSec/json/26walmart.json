@@ -1,0 +1,65 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The retailer wants the state to enforce an Arkansas judge\u2019s order over files the company says a former security technician is holding.", 
+  "headline": {
+    "seo": "Wal-Mart Sues in Oklahoma Over Security Files", 
+    "main": "Wal-Mart Security Suit Seeks Oklahoma\u2019s Help", 
+    "print_headline": "Wal-Mart Security Suit Seeks Oklahoma\u2019s Help"
+  }, 
+  "abstract": null, 
+  "print_page": "2", 
+  "word_count": "676", 
+  "_id": "5405f7a138f0d81983bde27f", 
+  "snippet": "The retailer wants the state to enforce an Arkansas judge\u2019s order over files the company says a former security technician is holding.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/05/26/business/26walmart.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Wal-Mart Stores Inc", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Suits and Litigation", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Arkansas", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "qualifier": "Jr", 
+        "firstname": "James", 
+        "middlename": "C.", 
+        "lastname": "McKINLEY", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By JAMES C. McKINLEY Jr"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-05-26T00:00:00Z", 
+  "section_name": "Business Day"
+}

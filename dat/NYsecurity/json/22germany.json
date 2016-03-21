@@ -1,0 +1,75 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The disclosure of a botched plot is reshaping a charged debate in Germany over how much latitude to give law enforcement authorities in fighting terrorism.", 
+  "headline": {
+    "main": "Bomb Plot Shocks Germans Into Antiterrorism Debate", 
+    "print_headline": "Bomb Plot Shocks Germans Into Antiterrorism Debate", 
+    "content_kicker": "Security"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "1034", 
+  "_id": "54b109c738f0d8367c842d76", 
+  "snippet": "The disclosure of a botched plot is reshaping a charged debate in Germany over how much latitude to give law enforcement authorities in fighting terrorism.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/22/world/europe/22germany.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/08/22/world/22ger1_75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/08/22/world/22ger1_75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "Germany", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Merkel, Angela", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Mark", 
+        "lastname": "LANDLER"
+      }
+    ], 
+    "original": "By MARK LANDLER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-22T00:00:00Z", 
+  "section_name": "World"
+}

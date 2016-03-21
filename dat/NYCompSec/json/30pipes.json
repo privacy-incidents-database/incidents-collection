@@ -1,0 +1,80 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The increasing flow of data around the United States may have intelligence, and possibly military, consequences.", 
+  "headline": {
+    "main": "Internet Traffic Begins to Bypass the U.S.", 
+    "print_headline": "Internet Traffic Begins to Bypass the U.S."
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1300", 
+  "_id": "54775d9b38f0d854b20b19b6", 
+  "snippet": "The increasing flow of data around the United States may have intelligence, and possibly military, consequences.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/08/30/business/30pipes.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2008/08/30/business/web190.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2008/08/30/business/web190.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2008/08/29/business/30pipe_75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2008/08/29/business/30pipe_75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-08-30T00:00:00Z", 
+  "section_name": "Business Day"
+}

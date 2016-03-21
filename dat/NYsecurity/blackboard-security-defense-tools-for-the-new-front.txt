@@ -1,0 +1,10 @@
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/archive/article/education, targetedPage: www.nytimes.com/archive/article, position: Bar1
+BLACKBOARD: SECURITY; Defense Tools for the New Front
+For more than a century, one self-effacingly named British company has dominated the world of military publishing with manifestos like ''Amphibious Warfare Capabilities,'' ''Fighting Ships'' and ''Ballistic Missile Proliferation.'' Now comes something very un-Jane's-like. Or maybe not.
+In response to what the company delicately calls ''changes'' to the ''school security environment,'' it is publishing the new ''Jane's School Safety Handbook'' to help school personnel respond to crises ranging ''from shootings to bomb threats, chemical-biological attacks and natural disasters.''
+The cheery cover shows children at play. But inside the text is all business.
+''There are two types of school administrators: those who have faced a crisis and those who are about to,'' advise the three authors -- a chief of police, a school safety expert and the director of crisis intervention for the Los Angeles school system.
+Using the handbook's many checklists, administrators can assemble a school lockdown kit and conduct a safety/security audit -- for instance, ''Do existing bushes, trees, etc., restrict visibility at entrances/exits to buildings?'' And like most recently issued pieces of defense equipment, the little book (4 by 6 inches) is designed to be light, highly portable and usable in the field, with large type and handy subject tabs for harried principals who don't have time to mess around with tables of contents.
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York City’s top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/education, targetedPage: www.nytimes.com/archive/article, position: Inv1

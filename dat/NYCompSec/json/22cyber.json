@@ -1,0 +1,87 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The White House is trying to address the vulnerability of banking, energy and communications systems to attacks.", 
+  "headline": {
+    "seo": "Obama to Name Howard A. Schmidt as Chief of Cybersecurity", 
+    "main": "Obama to Name Chief of Cybersecurity", 
+    "print_headline": "Obama to Name Chief of Cybersecurity"
+  }, 
+  "abstract": null, 
+  "print_page": "23", 
+  "word_count": "742", 
+  "_id": "545ac4b738f0d842c59d1a1c", 
+  "snippet": "The White House is trying to address the vulnerability of banking, energy and communications systems to attacks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/12/22/technology/internet/22cyber.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2009/12/22/technology/internet/22cyber/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/12/22/technology/internet/22cyber/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Internet", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Obama, Barack", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Appointments and Executive Changes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "National Security Council", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Cyberattacks and Cyberwarfare", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "John", 
+        "rank": 1, 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-12-22T00:00:00Z", 
+  "section_name": "Technology"
+}

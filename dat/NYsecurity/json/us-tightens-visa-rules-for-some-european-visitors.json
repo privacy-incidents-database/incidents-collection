@@ -1,0 +1,122 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Travelers who hold dual citizenship from Iran, Iraq, Sudan or Syria, or have visited one of those countries in the last five years, may no longer participate in the visa-waiver program.", 
+  "headline": {
+    "main": "U.S. Tightens Visa Rules for Some European Visitors", 
+    "print_headline": " Terrorism Worries Bring Tighter Visa Rules for Some European Visitors "
+  }, 
+  "abstract": "Homeland Security Dept announces alterations to visa-waiver program that will make it harder for visitors to enter United States from Europe if they have dual citizenship from Iran, Iraq, Sudan or Syria, or have visited any of those countries in past five years.", 
+  "print_page": "18", 
+  "word_count": "745", 
+  "_id": "56a144a338f0d83189a62c28", 
+  "snippet": "Travelers who hold dual citizenship from Iran, Iraq, Sudan or Syria, or have visited one of those countries in the last five years, may no longer participate in the visa-waiver program.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/22/us/politics/us-tightens-visa-rules-for-some-european-visitors.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/22/us/22visa-web/22visa-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/22/us/22visa-web/22visa-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/22/us/22visa-web/22visa-web-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/22/us/22visa-web/22visa-web-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/22/us/22visa-web/22visa-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/22/us/22visa-web/22visa-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Visas", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Iran", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Iraq", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Sudan", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Syria", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Citizenship and Naturalization", 
+      "is_major": "Y", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ron", 
+        "lastname": "NIXON"
+      }
+    ], 
+    "original": "By RON NIXON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-22T00:00:00Z", 
+  "section_name": "U.S."
+}

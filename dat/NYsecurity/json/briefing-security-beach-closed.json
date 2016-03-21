@@ -1,0 +1,81 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "New Jersey Weekly Desk", 
+  "lead_paragraph": "Two-Mile Beach, a part of a national wildlife refuge in Lower Township, Cape May County, which normally opens to hiking and surf fishing on Oct. 1, will remain closed indefinitely because of security concerns for the Coast Guard station situated next to it, said Bruce Luebke, assistant manager for the Cape May National Wildlife Refuge. The beach is closed from spring until fall because it is a nesting ground for the endangered piping plover, but it is usual opens after the nesting season ends. The Coast Guard base by the beach houses the Loran Support Unit, an electronic navigational facility that guides planes and boats. Karen DeMasters", 
+  "headline": {
+    "main": "BEACH CLOSED", 
+    "kicker": "BRIEFING: SECURITY"
+  }, 
+  "abstract": "Two-mile beach section of Cape May National Wildlife Refuge in New Jersey will remain closed indefinitely because of security concerns for nearby Coast Guard station (S)", 
+  "print_page": "7", 
+  "word_count": 109, 
+  "_id": "4fd232408eb7c8105d7c20e2", 
+  "snippet": "Two-Mile Beach, a part of a national wildlife refuge in Lower Township, Cape May County, which normally opens to hiking and surf fishing on Oct. 1, will remain closed indefinitely because of security concerns for the Coast Guard station situated next...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2001/10/07/nyregion/briefing-security-beach-closed.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "CAPE MAY NATIONAL WILDLIFE REFUGE"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW JERSEY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "COAST GUARD"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WILDLIFE SANCTUARIES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BEACHES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Karen", 
+        "lastname": "DeMasters"
+      }
+    ], 
+    "original": "By Karen DeMasters"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2001-10-07T00:00:00Z", 
+  "section_name": "New York and Region"
+}

@@ -1,0 +1,87 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "The first experiment focuses on port security. Later this year, the government plans to create a 50-mile circle around the city with  an elaborate network of radiation alarms.", 
+  "headline": {
+    "main": "New York to Test Ways to Prevent Nuclear Terror", 
+    "sub": "Devices Are  Designed to Sniff Out Bombs Built Within the U.S. ;", 
+    "print_headline": "New York to Test Ways To Prevent Nuclear Terror"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1258", 
+  "_id": "548ecfab38f0d8437a5dc862", 
+  "snippet": "The first experiment focuses on port security. Later this year, the government plans to create a 50-mile circle around the city with  an elaborate network of radiation alarms.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/02/09/nyregion/09nuke.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2007/02/09/nyregion/09nuke600.1.jpg", 
+      "height": 300, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2007/02/09/nyregion/09nuke600.1.jpg", 
+        "xlargeheight": "300"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2007/02/09/nyregion/09nuke75.1.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2007/02/09/nyregion/09nuke75.1.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Atomic Weapons", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "New York City", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-02-09T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

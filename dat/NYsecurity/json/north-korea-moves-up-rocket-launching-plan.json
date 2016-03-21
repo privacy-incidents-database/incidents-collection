@@ -1,0 +1,123 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The United States and its allies called for an emergency meeting of the United Nations Security Council after North Korea defied warnings with the launch.", 
+  "headline": {
+    "main": "North Korea Launches Rocket Seen as Cover for a Missile Test", 
+    "print_headline": "North Korean Rocket Launch Called &#8216;Provocation&#8217;"
+  }, 
+  "abstract": "North Korea launches rocket thought to be part of ballistic missile program, despite threat of severe sanctions from United States; maintains launch was part of peaceful effort to put satellite into orbit; South Korea is increasingly open to American deployment of regional missile defense systems, which North's main ally China considers security threat.", 
+  "print_page": "6", 
+  "word_count": "1048", 
+  "_id": "56b6084338f0d86b498f9aec", 
+  "snippet": "The United States and its allies called for an emergency meeting of the United Nations Security Council after North Korea defied warnings with the launch.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/07/world/asia/north-korea-moves-up-rocket-launching-plan.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/07/world/07NORTHKOREA/07NORTHKOREA-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/07/world/07NORTHKOREA/07NORTHKOREA-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/07/world/07NORTHKOREA/07NORTHKOREA-articleLarge.jpg", 
+      "height": 874, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/07/world/07NORTHKOREA/07NORTHKOREA-articleLarge.jpg", 
+        "xlargeheight": "874"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/07/world/07NORTHKOREA/07NORTHKOREA-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/07/world/07NORTHKOREA/07NORTHKOREA-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "North Korea", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Missiles and Missile Defense Systems", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "South Korea", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Somini Sengupta contributed reporting from the United Nations, and Jane Perlez from Beijing.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Choe", 
+        "lastname": "SANG-HUN"
+      }
+    ], 
+    "original": "By CHOE SANG-HUN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-07T00:00:00Z", 
+  "section_name": "World"
+}

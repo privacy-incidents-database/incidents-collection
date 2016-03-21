@@ -1,0 +1,89 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Security measures were eased somewhat on Monday, but airlines still delayed and canceled flights, and Canadian officials effectively banned carry-ons.", 
+  "headline": {
+    "seo": "Some Easing Reported in New Security Measures", 
+    "main": "More Pilot Discretion on Security Measures", 
+    "print_headline": "Pilots Given More Discretion on Security Measures"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "1068", 
+  "_id": "545af55238f0d842c59d1e6a", 
+  "snippet": "Security measures were eased somewhat on Monday, but airlines still delayed and canceled flights, and Canadian officials effectively banned carry-ons.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/12/29/us/29security.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2009/12/28/us/28security01/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/12/28/us/28security01/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Abdulmutallab, Umar Farouk", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "Reporting was contributed by Ian Austen in Ottawa, Rebecca Cathcart in Los Angeles, Robert C. Herguth and Jeff Zeleny  in Chicago, Sarah Maslin Nir in New York, Mark McDonald in Hong Kong, Nate Schweber in San Francisco, Bill Vlasic in Romulus, Mich., and Karen Zraick in Newark.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Micheline", 
+        "rank": 1, 
+        "lastname": "MAYNARD"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Eric", 
+        "rank": 2, 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By MICHELINE MAYNARD and ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-12-29T00:00:00Z", 
+  "section_name": "U.S."
+}

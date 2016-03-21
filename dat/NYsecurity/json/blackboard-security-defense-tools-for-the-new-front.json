@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Education Life Supplement", 
+  "lead_paragraph": "For more than a century, one self-effacingly named British company has dominated the world of military publishing with manifestos like ''Amphibious Warfare Capabilities,'' ''Fighting Ships'' and ''Ballistic Missile Proliferation.'' Now comes something very un-Jane's-like. Or maybe not. In response to what the company delicately calls ''changes'' to the ''school security environment,'' it is publishing the new ''Jane's School Safety Handbook'' to help school personnel respond to crises ranging ''from shootings to bomb threats, chemical-biological attacks and natural disasters.''", 
+  "headline": {
+    "main": "Defense Tools for the New Front", 
+    "kicker": "BLACKBOARD: SECURITY"
+  }, 
+  "abstract": "Jane's School Safety Handbook helps school personnel respond to crises; covers spectrum from natural disasters to bomb threats; photo (special section, Education Life) (M)", 
+  "print_page": "7", 
+  "word_count": 220, 
+  "_id": "4fd21b9a8eb7c8105d79ae52", 
+  "snippet": "For more than a century, one self-effacingly named British company has dominated the world of military publishing with manifestos like ''Amphibious Warfare Capabilities,'' ''Fighting Ships'' and ''Ballistic Missile Proliferation.'' Now comes...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/04/14/education/blackboard-security-defense-tools-for-the-new-front.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "creative_works", 
+      "value": "JANE'S SCHOOL SAFETY HANDBOOK (BOOK)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOMBS AND EXPLOSIVES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "EDUCATION AND SCHOOLS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "THREATS AND THREATENING MESSAGES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BOOKS AND LITERATURE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Stephanie", 
+        "lastname": "GUTMANN"
+      }
+    ], 
+    "original": "By STEPHANIE GUTMANN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-04-14T00:00:00Z", 
+  "section_name": "Education; U.S.; Books"
+}

@@ -1,0 +1,51 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The company moved to change its security measures after it mistakenly gathered data from unsecured networks.", 
+  "headline": {
+    "seo": "Google Toughens Its Privacy Controls", 
+    "main": "Google Toughens Privacy Controls", 
+    "print_headline": "Google Toughens Privacy Controls"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "179", 
+  "_id": "541bf94c38f0d8296cb105be", 
+  "snippet": "The company moved to change its security measures after it mistakenly gathered data from unsecured networks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/10/23/technology/23google.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Google Inc", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Bloomberg", 
+        "rank": 1, 
+        "lastname": "NEWS"
+      }
+    ], 
+    "original": "By BLOOMBERG NEWS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-10-23T00:00:00Z", 
+  "section_name": "Technology"
+}

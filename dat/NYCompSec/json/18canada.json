@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Hackers compromised computers in two Canadian government departments in early January, cutting access to the Internet for weeks.", 
+  "headline": {
+    "seo": "Canada Hit by Cyberattack From Computers in China", 
+    "main": "Canada Hit by Cyberattack", 
+    "print_headline": "Hackers Struck Computers In Canadian Government"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "823", 
+  "_id": "540ae88e38f0d84fb88342c5", 
+  "snippet": "Hackers compromised computers in two Canadian government departments in early January, cutting access to the Internet for weeks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/02/18/world/americas/18canada.html", 
+  "multimedia": [], 
+  "subsection_name": "Americas", 
+  "keywords": [
+    {
+      "value": "Hackers (Computers)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Canada", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ian", 
+        "lastname": "AUSTEN"
+      }
+    ], 
+    "original": "By IAN AUSTEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-02-18T00:00:00Z", 
+  "section_name": "World"
+}

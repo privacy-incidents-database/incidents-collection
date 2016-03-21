@@ -1,0 +1,75 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Security companies are poised to sell products to protect phones, just as Symantec and McAfee sell products for PCs.", 
+  "headline": {
+    "seo": "As Phones Do More, They Become Targets of Hacking", 
+    "main": "As Phones Do More, They Become Targets of Hacking", 
+    "print_headline": "As Phones Do More, They Become Targets of Mischief"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "836", 
+  "_id": "545aba8638f0d842c59d1932", 
+  "snippet": "Security companies are poised to sell products to protect phones, just as Symantec and McAfee sell products for PCs.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/12/21/technology/21cell.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2009/12/21/business/21cell_CA0/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/12/21/business/21cell_CA0/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Smartphones", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Computer Malware", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Brad", 
+        "rank": 1, 
+        "lastname": "STONE"
+      }
+    ], 
+    "original": "By BRAD STONE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-12-21T00:00:00Z", 
+  "section_name": "Technology"
+}

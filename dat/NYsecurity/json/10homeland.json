@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The change is part of a shift to put the Department of Homeland Security in charge of the terrorist watch-list screening for all commercial flights, foreign and domestic.", 
+  "headline": {
+    "main": "Earlier Terrorist Screening to Begin for Flights Into U.S.", 
+    "print_headline": "Earlier Terrorist Screening To Begin for Flights Into U.S."
+  }, 
+  "abstract": null, 
+  "print_page": "12", 
+  "word_count": "427", 
+  "_id": "54841f7438f0d80df4fa4a51", 
+  "snippet": "The change is part of a shift to put the Department of Homeland Security in charge of the terrorist watch-list screening for all commercial flights, foreign and domestic.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/08/10/us/nationalspecial3/10homeland.html", 
+  "multimedia": [], 
+  "subsection_name": "U.S.", 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-08-10T00:00:00Z", 
+  "section_name": "U.S."
+}

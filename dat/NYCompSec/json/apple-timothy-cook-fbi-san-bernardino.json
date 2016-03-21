@@ -1,0 +1,142 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Timothy D. Cook, Apple\u2019s chief, said the government\u2019s request to bypass security on the phone used by Syed Rizwan Farook had \u201cchilling\u201d implications.", 
+  "headline": {
+    "main": "Apple Fights Order to Unlock San Bernardino Gunman\u2019s iPhone", 
+    "print_headline": "As Apple Resists, Encryption Fray Erupts in Battle   "
+  }, 
+  "abstract": "Order by federal magistrate judge commanding Apple to unlock iPhone used by attacker in San Bernardino, Calif, shooting has set off intense public battle between Obama administration and company, which could have wide-ranging legal implications over balance between national security and privacy; Apple chief executive Tim Cook has publicly bristled at order, and sends letter to all company's customers warning of government's actions.", 
+  "print_page": "1", 
+  "word_count": "1368", 
+  "_id": "56c4466438f0d82fc3a19b8b", 
+  "snippet": "Timothy D. Cook, Apple\u2019s chief, said the government\u2019s request to bypass security on the phone used by Syed Rizwan Farook had \u201cchilling\u201d implications.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-articleLarge.jpg", 
+      "height": 398, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-articleLarge.jpg", 
+        "xlargeheight": "398"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/18/world/18Appleletter-web/18Appleletter-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cook, Timothy D", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Farook, Syed Rizwan", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Eric Lichtblau reported from Washington, and Katie Benner from San Francisco. Matt Apuzzo contributed reporting from Washington, Sewell Chan from London, and Paul Mozur from Hong Kong.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }
+    ], 
+    "original": "By ERIC LICHTBLAU and KATIE BENNER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-18T00:00:00Z", 
+  "section_name": "Technology"
+}

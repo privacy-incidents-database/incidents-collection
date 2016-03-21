@@ -1,0 +1,149 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "An operating system update with enhanced encryption technology in late 2014 set the stage to put Apple increasingly at odds with prosecutors seeking to unlock iPhones.", 
+  "headline": {
+    "main": "Apple\u2019s Line in the Sand Was Over a Year in the Making", 
+    "print_headline": "Line in the Sand Over iPhones Was Over a Year in the Making"
+  }, 
+  "abstract": "Apple and Justice Dept had been at loggerheads for more than a year over law enforcement issues related to unlocking iPhones since introduction of Apple's new encryption technology in 2014; Apple first resisted demands in fall 2015 during routine drug case.", 
+  "print_page": "1", 
+  "word_count": "1580", 
+  "_id": "56c6764238f0d809a189bd0c", 
+  "snippet": "An operating system update with enhanced encryption technology in late 2014 set the stage to put Apple increasingly at odds with prosecutors seeking to unlock iPhones.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/19/technology/a-yearlong-road-to-a-standoff-with-the-fbi.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/19/business/19lawenforcement1/19lawenforcement1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/19/business/19lawenforcement1/19lawenforcement1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/19/business/19lawenforcement1/19lawenforcement1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/19/business/19lawenforcement1/19lawenforcement1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/19/business/19lawenforcement1/19lawenforcement1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/19/business/19lawenforcement1/19lawenforcement1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Smartphones", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cook, Timothy D", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "Matt Apuzzo and Eric Lichtblau reported from Washington, and Joseph Goldstein from New York. Al Baker contributed reporting from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Matt", 
+        "lastname": "APUZZO"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Joseph", 
+        "lastname": "GOLDSTEIN"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 3, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }
+    ], 
+    "original": "By MATT APUZZO, JOSEPH GOLDSTEIN and ERIC LICHTBLAU"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-19T00:00:00Z", 
+  "section_name": "Technology"
+}

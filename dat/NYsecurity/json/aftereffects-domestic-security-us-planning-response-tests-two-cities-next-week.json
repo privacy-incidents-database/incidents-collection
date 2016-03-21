@@ -1,0 +1,69 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "The cities of Chicago and Seattle will be the focus of a $16 million exercise next week to test how well the federal government would deal with simultaneous attacks by terrorists using biological and radiological weapons, the Bush administration said today. The exercise, said to be the largest domestic security drill ever carried out by the federal government, will be played out over five days starting on Monday and involve dozens of federal, state and local emergency-response agencies.", 
+  "headline": {
+    "main": "U.S. Planning Response Tests In Two Cities Next Week", 
+    "kicker": "AFTEREFFECTS: DOMESTIC SECURITY"
+  }, 
+  "abstract": "Bush administration says cities of Chicago and Seattle will be focus of $16 million exercise next week to test how well federal government would deal with simultaneous attacks by terrorists using biological and radiological weapons; exercise is said to be largest domestic security drill ever carried out by federal government; it will be played out over five days starting May 12 and involve dozens of federal, state and local emergency-response agencies; photo (M)", 
+  "print_page": "21", 
+  "word_count": 402, 
+  "_id": "4fd23fcf8eb7c8105d7d74e2", 
+  "snippet": "The cities of Chicago and Seattle will be the focus of a $16 million exercise next week to test how well the federal government would deal with simultaneous attacks by terrorists using biological and radiological weapons, the Bush administration said...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/05/06/world/aftereffects-domestic-security-us-planning-response-tests-two-cities-next-week.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "SEATTLE (WASH)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "CHICAGO (ILL)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOLOGICAL AND CHEMICAL WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "STATES (US)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TESTS AND TESTING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Philip", 
+        "lastname": "SHENON"
+      }
+    ], 
+    "original": "By PHILIP SHENON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-05-06T00:00:00Z", 
+  "section_name": "World"
+}

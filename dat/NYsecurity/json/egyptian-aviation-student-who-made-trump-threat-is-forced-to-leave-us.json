@@ -1,0 +1,122 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Emadeldin Elsayed\u2019s comments on Donald J. Trump\u2019s idea to bar Muslims from the United States stirred debate about what is a threat or \u201cmouthing off.\u201d", 
+  "headline": {
+    "main": "Egyptian Aviation Student Who Made Trump Threat Is Leaving U.S.", 
+    "print_headline": "Egyptian Who Threatened Trump Will Leave U.S."
+  }, 
+  "abstract": "Emadeldin Elsayed, Egyptian aviation student in California who threatened Donald Trump on Facebook, agrees to voluntarily relinquish student visa and return to Cairo.", 
+  "print_page": "17", 
+  "word_count": "790", 
+  "_id": "56dde4c938f0d81077244416", 
+  "snippet": "Emadeldin Elsayed\u2019s comments on Donald J. Trump\u2019s idea to bar Muslims from the United States stirred debate about what is a threat or \u201cmouthing off.\u201d", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/08/us/egyptian-aviation-student-who-made-trump-threat-is-forced-to-leave-us.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/05/us/05xp-elsayed-web/05xp-elsayed-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/05/us/05xp-elsayed-web/05xp-elsayed-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/05/us/05xp-elsayed-web/05xp-elsayed-web-articleLarge.jpg", 
+      "height": 490, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/05/us/05xp-elsayed-web/05xp-elsayed-web-articleLarge.jpg", 
+        "xlargeheight": "490"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/05/us/05xp-elsayed-web/05xp-elsayed-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/05/us/05xp-elsayed-web/05xp-elsayed-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Elsayed, Emadeldin", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Threats and Threatening Messages", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Trump, Donald J", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Foreign Students (in US)", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Egypt", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Presidential Election of 2016", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Visas", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Liam", 
+        "lastname": "STACK"
+      }
+    ], 
+    "original": "By LIAM STACK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-08T00:00:00Z", 
+  "section_name": "U.S."
+}

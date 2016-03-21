@@ -1,0 +1,36 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "New York City scaled back its extensive security around the United Nations on Monday, lifting a ban on car and truck traffic that had been in place since Sept. 11 along part of First Avenue. A similar scaling back of checkpoints is occurring at other locations, where, nearly four months after the terrorist attacks, security provisions have been re-evaluated in Police Commissioner Raymond W. Kelly's effort to raise the number of officers assigned to fighting crime.", 
+  "headline": {
+    "main": "Traffic Ban Around the United Nations Is Lifted", 
+    "kicker": "A NATION CHALLENGED: SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "12", 
+  "word_count": 334, 
+  "_id": "4fd2298d8eb7c8105d7b3550", 
+  "snippet": "New York City scaled back its extensive security around the United Nations on Monday, lifting a ban on car and truck traffic that had been in place since Sept. 11 along part of First Avenue.     A similar scaling back of checkpoints is occurring at...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/01/09/us/a-nation-challenged-security-traffic-ban-around-the-united-nations-is-lifted.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Al", 
+        "lastname": "BAKER"
+      }
+    ], 
+    "original": "By AL BAKER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-01-09T00:00:00Z", 
+  "section_name": "U.S."
+}

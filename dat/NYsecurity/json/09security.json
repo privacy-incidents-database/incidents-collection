@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Mayor Michael Bloomberg says that New York City stands to lose access to a $1 billion pool of federal money to finance improved communications because its system does not meet federal guidelines.", 
+  "headline": {
+    "main": "Mayor Says City Risks Losing Grants for Security", 
+    "print_headline": "Mayor Says City Risks Losing Grants For Security"
+  }, 
+  "abstract": null, 
+  "print_page": "3", 
+  "word_count": "439", 
+  "_id": "548d8dfd38f0d80cddfa0c47", 
+  "snippet": "Mayor Michael Bloomberg says that New York City stands to lose access to a $1 billion pool of federal money to finance improved communications because its system does not meet federal guidelines.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/01/09/nyregion/09security.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "New York City", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Bloomberg, Michael R", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Diane", 
+        "lastname": "CARDWELL"
+      }
+    ], 
+    "original": "By DIANE CARDWELL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-01-09T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

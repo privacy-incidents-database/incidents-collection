@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Retirement", 
+  "lead_paragraph": "POLITICIANS are touring the country, voters are assembling at town hall meetings and interest groups are raising money to flood the airwaves with commercials. What feels like an election is actually the increasing momentum of the Social Security battle, a campaign-style clash that is spreading nationwide as Republicans and Democrats argue how or whether to overhaul the system.", 
+  "headline": {
+    "main": "Groups That Clashed in the Campaign Are Facing Off Again", 
+    "kicker": "SOCIAL SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "11", 
+  "word_count": 1386, 
+  "_id": "4fd24abc8eb7c8105d7e8cf8", 
+  "snippet": "What feels like an election is actually the increasing momentum of the Social Security battle, a campaign-style clash that is spreading nationwide.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/04/12/business/retirement/12justice.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "DEMOCRATIC PARTY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "REPUBLICAN PARTY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SOCIAL SECURITY (US)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PENSIONS AND RETIREMENT PLANS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LOBBYING AND LOBBYISTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "RETIREMENT"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Glen", 
+        "rank": 1, 
+        "lastname": "JUSTICE"
+      }
+    ], 
+    "original": "By GLEN JUSTICE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-04-12T00:00:00Z", 
+  "section_name": "Job Market"
+}

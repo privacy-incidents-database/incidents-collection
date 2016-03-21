@@ -1,0 +1,68 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Thoughts of cellphone security often dwell on the danger that hackers pose, but the far more likely threat comes from a phone that is simply lost or stolen.", 
+  "headline": {
+    "main": "App of the Week: Standing Guard Over a Lost Phone", 
+    "print_headline": "App of the Week: Standing Guard Over a Lost Phone"
+  }, 
+  "abstract": null, 
+  "print_page": "12", 
+  "word_count": "182", 
+  "_id": "5424c03138f0d8525e453cf4", 
+  "snippet": "Thoughts of cellphone security often dwell on the danger that hackers pose, but the far more likely threat comes from a phone that is simply lost or stolen.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/14/technology/personaltech/14app.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/01/13/technology/personaltech/gadget-wavesecure/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/01/13/technology/personaltech/gadget-wavesecure/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Personal Tech", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Photography", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Nokia Oyj", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Roy", 
+        "rank": 1, 
+        "lastname": "FURCHGOTT"
+      }
+    ], 
+    "original": "By ROY FURCHGOTT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-14T00:00:00Z", 
+  "section_name": "Technology"
+}

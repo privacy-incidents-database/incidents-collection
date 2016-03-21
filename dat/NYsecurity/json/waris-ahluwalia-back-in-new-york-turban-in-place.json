@@ -1,0 +1,110 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Styles", 
+  "lead_paragraph": "The actor\u2019s run-in with an airline in Mexico made him a kind of conquering hero when he finally made it to N.Y.F.W.", 
+  "headline": {
+    "main": "Waris Ahluwalia, Back in New York, Turban in Place", 
+    "print_headline": "His Fashion Week, Interrupted"
+  }, 
+  "abstract": "Waris Ahluwalia, Indian-born New York City resident who frequently attends fashion events in dark suit paired with turban, posts Instagram photo of himself delayed by Aerormexico in Mexico City International Airport due to refusal to remove turban for screening; post draws attention to discrimination faced by those who wear head wraps.", 
+  "print_page": "11", 
+  "word_count": "874", 
+  "_id": "56cb7c5438f0d80fb3eb2290", 
+  "snippet": "The actor\u2019s run-in with an airline in Mexico made him a kind of conquering hero when he finally made it to N.Y.F.W.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/25/fashion/waris-ahluwalia-back-in-new-york-turban-in-place.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/25/fashion/25WARIS-WEB1/25WARIS-WEB1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/25/fashion/25WARIS-WEB1/25WARIS-WEB1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/25/fashion/25WARIS-WEB1/25WARIS-WEB1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/25/fashion/25WARIS-WEB1/25WARIS-WEB1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/25/fashion/25WARIS-WEB1/25WARIS-WEB1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/25/fashion/25WARIS-WEB1/25WARIS-WEB1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Ahluwalia, Waris", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Turbans", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Discrimination", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Aeromexico", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airport Security", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Instagram Inc", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jacob", 
+        "lastname": "BERNSTEIN"
+      }
+    ], 
+    "original": "By JACOB BERNSTEIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-25T00:00:00Z", 
+  "section_name": "Fashion & Style"
+}

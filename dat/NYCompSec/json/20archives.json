@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The computer hard drive lost in an apparent security breach at a National Archives record center contained personal information from Bill Clinton\u2019s presidency.", 
+  "headline": {
+    "main": "Investigation Into Huge Loss of Computerized Clinton Data", 
+    "print_headline": "Investigation Into Huge Loss of Computerized Clinton Data"
+  }, 
+  "abstract": null, 
+  "print_page": "22", 
+  "word_count": "440", 
+  "_id": "546acc1f38f0d84ca2c5cc66", 
+  "snippet": "The computer hard drive lost in an apparent security breach at a National Archives record center contained personal information from Bill Clinton\u2019s presidency.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/05/20/us/20archives.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "National Archives and Records Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Clinton, Bill", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Archives and Records", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "David", 
+        "rank": 1, 
+        "lastname": "JOHNSTON"
+      }
+    ], 
+    "original": "By DAVID JOHNSTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-05-20T00:00:00Z", 
+  "section_name": "U.S."
+}

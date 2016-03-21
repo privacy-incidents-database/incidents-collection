@@ -1,0 +1,106 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Chicago\u2019s latest crime-fighting tool beams images from surveillance cameras onto the computer screens of 911 dispatchers.", 
+  "headline": {
+    "main": "Chicago Links Street Cameras to Its 911 Network", 
+    "sub": "A Public Safety Tool Also Raises Some Concerns About Privacy ;", 
+    "print_headline": "Chicago Links Street Cameras to Its 911 Network"
+  }, 
+  "abstract": null, 
+  "print_page": "10", 
+  "word_count": "530", 
+  "_id": "54714ffe38f0d847c5e42a9b", 
+  "snippet": "Chicago\u2019s latest crime-fighting tool beams images from surveillance cameras onto the computer screens of 911 dispatchers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/02/21/us/21cameras.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2009/02/21/us/21camera.xlarge1.jpg", 
+      "height": 360, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2009/02/21/us/21camera.xlarge1.jpg", 
+        "xlargeheight": "360"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2009/02/21/us/21camera.751.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/02/21/us/21camera.751.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Cameras", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Chicago (Ill)", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Nine-One-One (911) (Emergency Phone Number)", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Police", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Karen", 
+        "middlename": "Ann", 
+        "lastname": "CULLOTTA", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By KAREN ANN CULLOTTA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-02-21T00:00:00Z", 
+  "section_name": "U.S."
+}

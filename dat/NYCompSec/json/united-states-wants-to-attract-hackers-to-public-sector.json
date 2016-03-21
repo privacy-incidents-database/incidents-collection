@@ -1,0 +1,106 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Taking a page from China, the United States is scouring high schools for hackers, finding recruits with contests that aim to get them excited about cyberdefense.", 
+  "headline": {
+    "seo": "United States Wants to Attract Hackers to Public Sector", 
+    "main": "Luring Young Web Warriors Is Priority. It\u2019s Also a Game.", 
+    "print_headline": "Luring Young Web Warriors Is a U.S. Priority. It\u2019s Also a Game."
+  }, 
+  "abstract": "United States, taking a page from China, is scouring high schools for hackers, identifying recruits with contests that aim to get students excited about cyberdefense; Homeland Security Department estimates it needs 600 hackers, but potential recruits with the right skills have too often been heading for business; those who choose government work often go to the National Security Agency.", 
+  "print_page": "1", 
+  "word_count": "1129", 
+  "_id": "514fb790fdc5926e77002117", 
+  "snippet": "Taking a page from China, the United States is scouring high schools for hackers, finding recruits with contests that aim to get them excited about cyberdefense.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/03/25/technology/united-states-wants-to-attract-hackers-to-public-sector.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/03/25/business/25hackers/25hackers-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/03/25/business/25hackers/25hackers-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/03/25/business/25hackers/25hackers-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/03/25/business/25hackers/25hackers-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2013/03/25/business/25hackers/25hackers-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2013/03/25/business/25hackers/25hackers-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Education (Secondary)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Contests and Prizes", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-03-25T00:00:00Z", 
+  "section_name": "Technology"
+}

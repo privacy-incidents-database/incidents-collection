@@ -1,0 +1,80 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "The Bush administration called on the nation's governors tonight to deploy National Guard troops or state police to protect government buildings, bridges, memorials, reservoirs and other public sites that could be the target of terrorist attacks linked to an American invasion of Iraq. The administration made the request to state governments as it raised the color-coded national terrorism alert level to orange, or ''high risk,'' from yellow, or ''elevated risk,'' in anticipation of an American strike on Iraq later this week.", 
+  "headline": {
+    "main": "Government Raises Alert Level And Asks States for Assistance", 
+    "kicker": "THREATS AND RESPONSES: SECURITY"
+  }, 
+  "abstract": "Bush administration calls on nation's governors to deploy National Guard troops or state police to protect government buildings, bridges, memorials, reservoirs and other public sites that could be target of terrorist attacks linked to American invasion of Iraq; color-coded national terrorism alert level is raised to orange, or 'high risk,' from yellow, or 'elevated risk' in anticipation of American strike on Iraq later this week (M)", 
+  "print_page": "18", 
+  "word_count": 504, 
+  "_id": "4fd226768eb7c8105d7ae707", 
+  "snippet": "The Bush administration called on the nation's governors tonight to deploy National Guard troops or state police to protect government buildings, bridges, memorials, reservoirs and other public sites that could be the target of terrorist attacks...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/03/18/us/threats-responses-security-government-raises-alert-level-asks-states-for.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "NATIONAL GUARD"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ATOMIC WEAPONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOLOGICAL AND CHEMICAL WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Philip", 
+        "lastname": "SHENON"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Jodi", 
+        "lastname": "WILGOREN"
+      }
+    ], 
+    "original": "By PHILIP SHENON with JODI WILGOREN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-03-18T00:00:00Z", 
+  "section_name": "U.S.; Washington"
+}

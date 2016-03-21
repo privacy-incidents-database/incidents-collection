@@ -1,0 +1,105 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Symantec, the digital security company, has accepted $500 million from Silver Lake Partners, and plans share buybacks and a special dividend.", 
+  "headline": {
+    "main": "Symantec Takes Investment and Will Return Cash to Investors", 
+    "print_headline": "Symantec Takes a $500 Million Investment and Will Return Cash to Stockholders"
+  }, 
+  "abstract": "Symantec takes $500 million investment from Silver Lake Partners and will return cash to stockholders; is focusing on its security software and services.", 
+  "print_page": "4", 
+  "word_count": "590", 
+  "_id": "56b3c1e138f0d84a7b070433", 
+  "snippet": "Symantec, the digital security company, has accepted $500 million from Silver Lake Partners, and plans share buybacks and a special dividend.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/05/business/dealbook/symantec-takes-investment-and-will-return-cash-to-investors.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/05/business/db-symantec-web1/db-symantec-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/05/business/db-symantec-web1/db-symantec-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/05/business/db-symantec-web1/db-symantec-web1-articleLarge.jpg", 
+      "height": 392, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/05/business/db-symantec-web1/db-symantec-web1-articleLarge.jpg", 
+        "xlargeheight": "392"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/05/business/db-symantec-web1/db-symantec-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/05/business/db-symantec-web1/db-symantec-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Symantec Corporation", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Silver Lake Partners", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Private Equity", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Mergers, Acquisitions and Divestitures", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Michael", 
+        "middlename": "J.", 
+        "lastname": "de la MERCED", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MICHAEL J. de la MERCED"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-05T00:00:00Z", 
+  "section_name": "Business Day"
+}

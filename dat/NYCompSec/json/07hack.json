@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "RSA Security is working with military companies to replace their SecurID tokens \u201con an accelerated timetable,\u201d the company\u2019s executive chairman said.", 
+  "headline": {
+    "seo": "RSA Security Offers to Replace Most SecurID Tokens", 
+    "main": "Security Firm Offers to Replace Tokens After Attack", 
+    "print_headline": "Security Firm Offers to Replace Tokens After Attack"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "233", 
+  "_id": "540e7bae38f0d863ce5a4e27", 
+  "snippet": "RSA Security is working with military companies to replace their SecurID tokens \u201con an accelerated timetable,\u201d the company\u2019s executive chairman said.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/07/technology/07hack.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "RSA, The Security Division of EMC Corporation", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Christopher", 
+        "lastname": "DREW"
+      }
+    ], 
+    "original": "By CHRISTOPHER DREW"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-07T00:00:00Z", 
+  "section_name": "Technology"
+}

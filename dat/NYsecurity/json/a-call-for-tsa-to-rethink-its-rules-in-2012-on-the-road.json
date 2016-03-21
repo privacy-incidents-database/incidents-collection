@@ -1,0 +1,78 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "With the new year, the T.S.A. has a chance to adopt \u201cintelligence-driven, risk-based\u201d rules and expand the known-traveler program.", 
+  "headline": {
+    "seo": "A Call for T.S.A. to Rethink Its Rules in 2012 - On the Road", 
+    "main": "Carry On a Christmas Pie, Not a Merry Snow Globe", 
+    "kicker": "On the Road", 
+    "print_headline": "Carry On a Christmas Pie, Not a Merry Snow Globe", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": "Joe Sharkey On The Road column reviews current procedures for getting through airport security; calls on Transportation Security Administration to rethink its rules on restricted items and trusted travelers.", 
+  "print_page": "6", 
+  "word_count": "798", 
+  "_id": "5403a93038f0d80e250f41db", 
+  "snippet": "With the new year, the T.S.A. has a chance to adopt \u201cintelligence-driven, risk-based\u201d rules and expand the known-traveler program.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/11/29/business/a-call-for-tsa-to-rethink-its-rules-in-2012-on-the-road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/11/29/business/Road/Road-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/11/29/business/Road/Road-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airport Security", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-11-29T00:00:00Z", 
+  "section_name": "Business Day"
+}

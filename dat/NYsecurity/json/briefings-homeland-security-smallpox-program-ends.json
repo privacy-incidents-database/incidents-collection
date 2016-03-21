@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "New Jersey Weekly Desk", 
+  "lead_paragraph": "The state has suspended plans to vaccinate additional safety and health officials against smallpox. ''We feel we have sufficient personnel vaccinated to satisfy our preparedness plan in New Jersey,'' Dr. Clifton R. Lacy, commissioner of the state Department of Health and Senior Services, said last week. Last winter, 671 doctors, nurses, emergency medical technicians, firefighters and police officers received the vaccine, far fewer than the 1,000 who signed up for the voluntary program. The vaccination carries some risk of side effects, Dr. Lacy said. As people who have been vaccinated retire or leave the area, he said, others will be vaccinated to keep the number sufficient in the event of a terrorist smallpox attack. Debra Nussbaum", 
+  "headline": {
+    "main": "SMALLPOX PROGRAM ENDS", 
+    "kicker": "BRIEFINGS: HOMELAND SECURITY"
+  }, 
+  "abstract": "New Jersey Health and Senior Services Comr Clifton Lacy announces suspension of plans to vaccinate additional safety and health officials against smallpox in event of terrorist smallpox attack; 671 doctors, nurses, emergency medical technicians, firefighters and police officers have received vaccine (S)", 
+  "print_page": "5", 
+  "word_count": 119, 
+  "_id": "4fd246718eb7c8105d7e1536", 
+  "snippet": "The state has suspended plans to vaccinate additional safety and health officials against smallpox. ''We feel we have sufficient personnel vaccinated to satisfy our preparedness plan in New Jersey,'' Dr. Clifton R. Lacy, commissioner of the state...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/08/24/nyregion/briefings-homeland-security-smallpox-program-ends.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "LACY, CLIFTON"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW JERSEY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "VACCINATION AND IMMUNIZATION"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SMALLPOX"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Debra", 
+        "lastname": "Nussbaum"
+      }
+    ], 
+    "original": "By Debra Nussbaum"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-08-24T00:00:00Z", 
+  "section_name": "New York and Region"
+}

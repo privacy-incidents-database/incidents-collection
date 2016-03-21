@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "New Jersey Weekly Desk", 
+  "lead_paragraph": "State Public Safety and Health officials met with scientists from Rutgers University and the University of Medicine and Dentistry of New Jersey last week to begin developing a plan for guidelines to protect the security of shipments of anthrax and other biohazardous research materials across the state. Citing the need to protect those shipments from becoming the target of a terrorist attack, the state health commissioner, Clifton Lacy, said police escorts could be among the committee's recommendations, expected to be released by Oct. 1. Jo Piazza", 
+  "headline": {
+    "main": "BIOHAZARD MATERIAL", 
+    "kicker": "BRIEFING: SECURITY"
+  }, 
+  "abstract": "New Jersey Public Safety and Health officials, citing possibility of terrorist attacks, meet with scientists from Rutgers and University of Medicine and Dentistry of New Jersey to begin developing plan for guidelines to protect shipments of anthrax and other biohazardous research materials across state (S)", 
+  "print_page": "5", 
+  "word_count": 88, 
+  "_id": "4fd2389f8eb7c8105d7cbd7c", 
+  "snippet": "State Public Safety and Health officials met with scientists from Rutgers University and the University of Medicine and Dentistry of New Jersey last week to begin developing a plan for guidelines to protect the security of shipments of anthrax and...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/08/11/nyregion/briefing-security-biohazard-material.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW JERSEY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "RUTGERS, THE STATE UNIVERSITY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "UNIVERSITY OF MEDICINE AND DENTISTRY OF NEW JERSEY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOLOGICAL AND CHEMICAL WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ANTHRAX"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jo", 
+        "lastname": "Piazza"
+      }
+    ], 
+    "original": "By Jo Piazza"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-08-11T00:00:00Z", 
+  "section_name": "New York and Region"
+}

@@ -1,0 +1,101 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The Pentagon\u2019s latest comprehensive assessment of security in Iraq pointed to sectarian violence and a \u201cpotent\u201d insurgency.", 
+  "headline": {
+    "main": "Iraqi Casualties Are Up Sharply, Study Finds", 
+    "sub": "Pentagon Report Points to Sectarian Violence and \u2018Potent\u2019 Insurgency ;", 
+    "print_headline": "IRAQI CASUALTIES ARE UP SHARPLY, U.S. STUDY FINDS", 
+    "content_kicker": "Security"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "999", 
+  "_id": "54b15afc38f0d87f811465e4", 
+  "snippet": "The Pentagon\u2019s latest comprehensive assessment of security in Iraq pointed to sectarian violence and a \u201cpotent\u201d insurgency.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/09/02/world/middleeast/02military.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2006/09/02/world/20060902_MILITARY_GRAPHIC.1.gif", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2006/09/02/world/20060902_MILITARY_GRAPHIC.1.gif", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/09/01/world/02military600.jpg", 
+      "height": 300, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/09/01/world/02military600.jpg", 
+        "xlargeheight": "300"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/09/01/world/02military75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/09/01/world/02military75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Iraq", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Defense Department", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Civil War and Guerrilla Warfare", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Armament and Defense", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Michael", 
+        "middlename": "R.", 
+        "lastname": "GORDON", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By MICHAEL R. GORDON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-09-02T00:00:00Z", 
+  "section_name": "World"
+}

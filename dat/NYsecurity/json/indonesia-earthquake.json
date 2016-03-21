@@ -1,0 +1,116 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The country relied on other nations\u2019 systems because its own sea-based buoys had not been operable since last year.", 
+  "headline": {
+    "main": "Indonesia\u2019s Tsunami Sensors Were Down During Quake", 
+    "print_headline": "Indonesia&#8217;s Tsunami Sensors Were Down During Quake "
+  }, 
+  "abstract": "Failure of Indonesia's tsunami detection system forces it to depend on other countries' technology for information on potential danger after major earthquake near Sumatra; officials say they cannot afford to maintain array of buoys which have fallen into disrepair.", 
+  "print_page": "6", 
+  "word_count": "434", 
+  "_id": "56d857d038f0d8655e09bde7", 
+  "snippet": "The country relied on other nations\u2019 systems because its own sea-based buoys had not been operable since last year.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/04/world/asia/indonesia-earthquake.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/04/world/04Indonesia-web/04Indonesia-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/04/world/04Indonesia-web/04Indonesia-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/04/world/04Indonesia-web/04Indonesia-web-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/04/world/04Indonesia-web/04Indonesia-web-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/04/world/04Indonesia-web/04Indonesia-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/04/world/04Indonesia-web/04Indonesia-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "Indonesia", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Sumatra (Indonesia)", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Earthquakes", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Tidal Waves and Tsunamis", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "National Oceanic and Atmospheric Administration", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Indian Ocean", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "COCHRANE"
+      }
+    ], 
+    "original": "By JOE COCHRANE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-04T00:00:00Z", 
+  "section_name": "World"
+}

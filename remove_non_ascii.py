@@ -1,4 +1,4 @@
-import os 
+import os,sys
 def remove_non_ascii(s):
     import string
     printable = set(string.printable)
@@ -12,5 +12,6 @@ def traverse(src):
             text = remove_non_ascii(text)
             fout = open(src+'/'+filename,'w')
             fout.write(text)
-traverse("dat/content")
-traverse("dat/NYnegative")
+
+if __name__ == '__main__':
+    traverse("dat/"+sys.argv[1])

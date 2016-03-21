@@ -1,0 +1,632 @@
+
+  
+
+
+
+
+Data for 1.3 Million Customers Stolen in Latest Game Maker Attack - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Technology|Data for 1.3 Million Customers Stolen in Latest Game Maker Attack
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Technology 
+Data for 1.3 Million Customers Stolen in Latest Game Maker Attack
+
+By REUTERSJUNE 19, 2011
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+TOKYO — The Japanese video game developer Sega said Sunday that information belonging to 1.3 million customers had been stolen from its database, the latest global hacker attack against a video game company.Names, birth dates, e-mail addresses and encrypted passwords of Sega Pass online network members had been compromised, Sega said in a statement, though payment data like credit card numbers were safe. Sega Pass has been shut down since late last week.“We are deeply sorry for causing trouble to our customers. We want to work on strengthening security,” said Yoko Nagasawa, a Sega spokeswoman, adding that it was unclear when the company would restart Sega Pass.The attack against Sega, a division of Sega Sammy Holdings that makes game software like Sonic the Hedgehog as well as slot machines, follows other recent significant breaches. Targets have included Citigroup, which said more than 360,000 accounts were hit in May, and the International Monetary Fund.The drama surrounding the recent round of video game breaches paled in comparison with what Sony, the maker of the PlayStation, experienced after two high-profile attacks that surfaced in April.
+
+Advertisement
+
+Continue reading the main story
+
+Those breaches led to the theft of account data for more than 100 million customers, making it the largest ever hacking of data outside the financial services industry.They also exposed what turned out to be a large number of security holes in sites throughout the global Sony media empire.That led to attacks on Sony systems that undermined confidence in the company and made it the source of frequent jokes by security experts.Sega Europe, a division of Sega that runs the Sega Pass network, immediately notified Sega and the network customers after it found out about the breach Thursday, Ms. Nagasawa said.Sega was one of the biggest video game consoles makers in the 1990s but pulled out of the market in 2001 in response to disappointing sales of its Dreamcast system, which began sales  in 1998 to widespread industry praise. Dreamcast lost ground to newer products developed by Sony and Nintendo.It now focuses on developing video games for systems made by other companies.While the F.B.I. is likely to be called in to investigate the attack on Sega, as the U.S. government agency typically is in such cases, its agents may find themselves competing for clues with members of the Lulz Security hacking group.Lulz, a group of hackers that has been behind the cyber attacks against other video game companies including Nintendo, unexpectedly offered to track down and punish the hackers who broke into Sega’s database.In its offer to assist Sega, a Twitter post from Lulz hinted that its leaders might count themselves among a small but highly loyal group of game players who still play on the aging Dreamcast console.“Sega — contact us,” Lulz said. “We want to help you destroy the hackers that attacked you. We love the Dreamcast, these people are going down.”
+
+A version of this article appears in print on June 20, 2011, in The International Herald Tribune.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

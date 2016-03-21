@@ -1,0 +1,100 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Fred Kaplan tackles a subject that, as the current controversy over Apple\u2019s standoff with the Justice Department confirms, attracts fierce partisans.", 
+  "headline": {
+    "main": "Review: \u2018Dark Territory\u2019 Illuminates Cybersecurity\u2019s Shadows", 
+    "kicker": "Book Entry", 
+    "content_kicker": "Book Entry"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "906", 
+  "_id": "56d4931538f0d811294b80b5", 
+  "snippet": "Fred Kaplan tackles a subject that, as the current controversy over Apple\u2019s standoff with the Justice Department confirms, attracts fierce partisans.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/01/business/dealbook/book-review-dark-territory-illuminates-cybersecuritys-shadows.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/01/business/db-bookentry1/db-bookentry1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/01/business/db-bookentry1/db-bookentry1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/01/business/db-bookentry2/db-bookentry2-articleLarge.jpg", 
+      "height": 428, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/01/business/db-bookentry2/db-bookentry2-articleLarge.jpg", 
+        "xlargeheight": "428"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/01/business/db-bookentry1/db-bookentry1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/01/business/db-bookentry1/db-bookentry1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "DealBook", 
+  "keywords": [
+    {
+      "value": "Dark Territory: The Secret History of Cyber War (Book)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "creative_works"
+    }, 
+    {
+      "value": "Cyberwarfare and Defense", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "National Security Agency", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Jonathan", 
+        "middlename": "A.", 
+        "lastname": "KNEE", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By JONATHAN A. KNEE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-01T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Iraqis have become suspicious and fearful of men dressed as those who are supposed to protect and serve.", 
+  "headline": {
+    "main": "In Iraq, It\u2019s Hard to Trust Anyone in Uniform", 
+    "print_headline": "For Iraqis, a New Rule of Life: Don\u2019t Trust Anyone in Uniform", 
+    "content_kicker": "Security"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1400", 
+  "_id": "54b08f1b38f0d8367c841dc0", 
+  "snippet": "Iraqis have become suspicious and fearful of men dressed as those who are supposed to protect and serve.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/03/world/middleeast/03uniforms.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/08/03/world/600-uniforms.jpg", 
+      "height": 290, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/08/03/world/600-uniforms.jpg", 
+        "xlargeheight": "290"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/08/03/world/75-uniforms.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/08/03/world/75-uniforms.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Iraq", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Police", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Kidnapping", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hostages", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Shiite Muslims", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sunni Muslims", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Damien", 
+        "lastname": "CAVE"
+      }
+    ], 
+    "original": "By DAMIEN CAVE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-03T00:00:00Z", 
+  "section_name": "World"
+}

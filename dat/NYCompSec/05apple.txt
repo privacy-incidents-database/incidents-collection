@@ -1,0 +1,14 @@
+German Agency Warns of Flaws in Apples Mobile Software - The New York Times
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Technology|German Agency Finds Flaws in Apples Mobile Software
+German Agency Finds Flaws in Apples Mobile Software
+BERLIN  A German government agency warned citizens on Wednesday about two software vulnerabilities in Apples mobile operating system, iOS, which it said could be exploited to infect the companys best-selling iPhone, iPad and iPod devices.The agency, the German Federal Office for Information Security, said its technical experts had confirmed the vulnerabilities in several versions of iOS, which could be exposed when Apple users visited infected Web sites or opened infected PDF documents. The agency, a branch of the German Interior Ministry, is charged with warning government employees and the public of software threats that could compromise private communications.Apple acknowledged the security flaw and said a fix would be forthcoming.We are aware of the reported issue, said Natalie Harrison, a spokeswoman for the company. We have already developed a fix and it will be available to customers in an upcoming software update.
+She declined to say whether the security flaw had been exploited by hackers.
+Apple's store on Fifth Avenue in New York. Apple acknowledged mobile software flaws and said it would offer a fix soon.
+Timothy A. Clary/Agence France-Presse  Getty Images
+Katrin Alberts, a spokeswoman for the German agency, said its technical experts had investigated the security of the
+iOS system after a computer hacker using the name Comex disclosed the weaknesses over the weekend in several online forums and on Twitter. Comex belongs to a group that is apparently developing ways to open Apples proprietary operating system to software that has not been approved by the company.Our internal experts confirmed these weaknesses, Ms. Alberts said. That is why we put out the advisory today.
+So far, Ms. Alberts said her agency had not received any reports of malware being developed that sought to exploit the weaknesses. Ms. Alberts said the agency had been in discussions with Apple this week.The agency warned consumers to use caution when surfing the Internet with Apple devices, especially when asked to click on Web links or PDF attachments in unsolicited e-mails.The agency said Apple products that were vulnerable included iPhone iOS versions 3.1.2 through 4.0.1; iPad iOS versions 3.2 through 3.2.1. and iPod Touch iOS versions 3.1.2. to 4.0. The agency said it could not rule out a risk in other models.
+Miguel Helft contributed reporting from San Francisco.
+A version of this article appears in print on August 5, 2010, on page B7 of the New York edition with the headline: German Agency Finds Flaws In Apples Mobile Software.
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.

@@ -1,0 +1,67 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "It was the government&#8217;s most aggressive response yet to a spate of computer attacks on targets including Sony Pictures Entertainment and the health insurer Anthem.", 
+  "headline": {
+    "main": "House Passes Cybersecurity Bill After Companies Fall Victim to Data Breaches", 
+    "print_headline": "House Passes Cybersecurity Bill After Companies Fall Victim to Data Breaches"
+  }, 
+  "abstract": "House passes bill that would urge companies to safely share access to their computer networks and records with federal investigators; if House and Senate agree on final version, legislation would represent government's strongest action yet in response to wave of damaging computer attacks against Sony Pictures, Target stores and health insurer Anthem.", 
+  "print_page": "17", 
+  "word_count": "1061", 
+  "_id": "5537632038f0d84082034d2a", 
+  "snippet": "It was the government&#8217;s most aggressive response yet to a spate of computer attacks on targets including Sony Pictures Entertainment and the health insurer Anthem.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/04/23/us/politics/computer-attacks-spur-congress-to-act-on-cybersecurity-bill-years-in-making.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Anthem Inc", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Sony Pictures Entertainment", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Target Corporation", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Jennifer", 
+        "lastname": "STEINHAUER"
+      }
+    ], 
+    "original": "By JENNIFER STEINHAUER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-04-23T00:00:00Z", 
+  "section_name": "U.S."
+}

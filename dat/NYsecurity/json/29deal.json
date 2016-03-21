@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "RSA Security, a pioneering digital security company, quietly put itself up for sale several months ago and is now near a deal. ", 
+  "headline": {
+    "main": "Sale of Digital Security Firm Said to Be Near", 
+    "print_headline": "Sale of Digital Security Firm Said to Be Near"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "293", 
+  "_id": "54b571a638f0d82829edeec1", 
+  "snippet": "RSA Security, a pioneering digital security company, quietly put itself up for sale several months ago and is now near a deal.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/06/29/technology/29deal.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "RSA Security Incorporated", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Andrew", 
+        "middlename": "Ross", 
+        "lastname": "SORKIN", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By ANDREW ROSS SORKIN and JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-06-29T00:00:00Z", 
+  "section_name": "Technology"
+}

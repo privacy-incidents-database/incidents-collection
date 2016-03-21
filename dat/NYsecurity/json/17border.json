@@ -1,0 +1,79 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The Olympic Games in Vancouver could present an extremist group with an opportunity to attack a higher-profile target in the United States rather than in Canada.", 
+  "headline": {
+    "main": "Washington Border Area Is Bracing for Games", 
+    "print_headline": "Washington Border Area Is Bracing For Games"
+  }, 
+  "abstract": null, 
+  "print_page": "16", 
+  "word_count": "606", 
+  "_id": "54380b8038f0d83c143b812c", 
+  "snippet": "The Olympic Games in Vancouver could present an extremist group with an opportunity to attack a higher-profile target in the United States rather than in Canada.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/17/sports/olympics/17border.html", 
+  "multimedia": [], 
+  "subsection_name": "Olympics", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Olympic Games (2010)", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Olympic Games", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Washington (State)", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Vancouver (British Columbia)", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "William", 
+        "rank": 1, 
+        "lastname": "YARDLEY"
+      }
+    ], 
+    "original": "By WILLIAM YARDLEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-17T00:00:00Z", 
+  "section_name": "Sports"
+}

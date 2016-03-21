@@ -1,0 +1,102 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Proposals to change security checkpoints include using known information about travelers to apply different screening techniques.", 
+  "headline": {
+    "seo": "Support Grows for Tiered Screening at Airports", 
+    "main": "Support Grows for Tiered Risk System at Airports", 
+    "kicker": "Itineraries", 
+    "print_headline": "Checkpoint Intelligence", 
+    "content_kicker": "Itineraries"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "986", 
+  "_id": "540a89f538f0d84fb8833c16", 
+  "snippet": "Proposals to change security checkpoints include using known information about travelers to apply different screening techniques.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/02/08/business/08security.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2011/02/08/business/Security1/Security1-articleLarge.jpg", 
+      "height": 350, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2011/02/08/business/Security1/Security1-articleLarge.jpg", 
+        "xlargeheight": "350"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/02/08/business/Security1/Security1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/02/08/business/Security1/Security1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Business Travel", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Susan", 
+        "lastname": "STELLIN"
+      }
+    ], 
+    "original": "By SUSAN STELLIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-02-08T00:00:00Z", 
+  "section_name": "Business Day"
+}

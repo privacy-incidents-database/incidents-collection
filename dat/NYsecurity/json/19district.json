@@ -1,0 +1,88 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "As the capital prepared to celebrate President Bush's inauguration, the city appeared on Tuesday more like a place under siege. Hour by hour the city of grand buildings and marble statues seemed to disappear behind curtains of steel security fences and concrete barriers. Piece by piece, the huge security plan that officials promised would be the tightest ever in post-9/11 America emerged, temporarily inconveniencing local citizens and visitors.", 
+  "headline": {
+    "main": "A Steel Cocoon Is Woven For the Capital's Big Party", 
+    "kicker": "THE INAUGURATION: THE SECURITY"
+  }, 
+  "abstract": "Washington, DC, prepares to celebrate Pres Bush's inauguration; officials say huge security plan will be tightest ever in post 9/11 America (M)", 
+  "print_page": "16", 
+  "word_count": 1136, 
+  "_id": "4fd283988eb7c8105d851829", 
+  "snippet": "As Washington prepared to celebrate President Bush's inauguration, the city appeared more like a place under siege.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/01/19/national/19district.html", 
+  "multimedia": [
+    {
+      "url": "images/2005/01/19/national/district.7575.jpg", 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "hasthumbnail": "Y", 
+        "thumbnailheight": 75, 
+        "thumbnail": "images/2005/01/19/national/district.7575.jpg"
+      }, 
+      "type": "image", 
+      "height": 75
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "persons", 
+      "value": "RIDGE, TOM"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "SECRET SERVICE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "INAUGURATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES POLITICS AND GOVERNMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "David", 
+        "rank": 1, 
+        "lastname": "JOHNSTON"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Michael", 
+        "rank": 2, 
+        "lastname": "JANOFSKY"
+      }
+    ], 
+    "original": "By DAVID JOHNSTON and MICHAEL JANOFSKY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-01-19T00:00:00Z", 
+  "section_name": "U.S.; Washington"
+}

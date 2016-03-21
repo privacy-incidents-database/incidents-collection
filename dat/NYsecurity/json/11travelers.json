@@ -1,0 +1,85 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "As the day progressed, the lines and delays grew shorter as screeners and travelers got accustomed to the changes, which had been ordered by Homeland Security officials.", 
+  "headline": {
+    "main": "Confusion and Delays at Airports, Taken Mostly in Stride", 
+    "print_headline": "Confusion and Delays at Airports, Taken Mostly in Stride"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1146", 
+  "_id": "54b0c89d38f0d8367c84251c", 
+  "snippet": "As the day progressed, the lines and delays grew shorter as screeners and travelers got accustomed to the changes, which had been ordered by Homeland Security officials.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/11/nyregion/11travelers.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/08/11/nyregion/11travelers.xlarge1.jpg", 
+      "height": 300, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/08/11/nyregion/11travelers.xlarge1.jpg", 
+        "xlargeheight": "300"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/08/11/nyregion/11travelers.751.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/08/11/nyregion/11travelers.751.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Robert"
+      }
+    ], 
+    "original": "By ROBERT D. McFADDEN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-11T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

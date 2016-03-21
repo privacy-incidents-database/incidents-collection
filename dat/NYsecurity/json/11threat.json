@@ -1,0 +1,119 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Security agencies have made little progress in deploying technology that could help defend against liquid explosives. ", 
+  "headline": {
+    "main": "Liquid Threat Is Hard to Detect", 
+    "print_headline": "Liquid Threat Is Hard to Detect", 
+    "content_kicker": "Technology"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1186", 
+  "_id": "54b0c86e38f0d8367c842517", 
+  "snippet": "Security agencies have made little progress in deploying technology that could help defend against liquid explosives.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/11/world/europe/11threat.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/08/11/world/11threat.xlarge1.jpg", 
+      "height": 320, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/08/11/world/11threat.xlarge1.jpg", 
+        "xlargeheight": "320"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/08/11/world/11threat.751.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/08/11/world/11threat.751.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Bombs and Explosives", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "X-Rays", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Matthew", 
+        "middlename": "L.", 
+        "lastname": "WALD", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By MATTHEW L. WALD  and ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-11T00:00:00Z", 
+  "section_name": "World"
+}

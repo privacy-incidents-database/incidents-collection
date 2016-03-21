@@ -1,0 +1,88 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "President Bush defended his record on domestic security, saying he had \u201clearned a lot of lessons\u201d on 9/11 and had made Americans safer as a result.", 
+  "headline": {
+    "main": "Bush Assures That the Nation Is Safer as Memories Turn to a Day of Destruction", 
+    "print_headline": "Bush Assures That the Nation Is Safer as Memories Turn to a Day of Destruction", 
+    "content_kicker": "Domestic Security"
+  }, 
+  "abstract": null, 
+  "print_page": "25", 
+  "word_count": "852", 
+  "_id": "54b1803b38f0d87f81146ab9", 
+  "snippet": "President Bush defended his record on domestic security, saying he had \u201clearned a lot of lessons\u201d on 9/11 and had made Americans safer as a result.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/09/08/washington/08bush.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/09/08/us/07bush_lg.jpg", 
+      "height": 184, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/09/08/us/07bush_lg.jpg", 
+        "xlargeheight": "184"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/09/08/us/07bush_75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/09/08/us/07bush_75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "World Trade Center (NYC)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "National Security Agency", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Al Qaeda", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Sheryl", 
+        "middlename": "Gay", 
+        "lastname": "STOLBERG", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By SHERYL GAY STOLBERG"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-09-08T00:00:00Z", 
+  "section_name": "Washington"
+}

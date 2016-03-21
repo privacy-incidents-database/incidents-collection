@@ -1,0 +1,83 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The program to match names on boarding passes with IDs at airport checkpoints is proceeding efficiently.", 
+  "headline": {
+    "seo": "T.S.A.\u2019s Secure Flight Is Working Smoothly So Far", 
+    "main": "The Rules on Names Could Bend a Little", 
+    "kicker": "On the Road", 
+    "print_headline": "The Rules on Names Could Bend a Little", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "723", 
+  "_id": "545843f038f0d8086c45e150", 
+  "snippet": "The program to match names on boarding passes with IDs at airport checkpoints is proceeding efficiently.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/11/10/business/10road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2009/11/09/business/10road/thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/11/09/business/10road/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Identification Devices", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-11-10T00:00:00Z", 
+  "section_name": "Business Day"
+}

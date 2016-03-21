@@ -1,0 +1,49 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Symantec, a maker of computer antivirus products, will buy Altiris for about $1.03 billion to gain programs that track corporate software use.", 
+  "headline": {
+    "main": "Symantec to Buy Software Tracker", 
+    "print_headline": "Symantec to Buy Software Tracker"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "104", 
+  "_id": "548e643b38f0d8437a5dbea4", 
+  "snippet": "Symantec, a maker of computer antivirus products, will buy Altiris for about $1.03 billion to gain programs that track corporate software use.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/01/30/technology/30altiris.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Symantec Corp", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Bloomberg", 
+        "lastname": "NEWS"
+      }
+    ], 
+    "original": "By BLOOMBERG NEWS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-01-30T00:00:00Z", 
+  "section_name": "Technology"
+}

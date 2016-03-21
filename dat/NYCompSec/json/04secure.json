@@ -1,0 +1,55 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "An e-mail message responding to an antiterrorism bulletin from the Homeland Security Department turned into a flood of more than 2.2 million messages that clogged the e-mail accounts of government and private experts on domestic security.", 
+  "headline": {
+    "main": "Security Bulletin Problem Creates Message Flood", 
+    "print_headline": "Security Bulletin Problem Results in Flood of Messages"
+  }, 
+  "abstract": null, 
+  "print_page": "27", 
+  "word_count": "508", 
+  "_id": "5485ce2538f0d84e18de13a3", 
+  "snippet": "An e-mail message responding to an antiterrorism bulletin from the Homeland Security Department turned into a flood of more than 2.2 million messages that clogged the e-mail accounts of government and private experts on domestic security.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/10/04/us/04secure.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Electronic Mail", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }
+    ], 
+    "original": "By ERIC LIPTON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-10-04T00:00:00Z", 
+  "section_name": "U.S."
+}

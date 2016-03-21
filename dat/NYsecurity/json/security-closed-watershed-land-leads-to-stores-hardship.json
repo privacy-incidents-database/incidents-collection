@@ -1,0 +1,85 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Westchester Weekly Desk", 
+  "lead_paragraph": "INSIDE Bobcat Sports, a bait and tackle store here, a handwritten, cardboard sign is taped above the door. ''Intire Buisness $49,000.00,'' it reads. ''Selling for health reasons.'' For years, the sign was meant as a joke by the store's owner, Richard Homan. But these days, the joke has a new punch line. These days, nobody would offer a hill of beans for Bobcat Sports. Business has dried up since Sept. 11, when New York City's Department of Environmental Protection closed all watershed land for security reasons. The measure was taken to prevent possible terrorist acts, including bioterrorism or damage to reservoir dams.", 
+  "headline": {
+    "main": "Closed Watershed Land Leads to Stores' Hardship", 
+    "kicker": "SECURITY"
+  }, 
+  "abstract": "Article on adverse impact on sports anglers and local businesses that serve anglers, hunters and hikers from closing by New York City's Department of Environmental Protection of all watershed lands in Westchester and Putnam counties for security reasons in wake of terrorist attacks; photo (M)", 
+  "print_page": "5", 
+  "word_count": 717, 
+  "_id": "4fd22cb58eb7c8105d7b8cb0", 
+  "snippet": "INSIDE Bobcat Sports, a bait and tackle store here, a handwritten, cardboard sign is taped above the door. ''Intire Buisness $49,000.00,'' it reads. ''Selling for health reasons.'' For years, the sign was meant as a joke by the store's owner, Richard...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/02/10/nyregion/security-closed-watershed-land-leads-to-stores-hardship.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "PUTNAM COUNTY (NY)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WESTCHESTER COUNTY (NY)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WALKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HUNTING AND TRAPPING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WATER"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FISHING, SPORT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FISH AND OTHER MARINE LIFE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Corey", 
+        "lastname": "KILGANNON"
+      }
+    ], 
+    "original": "By COREY KILGANNON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-02-10T00:00:00Z", 
+  "section_name": "New York and Region"
+}

@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A previously classified memo by John Yoo, then a top Justice Department lawyer, defended the Bush administration\u2019s surveillance program after Sept. 11.", 
+  "headline": {
+    "main": "Classified 2002 Letter on N.S.A. Eavesdropping Is Made Public", 
+    "print_headline": "National Briefing | Washington; 2002 Letter on Eavesdropping Is Made Public"
+  }, 
+  "abstract": "Obama administration makes public previously classified letter from 2002 revealing Bush administration authorized secret program allowing National Security Agency to eavesdrop on Americas' international communications, which violated wiretapping laws. ", 
+  "print_page": "16", 
+  "word_count": "405", 
+  "_id": "56d5160538f0d811294b821c", 
+  "snippet": "A previously classified memo by John Yoo, then a top Justice Department lawyer, defended the Bush administration\u2019s surveillance program after Sept. 11.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/01/us/politics/classified-2002-letter-on-nsa-eavesdropping-is-made-public.html", 
+  "multimedia": [], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "National Security Agency", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Bush, George W", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Wiretapping and Other Eavesdropping Devices and Methods", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Yoo, John C", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Foreign Intelligence Surveillance Act (FISA)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Fourth Amendment (US Constitution)", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Charlie", 
+        "lastname": "SAVAGE"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }
+    ], 
+    "original": "By CHARLIE SAVAGE and ERIC LICHTBLAU"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-01T00:00:00Z", 
+  "section_name": "U.S."
+}

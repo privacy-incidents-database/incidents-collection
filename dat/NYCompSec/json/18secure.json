@@ -1,0 +1,51 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The RSA Security unit of EMC said that a data breach might compromise computer security products used by corporations and governments.", 
+  "headline": {
+    "seo": "SecurID Company Suffers Security Breach", 
+    "main": "SecurID Company Suffers a Breach of Data Security", 
+    "print_headline": "SecurID Company Suffers A Breach of Data Security"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "579", 
+  "_id": "540bdd5138f0d85e13e4cba7", 
+  "snippet": "The RSA Security unit of EMC said that a data breach might compromise computer security products used by corporations and governments.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/03/18/technology/18secure.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "EMC Corporation", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-03-18T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,99 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "To help ward off corporate data breaches, Lookout is using its app to slip under the door of enterprises via the employees who regularly bring their personal devices to work.", 
+  "headline": {
+    "main": "Bolstering a Phone\u2019s Defenses Against Breaches", 
+    "print_headline": "Bolstering a Phone\u2019s Defenses"
+  }, 
+  "abstract": "Tech firm Lookout's free mobile security app is aimed at protecting data of corporate customers that allow employees to use their own mobile devices on corporate networks; app has been downloaded by 45 million people worldwide; almost half of companies that allow personally owned devices to connect to corporate network have experienced data breach, either because of unwitting mistakes by employees or intentional wrongdoing.", 
+  "print_page": "1", 
+  "word_count": "1264", 
+  "_id": "525b380e38f0d819897420b7", 
+  "snippet": "To help ward off corporate data breaches, Lookout is using its app to slip under the door of enterprises via the employees who regularly bring their personal devices to work.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/10/14/technology/bolstering-a-phones-defenses-against-breaches.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/10/14/business/LOOKOUT/LOOKOUT-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/10/14/business/LOOKOUT/LOOKOUT-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/10/14/business/LOOKOUT/LOOKOUT-articleLarge.jpg", 
+      "height": 919, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/10/14/business/LOOKOUT/LOOKOUT-articleLarge.jpg", 
+        "xlargeheight": "919"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2013/10/14/business/LOOKOUT2/LOOKOUT2-thumbStandard-v3.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2013/10/14/business/LOOKOUT2/LOOKOUT2-thumbStandard-v3.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Smartphones", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Mobile Applications", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Lookout Inc", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-10-14T00:00:00Z", 
+  "section_name": "Technology"
+}

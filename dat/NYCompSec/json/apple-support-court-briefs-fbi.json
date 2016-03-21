@@ -1,0 +1,160 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Apple\u2019s legal battle with the government tests the limits of law enforcement agencies\u2019 access to personal data.", 
+  "headline": {
+    "main": "Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.", 
+    "print_headline": "Tech Rivals Lining Up  to Support  Apple\u2019s Case"
+  }, 
+  "abstract": "Google, Amazon, Facebook, Microsoft and others file court briefs in support of Apple's resistance to Federal Bureau of Investigation's demand to break into iPhone used by San Bernardino gunman; moves come as test of limits of government access to personal data.", 
+  "print_page": "1", 
+  "word_count": "1131", 
+  "_id": "56d8ac9f38f0d810eb12c65e", 
+  "snippet": "Apple\u2019s legal battle with the government tests the limits of law enforcement agencies\u2019 access to personal data.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/04/technology/apple-support-court-briefs-fbi.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/04/business/04APPLE/04APPLE-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/04/business/04APPLE/04APPLE-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/04/business/04APPLE/04APPLE-articleLarge.jpg", 
+      "height": 392, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/04/business/04APPLE/04APPLE-articleLarge.jpg", 
+        "xlargeheight": "392"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/04/business/04APPLE/04APPLE-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/04/business/04APPLE/04APPLE-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "N", 
+      "rank": "13", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Google Inc", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Facebook Inc", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Amazon.com Inc", 
+      "is_major": "Y", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Microsoft Corp", 
+      "is_major": "Y", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cook, Timothy D", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Nick Wingfield reported from Seattle, and Katie Benner from San Francisco. Mike Isaac contributed reporting from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "WINGFIELD"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }
+    ], 
+    "original": "By NICK WINGFIELD and KATIE BENNER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-04T00:00:00Z", 
+  "section_name": "Technology"
+}

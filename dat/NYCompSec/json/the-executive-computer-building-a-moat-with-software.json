@@ -1,0 +1,50 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Financial Desk", 
+  "lead_paragraph": "LEAD: GEOFFREY WIENER went to his accountant's office to discuss a tax return. The accountant, who was scrupulous about the security and the confidentiality of his clients' financial data, kept all the papers in a locked file cabinet. When he tried to get out Mr. Wiener's return, the accountant could not get his key to open the lock, and the spare key was at lunch with his secretary.", 
+  "headline": {
+    "main": "Building a Moat With Software", 
+    "kicker": "THE EXECUTIVE COMPUTER"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": 1167, 
+  "_id": "4fd18fe28eb7c8105d696549", 
+  "snippet": "LEAD: GEOFFREY WIENER went to his accountant's office to discuss a tax return. The accountant, who was scrupulous about the security and the confidentiality of his clients' financial data, kept all the papers in a locked file cabinet. When he tried...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1989/09/03/business/the-executive-computer-building-a-moat-with-software.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SOFTWARE PRODUCTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "DATA PROCESSING (COMPUTERS)"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Peter", 
+        "middlename": "H.", 
+        "lastname": "Lewis", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By Peter H. Lewis"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1989-09-03T00:00:00Z", 
+  "section_name": "Technology; Business"
+}

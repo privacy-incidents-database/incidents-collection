@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Sports Desk", 
+  "lead_paragraph": "The first weekend of Olympic events produced several security problems that drew response from law enforcement personnel. But over all, officials said today, their security plans worked as intended with no disruption to the Games. ''We are extremely pleased so far,'' said Robert Flowers, commander of the Utah Olympic Public Safety Command, which is coordinating the work of 60 law-enforcement agencies, and military personnel, protecting the Games.", 
+  "headline": {
+    "main": "Safety Plans Are Working, Officials Say", 
+    "kicker": "OLYMPICS: SECURITY"
+  }, 
+  "abstract": "Aside from several minor glitches, security plan is working as intended with no disruption to Olympic Games; photo (M)", 
+  "print_page": "9", 
+  "word_count": 750, 
+  "_id": "4fd26daa8eb7c8105d8276c2", 
+  "snippet": "The first weekend of Olympic events produced several security problems that drew response from law enforcement personnel. But over all, officials said today, their security plans worked as intended with no disruption to the Games.    ''We are...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/02/11/sports/olympics-security-safety-plans-are-working-officials-say.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "SALT LAKE CITY (UTAH)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WINTER GAMES (OLYMPICS)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "OLYMPIC GAMES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "OLYMPIC GAMES (2002)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael", 
+        "lastname": "JANOFSKY"
+      }
+    ], 
+    "original": "By MICHAEL JANOFSKY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-02-11T00:00:00Z", 
+  "section_name": "Sports"
+}

@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Regionals", 
+  "lead_paragraph": "RONKONKOMA.", 
+  "headline": {
+    "main": "Bike Lockers to Be Moved Away From L.I.R.R. Tracks", 
+    "kicker": "Security", 
+    "print_headline": "Bike Lockers to Be Moved Away From L.I.R.R. Tracks", 
+    "content_kicker": "Security"
+  }, 
+  "abstract": null, 
+  "print_page": "15", 
+  "word_count": "558", 
+  "_id": "548c6fcc38f0d8482929c741", 
+  "snippet": "RONKONKOMA.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/07/15/nyregion/nyregionspecial2/15topicli.html", 
+  "multimedia": [], 
+  "subsection_name": "N.Y. / Region", 
+  "keywords": [
+    {
+      "value": "Storage", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Long Island Rail Road Co", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Stations and Terminals (Passenger)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "COTRONEO"
+      }
+    ], 
+    "original": "By NICOLE COTRONEO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-07-15T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

@@ -1,0 +1,86 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Technology exists to reveal objects hidden under clothes at airport checkpoints, but privacy advocates say it is too intrusive.", 
+  "headline": {
+    "main": "Debate Over Full-Body Scans vs. Invasion of Privacy Flares Anew After Incident", 
+    "print_headline": "Debate Over Full-Body Scans vs. Invasion of Privacy Flares Anew After Incident"
+  }, 
+  "abstract": null, 
+  "print_page": "14", 
+  "word_count": "790", 
+  "_id": "545aff0f38f0d842c59d1f2b", 
+  "snippet": "Technology exists to reveal objects hidden under clothes at airport checkpoints, but privacy advocates say it is too intrusive.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/12/30/us/30privacy.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2009/12/30/us/30privacy1/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/12/30/us/30privacy1/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Privacy", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "John", 
+        "rank": 1, 
+        "lastname": "SCHWARTZ"
+      }
+    ], 
+    "original": "By JOHN SCHWARTZ"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-12-30T00:00:00Z", 
+  "section_name": "U.S."
+}

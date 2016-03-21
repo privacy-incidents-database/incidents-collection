@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "In a letter to shareholders in advance of its annual meeting, the retailer detailed how it increased information security.", 
+  "headline": {
+    "main": "Target Gives a Defense of Its Efforts on Security", 
+    "print_headline": "Target Gives a Defense of Its Efforts on Security"
+  }, 
+  "abstract": "Target defends its management and oversight of customer data despite extensive hacking it experienced in 2013; in letter to shareholders in advance of its annual meeting, company details how it increased information security since the breach.", 
+  "print_page": "3", 
+  "word_count": "412", 
+  "_id": "538cf96838f0d8757fa21b23", 
+  "snippet": "In a letter to shareholders in advance of its annual meeting, the retailer detailed how it increased information security.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/06/03/business/target-defends-its-oversight-of-customer-data.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Target Corporation", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "Elizabeth", 
+        "middlename": "A.", 
+        "lastname": "HARRIS", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By ELIZABETH A. HARRIS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-06-03T00:00:00Z", 
+  "section_name": "Business Day"
+}

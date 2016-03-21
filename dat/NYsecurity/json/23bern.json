@@ -1,0 +1,97 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Arts and Leisure Desk", 
+  "lead_paragraph": "Like actors pushing films and authors reading from their books, museum directors go on tours to promote their renovations. On Tuesday, for instance, Kimerly Rorschach of Duke University's Nasher Museum of Art will take over a room at Caf\u00e9 Gray in Manhattan to show the architect Rafael Vi\u00f1oly's designs for a $15 million upgrade. It wasn't that different a few weeks ago when Donny George, the director of the Iraq Museum, came to New York to show journalists photos of the museum's recent improvements. At a conference table at the headquarters of the World Monuments Fund, with coffee and croissants laid out nearby, about a dozen reporters watched as Mr. George clicked through a presentation of modifications to the museum, a Baghdad institution, which remains closed. But there was no architect present, and the changes weren't meant to bring more light to the museum's galleries or to create a dramatic public gathering space. Most involved fortifications: walls, fences, enhanced guard booths, vaults designed to keep art in the building until order is restored to Iraq. This was, after all, the museum from which an estimated 14,000 objects were looted following the American invasion of Iraq.", 
+  "headline": {
+    "main": "The Safety Of Iraqi Objects", 
+    "kicker": "DIRECTIONS: SECURITY"
+  }, 
+  "abstract": "Discussion of security enhancements to protect Iraq Museum, Baghdad, from looters and damage; photo (S)", 
+  "print_page": "4", 
+  "word_count": 305, 
+  "_id": "4fd241528eb7c8105d7d9e7d", 
+  "snippet": "The director of the Iraq Museum came to New York recently to show journalists photos of the museum's recent improvements. Most involved fortifications.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/01/23/arts/design/23bern.html", 
+  "multimedia": [
+    {
+      "url": "images/2005/01/19/arts/23dire.secu.75.jpg", 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "hasthumbnail": "Y", 
+        "thumbnailheight": 75, 
+        "thumbnail": "images/2005/01/19/arts/23dire.secu.75.jpg"
+      }, 
+      "type": "image", 
+      "height": 75
+    }, 
+    {
+      "subtype": "tiny_thumb", 
+      "legacy": {
+        "tinythumbwidth": 55, 
+        "tinythumbheight": 55, 
+        "hastinythumb": "Y"
+      }, 
+      "type": "image", 
+      "width": 55, 
+      "height": 55
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "NATIONAL MUSEUM OF IRAQ"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ARCHAEOLOGY AND ANTHROPOLOGY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BERNSTEIN, FRED A"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "MUSEUMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ART"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LOOTING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Fred", 
+        "middlename": "A.", 
+        "lastname": "BERNSTEIN", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By FRED A. BERNSTEIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-01-23T00:00:00Z", 
+  "section_name": "Science; Arts"
+}

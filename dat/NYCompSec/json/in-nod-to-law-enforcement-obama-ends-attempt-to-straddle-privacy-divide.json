@@ -1,0 +1,133 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Technological advances in encryption made a clash between privacy and security inevitable, forcing him to take a side in the Apple case.", 
+  "headline": {
+    "main": "In Nod to Law Enforcement in Apple Case, Obama Ends Attempt to Straddle Privacy Divide", 
+    "print_headline": "Torn, but Obama Nods to Security"
+  }, 
+  "abstract": "Justice Dept orders Apple to help it breach iPhone used by one of San Bernardino, Calif, terrorists; Pres Obama's decision to back Federal Bureau of Investigation's inquiry into attack, one of worst in United States since Sept 11, 2001, comes after years of of trying to find middle ground on personal privacy and nation's security.", 
+  "print_page": "1", 
+  "word_count": "939", 
+  "_id": "56c6f5cc38f0d809a189be5e", 
+  "snippet": "Technological advances in encryption made a clash between privacy and security inevitable, forcing him to take a side in the Apple case.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/20/us/politics/in-nod-to-law-enforcement-obama-ends-attempt-to-straddle-privacy-divide.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/20/us/20privacy-web/20privacy-web-thumbWide-v2.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/20/us/20privacy-web/20privacy-web-thumbWide-v2.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/20/us/20privacy-web/20privacy-web-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/20/us/20privacy-web/20privacy-web-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/20/us/20privacy-web/20privacy-web-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/20/us/20privacy-web/20privacy-web-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Search and Seizure", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Cook, Timothy D", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Snowden, Edward J", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael"
+      }
+    ], 
+    "original": "By MICHAEL D. SHEAR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-20T00:00:00Z", 
+  "section_name": "U.S."
+}

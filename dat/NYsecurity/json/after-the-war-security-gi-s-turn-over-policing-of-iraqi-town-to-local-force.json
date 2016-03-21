@@ -1,0 +1,58 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "The new Iraqi police force in this restless town west of Baghdad threatened to quit on Thursday unless American forces allowed them to do their jobs alone. In response, the American authorities agreed to reduce the number of their soldiers at the Falluja central police station from more than 20 to 1 or 2. As of this evening there were a half-dozen troops at the station, a military spokesman said.", 
+  "headline": {
+    "main": "G.I.'s Turn Over Policing of Iraqi Town to Local Force", 
+    "kicker": "AFTER THE WAR: SECURITY"
+  }, 
+  "abstract": "US authorities in Falluja agree to reduce number of US soldiers at central police station and allow new Iraqi police force to patrol; photo; map; Iraqi officers staged peaceful protest march to town hall to demand more autonomy (M)", 
+  "print_page": "6", 
+  "word_count": 694, 
+  "_id": "4fd291ba8eb7c8105d86a69e", 
+  "snippet": "The new Iraqi police force in this restless town west of Baghdad threatened to quit on Thursday unless American forces allowed them to do their jobs alone.    In response, the American authorities agreed to reduce the number of their soldiers at the...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/07/12/world/after-the-war-security-gi-s-turn-over-policing-of-iraqi-town-to-local-force.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "FALLUJA (IRAQ)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POLICE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Shaila", 
+        "middlename": "K.", 
+        "lastname": "DEWAN", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By SHAILA K. DEWAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-07-12T00:00:00Z", 
+  "section_name": "World; Washington"
+}

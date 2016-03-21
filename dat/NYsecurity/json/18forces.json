@@ -1,0 +1,65 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "A classified Pentagon study analyzing the effectiveness of Special Operations forces has found that the military's counterterrorism effort is hampered by bureaucratic duplication, officials said, citing in particular an overlap between new government centers. The study also found evidence of broad resistance to the Special Operations Command's new counterterrorism role, from regional military commands and from other parts of the government's sprawling defense and intelligence apparatus.", 
+  "headline": {
+    "main": "Study Is Said to Find Overlap In U.S. Counterterror Effort", 
+    "kicker": "THE STRUGGLE FOR IRAQ: SECURITY"
+  }, 
+  "abstract": "Classified Pentagon study analyzing effectiveness of Special Operations forces finds that military's counterterrorism effort is hampered by bureaucratic duplication; Pentagon and military officials who have read study say that mission of new Center for Special Operations mirrors work of new National Counterterrorism Center; Defense Sec Donald H Rumsfeld ordered study; photos (M)", 
+  "print_page": "8", 
+  "word_count": 1054, 
+  "_id": "4fd251e88eb7c8105d7f7252", 
+  "snippet": "A Pentagon study analyzing the effectiveness of Special Operations forces has found that the military's counterterrorism effort is hampered by bureaucratic duplication.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/03/18/politics/18forces.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "RUMSFELD, DONALD H"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "CENTER FOR SPECIAL OPERATIONS"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "NATIONAL COUNTERTERRORISM CENTER"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BUREAUCRATIC RED TAPE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Thom", 
+        "rank": 1, 
+        "lastname": "SHANKER"
+      }
+    ], 
+    "original": "By THOM SHANKER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-03-18T00:00:00Z", 
+  "section_name": "World"
+}

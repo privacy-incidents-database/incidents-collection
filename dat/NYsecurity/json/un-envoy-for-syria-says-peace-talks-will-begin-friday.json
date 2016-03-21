@@ -1,0 +1,112 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The envoy, Staffan de Mistura, said the talks in Geneva, aimed at a general cease-fire, would be \u201cuphill\u201d and declined to identify who was invited.", 
+  "headline": {
+    "main": "U.N. Envoy for Syria Says Peace Talks Will Begin Friday", 
+    "print_headline": "Delayed Syrian Peace Talks Are Scheduled to Begin on Friday, U.N. Says"
+  }, 
+  "abstract": "United Nations sets new date for Geneva peace talks aimed at resolving conflict in Syria; offers no details on crucial questions of which opposition groups would be invited to table, or about future role of Pres Bashar al-Assad.", 
+  "print_page": "9", 
+  "word_count": "1228", 
+  "_id": "56a6653238f0d82e67248886", 
+  "snippet": "The envoy, Staffan de Mistura, said the talks in Geneva, aimed at a general cease-fire, would be \u201cuphill\u201d and declined to identify who was invited.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/26/world/middleeast/un-envoy-for-syria-says-peace-talks-will-begin-friday.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/26/world/26NATIONS-web1/26NATIONS-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/26/world/26NATIONS-web1/26NATIONS-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/26/world/26NATIONS-web1/26NATIONS-web1-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/26/world/26NATIONS-web1/26NATIONS-web1-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/26/world/26NATIONS-web1/26NATIONS-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/26/world/26NATIONS-web1/26NATIONS-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "United Nations", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Syria", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Assad, Bashar al-", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Nick Cumming-Bruce reported from Geneva, and Somini Sengupta from the United Nations. Hwaida Saad contributed reporting from Beirut, Lebanon.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nick", 
+        "lastname": "CUMMING-BRUCE"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Somini", 
+        "lastname": "SENGUPTA"
+      }
+    ], 
+    "original": "By NICK CUMMING-BRUCE and SOMINI SENGUPTA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-26T00:00:00Z", 
+  "section_name": "World"
+}

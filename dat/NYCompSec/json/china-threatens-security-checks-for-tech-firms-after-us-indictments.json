@@ -1,0 +1,62 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "A plan for tighter scrutiny on tech companies doing business in China was announced by an agency that had threatened retaliation for cyberespionage charges.", 
+  "headline": {
+    "main": "China Plans Security Checks for Tech Firms After U.S. Indictments", 
+    "print_headline": "China Plans Security Checks for Tech Firms After U.S. Indictments"
+  }, 
+  "abstract": null, 
+  "print_page": "", 
+  "word_count": "734", 
+  "_id": "537da3af38f0d87250b48d4c", 
+  "snippet": "A plan for tighter scrutiny on tech companies doing business in China was announced by an agency that had threatened retaliation for cyberespionage charges.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/05/23/world/asia/china-threatens-security-checks-for-tech-firms-after-us-indictments.html", 
+  "multimedia": [], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "China", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Industrial Espionage", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Chris", 
+        "lastname": "BUCKLEY"
+      }
+    ], 
+    "original": "By CHRIS BUCKLEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-05-23T00:00:00Z", 
+  "section_name": "World"
+}

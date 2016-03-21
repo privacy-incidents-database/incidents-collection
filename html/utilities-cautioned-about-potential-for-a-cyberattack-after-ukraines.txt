@@ -1,0 +1,734 @@
+
+  
+
+
+
+
+Utilities Cautioned About Potential for a Cyberattack After Ukraine’s - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Politics|Utilities Cautioned About Potential for a Cyberattack After Ukraine’s
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/1QHKnEq
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Politics 
+Utilities Cautioned About Potential for a Cyberattack After Ukraine’s
+
+By DAVID E. SANGERFEB. 29, 2016
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+WASHINGTON —  The Obama administration has warned the nation’s power companies, water suppliers and transportation networks that sophisticated cyberattack techniques used to bring down part of Ukraine’s power grid two months ago could easily be turned on them.After an extensive inquiry, American investigators concluded that the attack in Ukraine on Dec. 23 may well have been the first power blackout triggered by a cyberattack — a circumstance many have long predicted. Working remotely, the attackers conducted “extensive reconnaissance” of the power system’s networks, stole the credentials of system operators and learned how to switch off the breakers, plunging more than 225,000 Ukrainians into darkness.In interviews, American officials said they have not completed their inquiry into who was responsible for the attack. But Ukrainian officials have blamed the Russians, saying it was part of the effort to intimidate the country’s political leaders by showing they could switch off the lights at any time.“They could be right,” said one senior administration official. “But so far we don’t have the complete evidence, and the attackers went to some lengths to hide their tracks.”Even after it has reached a conclusion, the White House might decide not to name the attackers, just as it decided not to publicly blame China for the theft of 22 million security files from the Office of Personnel Management.
+
+Advertisement
+
+Continue reading the main story
+
+But American intelligence officials have been intensely focused on the likelihood that the attack was engineered by the Russian military, or “patriotic hackers” operating on their behalf, since the first reports of the December blackout. The officials have found it intriguing that the attack did not appear designed to shut down the entire country. “This appears to be message-sending,” said one senior administration official with access to the intelligence, who requested anonymity to discuss the ongoing inquiry.Equally interesting to investigators was the technique used: The malware designed for the Ukrainian power grid was directed at “industrial control systems,” systems that act as the intermediary between computers and the switches that distribute electricity and guide trains as they speed down the track, the valves that control water supplies, and the machinery that mixes chemicals at factories.The most famous such attack was the Stuxnet worm, which destroyed the centrifuges that enriched uranium at the Natanz nuclear site in Iran. But that is not an example often cited by American officials — largely because the attack was conducted by the United States and Israel, a fact American officials have never publicly acknowledged.Experts in cybersecurity regard the Ukraine attack as a teaching moment, a chance to drive home to American firms the vulnerability of their own systems. “There’s never been an intentional cyberattack that has taken the electric grid down before,” said Robert M. Lee of the SANS Institute. Mr. Lee said that while it was still not possible to determine who conducted the attack — what is called “attribution” in the cyber industry — he noted that it was clearly designed to send a political message.“It was large enough to get everyone’s attention,” he said, “and small enough not to prompt a major response.”The warning issued last Thursday by the Department of Homeland Security provided the first detailed account of the Ukrainian attack, based on the findings of a series of government experts who traveled to Ukraine to gather evidence.The attack described by the Homeland Security document was highly sophisticated. The attackers gained entry, it appears, by sending a series of “spearphishing” messages that led someone in Ukraine to unintentionally give them access. Once they had that, the attackers mapped the system, much as the North Koreans mapped Sony Entertainment’s computers before attacking them in the fall of 2014.Then a series of cyberattacks were carefully coordinated to occur within 30 minutes of one another on Dec. 23. The “breakers” that disconnected power were operated “by multiple external humans” through secure communication channels. The hackers then wiped many of the systems clean using a form of malware aptly named “KillDisk” which erased files on the systems and disabled them. They wiped out the “human-machine interface” that enables operators of the electric system to run those systems — or get them back in service — from their computers.
+
+Advertisement
+
+Continue reading the main story
+
+For extra measure, the hackers even managed to disconnect backup power supplies, so that once the power failed, the computers could not turn them back on.Investigators say that in the end, the Ukrainians may have been saved by the fact that their country relies on old technology and is still not as fully wired as many Western nations — meaning they were able to restore power by manually flipping old-style circuit breakers.“The bad news for the United States is that we can’t do the same thing,” said Ted Koppel, the former ABC News anchor who published a best seller last year, entitled “Lights Out,” about the vulnerability of the American electric grid.“We have 3,200 power companies, and we need a precise balance between the amount of electricity that is generated and the amount that is used,” he said. “And that can only be done over a system run on the Internet. The Ukrainians were lucky to have antiquated systems.”The report from Homeland Security recommended a series of common-sense steps: Make sure that outsiders accessing power systems or other networks that operate vital infrastructure can monitor the system, but not change it; close “back doors” — system flaws that can give an intruder unauthorized access; have a contingency plan to shut down systems that have been infected, or invaded, by outsiders.But all those systems make it harder for legitimate operators to use the Internet to keep vast systems operating, from a smartphone or laptop if necessary.
+
+A version of this article appears in print on March 1, 2016, on page A6 of the New York edition with the headline: Utilities Cautioned About Potential for a Cyberattack.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+
+
+
+
+U.S. Had Cyberattack Plan if Iran Nuclear Dispute Led to Conflict
+FEB. 16, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS ANALYSIS 
+
+Cyberthreat Posed by China and Iran Confounds White House
+SEPT. 15, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+
+U.S. Had Cyberattack Plan if Iran Nuclear Dispute Led to Conflict
+FEB. 16, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+NEWS ANALYSIS 
+
+Cyberthreat Posed by China and Iran Confounds White House
+SEPT. 15, 2015
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

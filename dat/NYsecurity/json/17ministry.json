@@ -1,0 +1,111 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The Interior Ministry lacks the political support to root out Shiite militiamen and criminals in its police forces, officials say.", 
+  "headline": {
+    "main": "Iraq Stumbling in Bid to Purge Its Rogue Police", 
+    "sub": "Shiite Political Loyalties Limit Ministry\u2019s Power to Enact Changes ;", 
+    "print_headline": "Iraq Stumbling In Bid to Purge Rogue Officers", 
+    "content_kicker": "Security Forces"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "2336", 
+  "_id": "54b1c05638f0d87f81147308", 
+  "snippet": "The Interior Ministry lacks the political support to root out Shiite militiamen and criminals in its police forces, officials say.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/09/17/world/middleeast/17ministry.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/09/17/world/17ministry.600.gif", 
+      "height": 299, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/09/17/world/17ministry.600.gif", 
+        "xlargeheight": "299"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/09/17/world/17ministry.75.gif", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/09/17/world/17ministry.75.gif", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Middle East", 
+  "keywords": [
+    {
+      "value": "Iraq", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Police", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Crime and Criminals", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Shiite Muslims", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Sunni Muslims", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Armament, Defense and Military Forces", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Maliki, Nuri Kamal al-", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Edward", 
+        "lastname": "WONG"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2
+      }
+    ], 
+    "original": "By EDWARD WONG and PAUL von ZIELBAUER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-09-17T00:00:00Z", 
+  "section_name": "World"
+}

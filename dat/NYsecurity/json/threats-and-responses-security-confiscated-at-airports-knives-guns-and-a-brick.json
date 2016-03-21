@@ -1,0 +1,42 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "Some airline passengers have still not gotten the word about what they can and cannot take on planes. During the Thanksgiving weekend, security screeners seized 15,982 pocketknives, 98 box cutters, six guns and a brick. Still, transportation officials said the chaos at airports predicted by many never occurred. Passengers waited less than 10 minutes on average at security checkpoints at the onset of the first holiday travel season since an all-federal work force took over screening.", 
+  "headline": {
+    "main": "Confiscated at Airports: Knives, Guns and a Brick", 
+    "kicker": "THREATS AND RESPONSES: SECURITY"
+  }, 
+  "abstract": "Airport security screeners working over Thanksgiving weekend confiscated 15,982 pocket knives, 98 box cutters, six guns and a brick, suggesting that some passengers still do not understand what they can and cannot take onto planes (S)", 
+  "print_page": "19", 
+  "word_count": 349, 
+  "_id": "4fd2207c8eb7c8105d7a3f9d", 
+  "snippet": "Some airline passengers have still not gotten the word about what they can and cannot take on planes. During the Thanksgiving weekend, security screeners seized 15,982 pocketknives, 98 box cutters, six guns and a brick.    Still, transportation...", 
+  "source": "AP", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/12/04/us/threats-and-responses-security-confiscated-at-airports-knives-guns-and-a-brick.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "THANKSGIVING DAY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRPORTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }
+  ], 
+  "byline": null, 
+  "document_type": "article", 
+  "pub_date": "2002-12-04T00:00:00Z", 
+  "section_name": null
+}

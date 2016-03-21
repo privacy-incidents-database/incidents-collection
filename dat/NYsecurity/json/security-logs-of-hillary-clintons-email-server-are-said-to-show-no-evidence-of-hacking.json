@@ -1,0 +1,116 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The records bolster her assertion that her use of a personal account as secretary of state did not give secrets to hackers or foreign governments.", 
+  "headline": {
+    "main": "Security Logs of Hillary Clinton\u2019s Email Server Are Said to Show No Evidence of Hacking", 
+    "print_headline": "Security Logs of Clinton&#8217;s Email Server Are Said to Show No Evidence of Hacking"
+  }, 
+  "abstract": "Bryan Pagliano, former aide to Hillary Clinton, has turned over computer security logs from her private server to investigators at Federal Bureau of Investigation; logs show no evidence server was hacked by foreign actors; Pagliano set up private email server for Clinton at her home in Chappagqua, NY.", 
+  "print_page": "13", 
+  "word_count": "801", 
+  "_id": "56d8b45f38f0d810eb12c683", 
+  "snippet": "The records bolster her assertion that her use of a personal account as secretary of state did not give secrets to hackers or foreign governments.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/04/us/politics/security-logs-of-hillary-clintons-email-server-are-said-to-show-no-evidence-of-hacking.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/04/us/04EMAILS-web/04EMAILS-web-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/04/us/04EMAILS-web/04EMAILS-web-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/04/us/04EMAILS-web/04EMAILS-web-articleLarge.jpg", 
+      "height": 418, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/04/us/04EMAILS-web/04EMAILS-web-articleLarge.jpg", 
+        "xlargeheight": "418"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/04/us/04EMAILS-web/04EMAILS-web-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/04/us/04EMAILS-web/04EMAILS-web-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "State Department", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Pagliano, Bryan M (1976- )", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Clinton, Hillary Rodham", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "persons"
+    }, 
+    {
+      "value": "E-Mail", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Matt", 
+        "lastname": "APUZZO"
+      }
+    ], 
+    "original": "By MATT APUZZO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-04T00:00:00Z", 
+  "section_name": "U.S."
+}

@@ -1,0 +1,74 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A malware specialist said the software used in an attack on Google contained a module based on an algorithm from a Chinese-authored technical paper.", 
+  "headline": {
+    "seo": "Chinese Fingerprints Said to Be Found in Google Attacks", 
+    "main": "Evidence Found for Chinese Attack on Google", 
+    "print_headline": "New Claim Of Evidence In Google\u2019s China Case"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "371", 
+  "_id": "5438128038f0d83c143b8440", 
+  "snippet": "A malware specialist said the software used in an attack on Google contained a module based on an algorithm from a Chinese-authored technical paper.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/20/technology/20cyber.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "China", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Google Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "SecureWorks", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-20T00:00:00Z", 
+  "section_name": "Technology"
+}

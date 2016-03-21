@@ -1,0 +1,56 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Even the network operators that run the backbone of the Internet are worried about the increasing scale of attacks.", 
+  "headline": {
+    "seo": "Internet Attacks Are Growing More Potent and Complex", 
+    "main": "Internet Attacks Grow More Potent", 
+    "print_headline": "Internet Attacks Are Growing More Potent and Complex"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "602", 
+  "_id": "5479f09038f0d86bf59300b5", 
+  "snippet": "Even the network operators that run the backbone of the Internet are worried about the increasing scale of attacks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/11/10/technology/internet/10attacks.html", 
+  "multimedia": [], 
+  "subsection_name": "Internet", 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Viruses", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-11-10T00:00:00Z", 
+  "section_name": "Technology"
+}

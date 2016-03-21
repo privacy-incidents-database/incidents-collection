@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The companies say the new version of Windows hinders them and steers users to Microsoft\u2019s security offerings.", 
+  "headline": {
+    "main": "Security Software Makers Upset Over Windows Vista", 
+    "print_headline": "Security Software Makers Upset Over Windows Vista"
+  }, 
+  "abstract": null, 
+  "print_page": "2", 
+  "word_count": "869", 
+  "_id": "54a39c0038f0d80267d29726", 
+  "snippet": "The companies say the new version of Windows hinders them and steers users to Microsoft\u2019s security offerings.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/10/04/technology/04soft.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Microsoft Corp", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Software", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "McAfee, Incorporated", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Steve", 
+        "lastname": "LOHR"
+      }
+    ], 
+    "original": "By STEVE LOHR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-10-04T00:00:00Z", 
+  "section_name": "Technology"
+}

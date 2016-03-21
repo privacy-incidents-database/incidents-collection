@@ -1,0 +1,25 @@
+U.S. Warns PC Users of Flaw in Windows - New York Times
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/yr/mo/day/business/10warn.html, targetedPage: www.nytimes.com/yr/mo/day/business, position: Bar1
+The Department of Homeland Security issued an unusual security alert yesterday, warning users of Windows-based personal computers to patch a flaw in the
+Department of Homeland Security Release on the Virus Warning
+On Tuesday, Microsoft issued its monthly list of security flaws, including one that the company rated critical. It said an attacker who exploited the vulnerability could take complete control of an affected system. That would make it possible to install malicious programs or to change or delete data.Yesterday the Department of Homeland Security said in a news release that it was urging anyone who used Windows software to install the patch as soon as possible. The department said its Computer Emergency Readiness Team was working with Microsoft to minimize the impact of the vulnerability.The department considered it prudent to advise the public using Microsoft operating systems to take this action, said Russ Knocke, a department spokesman. Its a proactive and prudent measure the department has chosen to take.Computer security experts said the flaw was similar to one exploited in 2003 by the MSBlast worm, which struck corporate computer systems, brought network traffic to a halt and compromised company data. It was among the most damaging computer viruses to date.Several computer security software firms said yesterday that they had already begun to see software tool kits that exploited the vulnerability, and Microsoft officials noted that they had seen some limited attacks.
+Related ArticlesAt Microsoft, Interlopers Sound Off On Security(October 17, 2005)PRACTICAL TRAVELER: LAPTOPS; Keeping Your Computer and Its Contents Safe(August 21, 2005)SUNDAY MONEY: INVESTING; In Mutual Funds, Risk Is One Thing and Security Quite Another(April 10, 2005)Graduate Cryptographers Unlock Code of 'Thiefproof' Car Key(January 29, 2005)
+Related SearchesComputer SecuritySecurity and Warning SystemsMicrosoft CorpHomeland Security Department
+Carrier Workers See Costs, Not Benefits, of Global Trade
+Mediator: The Mutual Dependence of Donald Trump and the News Media
+As Coals Future Grows Murkier, Banks Pull Financing
+Elliot Gant, Marketer of the Button-Down Shirt, Dies at 89
+Accusations of Sexism and Racism Shake Ad Agency and Industry
+Corner Office: Aaron Bell of AdRoll: The Truth May Hurt, but It Also Heals
+Retiring: Claims of Age Bias Rise, but Standards of Proof Are High
+Mediator: The Mutual Dependence of Donald Trump and the News Media
+Law Graduate Gets Her Day in Court, Suing Law School
+Carrier Workers See Costs, Not Benefits, of Global Trade
+As Coals Future Grows Murkier, Banks Pull Financing
+Hulk Hogan Awarded $115 Million in Privacy Suit Against Gawker
+Seeking Access to Facebook in China, Zuckerberg Courts Risks
+Legal Experts See Little Effect on News Media From Hulk Hogan Verdict
+Maria Sharapovas Admission Sends Her Sponsors Fleeing
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York Citys top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/business/10warn.html, targetedPage: www.nytimes.com/yr/mo/day/business, position: Inv1

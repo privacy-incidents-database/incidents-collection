@@ -1,0 +1,84 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The T.S.A. plans a test program that will provide preapproved passengers with boarding passes encoded with personal identification information.", 
+  "headline": {
+    "seo": "Another Trusted Traveler Program to Be Tested - On the Road", 
+    "main": "Trying to Revive Trusted Traveler Program", 
+    "kicker": "On the Road", 
+    "print_headline": "Trying to Revive Trusted Traveler Program", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": "691", 
+  "_id": "5410747938f0d87641c68feb", 
+  "snippet": "The T.S.A. plans a test program that will provide preapproved passengers with boarding passes encoded with personal identification information.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/07/19/business/another-trusted-traveler-program-to-be-tested-on-the-road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/07/19/business/Road/Road-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/07/19/business/Road/Road-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Business Travel", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-07-19T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -15,7 +15,7 @@ def get_args():
     parser.add_argument('-k', '--keywords', nargs = '+', metavar = 'N', help = 'Keywords for fetching the Articles')
     parser.add_argument('-l', '--limit', type = int, help = 'Limit of the number of Articles to be fetched, must be a multiple of 10')
     parser.add_argument('-j', '--json',type = str, help = 'Name of the Json file containing the urls')
-    
+
     args = parser.parse_args()
     return args
 
@@ -89,7 +89,7 @@ def get_articles(hits):
                         #Extract the file name from the url
                         filename = d['web_url'].rsplit('/', 1)[1]
                         filename = filename.rsplit('.', 1)[0]
-                        folderName = args.destination
+                        folderName = "dat/"+args.destination
                         if not os.path.exists(folderName):
                             os.makedirs(folderName)
 
@@ -171,7 +171,7 @@ def clean(string, **kwargs):
     # find start point according to lead_paragraph
 
     # Get folder name to store the articles
-    folderName = args.destination
+    folderName = "dat/"+args.destination
     if not os.path.exists(folderName):
         os.makedirs(folderName)
     wr = open("%s/%s.txt" % (folderName, filename), 'w')  # write into txt file.

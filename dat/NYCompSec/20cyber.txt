@@ -1,0 +1,26 @@
+Chinese Fingerprints Said to Be Found in Google Attacks - NYTimes.com
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/yr/mo/day/technology/20cyber.html, targetedPage: www.nytimes.com/yr/mo/day/technology, position: Bar1
+SAN FRANCISCO  An American computer security researcher has found what he says he believes is strong evidence of the digital fingerprints of Chinese authors in the software programs used in attacks against Google.
+China to Scan Text Messages to Spot Unhealthy Content
+Companies Fight Endless War Against Computer Attacks
+The search engine giant announced last Tuesday that it had experienced a series of Internet break-ins it believed were of Chinese origin. The companys executives did not, however, detail the evidence leading them to the conclusion that the Chinese government was behind the attacks, beyond stating that e-mail accounts of several Chinese human rights activists had been compromised.In the week since the announcement, several computer security companies have made claims supporting Googles suspicions, but the evidence has remained circumstantial.Now, by analyzing the software used in the break-ins against Google and dozens of other companies, Joe Stewart, a malware specialist with SecureWorks, a computer security company based in Atlanta, said he
+determined the main program used in the attack contained a module based on an unusual algorithm from a Chinese technical paper that has been published exclusively on Chinese-language Web sites. The malware at the heart of the Google attack is described by researchers as a Trojan horse that is intended to open a back door to a computer on the Internet. The program, called Hydraq by the computer security research community and intended to subvert computers that run different versions of the Windows operating system, was first noticed earlier this year.Mr. Stewart describes himself as a reverse engineer, one of a relatively small group of software engineers who disassemble malware codes in an effort to better understand the nature of the attacks that have been introduced by the computer underground, and now possibly by governments as well.If you look at the code in a debugger you see patterns that jump out at you, he said. In this case he discovered software code that represented an unusual algorithm, or formula, intended for error-checking transmitted data.He acknowledged that he could not completely rule out the possibility that the clue had been placed in the program intentionally by programmers from another government intent on framing the Chinese, but he said that was unlikely. Occams Razor suggests that the simplest explanation is probably the best one.
+A version of this article appeared in print on January 20, 2010, on page B4 of the New York edition.
+Past CoverageGoogle Asks Spy Agency to Look Into Cyberattacks(February 5, 2010)Hacking for Fun and Profit in China Underworld(February 2, 2010)China Issues Sharp Rebuke to U.S. Calls for an Investigation on Google Attacks(January 26, 2010)REUTERS BREAKINGVIEWS; A Good Place for Google's Cash(January 22, 2010)
+Amazon Leans on Government in Its Quest to Be a Delivery Powerhouse
+Bits: Flinging Emojis, Twitch Chatters Revel as Julia Child Cooks
+Its Discounted, but Is It a Deal? How List Prices Lost Their Meaning
+Breaking Down Apples iPhone Fight With the U.S. Government
+Tech Fix: Siri, Alexa and Other Virtual Assistants Put to the Test
+App Smart: Checklists and Tips to Help Streamline Spring Cleaning
+Amazon Leans on Government in Its Quest to Be a Delivery Powerhouse
+Apple's Latest Product Event Isn't Causing a Big Stir
+Apple Encryption Engineers, if Ordered to Unlock iPhone, Might Resist
+Fans Demand Details After Death of a 13-Year-Old YouTube Star
+Bits: Flinging Emojis, Twitch Chatters Revel as Julia Child Cooks
+Instagram May Change Your Feed, Personalizing It With an Algorithm
+ZTE Document Raises Questions About Huawei and Sanctions
+Twitter Rules Out Long Tweets, Sticking to 140-Character Limit
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York Citys top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/technology/20cyber.html, targetedPage: www.nytimes.com/yr/mo/day/technology, position: Inv1

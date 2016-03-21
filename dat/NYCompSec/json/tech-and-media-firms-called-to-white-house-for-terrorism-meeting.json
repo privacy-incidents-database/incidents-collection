@@ -1,0 +1,123 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The White House summoned executives from social media and entertainment to Washington for talks on countering recruiting efforts by extremists.", 
+  "headline": {
+    "main": "U.S. Asks Tech and Entertainment Industries Help in Fighting Terrorism", 
+    "print_headline": "U.S. Asks Tech and Entertainment Industries to Aid Antiterror Efforts"
+  }, 
+  "abstract": "Justice Dept officials meet with executives of big technology and entertainment companies, hoping to enlist their help to fight terrorist groups online; aim to merge federal and private sector tactics on national security, and urge private companies to curb use of social media platforms by suspected terrorists. ", 
+  "print_page": "5", 
+  "word_count": "591", 
+  "_id": "56cddcf138f0d838c6ea4e13", 
+  "snippet": "The White House summoned executives from social media and entertainment to Washington for talks on countering recruiting efforts by extremists.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/25/technology/tech-and-media-firms-called-to-white-house-for-terrorism-meeting.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/24/business/0225deptjjpg/0225deptjjpg-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/24/business/0225deptjjpg/0225deptjjpg-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/24/business/0225deptjjpg/0225deptjjpg-articleLarge.jpg", 
+      "height": 426, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/24/business/0225deptjjpg/0225deptjjpg-articleLarge.jpg", 
+        "xlargeheight": "426"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/24/business/0225deptjjpg/0225deptjjpg-thumbStandard-v2.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/24/business/0225deptjjpg/0225deptjjpg-thumbStandard-v2.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Social Media", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Washington (DC)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Cecilia", 
+        "lastname": "KANG"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Matt", 
+        "lastname": "APUZZO"
+      }
+    ], 
+    "original": "By CECILIA KANG and MATT APUZZO"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-25T00:00:00Z", 
+  "section_name": "Technology"
+}

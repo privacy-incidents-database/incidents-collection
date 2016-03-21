@@ -1,0 +1,95 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "A customer of a security-alarm company says she thought she had ended her contract \u2014 but then the bills kept coming.", 
+  "headline": {
+    "main": "So You Thought You Canceled the Contract", 
+    "kicker": "The Haggler", 
+    "print_headline": "So You Thought You Canceled the Contract", 
+    "content_kicker": "The Haggler"
+  }, 
+  "abstract": "David Segal The Haggler column describes how a customer of security-alarm company Security Networks says she thought she had ended her contract but then the bills kept coming; Haggler intervenes.", 
+  "print_page": "3", 
+  "word_count": "906", 
+  "_id": "51e19d4d7e0d9c0839d2f9c3", 
+  "snippet": "A customer of a security-alarm company says she thought she had ended her contract \u2014 but then the bills kept coming.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/07/14/your-money/so-you-thought-you-canceled-the-contract.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/07/14/business/14-HAGGLER/14-HAGGLER-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/07/14/business/14-HAGGLER/14-HAGGLER-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/07/14/business/14-HAGGLER/14-HAGGLER-articleLarge.jpg", 
+      "height": 473, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/07/14/business/14-HAGGLER/14-HAGGLER-articleLarge.jpg", 
+        "xlargeheight": "473"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2013/07/14/business/14-HAGGLER/14-HAGGLER-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2013/07/14/business/14-HAGGLER/14-HAGGLER-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Networks LLC", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Consumer Protection", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "David", 
+        "lastname": "SEGAL"
+      }
+    ], 
+    "original": "By DAVID SEGAL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-07-14T00:00:00Z", 
+  "section_name": "Your Money"
+}

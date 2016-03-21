@@ -1,0 +1,56 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Companies rushed to accept an offer from RSA Security to replace SecurID tokens, used to safeguard access to computer networks, after RSA admitted the tokens\u2019 vulnerability.", 
+  "headline": {
+    "seo": "RSA Security Faces Angry Users Over Breach", 
+    "main": "RSA Faces Angry Users After Breach", 
+    "print_headline": "RSA Faces Angry Users After Breach"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1269", 
+  "_id": "540e836338f0d863ce5a4eaf", 
+  "snippet": "Companies rushed to accept an offer from RSA Security to replace SecurID tokens, used to safeguard access to computer networks, after RSA admitted the tokens\u2019 vulnerability.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/08/business/08security.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "RSA, The Security Division of EMC Corporation", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Hackers (Computers)", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Reporting was contributed by Verne G. Kopytoff, Riva Richmond and Eric Dash.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nelson"
+      }
+    ], 
+    "original": "By NELSON D. SCHWARTZ and CHRISTOPHER DREW"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-08T00:00:00Z", 
+  "section_name": "Business Day"
+}

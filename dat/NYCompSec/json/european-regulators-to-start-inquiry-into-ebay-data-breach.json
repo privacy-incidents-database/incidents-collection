@@ -1,0 +1,55 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Regulators will begin an investigation into the online market after hackers gained access to the personal data of 145 million customers.", 
+  "headline": {
+    "main": "European Regulators to Start Inquiry Into eBay Data Breach"
+  }, 
+  "abstract": null, 
+  "print_page": "", 
+  "word_count": "495", 
+  "_id": "537f7fa238f0d876e12a9fa6", 
+  "snippet": "Regulators will begin an investigation into the online market after hackers gained access to the personal data of 145 million customers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/05/24/technology/european-regulators-to-start-inquiry-into-ebay-data-breach.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "eBay Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Mark", 
+        "lastname": "SCOTT"
+      }
+    ], 
+    "original": "By MARK SCOTT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-05-24T00:00:00Z", 
+  "section_name": "Technology"
+}

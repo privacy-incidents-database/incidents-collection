@@ -1,0 +1,79 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "The prisoners were considered some of the most dangerous men among the hundreds of terror suspects locked behind the walls of a secretive and secure American military detention center in Bagram, Afghanistan. Their escape, however, might as well have been a breakout from the county jail.", 
+  "headline": {
+    "main": "Details Emerge on a Brazen Escape in Afghanistan", 
+    "kicker": "THE REACH OF WAR: SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": 1646, 
+  "_id": "4fd24e718eb7c8105d7efe2f", 
+  "snippet": "The escape of four terror suspects may have been a far more serious breach than the Defense Department has acknowledged.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2005/12/04/international/asia/04escape.html", 
+  "multimedia": [
+    {
+      "url": "images/2005/12/03/international/04escape.752.jpg", 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "hasthumbnail": "Y", 
+        "thumbnailheight": 75, 
+        "thumbnail": "images/2005/12/03/international/04escape.752.jpg"
+      }, 
+      "type": "image", 
+      "height": 75
+    }, 
+    {
+      "subtype": "tiny_thumb", 
+      "legacy": {
+        "tinythumbwidth": 55, 
+        "tinythumbheight": 55, 
+        "hastinythumb": "Y"
+      }, 
+      "type": "image", 
+      "width": 55, 
+      "height": 55
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "AFGHANISTAN"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRISONS AND PRISONERS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Eric", 
+        "rank": 1, 
+        "lastname": "SCHMITT"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Tim", 
+        "rank": 2, 
+        "lastname": "GOLDEN"
+      }
+    ], 
+    "original": "By ERIC SCHMITT and TIM GOLDEN; Sultan M. Munadi and Abdul Waheed Wafa contributed reporting from Bagram, Afghanistan for this article"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2005-12-04T00:00:00Z", 
+  "section_name": "World"
+}

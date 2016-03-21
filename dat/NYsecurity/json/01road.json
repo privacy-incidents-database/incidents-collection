@@ -1,0 +1,96 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "New laptop bags approved by the Transportation Security Administration make it possible to go through X-ray inspection without having to take the laptop out.", 
+  "headline": {
+    "seo": "New Bag Helps Laptop Pass Airport Security", 
+    "main": "Bag Helps Laptop Pass Air Security", 
+    "kicker": "On the Road", 
+    "print_headline": "Bag Helps Laptop Pass Air Security", 
+    "content_kicker": "On the Road"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "967", 
+  "_id": "5482b08638f0d8403d9ccba8", 
+  "snippet": "New laptop bags approved by the Transportation Security Administration make it possible to go through X-ray inspection without having to take the laptop out.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/07/01/business/01road.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2008/07/01/business/01road-inline-75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2008/07/01/business/01road-inline-75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Laptop Computers", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Luggage", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Executives and Management", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-07-01T00:00:00Z", 
+  "section_name": "Business Day"
+}

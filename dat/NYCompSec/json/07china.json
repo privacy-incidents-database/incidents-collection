@@ -1,0 +1,69 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Charges that Chinese hackers singled out influential users of Gmail were met with withering scorn in an editorial published in the official party newspaper.", 
+  "headline": {
+    "seo": "China Rejects Google&#8217;s Accusation of Hacking", 
+    "main": "China Rejects Google\u2019s Hacking Charge", 
+    "print_headline": "China\u2019s Party Newspaper Belittles Google\u2019s Hacking Claim"
+  }, 
+  "abstract": null, 
+  "print_page": "5", 
+  "word_count": "609", 
+  "_id": "540e74d138f0d863ce5a4db3", 
+  "snippet": "Charges that Chinese hackers singled out influential users of Gmail were met with withering scorn in an editorial published in the official party newspaper.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/07/world/asia/07china.html", 
+  "multimedia": [], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "Hackers (Computers)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Google Inc", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Communist Party of China", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Xiyun Yang contributed research from Beijing, and Claire Cain Miller contributed reporting from San Francisco.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael", 
+        "lastname": "WINES"
+      }
+    ], 
+    "original": "By MICHAEL WINES"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-07T00:00:00Z", 
+  "section_name": "World"
+}

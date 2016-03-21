@@ -1,0 +1,94 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "John Pistole said he was happy to take the heat from lawmakers and the flying public if it meant keeping travelers safe.", 
+  "headline": {
+    "seo": "John Pistole, T.S.A. Chief, Defends Airport Practices", 
+    "main": "T.S.A. Chief Visits Airport to Buck Up Employees and Defend Tactics", 
+    "print_headline": "T.S.A. Chief Visits Airport to Buck Up Employees and Defend Tactics"
+  }, 
+  "abstract": null, 
+  "print_page": "24", 
+  "word_count": "1100", 
+  "_id": "5420fa0e38f0d81f7a600d4e", 
+  "snippet": "John Pistole said he was happy to take the heat from lawmakers and the flying public if it meant keeping travelers safe.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/11/25/us/politics/25pistole.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2010/11/25/us/PISTOLE/PISTOLE-articleLarge.jpg", 
+      "height": 350, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/11/25/us/PISTOLE/PISTOLE-articleLarge.jpg", 
+        "xlargeheight": "350"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2010/11/25/us/PISTOLE/PISTOLE-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/11/25/us/PISTOLE/PISTOLE-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Pistole, John S", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Airports", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Ashley", 
+        "rank": 1, 
+        "lastname": "PARKER"
+      }
+    ], 
+    "original": "By ASHLEY PARKER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-11-25T00:00:00Z", 
+  "section_name": "U.S."
+}

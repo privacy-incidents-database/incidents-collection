@@ -1,0 +1,106 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The Department of Homeland Security has failed to require airlines to share the data before flights depart for the United States.", 
+  "headline": {
+    "main": "Plot Shows Need for More Passenger Data, Officials Say", 
+    "print_headline": "U.S. Officials Say Plot Shows Need for More Sharing of Passenger Data", 
+    "content_kicker": "Airline Security"
+  }, 
+  "abstract": null, 
+  "print_page": "13", 
+  "word_count": "1026", 
+  "_id": "54b0dab438f0d8367c84276c", 
+  "snippet": "The Department of Homeland Security has failed to require airlines to share the data before flights depart for the United States.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/15/world/europe/15visa.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/08/15/world/15visa.xlarge1.jpg", 
+      "height": 320, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/08/15/world/15visa.xlarge1.jpg", 
+        "xlargeheight": "320"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/08/15/world/15visa.751.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/08/15/world/15visa.751.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LIPTON"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Scott", 
+        "lastname": "SHANE"
+      }
+    ], 
+    "original": "By ERIC LIPTON and SCOTT SHANE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-15T00:00:00Z", 
+  "section_name": "World"
+}

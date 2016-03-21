@@ -1,0 +1,75 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "One of the world\u2019s most prominent cryptographers warned about a hypothetical scenario that could place the security of the global electronic commerce system at risk.", 
+  "headline": {
+    "main": "Adding Math to List of Security Threats", 
+    "sub": "Electronic Security  Could Be at Risk;", 
+    "print_headline": "Adding Math to List of Security Threats"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "559", 
+  "_id": "5487d4a738f0d8602128e8d5", 
+  "snippet": "One of the world\u2019s most prominent cryptographers warned about a hypothetical scenario that could place the security of the global electronic commerce system at risk.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/11/17/technology/17code.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2007/11/17/business/17code.75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2007/11/17/business/17code.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Codes (Ciphers)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Software", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Shamir, Adi", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "John", 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-11-17T00:00:00Z", 
+  "section_name": "Technology"
+}

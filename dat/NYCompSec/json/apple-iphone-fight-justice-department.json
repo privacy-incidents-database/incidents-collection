@@ -1,0 +1,130 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The Justice Department said \u201cno single corporation\u201d \u2014 even one as successful as Apple \u2014 should be allowed to flout the rule of law.", 
+  "headline": {
+    "main": "Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight", 
+    "print_headline": "Apple\u2019s Fight With U.S. Turns Up the Volume"
+  }, 
+  "abstract": "Justice Dept, in new court filing, argues that not even company as large as Apple can be allowed to defy law by refusing to help Federal Bureau of Investigation unlock iPhone used by San Bernardino gunman; Apple reacts with anger and emotional rebuke to what it says is brief laden with false accusations of company's intent.", 
+  "print_page": "1", 
+  "word_count": "1006", 
+  "_id": "56e1e7e838f0d87369b23fa2", 
+  "snippet": "The Justice Department said \u201cno single corporation\u201d \u2014 even one as successful as Apple \u2014 should be allowed to flout the rule of law.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/11/technology/apple-iphone-fight-justice-department.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/11/world/11APPLE-web1/11APPLE-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/11/world/11APPLE-web1/11APPLE-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/11/world/11APPLE-web1/11APPLE-web1-articleLarge.jpg", 
+      "height": 404, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/11/world/11APPLE-web1/11APPLE-web1-articleLarge.jpg", 
+        "xlargeheight": "404"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/11/world/11APPLE-web1/11APPLE-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/11/world/11APPLE-web1/11APPLE-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Justice Department", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Farook, Syed Rizwan", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "Eric Lichtblau reported from Washington and Katie Benner from San Francisco.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Eric", 
+        "lastname": "LICHTBLAU"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }
+    ], 
+    "original": "By ERIC LICHTBLAU and KATIE BENNER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-11T00:00:00Z", 
+  "section_name": "Technology"
+}

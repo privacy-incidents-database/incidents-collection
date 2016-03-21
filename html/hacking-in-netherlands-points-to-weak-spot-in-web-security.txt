@@ -1,0 +1,649 @@
+
+  
+
+
+
+
+Hacking in Netherlands Points to Weak Spot in Web Security - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Technology|Hacking in Netherlands Points to Weak Spot in Web Security
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Technology 
+Hacking in Netherlands Points to Weak Spot in Web Security
+
+By KEVIN J. O’BRIENSEPT. 12, 2011
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+BERLIN — In the Netherlands, the daily rhythm of a smooth running European society was disrupted after a computer hacker stole a series of files that guaranteed the legitimacy of major government Web sites, and in the process, exploited a weakness in the global Internet.Consumers last week were advised to avoid online transactions with Dutch retailers, and, for a time, online banking. Passport applicants and those wishing to submit income tax returns scrambled to fire up dormant fax machines or lined up at local post offices.In the placid capital city, The Hague, government computer administrators checked thousands of computer servers to determine the extent of the damage caused by the anonymous hacker, who in Web postings claims to be an Iranian saboteur motivated by geopolitical gain.“This is the Dutch equivalent of Hurricane Irene,” said Calum MacLeod, the director in Europe for Venafi, a U.S. company whose software helps companies like Cisco manage the class of digital files called security certificates targeted by the hacker in the Netherlands.Mr. MacLeod said the attack on the Dutch government’s preferred provider of security certificates, DigiNotar, a company in Beverwijk, near Amsterdam, exposed the fragility of the global system of digital authentication that undergirds the Internet.
+
+Advertisement
+
+Continue reading the main story
+
+“What happened at DigiNotar appears to be the result of poor internal controls and a determined hacker,” Mr. MacLeod, who lives in Eindhoven, the Netherlands, said. “But as this kind of event becomes commonplace, the whole Internet could be undermined.”In the case of DigiNotar, which is owned by a company in Illinois, Vasco Data Security International, the hacker masqueraded as the legitimate owner of a range of Web addresses, not just of Dutch government sites but also of global companies like Google and Yahoo.Remotely, apparently from a computer address in Russia, he compelled DigiNotar to generate digital seals of approval for those Web sites, so-called security certificates, that could be displayed in the address lines of Web browsers as vouchers of the sites’ authenticity.The phony sites were then used in Iran to spy on as many as 300,000 people, according to a report by a security firm, Fox-IT, that was hired by the Dutch government. Google also detected the phony certificates circulating in Iran and advised its users last week to change their passwords and be alert for unfamiliar Web addresses.But DigiNotar is just one of an estimated 650 companies and government entities that control the flow digital security certificates. The proliferation of issuers has amplified the risks of hacking break-ins, an expert said.“The levels of internal security controls used by issuers varies enormously, and therein lies the problem,” said Peter Eckersley, a director at the Electronic Frontier Foundation, a digital civil liberties group in San Francisco that has studied the sector. “I suspect that it will be technologically challenging over the next few years to fix these problems.”In 2010, the Electronic Frontier Foundation studied the security certificates residing on public Web servers to compile the first comprehensive inventory of certificate issuers called the SSL Observatory. The name refers to the Secure Socket Layer protocol language certificates use to guarantee the legitimacy of Web sites and addresses.Currently, there are 1,500 certificate issuers, Mr. Eckersley said. The biggest are U.S. companies: VeriSign, a unit of Symantec in Mountain View, California; GoDaddy, based in Scottsdale, Arizona; Atlanta-based Equifax; and Comodo, a company in Jersey City, New Jersey. But the list also includes governments, like Tunisia and the United Arab Emirates, which used its vouching authority to help plant spyware in BlackBerrys during the recent Arab Spring uprising.
+
+Advertisement
+
+Continue reading the main story
+
+“If I were the chief security officer at a major company, I should be aware that there are about 50 countries where this technology could be used to eavesdrop on my employees,” Mr. Eckersley said.The Dutch attack appears to have been perpetrated by the same hacker who obtained fraudulent certificates in March from an Italian partner of Comodo, and who tried to do the same from an Israeli issuer, StartCom, in June.Comodo at the time said it quickly “revoked” the fraudulent certificates and resumed operations. Comodo executives did not respond last week to a request for an interview. StartCom said it was able to foil the attack this summer on one of its servers, and no certificates were issued. The attack shut down StartCom for eight days.Last week, the DigiNotar hacker identified himself as “Comodohacker” on a Web bulletin board, and boasted that he had also penetrated the systems of four other certificate issuers. He named only one: GlobalSign, a Belgian company.On Friday, GlobalSign confirmed that one of its Web sites, but not its internal system, had been compromised.Eddy Nigg, the founder of StartCom, said he never thought he would end up on the front lines of a cyberwar when he started StartCom six years ago in Eilat, Israel.“I’m lined up today in a war that hasn’t much to do with me nor my intentions,” Mr. Nigg said. “A new era has begun, determined to circumvent military-grade encryption by compromising the issuers of the digital certificates. It’s a declared cyberwar.”A Stockholm-based spokeswoman for Symantec, which owns the market leader VeriSign’s Internet security business, said the company so far had not detected any security breach to its systems.
+
+Advertisement
+
+Continue reading the main story
+
+“There is a big difference in the level of security and best practices implemented when it comes to top-tier versus second- and third-tier certificate authorities,” said Cecilia Lundin. “We believe that the security strength of our operations is an important part of the value our customers get when they buy their certificates from us.”But security breaches, which can also undermine a company’s commercial reputation, are not always routinely reported, said Mr. Eckersley, the Electronic Frontier Foundation executive. The foundation last year found evidence of 55 cases of hacking into the systems of security certificate issuers, he said, most of which were never reported publicly.The foundation uncovered the incidents, Mr. Eckersley said, after it scrutinized “certificate revocation list” files that are embedded in the protocol language of security certificates, which advise whether another issuer’s vouchers should be trusted.
+
+A version of this article appears in print on September 13, 2011, in The International Herald Tribune.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

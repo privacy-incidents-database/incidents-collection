@@ -1,0 +1,804 @@
+
+  
+
+
+
+
+Apple and Justice Dept. Trade Barbs in iPhone Privacy Case - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Technology|Apple and Justice Dept. Trade Barbs in iPhone Privacy Case
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/1UxhGiW
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Technology 
+Apple and Justice Dept. Trade Barbs in iPhone Privacy Case
+
+By KATIE BENNER and ERIC LICHTBLAUMARCH 15, 2016
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+Tim Cook, Apple’s chief executive. In a legal brief, Apple said the government’s methods were “contrary to the rule of law.”
+
+Credit
+            Robert Galbraith/Reuters        
+
+
+SAN FRANCISCO — Apple on Tuesday emphasized its opposition to a court order requiring it to help unlock an iPhone for law enforcement purposes, saying in a new legal brief that the government’s “methods for achieving its objectives are contrary to the rule of law, the democratic process and the rights of the American people.”The company’s argument quickly drew a response from the Justice Department, which upbraided Apple for trying to stand above the law. “The Constitution and the three branches of the federal government should be entrusted to strike the balance between each citizen’s right to privacy,” a Justice Department spokeswoman, Emily Pierce, said in a statement. “The Constitution and the laws of the United States do not vest that power in a single corporation.”The latest volleys between Apple and the Justice Department represent a final cementing of positions in a case that has pitted the world’s largest company against the government, which wants to extract data from an iPhone used by a gunman in the San Bernardino, Calif., terrorist attack last December. Apple has refused to comply with the order and its filing on Tuesday was the last before a crucial hearing in the case, which is scheduled for March 22 before Magistrate Judge Sheri Pym of the Federal District Court for the Central District of California.The case has set off a fierce debate over privacy and security, with heated arguments between Apple and the government. Apple has contended that the court order could have grave consequences for digital security and privacy. The Justice Department has said Apple’s inability to get into its smartphones has created a system tailor-made for criminals.For the last few weeks, the two sides have stumped for their positions before Congress and in the court of public opinion. Each side has asked Congress to decide under what circumstances the government may see private customer data. President Obama said last week  that law enforcement authorities must be legally able to collect information from smartphones and other electronic devices.
+
+Advertisement
+
+Continue reading the main story
+
+In its legal filing Tuesday, Apple tried to move the debate from an intense and personal tone and refocus attention on what it said it sees as the matter at hand, a fight over civil liberties and data privacy. The issue cannot be weighed without taking into account the larger national debate over data privacy concerns, Apple said.“The Justice Department and F.B.I. argue that this court must decide this issue in a vacuum,” the company said in its brief. “The court not only can consider this broader context, it must do so.” 
+
+
+
+                Breaking Down Apple’s iPhone Fight With the U.S. Government            
+
+                The technology company has been locked in a major legal battle against law enforcement officials over privacy and security.            
+
+
+
+
+
+
+
+
+
+
+
+Apple’s filing on Tuesday also reiterated points the company made last month when it asked the court to drop its order, contending that the request would “inflict significant harm — to civil liberties, society and national security — and would pre-empt decisions that should be left to the will of the people through laws passed by Congress and signed by the president.”The filing emphasized the constitutional arguments that Apple has made, specifically that the court order violates the company’s constitutional right to free speech and subjects it to “arbitrary deprivation” of its liberty by the government.Apple also repeated its argument that the government was overstepping its bounds by seeking to force the company to break into the iPhone using a statute called the All Writs Act, which dates to 1789. Apple has said the government is interpreting the law too broadly, and re-emphasized that point on Tuesday.“The All Writs Act cannot be stretched to fit this case,” Apple said.The filing was less fiery than the brief filed in the case last Thursday by the Justice Department, which suggested Apple was refusing to comply with the government while secretly conducting a different, special relationship with China. Apple’s general counsel, Bruce Sewell, has said that the accusations were baseless and cited unnamed sources.Apple’s brief on Tuesday, while less angry in tone, did seek to put to rest what its lawyers called the government’s most inflammatory claims about the company’s relationship with China and its use of privacy as a marketing tool. To buttress its defense, Apple cited declarations from Craig Federighi, its senior vice president for software engineering, and Robert Ferrini, its senior director for worldwide advertising and planning.“Apple uses the same security protocols everywhere in the world,” Mr. Federighi said in his declaration filed Tuesday. “Apple has never made user data, whether stored on the iPhone or in iCloud, more technologically accessible to any country’s government. We believe any such access is too dangerous to allow.”
+
+Advertisement
+
+Continue reading the main story
+
+Mr. Ferrini also disputed the government’s contention that Apple was using privacy as a marketing tool. Of Apple’s approximately 1,793 advertisements worldwide, he said, “not a single one has ever advertised or promoted the ability of Apple’s software to block law enforcement requests for access to the contents of Apple devices.”Any decision by Judge Pym is likely to be appealed and could reach the Supreme Court, which has issued a mixed set of rulings in recent years on the scope of the government’s powers to collect evidence.“We look forward to responding to Apple’s arguments before the court next week,” said Ms. Pierce of the Justice Department.
+
+Katie Benner reported from San Francisco and Eric Lichtblau from Washington.
+A version of this article appears in print on March 16, 2016, on page B1 of the New York edition with the headline: Justice Dept. and Apple Trade Barbs Over Law.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+
+
+
+NEWS ANALYSIS 
+
+In the Apple Case, a Debate Over Data Hits Home
+MARCH 13, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight
+MARCH 10, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice Dept. Appeals Ruling in Apple iPhone Case in Brooklyn
+MARCH 7, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+NEWS ANALYSIS 
+
+In the Apple Case, a Debate Over Data Hits Home
+MARCH 13, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight
+MARCH 10, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+Justice Dept. Appeals Ruling in Apple iPhone Case in Brooklyn
+MARCH 7, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

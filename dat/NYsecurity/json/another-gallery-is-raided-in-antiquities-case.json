@@ -1,0 +1,91 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Culture", 
+  "lead_paragraph": "Three items seized from a Manhattan gallery were valued at nearly $1 million.", 
+  "headline": {
+    "main": "Another Gallery Is Raided \u00adin Antiquities Case"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "303", 
+  "_id": "56ec79cd38f0d866ee62162e", 
+  "snippet": "Three items seized from a Manhattan gallery were valued at nearly $1 million.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/19/arts/design/another-gallery-is-raided-in-antiquities-case.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/19/arts/19SEIZE/19SEIZE-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/19/arts/19SEIZE/19SEIZE-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/19/arts/19SEIZE/19SEIZE-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/19/arts/19SEIZE/19SEIZE-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Art & Design", 
+  "keywords": [
+    {
+      "value": "Art", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Arts and Antiquities Looting", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Asia Week", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Immigration and Customs Enforcement (US)", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Tom", 
+        "lastname": "MASHBERG"
+      }
+    ], 
+    "original": "By TOM MASHBERG"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-19T00:00:00Z", 
+  "section_name": "Arts"
+}

@@ -1,0 +1,93 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Since Michael Hicks was 2, he has been frisked and his family delayed at almost every airport they have entered.", 
+  "headline": {
+    "seo": "Mikey Hicks, 8, Can\u2019t Get Off U.S. Terror Watch List", 
+    "main": "Meet Mikey, 8: U.S. Has Him on Watch List", 
+    "print_headline": "Meet Mikey, 8: U.S. Has Him On Watch List"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1106", 
+  "_id": "5424c5ee38f0d8525e453d7a", 
+  "snippet": "Since Michael Hicks was 2, he has been frisked and his family delayed at almost every airport they have entered.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/14/nyregion/14watchlist.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/01/14/nyregion/14watchlist_CA0/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/01/14/nyregion/14watchlist_CA0/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "United States", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Children and Youth", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "8", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Lizette", 
+        "rank": 1, 
+        "lastname": "ALVAREZ"
+      }
+    ], 
+    "original": "By LIZETTE ALVAREZ"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-14T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

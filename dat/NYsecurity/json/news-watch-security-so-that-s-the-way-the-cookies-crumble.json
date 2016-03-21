@@ -1,0 +1,59 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Circuits", 
+  "lead_paragraph": "In these days of worms, Trojan horse attachments and other security threats delivered through the Internet, the personal computer can seem like a medieval castle under siege. Fireball CyberProtection Suite from Red Cannon Security offers several weapons for the defense arsenal so you will not have to dig a moat around your desk. The suite includes a firewall program with security controls for both novices and advanced users as well as a set of privacy-protection features that can monitor incoming and outgoing e-mail, smash snoopy browser cookies, block Javascript code and pop-up ads, and filter content from Web sites. Parental control functions within the software can be used to monitor and restrict a child's use of the Internet. Telecommuters and others connecting to corporate systems from home or a hotel can use the virtual private network program that comes in the software suite to keep their connections confidential.", 
+  "headline": {
+    "main": "So, That's the Way The Cookies Crumble", 
+    "kicker": "NEWS WATCH: SECURITY"
+  }, 
+  "abstract": "Fireball CyberProtection Suite from Red Cannon Security offers firewall with security controls for both novice and advanced users as well as privacy-protection features that monitor e-mail and advertising; photo (M)", 
+  "print_page": "3", 
+  "word_count": 224, 
+  "_id": "4fd296a28eb7c8105d8726b8", 
+  "snippet": "In these days of worms, Trojan horse attachments and other security threats delivered through the Internet, the personal computer can seem like a medieval castle under siege. Fireball CyberProtection Suite from Red Cannon Security offers several...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/10/02/technology/news-watch-security-so-that-s-the-way-the-cookies-crumble.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "RED CANNON SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ELECTRONIC MAIL"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ADVERTISING AND MARKETING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PRIVACY"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1
+      }
+    ], 
+    "original": "By J.D. Biersdorfer"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-10-02T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,102 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "SundayBusiness", 
+  "lead_paragraph": "How opponents of NASA background checks unwittingly became campaigners for workplace data privacy and security.", 
+  "headline": {
+    "seo": "If You\u2019re Collecting Our Data, You Ought to Protect It", 
+    "main": "If You\u2019re Collecting Our Data, You Ought to Protect It", 
+    "kicker": "Slipstream", 
+    "print_headline": "If You\u2019re Collecting Our Data, You Ought to Protect It", 
+    "content_kicker": "Slipstream"
+  }, 
+  "abstract": "Natasha Singer Slipstream column relates how Jet Propulsion Laboratory scientists, opponents of NASA background checks, unwittingly became campaigners for workplace data privacy and security.", 
+  "print_page": "4", 
+  "word_count": "1141", 
+  "_id": "511ff7c7cf28d009de000338", 
+  "snippet": "How opponents of NASA background checks unwittingly became campaigners for workplace data privacy and security.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2013/02/17/technology/if-youre-collecting-our-data-you-ought-to-protect-it.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2013/02/17/business/17-STREAM/17-STREAM-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2013/02/17/business/17-STREAM/17-STREAM-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2013/02/17/business/17-STREAM/17-STREAM-articleLarge.jpg", 
+      "height": 818, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2013/02/17/business/17-STREAM/17-STREAM-articleLarge.jpg", 
+        "xlargeheight": "818"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "National Aeronautics and Space Administration", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Jet Propulsion Laboratory", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Consumer Protection", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Nelson, Robert M", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Natasha", 
+        "lastname": "SINGER"
+      }
+    ], 
+    "original": "By NATASHA SINGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2013-02-17T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,128 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The change would relax longstanding restrictions on access to the contents of the phone calls and email the security agency vacuums up around the world.", 
+  "headline": {
+    "main": "Obama Administration Set to Expand Sharing of Data That N.S.A. Intercepts", 
+    "print_headline": "U.S. Set to Expand Sharing of Intercepted Calls and Email "
+  }, 
+  "abstract": "Obama administration is likely to relax restrictions prohibiting National Security Agency from sharing wider range of intercepted private communications, including voice and email, with other American intelligence agencies without initially screening information; civil liberties advocates say change will weaken privacy protections by allowing greater number of officials to see private messages to, from or about Americans, that were pulled into NSA files. ", 
+  "print_page": "15", 
+  "word_count": "1122", 
+  "_id": "56cfa18638f0d80b98a14c1a", 
+  "snippet": "The change would relax longstanding restrictions on access to the contents of the phone calls and email the security agency vacuums up around the world.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/26/us/politics/obama-administration-set-to-expand-sharing-of-data-that-nsa-intercepts.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/26/us/26surveillance/26surveillance-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/26/us/26surveillance/26surveillance-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/26/us/26surveillance/26surveillance-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/26/us/26surveillance/26surveillance-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/26/us/26surveillance/26surveillance-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/26/us/26surveillance/26surveillance-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "National Security Agency", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "E-Mail", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Wiretapping and Other Eavesdropping Devices and Methods", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Foreign Intelligence Surveillance Act (FISA)", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Civil Rights and Liberties", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "American Civil Liberties Union", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Charlie", 
+        "lastname": "SAVAGE"
+      }
+    ], 
+    "original": "By CHARLIE SAVAGE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-26T00:00:00Z", 
+  "section_name": "U.S."
+}

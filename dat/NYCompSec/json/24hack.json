@@ -1,0 +1,70 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Charges in Britain link Ryan Cleary, 19, to the group that has attacked the Web sites of the U.S. Senate, the Central Intelligence Agency, PBS and Sony.", 
+  "headline": {
+    "seo": "Arrest Puts Spotlight on Brazen Hacking Group LulzSec", 
+    "main": "Arrest Puts Spotlight on Brazen Hacking Group LulzSec", 
+    "print_headline": "British Police Charge Teenager in Connection With Hacking Attacks"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1079", 
+  "_id": "540f10fb38f0d863ce5a5917", 
+  "snippet": "Charges in Britain link Ryan Cleary, 19, to the group that has attacked the Web sites of the U.S. Senate, the Central Intelligence Agency, PBS and Sony.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/24/technology/24hack.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Hackers (Computers)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "LulzSec", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Riva Richmond contributed from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ravi", 
+        "lastname": "SOMAIYA"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Steve", 
+        "lastname": "LOHR"
+      }
+    ], 
+    "original": "By RAVI SOMAIYA and STEVE LOHR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-24T00:00:00Z", 
+  "section_name": "Technology"
+}

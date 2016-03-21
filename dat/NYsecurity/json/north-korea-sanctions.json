@@ -1,0 +1,122 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The move, following a claim by Pyongyang that it had tested a hydrogen bomb, is a major policy shift for Beijing toward its longtime ally.", 
+  "headline": {
+    "main": "U.S. and China Agree on Proposal for Tougher North Korea Sanctions", 
+    "print_headline": "China and U.S. Agree on North Korea Sanctions Resolution "
+  }, 
+  "abstract": "China reverses itself and comes to terms with United States on stricter sanctions against North Korea; recent nuclear test by Chinese ally prompted China's agreement to aggressive new round of restrictions, which experts hope will further pressure North Korea to abandon its nuclear ambitions; skeptics cite loopholes and fear lack of enforcement.", 
+  "print_page": "6", 
+  "word_count": "874", 
+  "_id": "56cf28e338f0d8622592d785", 
+  "snippet": "The move, following a claim by Pyongyang that it had tested a hydrogen bomb, is a major policy shift for Beijing toward its longtime ally.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/26/world/asia/north-korea-sanctions.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/26/world/26NATIONS-web1/26NATIONS-web1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/26/world/26NATIONS-web1/26NATIONS-web1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/26/world/26NATIONS-web1/26NATIONS-web1-articleLarge.jpg", 
+      "height": 428, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/26/world/26NATIONS-web1/26NATIONS-web1-articleLarge.jpg", 
+        "xlargeheight": "428"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/26/world/26NATIONS-web1/26NATIONS-web1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/26/world/26NATIONS-web1/26NATIONS-web1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "North Korea", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Nuclear Weapons", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Embargoes and Sanctions", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Nuclear Tests", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Somini", 
+        "lastname": "SENGUPTA"
+      }
+    ], 
+    "original": "By SOMINI SENGUPTA"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-26T00:00:00Z", 
+  "section_name": "World"
+}

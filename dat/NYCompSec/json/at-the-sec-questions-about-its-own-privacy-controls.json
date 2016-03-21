@@ -1,0 +1,78 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "NAT", 
+  "lead_paragraph": "Questions have been raised about the Securities and Exchange Commission\u2019s privacy controls after it began monitoring its employees\u2019 investments.", 
+  "headline": {
+    "seo": "At the S.E.C., Questions About Its Own Privacy Controls", 
+    "main": "It Guards the Markets, but What About Itself?", 
+    "kicker": "Slipstream", 
+    "print_headline": "It Guards The Markets, But What About Itself?", 
+    "content_kicker": "Slipstream"
+  }, 
+  "abstract": "Questions are raised about Securities and Exchange Commission's privacy controls for its employees' investments, after it warns its employees its contractor Financial Tracking Technologies granted access to SEC's database to a subcontractor and a consultant without SEC's authorization; privacy experts say warning should give pause to anyone submitting sensitive information to the government.", 
+  "print_page": "5", 
+  "word_count": "1008", 
+  "_id": "518a7afacf28d05efe00184d", 
+  "snippet": "Questions have been raised about the Securities and Exchange Commission\u2019s privacy controls after it began monitoring its employees\u2019 investments.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/10/23/business/at-the-sec-questions-about-its-own-privacy-controls.html", 
+  "multimedia": [
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2011/10/23/business/23stream-illo/23stream-illo-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2011/10/23/business/23stream-illo/23stream-illo-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Securities and Exchange Commission", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Government Employees", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Natasha", 
+        "lastname": "SINGER"
+      }
+    ], 
+    "original": "By NATASHA SINGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-10-23T00:00:00Z", 
+  "section_name": "Business Day"
+}

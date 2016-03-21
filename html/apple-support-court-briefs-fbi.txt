@@ -1,0 +1,943 @@
+
+  
+
+
+
+
+Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I. - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Technology|Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/24EhR0C
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Technology 
+Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
+
+By NICK WINGFIELD and KATIE BENNERMARCH 3, 2016
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+Outside an Apple Store in New York. Apple is defying a federal order to help unlock a phone connected to shootings in California.
+
+Credit
+            Shannon Stapleton/Reuters        
+
+
+Google, Amazon, Facebook, Microsoft and a parade of other technology companies filed a barrage of court briefs on Thursday, aiming to puncture the United States government’s legal arguments against Apple in a case that will test the limits of the authorities’ access to personal data.The extraordinary show of support for Apple from the tech companies, including many rivals, underscores how high the stakes are for the industry with the case, in which the authorities are demanding Apple’s help to break into an iPhone used by a gunman in a terrorist attack in San Bernardino, Calif., last year.In all, around 40 companies and organizations, along with several dozen individuals, submitted more than a dozen briefs this week to the Federal District Court for the District of Central California, challenging every legal facet of the government’s case, like its free speech implications, the importance of encryption and concerns about government overreach.“These companies, which are often fierce competitors, have joined together to voice concern about the attempted government overreach in this case, which threatens the integrity and security of their products and privacy rights of consumers in general,” said Neal Katyal, a lawyer at Hogan Lovells for the tech companies and a former acting solicitor general of the United States.
+Photo
+
+
+
+
+
+
+Tech firms were initially careful in their support of Apple in its fight with the F.B.I., but now they are more forcefully backing Apple.
+
+Credit
+            Philippe Huguen/Agence France-Presse — Getty Images        
+
+
+Edward J. McAndrew, a lawyer at Ballard Spahr who is not involved in the Apple matter, said it was highly unusual to see a flood of briefs by so many parties this early in a case. He called the outpouring “Supreme Court-level advocacy” and said the campaign was intended to have influence beyond the court with legislators and others.
+
+Advertisement
+
+Continue reading the main story
+
+“This is a show of force,” said Mr. McAndrew, a former federal prosecutor who focused on online crimes. “This is a battle for public opinion.”Bruce Sewell, Apple’s general counsel, said on Wednesday that the company was “humbled by the outpouring of support.” Continue reading the main story
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+The case between Apple and the government became public last month, when a federal magistrate judge in California ordered the company to bypass the security functions on the iPhone. Timothy D. Cook, Apple’s chief executive, opposed the order, arguing the case could have far-reaching implications for other devices and software, with governments everywhere able to demand more access to tech companies’ data.Several tech companies were initially careful and subdued in their support of Apple, with some privately debating whether the San Bernardino attack was the right case for challenging the government. Last week, some tech companies including Microsoft began to back Apple more forcefully, saying they planned to file briefs supporting it in court. 
+
+
+
+
+
+
+
+
+                    OPEN Document                
+
+
+
+            Document: Tech Companies’ Court Brief        
+
+
+In the brief on Thursday from Amazon, Microsoft and others, the tech companies said they shared the public’s outrage over the “heinous act of terrorism” in San Bernardino, but said they were united in the view that the government’s case exceeded the boundaries of existing law and would hurt Americans’ security.A collection of 17 Internet companies, including Twitter, Airbnb and LinkedIn, filed a separate brief objecting to the government’s use of the All Writs Act, a statute from 1789 that underlies many law enforcement requests for tech companies’ data, in the San Bernardino case. AT&T; and Intel also submitted independent briefs backing Apple.In the filing from the group that includes Twitter and LinkedIn, the companies said the government “seeks unbounded authority to compel Apple to design software that does not currently exist and that will circumvent and undermine security measures intended to protect its users’ data.”“We’re facing a very big question as a country, industry and a world about what privacy will look like in the digital era,” said Aaron Levie, the chief executive of the data storage company Box, which signed on to the brief with Amazon, Google and others. “There is a global impact for these tech companies if we don’t land on the right side of having a strong framework for how companies deal with security and these kinds of requests in the digital age.”
+
+Advertisement
+
+Continue reading the main story
+
+Apart from the tech companies, seven prominent security experts and 32 law professors signed on to joint briefs on Thursday. Several industry trade organizations and digital rights groups submitted their own filings this week. 
+
+
+
+
+
+
+
+
+
+
+            Breaking Down Apple’s iPhone Fight With the U.S. Government        
+
+
+Some echoed Apple’s slippery slope argument that opening up one iPhone would lead to a domino effect from governments worldwide. The Media Institute, a nonprofit research foundation that focuses on communications policy, warned in its filing that the court’s order could be “be applied against media companies as government authorities seek to acquire access to confidential information stored on mobile devices used by journalists.”The support for Apple was a torrent compared with the stream of filings backing the Justice Department in the case. Among the staunchest supporters on the side of government were six people whose family members were killed in the California attack.“Broader questions about the fate of smartphone encryption and data privacy can be saved for another day and another forum,” the families wrote in a brief. “This case certainly presents the conditions — a mass murder by terrorists implicating national security interest — where requiring Apple’s technical assistance is at its apex.”Stephen G. Larson, the lawyer representing the victims’ families, said he was frustrated that Apple was drawing a line in the sand “over a phone that didn’t even belong to the terrorist and that they have permission to unlock.” The iPhone of the San Bernardino attacker, Syed Rizwan Farook, was issued by his employer.“So many of Apple’s arguments are red herrings because this is not about privacy more than any other search in a criminal investigation is about privacy,” Mr. Larson said. “That is scaremongering and that is false.”
+
+
+            Related Coverage        
+
+
+
+
+
+
+
+
+
+A handful of law enforcement groups also filed briefs supporting the government’s position, including a joint one from the Federal Law Enforcement Officers Association, the Association of Prosecuting Attorneys and the National Sheriffs’ Association.Those groups listed several instances when iPhone data was an essential piece of a criminal case, including child pornography and sex trafficking cases. They argued that criminals were moving to iPhones because of Apple’s refusal to help the government and that the company was making data extraction from its products impossible.
+
+Advertisement
+
+Continue reading the main story
+
+“If Apple can refuse lawful court orders to reasonably assist law enforcement, public safety will suffer,” the trade groups wrote.Not all family members of San Bernardino victims sided with the government. This week, Salihin Kondoker, whose wife, Anies, was shot three times but survived the attack, wrote a letter to the court saying he thought there was little valuable information on the iPhone used by the gunman. Mr. Kondoker said Apple’s fight was about something bigger than one phone.“They are worried that this software the government wants them to use will be used against millions of other innocent people,” he wrote. “I share their fear.”
+
+Nick Wingfield reported from Seattle, and Katie Benner from San Francisco. Mike Isaac contributed reporting from New York.
+A version of this article appears in print on March 4, 2016, on page B1 of the New York edition with the headline: Tech Rivals Lining Up  to Support  Apple’s Case.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+
+
+
+
+Apple Gets Tech Industry Backing in iPhone Dispute, Despite Misgivings
+MARCH 2, 2016
+
+
+
+
+
+
+
+
+
+Defense Secretary Takes Position Against a Data ‘Back Door’
+MARCH 2, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+White House Officials Soften Approach at RSA Conference
+MARCH 1, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conversation Starters
+Provocative looks at pressing issues.
+
+
+
+
+
+
+
+
+                                Donald Trump Isn’t Alone in Exploiting the Word ‘University’            
+MAR 21
+
+
+
+
+
+
+
+
+                                A Reconsideration of Children and Screen Time            
+MAR 21
+
+
+
+
+
+
+
+
+                                Amid a Graying Fleet of Nuclear Plants, a Hunt for Solutions            
+MAR 21
+
+
+
+
+
+
+
+
+                                Empathy May Be Overrated in an Election, and in a Leader            
+MAR 21
+
+
+
+
+
+
+
+
+                                John Roberts Criticized Supreme Court Confirmation Process, Before There Was a Vacancy            
+MAR 21
+
+
+
+
+
+
+See More »
+
+
+
+
+
+
+
+
+Related Coverage
+
+
+
+
+
+
+
+Apple Gets Tech Industry Backing in iPhone Dispute, Despite Misgivings
+MARCH 2, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+Defense Secretary Takes Position Against a Data ‘Back Door’
+MARCH 2, 2016
+
+
+
+
+
+
+
+
+
+White House Officials Soften Approach at RSA Conference
+MARCH 1, 2016
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

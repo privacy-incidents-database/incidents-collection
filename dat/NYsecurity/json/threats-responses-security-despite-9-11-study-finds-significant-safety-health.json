@@ -1,0 +1,53 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "Despite some improvements in workplace safety since the Sept. 11 attacks, the Capitol complex still has serious shortcomings that could threaten workers, the public and lawmakers in the event of another emergency, a new assessment said today. The Congressional Office of Compliance said in a report that inspections of the Capitol and related office buildings from April to July found ''significant safety and health hazards'' including blocked or locked fire doors and incomplete emergency response plans.", 
+  "headline": {
+    "main": "Despite 9/11, Study Finds 'Significant Safety and Health Hazards' at Capitol", 
+    "kicker": "THREATS AND RESPONSES: SECURITY"
+  }, 
+  "abstract": "Congressional Office of Compliance reports that despite some improvements in workplace safety since Sept 11 attacks, Capitol complex still has serious shortcomings that could threaten workers, public and lawmakers in event of another emergency; new assessment finds 'significant safety and health hazards' including blocked or locked fire doors and incomplete emergency response plans; photo (M)", 
+  "print_page": "16", 
+  "word_count": 605, 
+  "_id": "4fd24b1b8eb7c8105d7e9d59", 
+  "snippet": "Despite some improvements in workplace safety since the Sept. 11 attacks, the Capitol complex still has serious shortcomings that could threaten workers, the public and lawmakers in the event of another emergency, a new assessment said today.    The...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/11/26/us/threats-responses-security-despite-9-11-study-finds-significant-safety-health.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "CONGRESSIONAL OFFICE OF COMPLIANCE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ACCIDENTS AND SAFETY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CAPITOL (WASHINGTON, DC)"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Carl", 
+        "lastname": "HULSE"
+      }
+    ], 
+    "original": "By CARL HULSE"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-11-26T00:00:00Z", 
+  "section_name": "U.S."
+}

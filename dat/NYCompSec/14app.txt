@@ -1,0 +1,7 @@
+App of the Week: Standing Guard Over a Lost Phone - The New York Times
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Personal Tech|App of the Week: Standing Guard Over a Lost Phone
+Thoughts of cellphone security often dwell on the danger that hackers pose, but the far more likely threat comes from a phone that is simply lost or stolen. That leaves your personal information, photos and whatever else (you didnt store passwords on your phone, did you?) open to snooping.WaveSecure, a free app for Android (also available for a variety of other phones, including Nokia), lets you use any computer to lock down your lost phone, locate it, erase the memory and, if the phone is recovered, restore much of the contents.
+WaveSecure offers more features on some other phones, like allowing users to set automatic backups, which are not part of the Android app. The company said it was working to add that and other functions for Android, including backing up music, applications and settings.In the meantime, the Android Market keeps a list of apps youve paid for, so you should not have to buy them again for your replacement phone. Music can be backed up to your computer. As for settings, make notes. Youre on your own.ROY FURCHGOTT
+A version of this article appears in print on January 14, 2010, on page B12 of the New York edition with the headline: App of the Week: Standing Guard Over a Lost Phone.
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.

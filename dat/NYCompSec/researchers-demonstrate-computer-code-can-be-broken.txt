@@ -1,0 +1,21 @@
+Researchers Demonstrate Computer Code Can Be Broken - NYTimes.com
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/archive/article/business, targetedPage: www.nytimes.com/archive/article/business, position: Bar1
+Researchers Demonstrate Computer Code Can Be Broken
+An international team of researchers demonstrated this week that it was possible to break the security codes commonly used to protect financial transactions over the Internet.
+The actual feat involved finding the two prime factors for a number about 155 digits long. The answer enables one to obtain the key used to decode a particular piece of encrypted data.
+While the seven-month effort required a significant amount of computing power -- involving 292 computers at 11 sites in 6 countries -- it showed that the standard level of encryption for Internet transactions, known as 512-bit encryption, was not secure.
+''We have said for a long time that 512 is not a secure standard,'' said Burt Kaliski, chief scientist for RSA Research in San Mateo, Calif., a part of Security Dynamics Technologies' RSA Data Security Inc., which makes encryption technology and sponsored a challenge to break the 512-bit code. ''I don't think this means that overnight, Web sites will be attacked, but we need to make the transfer to a larger key size.''
+The feat also raises questions about the Government's policy of export controls on encryption. The 512-bit system has become the standard because, with some exceptions, it is the most secure encryption allowed for export.
+Although higher levels of encryption exist, experts estimate that 95 percent of Internet commerce uses the 512-bit standard.
+Last September, the Administration announced that the export policy would be reviewed and an update announced within one year.
+William A. Reinsch, the Under Secretary of Commerce for Export Administration, said today that the Administration would make an announcement by mid-September. He could not say, however, what impact the recent demonstration would have on the encryption policy of the United States.
+''Our policy is intended to track market developments, but it's too soon to come to a conclusion on this,'' he said.
+Being able to factor a 512-bit number enables one version of what is known as the R.S.A. public key encryption system to be broken. R.S.A., designed in the mid-1970's by Ronald Rivest, Adi Shamir and Leonard Adleman, is used extensively in software to protect electronic data traffic.
+R.S.A. and similar encryption systems are based on the fact that it is immensely difficult and time-consuming for even the most powerful computers to factor large numbers.
+Although the factoring task took the researchers seven months, they were using a relatively small amount of computing power, mostly overnight and on weekends.
+''I think there is a huge potential to speed this up a lot more,'' said Arjen Lenstra, a computer scientist at Citigroup, and one of the researchers involved in the project. He said that harnessing the computational power available to Government agencies or major corporations could enable such codes to be broken in less than one week.
+''Microsoft could do this over a Thanksgiving weekend,'' he said.
+In May, Mr. Shamir, a computer scientist at Weizmann Institute of Science in Rehovoth, Israel, presented a paper describing a device, not yet built, that could break a 512-bit code. But until this week, the feat was only theoretical. Mr. Lenstra and Mr. Shamir are working on a way to use the device to further speed the factoring process.
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York Citys top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/business, targetedPage: www.nytimes.com/archive/article/business, position: Inv1

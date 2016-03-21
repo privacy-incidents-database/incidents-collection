@@ -1,0 +1,58 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business/Financial Desk", 
+  "lead_paragraph": "The first time Rinaldo Ribeiro hacked into the computer, he did it in less than three minutes. Vendors from the largest information security companies in the world had rigged the system, a Windows NT server, to try to keep him out, but that did not faze him. Nor did the several dozen people who were watching his every move on a large overhead video screen. What bothered him was that it had been too easy.", 
+  "headline": {
+    "main": "Brazilian Company Is Hacking Its Way Up", 
+    "kicker": "TECHNOLOGY"
+  }, 
+  "abstract": "Article profiles success of Modulo Security Solutions, Brazilian information security firm that profits by showing how quickly computer security can be breached; photo (M)", 
+  "print_page": "5", 
+  "word_count": 1440, 
+  "_id": "4fd242c78eb7c8105d7dc582", 
+  "snippet": "The first time Rinaldo Ribeiro hacked into the computer, he did it in less than three minutes.    Vendors from the largest information security companies in the world had rigged the system, a Windows NT server, to try to keep him out, but that did...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2001/02/26/business/technology-brazilian-company-is-hacking-its-way-up.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "BRAZIL"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "MODULO SECURITY SOLUTIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPANY AND ORGANIZATION PROFILES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Jennifer", 
+        "middlename": "L.", 
+        "lastname": "RICH", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By JENNIFER L. RICH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2001-02-26T00:00:00Z", 
+  "section_name": "Technology; Business"
+}

@@ -1,0 +1,112 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Executives are trying to minimize the impact of the bombing attempt on consumers\u2019 travel plans.", 
+  "headline": {
+    "seo": "Struggling Airlines Try to Keep People Flying, Despite Worries", 
+    "main": "Airlines Struggle Anew With Flier Frustrations", 
+    "sub": "Concern Over Unpredictability and Delays ;", 
+    "print_headline": "Airlines Struggle Anew With Flier Frustrations"
+  }, 
+  "abstract": null, 
+  "print_page": "12", 
+  "word_count": "939", 
+  "_id": "54245b5f38f0d8525e45337f", 
+  "snippet": "Executives are trying to minimize the impact of the bombing attempt on consumers\u2019 travel plans.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/12/31/business/31air.html", 
+  "multimedia": [
+    {
+      "width": 190, 
+      "url": "images/2009/12/31/business/31air-graphic/thumbWide.gif", 
+      "height": 126, 
+      "subtype": "wide", 
+      "legacy": {
+        "wide": "images/2009/12/31/business/31air-graphic/thumbWide.gif", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2009/12/31/business/31air_CA0/thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/12/31/business/31air_CA0/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Airports", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Travel and Vacations", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Prices (Fares, Fees and Rates)", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Terrorism", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "8", 
+      "is_major": "N", 
+      "value": "Abdulmutallab, Umar Farouk", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Micheline", 
+        "rank": 1, 
+        "lastname": "MAYNARD"
+      }
+    ], 
+    "original": "By MICHELINE MAYNARD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-12-31T00:00:00Z", 
+  "section_name": "Business Day"
+}

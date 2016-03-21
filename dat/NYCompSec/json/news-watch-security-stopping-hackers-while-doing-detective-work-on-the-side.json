@@ -1,0 +1,55 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Circuits", 
+  "lead_paragraph": "Worrying about hackers and viruses is becoming a way of life for Windows users, but Macintosh owners should not assume they are immune to Internet ills. For them, Symantec has announced Version 2 of its Norton Personal Firewall for Macintosh ($69.95 or $39.95 for an upgrade). The program is also available ($99.95 or $69.95 for the upgrade) in the larger Norton Internet Security suite, which includes Norton Anti-Virus and Aladdin's iClean clutter-reducing software. Symantec has also updated its Norton Utilities and Norton AntiVirus software, along with its SystemWorks suite. The updated programs include versions written specifically for Mac OS X and separate versions for Mac OS 8.1 to OS 9. (Details can be found at www.symantec.com/mac.)", 
+  "headline": {
+    "main": "Stopping Hackers, While Doing Detective Work on the Side", 
+    "kicker": "NEWS WATCH: SECURITY"
+  }, 
+  "abstract": "Symantec announces Version 2 of its Norton Personal Firewall for Macintosh users; program is also available in larger Norton Internet Security suite, which includes Norton Anti-Virus and Aladdin's iClean clutter-reducing software; photo (S)", 
+  "print_page": "3", 
+  "word_count": 199, 
+  "_id": "4fd262878eb7c8105d81464f", 
+  "snippet": "Worrying about hackers and viruses is becoming a way of life for Windows users, but Macintosh owners should not assume they are immune to Internet ills. For them, Symantec has announced Version 2 of its Norton Personal Firewall for Macintosh ($69.95...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/03/07/technology/news-watch-security-stopping-hackers-while-doing-detective-work-on-the-side.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "APPLE COMPUTER INC"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "SYMANTEC CORP"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SOFTWARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1
+      }
+    ], 
+    "original": "By J. D. Biersdorfer"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-03-07T00:00:00Z", 
+  "section_name": "Technology"
+}

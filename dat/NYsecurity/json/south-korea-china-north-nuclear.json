@@ -1,0 +1,140 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "The response, from President Park Geun-hye, came as criticism of her policy of building stronger ties with Beijing mounted.", 
+  "headline": {
+    "main": "After Nuclear Test, South Korea Urges China to Rein In North", 
+    "print_headline": "After Nuclear Test, South Korea Urges China to Rein In North"
+  }, 
+  "abstract": "South Korean Pres Park Geun-hye calls on China to do more to rein in North Korea in nationally televised speech,  week after North Korea conducted its fourth nuclear test; speech is in part response to domestic criticism that Park's forging of closer ties with China has failed to yield results.", 
+  "print_page": "12", 
+  "word_count": "798", 
+  "_id": "56960a1838f0d83e7cfe0519", 
+  "snippet": "The response, from President Park Geun-hye, came as criticism of her policy of building stronger ties with Beijing mounted.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/14/world/asia/south-korea-china-north-nuclear.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/01/14/world/14korea/14korea-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/01/14/world/14korea/14korea-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/01/14/world/14korea/14korea-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/01/14/world/14korea/14korea-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/01/14/world/14korea/14korea-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/01/14/world/14korea/14korea-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "South Korea", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Xi Jinping", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Park Geun-hye", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "North Korea", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Nuclear Tests", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Arms Control and Limitation and Disarmament", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Nuclear Weapons", 
+      "is_major": "Y", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Embargoes and Sanctions", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security Council (UN)", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "International Relations", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Choe", 
+        "lastname": "SANG-HUN"
+      }
+    ], 
+    "original": "By CHOE SANG-HUN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-14T00:00:00Z", 
+  "section_name": "World"
+}

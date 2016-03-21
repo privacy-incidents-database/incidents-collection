@@ -1,0 +1,53 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "In an empty office in a bombed-out station, the lieutenant colonel in the local police force was explaining the miseries his officers face. Two weeks ago, a car bomb blew up the police station, killing at least 13 people. One police officer lost a leg and could lose the other; he does not know how he will pay for his care.", 
+  "headline": {
+    "main": "For Iraqi Police Officers, a Growing Task With Ever Greater Risk", 
+    "kicker": "THE STRUGGLE FOR IRAQ: SECURITY"
+  }, 
+  "abstract": "Iraqi police face ever greater responsibilities and risks; police are core of American plan to restore civil society in Iraq, but they are staggering, with some police stations being hit by devastating bombs; police now face terrorists who see them as easy targets; photos (L)", 
+  "print_page": "15", 
+  "word_count": 1773, 
+  "_id": "4fd248d88eb7c8105d7e5b60", 
+  "snippet": "In an empty office in a bombed-out station, the lieutenant colonel in the local police force was explaining the miseries his officers face.    Two weeks ago, a car bomb blew up the police station, killing at least 13 people. One police officer lost a...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/11/09/world/struggle-for-iraq-security-for-iraqi-police-officers-growing-task-with-ever.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POLICE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Alex", 
+        "lastname": "BERENSON"
+      }
+    ], 
+    "original": "By ALEX BERENSON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-11-09T00:00:00Z", 
+  "section_name": "World; Washington"
+}

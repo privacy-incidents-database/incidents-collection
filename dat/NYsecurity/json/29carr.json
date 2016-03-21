@@ -1,0 +1,78 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "An outcry about airport security became a story about a story, the noisy sound of a news system feeding on itself.", 
+  "headline": {
+    "seo": "T.S.A. Furor Gives Media a False Positive - The Media Equation", 
+    "main": "A Media False Alarm Over the T.S.A.", 
+    "kicker": "The Media Equation", 
+    "print_headline": "A Media False Alarm Over T.S.A.", 
+    "content_kicker": "The Media Equation"
+  }, 
+  "abstract": null, 
+  "print_page": "1", 
+  "word_count": "1136", 
+  "_id": "5421102438f0d81f7a600f2c", 
+  "snippet": "An outcry about airport security became a story about a story, the noisy sound of a news system feeding on itself.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/11/29/business/media/29carr.html", 
+  "multimedia": [
+    {
+      "width": 75, 
+      "url": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/04/12/business/media/carr-50/carr-50-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Media", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "News and News Media", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Airports", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "David", 
+        "rank": 1, 
+        "lastname": "CARR"
+      }
+    ], 
+    "original": "By DAVID CARR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-11-29T00:00:00Z", 
+  "section_name": "Business Day"
+}

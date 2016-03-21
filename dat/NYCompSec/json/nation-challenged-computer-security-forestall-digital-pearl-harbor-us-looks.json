@@ -1,0 +1,81 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "The Bush administration is considering the creation of a secure new government communications network separate from the Internet that would be less vulnerable to attack and efforts to disrupt critical federal activities. The idea for such a system, called GovNet, is the brainchild of Richard A. Clarke, a counterterrorism expert whom President Bush recently named his special adviser for cyberspace security.", 
+  "headline": {
+    "main": "To Forestall a 'Digital Pearl Harbor,' U.S. Looks to System Separate From Internet", 
+    "kicker": "A NATION CHALLENGED: COMPUTER SECURITY"
+  }, 
+  "abstract": "Bush administration weighs creation of secure new government communications network separate from Internet that would be less vulnerable to attack and efforts to disrupt critical federal activities; idea for system, called GovNet, is brainchild of Richard A Clark, Pres Bush's special adviser for cyberspace security, who has been warning for some time of possibility of 'digital Pearl Harbor' if nation does not invest more in cybersecurity; no one is quite sure how much government computer network would cost, although Clarke speculates that it could be in hundreds of millions of dollars; photo (M)", 
+  "print_page": "7", 
+  "word_count": 774, 
+  "_id": "4fd267668eb7c8105d81cd11", 
+  "snippet": "The Bush administration is considering the creation of a secure new government communications network separate from the Internet that would be less vulnerable to attack and efforts to disrupt critical federal activities.    The idea for such a...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2001/11/17/us/nation-challenged-computer-security-forestall-digital-pearl-harbor-us-looks.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "CLARK, RICHARD A"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Alison", 
+        "lastname": "MITCHELL"
+      }
+    ], 
+    "original": "By ALISON MITCHELL"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2001-11-17T00:00:00Z", 
+  "section_name": "Technology; U.S."
+}

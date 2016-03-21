@@ -1,0 +1,94 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "For the first time, a cyberattack on any of the 28 NATO nations could be declared an attack on all of them, much like a ground invasion or an airborne bombing.", 
+  "headline": {
+    "main": "NATO Set to Ratify Pledge on Joint Defense in Case of Major Cyberattack", 
+    "print_headline": "In New Pledge, NATO Nations Would Band Together Against Cyberattacks"
+  }, 
+  "abstract": "North Atlantic Treaty Organization leaders are expected to ratify a significant change in mission statement, expanding definition of an armed attack on any of the 28 NATO nations to include a cyberattack; fact that this is NATO's first tentative step into realm of computer conflict shows alliance's difficulties in innovating to keep up with modern warfare.", 
+  "print_page": "5", 
+  "word_count": "1054", 
+  "_id": "5403bb2038f0d80e250f42d7", 
+  "snippet": "For the first time, a cyberattack on any of the 28 NATO nations could be declared an attack on all of them, much like a ground invasion or an airborne bombing.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/09/01/world/europe/nato-set-to-ratify-pledge-on-joint-defense-in-case-of-major-cyberattack.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2014/09/01/world/CYBER/CYBER-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2014/09/01/world/CYBER/CYBER-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2014/09/01/world/CYBER/CYBER-articleLarge.jpg", 
+      "height": 463, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2014/09/01/world/CYBER/CYBER-articleLarge.jpg", 
+        "xlargeheight": "463"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2014/09/01/world/CYBER/CYBER-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2014/09/01/world/CYBER/CYBER-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "North Atlantic Treaty Organization", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Cyberwarfare", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "firstname": "David", 
+        "middlename": "E.", 
+        "lastname": "SANGER", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By DAVID E. SANGER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-09-01T00:00:00Z", 
+  "section_name": "World"
+}

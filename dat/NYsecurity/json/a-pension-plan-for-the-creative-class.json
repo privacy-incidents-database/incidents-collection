@@ -1,0 +1,105 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The Artist Pension Trust, a retirement plan for artists, pools together their work, diversifying risk. While one artist may fall out of favor with collectors, another\u2019s art may appreciate in value.", 
+  "headline": {
+    "main": "A Pension Plan for the Creative Class", 
+    "print_headline": "The Art of Retirement Security", 
+    "content_kicker": "Special Section"
+  }, 
+  "abstract": null, 
+  "print_page": "8", 
+  "word_count": "1043", 
+  "_id": "56d994e538f0d810eb12c92d", 
+  "snippet": "The Artist Pension Trust, a retirement plan for artists, pools together their work, diversifying risk. While one artist may fall out of favor with collectors, another\u2019s art may appreciate in value.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/06/business/retirementspecial/a-pension-plan-for-the-creative-class.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/03/06/business/retirementspecial/06ARTIST/06ARTIST-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/03/06/business/retirementspecial/06ARTIST/06ARTIST-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/03/06/business/retirementspecial/06ARTIST/06ARTIST-articleLarge.jpg", 
+      "height": 407, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/03/06/business/retirementspecial/06ARTIST/06ARTIST-articleLarge.jpg", 
+        "xlargeheight": "407"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/03/06/business/retirementspecial/06ARTIST/06ARTIST-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/03/06/business/retirementspecial/06ARTIST/06ARTIST-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Retirement", 
+  "keywords": [
+    {
+      "value": "Pensions and Retirement Plans", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Retirement", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Art", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Collectors and Collections", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Artist Pension Trust", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Braden", 
+        "lastname": "PHILLIPS"
+      }
+    ], 
+    "original": "By BRADEN PHILLIPS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-06T00:00:00Z", 
+  "section_name": "Business Day"
+}

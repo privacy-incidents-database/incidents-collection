@@ -1,0 +1,88 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "A wave of cyberattacks aimed at American and South Korean government agencies and commercial Web sites continued on Thursday.", 
+  "headline": {
+    "main": "Cyberattacks Jam Government and Commercial Web Sites in U.S. and South Korea", 
+    "print_headline": "Cyberattacks Jam Government and Commercial Web Sites in U.S. and South Korea"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "875", 
+  "_id": "5453be0e38f0d839202e912b", 
+  "snippet": "A wave of cyberattacks aimed at American and South Korean government agencies and commercial Web sites continued on Thursday.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2009/07/09/technology/09cyber.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2009/07/08/world/08korea-600.jpg", 
+      "height": 331, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2009/07/08/world/08korea-600.jpg", 
+        "xlargeheight": "331"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2009/07/08/world/08korea-75.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2009/07/08/world/08korea-75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Computer Security", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "South Korea", 
+      "name": "glocations"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Computers and the Internet", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Choe Sang-Hun reported from Seoul, and John Markoff from San Francisco.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Choe", 
+        "rank": 1, 
+        "lastname": "SANG-HUN"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "John", 
+        "rank": 2, 
+        "lastname": "MARKOFF"
+      }
+    ], 
+    "original": "By CHOE SANG-HUN and JOHN MARKOFF"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2009-07-09T00:00:00Z", 
+  "section_name": "Technology"
+}

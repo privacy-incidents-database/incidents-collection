@@ -1,0 +1,110 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Opponents who had seen a draft version said it grants broad new powers that could be abused to monitor peaceful citizens and steal commercial secrets.", 
+  "headline": {
+    "main": "China Passes Antiterrorism Law That Critics Fear May Overreach", 
+    "print_headline": "Antiterrorism Law Expands China&#8217;s Surveillance Power "
+  }, 
+  "abstract": "China adopts anti-terrorism law requiring telecommunication and Internet companies to give Beijing technical information and decryption help in investigations of suspected terrorists; critics argue legislation uses expansive terrorism definition which could lead to government surveillance of non-suspects and access to technological secrets.", 
+  "print_page": "4", 
+  "word_count": "884", 
+  "_id": "567fdea038f0d85eba8d58e2", 
+  "snippet": "Opponents who had seen a draft version said it grants broad new powers that could be abused to monitor peaceful citizens and steal commercial secrets.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2015/12/28/world/asia/china-passes-antiterrorism-law-that-critics-fear-may-overreach.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2015/12/28/world/28china/28china-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2015/12/28/world/28china/28china-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2015/12/28/world/28china/28china-articleLarge.jpg", 
+      "height": 413, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2015/12/28/world/28china/28china-articleLarge.jpg", 
+        "xlargeheight": "413"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2015/12/28/world/28china/28china-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2015/12/28/world/28china/28china-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Asia Pacific", 
+  "keywords": [
+    {
+      "value": "China", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Law and Legislation", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Chris", 
+        "lastname": "BUCKLEY"
+      }
+    ], 
+    "original": "By CHRIS BUCKLEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2015-12-28T00:00:00Z", 
+  "section_name": "World"
+}

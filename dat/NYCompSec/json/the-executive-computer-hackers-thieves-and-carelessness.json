@@ -1,0 +1,46 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Financial Desk", 
+  "lead_paragraph": "LEAD: THE hackers who break into a company's computers are usually on the intellectual equivalent of joyrides. Using their home computers and modems, they prowl the electronic avenues searching for an unlocked computer with the ''key in the ignition'' - one with an easily defeated security system. Once inside, they take the computer for a spin.", 
+  "headline": {
+    "main": "Hackers, Thieves and Carelessness", 
+    "kicker": "THE EXECUTIVE COMPUTER"
+  }, 
+  "abstract": null, 
+  "print_page": "16", 
+  "word_count": 1050, 
+  "_id": "4fd1849d8eb7c8105d68356a", 
+  "snippet": "LEAD: THE hackers who break into a company's computers are usually on the intellectual equivalent of joyrides. Using their home computers and modems, they prowl the electronic avenues searching for an unlocked computer with the ''key in the...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1987/10/04/business/the-executive-computer-hackers-thieves-and-carelessness.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "PERSONAL COMPUTERS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "DATA PROCESSING (COMPUTERS)"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Peter", 
+        "middlename": "H.", 
+        "lastname": "Lewis", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By Peter H. Lewis"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1987-10-04T00:00:00Z", 
+  "section_name": "Technology; Business"
+}

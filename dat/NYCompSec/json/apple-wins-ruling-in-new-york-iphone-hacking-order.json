@@ -1,0 +1,117 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "A federal judge denied the use of the All Writs Act, a law that federal authorities have cited in insisting on Apple\u2019s help breaking into iPhones.", 
+  "headline": {
+    "main": "Apple Wins Ruling in New York iPhone Hacking Order", 
+    "print_headline": "Judge Rules for Apple  in New York iPhone Case"
+  }, 
+  "abstract": "Federal Magistrate Judge James Orenstein of New York's Eastern District denies United States government's request that Apple extract data from iPhone in drug case; ruling helps firm's pro-privacy stance as it fights law enforcement officials over opening phone in other cases.", 
+  "print_page": "1", 
+  "word_count": "993", 
+  "_id": "56d4c90338f0d811294b8177", 
+  "snippet": "A federal judge denied the use of the All Writs Act, a law that federal authorities have cited in insisting on Apple\u2019s help breaking into iPhones.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/03/01/technology/apple-wins-ruling-in-new-york-iphone-hacking-order.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/27/business/01apple-web1/27apple-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/27/business/01apple-web1/27apple-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/27/business/01apple-web1/27apple-articleLarge.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/27/business/01apple-web1/27apple-articleLarge.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/27/business/01apple-web1/27apple-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/27/business/01apple-web1/27apple-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Privacy", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Apple Inc", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "iPhone", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Federal Bureau of Investigation", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Katie", 
+        "lastname": "BENNER"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Joseph", 
+        "lastname": "GOLDSTEIN"
+      }
+    ], 
+    "original": "By KATIE BENNER and JOSEPH GOLDSTEIN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-01T00:00:00Z", 
+  "section_name": "Technology"
+}

@@ -1,0 +1,110 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "United States military forces in Iraq will have the authority to shoot looters on sight under a tough new security setup that will include hiring more police officers and banning ranking members of the Baath Party from public service, American officials said today. The far more muscular approach to bringing order to postwar Iraq was described by the new American administrator, L. Paul Bremer, at a meeting of senior staff members today, the officials said. On Wednesday, Mr. Bremer is expected to meet with the leaders of Iraqi political groups that are seeking to form an interim government by the end of the month. ''He made it very clear that he is now in charge,'' said an official who attended the meeting today. ''I think you are going to see a change in the rules of engagement within a few days to get the situation under control.''", 
+  "headline": {
+    "main": "NEW POLICY IN IRAQ TO AUTHORIZE G.I.'S TO SHOOT LOOTERS", 
+    "kicker": "AFTEREFFECTS: SECURITY"
+  }, 
+  "abstract": "US military forces in Iraq are getting authority to shoot looters on sight under tough new security policy that will include hiring more police and banning ranking Baath Party members from public service; new US administrator L Paul Bremer describes far more muscular approach to staff and will meet with Iraqi political figures on forming interim government by end of month; tougher approach is core of Pres Bush's mandate to save military from descent into anarchy; retired Gen Jay Garner and Barbara K Bodine, who are leaving, reportedly were unable to decide how to create new authority in Baghdad and clashed as personalities; Romania to send about 500 soldiers for policing; Ayatollah Muhammad Bakr al-Hakim says Shiites must be admitted to power but not as single bloc (M)", 
+  "print_page": "1", 
+  "word_count": 1153, 
+  "_id": "4fd270d18eb7c8105d82c3f3", 
+  "snippet": "United States military forces in Iraq will have the authority to shoot looters on sight under a tough new security setup that will include hiring more police officers and banning ranking members of the Baath Party from public service, American...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/05/14/world/aftereffects-security-new-policy-in-iraq-to-authorize-gi-s-to-shoot-looters.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "HAKIM, MUHAMMAD BAKR AL-"
+    }, 
+    {
+      "name": "persons", 
+      "value": "GARNER, JAY"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BREMER, L PAUL 3D"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BODINE, BARBARA K"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BUSH, GEORGE W"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "IRAQ"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "ROMANIA"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "BAGHDAD (IRAQ)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ATOMIC WEAPONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BIOLOGICAL AND CHEMICAL WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES INTERNATIONAL RELATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POLITICS AND GOVERNMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SHIITE MUSLIMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POLICE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "LOOTING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Patrick", 
+        "middlename": "E.", 
+        "lastname": "TYLER", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By PATRICK E. TYLER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-05-14T00:00:00Z", 
+  "section_name": "World; Front Page; Washington"
+}

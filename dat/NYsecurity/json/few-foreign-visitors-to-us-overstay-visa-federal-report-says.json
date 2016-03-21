@@ -1,0 +1,85 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Just over 1 percent of the visitors overstay, said the report, on a subject that has drawn renewed interest in the wake of the killings in San Bernardino, Calif., in December.", 
+  "headline": {
+    "main": "Few Foreign Visitors to U.S. Overstay Visa, Federal Report Says", 
+    "print_headline": "Few Visitors to the U.S. Violate Visas, a Report Says"
+  }, 
+  "abstract": "Dept of Homeland Security report finds just over 1 percent of nearly 45 million visitors to United States overstayed their work or tourist visas in 2015; cases in which those guilty of terrorist activity violated visas prompted report, which officials say will be completed annually moving forward.", 
+  "print_page": "18", 
+  "word_count": "700", 
+  "_id": "569fe07538f0d80627b20aa5", 
+  "snippet": "Just over 1 percent of the visitors overstay, said the report, on a subject that has drawn renewed interest in the wake of the killings in San Bernardino, Calif., in December.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/01/21/us/few-foreign-visitors-to-us-overstay-visa-federal-report-says.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Illegal Immigration", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Visas", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Law and Legislation", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States Politics and Government", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "San Bernardino, Calif, Shooting (2015)", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "United States", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Ron", 
+        "lastname": "NIXON"
+      }
+    ], 
+    "original": "By RON NIXON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-01-21T00:00:00Z", 
+  "section_name": "U.S."
+}

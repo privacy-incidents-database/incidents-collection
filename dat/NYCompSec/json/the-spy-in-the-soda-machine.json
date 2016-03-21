@@ -1,0 +1,87 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Companies are finding that their greatest cybersecurity threats can hide in third-party systems, like networked air-conditioning equipment.", 
+  "headline": {
+    "main": "Hackers Lurking in Vents and Soda Machines", 
+    "print_headline": "Hackers Lurking in Vents and Soda Machines"
+  }, 
+  "abstract": "Companies are finding that their greatest cybersecurity threats can hide in countless third-party remote access corporate systems, where hackers can attack them; access comes through software controlling all kinds of services company needs, like networked air conditioning equipment and even vending machines.", 
+  "print_page": "1", 
+  "word_count": "997", 
+  "_id": "53434be538f0d8305f741b2f", 
+  "snippet": "Companies are finding that their greatest cybersecurity threats can hide in third-party systems, like networked air-conditioning equipment.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2014/04/08/technology/the-spy-in-the-soda-machine.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2014/04/08/business/Vulnerable1/Vulnerable1-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2014/04/08/business/Vulnerable1/Vulnerable1-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2014/04/08/business/Vulnerable2/Vulnerable2-articleLarge.jpg", 
+      "height": 800, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2014/04/08/business/Vulnerable2/Vulnerable2-articleLarge.jpg", 
+        "xlargeheight": "800"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2014/04/08/business/Vulnerable1/Vulnerable1-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2014/04/08/business/Vulnerable1/Vulnerable1-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Cyberattacks and Hackers", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Nicole", 
+        "lastname": "PERLROTH"
+      }
+    ], 
+    "original": "By NICOLE PERLROTH"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2014-04-08T00:00:00Z", 
+  "section_name": "Technology"
+}

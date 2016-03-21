@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Financial Desk", 
+  "lead_paragraph": "THERE are still a few red marks on my posterior left from a chance encounter with some flying particles of rock salt in my youth. These were added to my collection of childhood scars as a couple of fellow mischief makers and I were busy scaling the exterior of some four- and five-story factory buildings. Our objective was the flat, skylit roof of a bread factory, from which one could watch neatly wrapped baked goods trundling along a line of moving belts toward the waiting packing boxes. Having ventured into this territory before, we had come bearing fishing lines ending in treble hooks and lead weights. With a little skill, it was posssible to lower one's line and snag a loaf of raisin bread as it passed below. This particular day, however, the guard was onto us and our levitating bread trick. As we were looking down, he was coming up, a rock-salt-loaded shotgun in hand.", 
+  "headline": {
+    "main": "RAISING SECURITY CONSCIOUSNESS", 
+    "kicker": "THE EXECUTIVE COMPUTER"
+  }, 
+  "abstract": null, 
+  "print_page": "13", 
+  "word_count": 1238, 
+  "_id": "4fd1430d8eb7c8105d61bf20", 
+  "snippet": "THERE are still a few red marks on my posterior left from a chance encounter with some flying particles of rock salt in my youth. These were added to my collection of childhood scars as a couple of fellow mischief makers and I were busy scaling the...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1985/07/28/business/the-executive-computer-raising-security-consciousness.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "UNITED STATES"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "DATAPRO RESEARCH CORP"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CORPORATIONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "INDUSTRIAL ESPIONAGE AND PIRACY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "DATA PROCESSING"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Erik", 
+        "lastname": "Sandberg-Diment"
+      }
+    ], 
+    "original": "By Erik Sandberg-Diment"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1985-07-28T00:00:00Z", 
+  "section_name": "Business"
+}

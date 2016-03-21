@@ -1,0 +1,168 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "The fall of Col. Muammar el-Qaddafi seemed to vindicate Hillary Clinton. Then militias refused to disarm, neighbors fanned a civil war, and the Islamic State found refuge.", 
+  "headline": {
+    "main": "A New Libya, With \u2018Very Little Time Left\u2019", 
+    "kicker": "The Libya Gamble", 
+    "print_headline": "After Revolt, a New Libya \u2018With Very Little Time Left\u2019", 
+    "content_kicker": "The Libya Gamble"
+  }, 
+  "abstract": "Ouster of Col Muammar el-Qaddafi in Libya was widely hailed in media as victory for United States and, in particular, for then-Secretary of State Hillary Clinton, who had taken triumphal so-called victory lap just days before Qaddafi's capture; Qaddafi's downfall in fact left power vacuum in country and was merely first step in country's descent into chaos (Series: The Libya Gamble).", 
+  "print_page": "1", 
+  "word_count": "5739", 
+  "_id": "56d27b1b38f0d85dd0d93ae0", 
+  "snippet": "The fall of Col. Muammar el-Qaddafi seemed to vindicate Hillary Clinton. Then militias refused to disarm, neighbors fanned a civil war, and the Islamic State found refuge.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/28/us/politics/libya-isis-hillary-clinton.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/22/world/middleeast/22libya-full-bleed/22libya-full-bleed-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/22/world/middleeast/22libya-full-bleed/22libya-full-bleed-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/22/world/middleeast/22libya-full-bleed/22libya-full-bleed-articleLarge-v3.jpg", 
+      "height": 400, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/22/world/middleeast/22libya-full-bleed/22libya-full-bleed-articleLarge-v3.jpg", 
+        "xlargeheight": "400"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/22/world/middleeast/22libya-full-bleed/22libya-full-bleed-thumbStandard-v3.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/22/world/middleeast/22libya-full-bleed/22libya-full-bleed-thumbStandard-v3.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "value": "Libya", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "United States Defense and Military Forces", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Jibril, Mahmoud", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Blumenthal, Sidney", 
+      "is_major": "N", 
+      "rank": "13", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Blinken, Antony J", 
+      "is_major": "N", 
+      "rank": "14", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Clinton, Hillary Rodham", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Series", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Qaddafi, Muammar el-", 
+      "is_major": "Y", 
+      "rank": "4", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Obama, Barack", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "persons"
+    }, 
+    {
+      "value": "United States International Relations", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Stevens, J Christopher", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "persons"
+    }, 
+    {
+      "value": "National Security Council", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Defense and Military Forces", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Benghazi Attack (2012)", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Scott Shane reported from New York and Washington, and Jo Becker from Cairo; Istanbul and Ankara, Turkey; Tunis; Paris; New York; and Washington. David D. Kirkpatrick contributed reporting from Cairo. Kitty Bennett contributed research.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Scott", 
+        "lastname": "SHANE"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Jo", 
+        "lastname": "BECKER"
+      }
+    ], 
+    "original": "By SCOTT SHANE and JO BECKER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-28T00:00:00Z", 
+  "section_name": "U.S."
+}

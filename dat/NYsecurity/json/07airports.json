@@ -1,0 +1,105 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Data from the 10 days after the Christmas terror attempt showed a significant increase in delays and cancellations.", 
+  "headline": {
+    "main": "New Routine for Airports: Contradictions, Delays", 
+    "print_headline": "New Routine for Airports: Contradictions and Delays"
+  }, 
+  "abstract": null, 
+  "print_page": "14", 
+  "word_count": "1062", 
+  "_id": "542481e638f0d8525e453714", 
+  "snippet": "Data from the 10 days after the Christmas terror attempt showed a significant increase in delays and cancellations.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/01/07/us/07airports.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2010/01/07/us/20090107_AIRPORTS_GRAPHIC/thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2010/01/07/us/20090107_AIRPORTS_GRAPHIC/thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2010/01/07/us/07airports_CA0_337-span/articleLarge.jpg", 
+      "height": 330, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2010/01/07/us/07airports_CA0_337-span/articleLarge.jpg", 
+        "xlargeheight": "330"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2010/01/07/us/07airports_CA0_337-span/thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2010/01/07/us/07airports_CA0_337-span/thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Delays (Transportation)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Reporting was contributed by Robbie Brown from Atlanta, Dan Frosch from Denver, Katie Zezima from Boston, Emma Graves Fitzsimmons from Chicago, Eric Lipton from Washington, Sarah Maslin Nir from Newark, Micheline Maynard from Detroit and Manny Fernandez from New York.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Monica", 
+        "lastname": "DAVEY"
+      }
+    ], 
+    "original": "By MONICA DAVEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-01-07T00:00:00Z", 
+  "section_name": "U.S."
+}

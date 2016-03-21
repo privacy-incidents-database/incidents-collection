@@ -1,0 +1,105 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "Europe is greatly increasing military and security spending on the fight against terrorism, a shift from the austerity mantra that has dominated its policies in recent years.", 
+  "headline": {
+    "main": "Terror Threats Thaw Budgets Across Europe", 
+    "print_headline": "Terror Threats Thaw Budgets Across Europe "
+  }, 
+  "abstract": "European governments are either increasing spending or calling for more budgetary flexibility in order to combat terrorism threat in wake of attacks in Paris in November 2015; prospect of further attacks has thawed general push toward austerity, and increased spending has provided much-needed stimulus to region.", 
+  "print_page": "1", 
+  "word_count": "1138", 
+  "_id": "56ade94d38f0d81d27cb234b", 
+  "snippet": "Europe is greatly increasing military and security spending on the fight against terrorism, a shift from the austerity mantra that has dominated its policies in recent years.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2016/02/01/business/international/europe-training-financial-firepower-on-terrorism.html", 
+  "multimedia": [
+    {
+      "subtype": "wide", 
+      "url": "images/2016/02/01/business/01TERRORECON1sub/01TERRORECON1sub-thumbWide.jpg", 
+      "height": 126, 
+      "width": 190, 
+      "legacy": {
+        "wide": "images/2016/02/01/business/01TERRORECON1sub/01TERRORECON1sub-thumbWide.jpg", 
+        "wideheight": "126", 
+        "widewidth": "190"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "xlarge", 
+      "url": "images/2016/02/01/business/01TERRORECON1sub/01TERRORECON1sub-articleLarge.jpg", 
+      "height": 392, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2016/02/01/business/01TERRORECON1sub/01TERRORECON1sub-articleLarge.jpg", 
+        "xlargeheight": "392"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2016/02/01/business/01TERRORECON1sub/01TERRORECON1sub-thumbStandard.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2016/02/01/business/01TERRORECON1sub/01TERRORECON1sub-thumbStandard.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "International Business", 
+  "keywords": [
+    {
+      "value": "Paris Attacks (November 2015)", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Europe", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "France", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Nicola Clark contributed reporting.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Liz", 
+        "lastname": "ALDERMAN"
+      }
+    ], 
+    "original": "By LIZ ALDERMAN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-02-01T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,45 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Financial Desk", 
+  "lead_paragraph": "ONE of the hallmarks of the office is the water cooler, a communications node where people gather to exchange information. The talk is probably as often about nonbusiness matters as it is about any consuming office projects at hand, but regardless of the content, people are communicating. The point is, people talk to each other, computers do not. And that fact highlights one of the limitations of personal computers in an office environment. The first users were so mesmerized by the wonders of word processing or the marvel of spreadsheets automatically recalculating values that they asked for little more than their very own machines.", 
+  "headline": {
+    "main": "TYING PERSONAL COMPUTERS TOGETHER", 
+    "kicker": "THE EXECUTIVE COMPUTER"
+  }, 
+  "abstract": null, 
+  "print_page": "14", 
+  "word_count": 1151, 
+  "_id": "4fd142628eb7c8105d61ab32", 
+  "snippet": "ONE of the hallmarks of the office is the water cooler, a communications node where people gather to exchange information. The talk is probably as often about nonbusiness matters as it is about any consuming office projects at hand, but regardless of...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1985/04/07/business/the-executive-computer-tying-personal-computers-together.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "subject", 
+      "value": "DATA PROCESSING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PERSONAL COMPUTERS"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Erik", 
+        "lastname": "Sandberg-Diment"
+      }
+    ], 
+    "original": "By Erik Sandberg-Diment"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1985-04-07T00:00:00Z", 
+  "section_name": "Technology; Business"
+}

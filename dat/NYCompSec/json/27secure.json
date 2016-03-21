@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The federal effort includes an updated list of the top 25 programming errors that enable the most serious hacker attacks.", 
+  "headline": {
+    "seo": "Homeland Security to Offer Guide to Blocking Hackers", 
+    "main": "U.S. to Provide Guidelines to Bolster Computer Security", 
+    "print_headline": "U.S. to Provide Guidelines to Bolster Computer Security"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "471", 
+  "_id": "540f272c38f0d87641c6770b", 
+  "snippet": "The federal effort includes an updated list of the top 25 programming errors that enable the most serious hacker attacks.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/06/27/technology/27secure.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Hackers (Computers)", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Lulz Security", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Computer Security", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Riva", 
+        "lastname": "RICHMOND"
+      }
+    ], 
+    "original": "By RIVA RICHMOND"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-06-27T00:00:00Z", 
+  "section_name": "Technology"
+}

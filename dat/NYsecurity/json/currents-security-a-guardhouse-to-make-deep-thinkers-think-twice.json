@@ -1,0 +1,43 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "House & Home/Style Desk", 
+  "lead_paragraph": "A pentagonal guardhouse with a canopy on tilted stilts, far right, has been added to the geometry of Rockefeller University, which also has a hemispherical auditorium and a parabolic atrium. Designed by Henry Smith-Miller and Laurie Hawkinson, right, the metal guardhouse hugs the filigree fencing at York Avenue and 66th Street. When completed, it will replace a wooden hut that is hard for visitors to find, said Cathy Yarbrough, a university spokeswoman. The structure, she said, ''suits the gestalt of this place -- it's part of the culture here to have surroundings that encourage people to think.'' The design was based on a 1930's fantasy by Iacov Chernikov, a Russian constructivist. Mr. Smith-Miller called the house a ''wonderful, outrageous, spectacular, energetic event,'' while conceding that it may be New York's smallest building. EVE M. KAHN", 
+  "headline": {
+    "main": "A Guardhouse to Make Deep Thinkers Think Twice", 
+    "kicker": "CURRENTS: SECURITY"
+  }, 
+  "abstract": "Pentagonal guardhouse with canopy on tilted stilts is added to geometry of Rockefeller University, which also has spherical auditorium and parabolic atrium; photos (S)", 
+  "print_page": "3", 
+  "word_count": 137, 
+  "_id": "4fd2227a8eb7c8105d7a78aa", 
+  "snippet": "A pentagonal guardhouse with a canopy on tilted stilts, far right, has been added to the geometry of Rockefeller University, which also has a hemispherical auditorium and a parabolic atrium. Designed by Henry Smith-Miller and Laurie Hawkinson, right,...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/08/01/garden/currents-security-a-guardhouse-to-make-deep-thinkers-think-twice.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "organizations", 
+      "value": "ROCKEFELLER UNIVERSITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ARCHITECTURE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1
+      }
+    ], 
+    "original": "By EVE M. KAHN"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-08-01T00:00:00Z", 
+  "section_name": "Home and Garden; Style"
+}

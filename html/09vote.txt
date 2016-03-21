@@ -1,0 +1,637 @@
+
+  
+
+
+
+
+Hacking Into Washington’s Online Voting Experiment - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Politics|Voting Test Falls Victim to Hackers
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Politics 
+Voting Test Falls Victim to Hackers
+
+By SARAH WHEATONOCT. 8, 2010
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+Hackers infiltrated the District of Columbia’s online voting system last week. They changed all votes for mayor to Master Control Pro and elected HAL 9000 the council chairman. The blaring University of Michigan fight song played whenever a new ballot was successfully cast.The hackers, a team of computer scientists from Ann Arbor, Mich., were capable of damage far less sophomoric. When the District’s Board of Elections and Ethics issued an open invitation for hackers to find vulnerabilities in a pilot system to allow overseas and military voters to cast ballots over the Web, it took about 36 hours for J. Alex Halderman and his students to break in. They found a document containing the names and 16-digit passwords of all 937 voters who were invited to use the system during the real election on Nov. 2.The team could have used the data to “vote in the name of every real voter and keep the real voters from voting,” Professor Halderman told the Council of the District of Columbia on Friday.He said he also saw signs that computer users in Iran and China were trying to crack the system’s master password — which his team  obtained from an equipment  manual. (Network administrators had never changed the four-character default password.) He said that the foreign hackers were probably not specifically trying to break into the District’s voting system, but that they represented a threat nonetheless.It took the elections board two days to notice the pranks.“A real attack might be completely invisible and could’ve gone on undetected for much, much longer,” Professor Halderman said. He testified with other members of a coalition that contends that security technology might never be adequate for voting by secret ballot.
+
+Advertisement
+
+Continue reading the main story
+
+“The next set of people who test it will find a whole new set of problems,” Jeremy Epstein, a computer scientist at the policy group SRI International who was also critical of the voting system, said Friday during an interview.Since the test, the elections board has scaled back the Web voting plan, though voters may still print out a ballot and mail it in.But Paul Stenbjorn, the board’s director of information services, said there were no plans to abandon the project. “The lesson learned is not to be more timid, but more aggressive about solving the problem,” he  responded.“The computer science community needs to understand that this toothpaste is already out of the tube, and no volume of warnings can put it back,” he said.Mr. Epstein said that computer voting has been tried in Estonia and in some recent primaries in America, but added that the ballots had not been anonymous. Currently, several West Virginia counties are participating in a pilot project to use online voting next month for Americans overseas and in the military.
+
+A version of this article appears in print on October 9, 2010, on page A12 of the New York edition with the headline: Voting Test Falls Victim To Hackers.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

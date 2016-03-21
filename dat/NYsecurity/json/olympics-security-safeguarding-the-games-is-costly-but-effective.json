@@ -1,0 +1,36 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Sports Desk", 
+  "lead_paragraph": "After 12 days of the Salt Lake Olympics, judging irregularities in figure skating have caused a greater stir than security threats. A senior official with the Utah Olympic Public Safety Command said today that security plans and operations that could end up costing the federal government more than $400 million have worked to near perfection and that no incident of any consequence has threatened any Olympic sites or competitions.", 
+  "headline": {
+    "main": "Safeguarding the Games Is Costly but Effective", 
+    "kicker": "OLYMPICS: SECURITY"
+  }, 
+  "abstract": null, 
+  "print_page": "6", 
+  "word_count": 598, 
+  "_id": "4fd22cb28eb7c8105d7b8afd", 
+  "snippet": "After 12 days of the Salt Lake Olympics, judging irregularities in figure skating have caused a greater stir than security threats.    A senior official with the Utah Olympic Public Safety Command said today that security plans and operations that...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2002/02/20/sports/olympics-security-safeguarding-the-games-is-costly-but-effective.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michael", 
+        "lastname": "JANOFSKY"
+      }
+    ], 
+    "original": "By MICHAEL JANOFSKY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2002-02-20T00:00:00Z", 
+  "section_name": "Sports"
+}

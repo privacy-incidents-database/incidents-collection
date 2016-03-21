@@ -1,0 +1,81 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign Desk", 
+  "lead_paragraph": "Terrorism experts said today that Peru dismissed several well-executed attacks in the last year and ignored warnings that foreshadowed the commando-style takeover of the Japanese ambassador's house, where guerrillas are holding several hundred hostages. The experts said the warnings had come from a range of sources: captured documents indicating plans for raids on official targets and intelligence from academics and law enforcement officials as well as informants in contact with guerrilla groups.", 
+  "headline": {
+    "main": "Peru Shrugged Off Warnings Of Rebel Attack, Experts Say", 
+    "kicker": "SIEGE IN PERU: SECURITY"
+  }, 
+  "abstract": "Terrorism experts say that Peru dismissed several well-executed attacks in last year and ignored warnings that foreshadowed commando-style takeover of Japanese ambassador's house, where guerrillas are holding several hundred hostages; say Government security forces, convinced they had won war against terrorism after years of success, have been devoting their limited resources to other threats; Enrique Obando, considered foremost authority on terrorism and military in Peru, says 'security forces were sloppy and overconfident'; photo (M)", 
+  "print_page": "1", 
+  "word_count": 1018, 
+  "_id": "4fd1cd338eb7c8105d7040f2", 
+  "snippet": "Terrorism experts said today that Peru dismissed several well-executed attacks in the last year and ignored warnings that foreshadowed the commando-style takeover of the Japanese ambassador's house, where guerrillas are holding several hundred...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1996/12/20/world/peru-shrugged-off-warnings-of-rebel-attack-experts-say.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "OBANDO, ENRIQUE"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "JAPAN"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "PERU"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "TUPAC AMARU REVOLUTIONARY MOVEMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ARMAMENT, DEFENSE AND MILITARY FORCES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HOSTAGES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "POLITICS AND GOVERNMENT"
+    }, 
+    {
+      "name": "subject", 
+      "value": "CIVIL WAR AND GUERRILLA WARFARE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FOREIGN SERVICE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "JAPAN-INTERNATIONAL RELATIONS-PERU"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Calvin", 
+        "lastname": "SIMS"
+      }
+    ], 
+    "original": "By CALVIN SIMS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1996-12-20T00:00:00Z", 
+  "section_name": "World; Front Page"
+}

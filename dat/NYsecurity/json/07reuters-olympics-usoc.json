@@ -1,0 +1,29 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "None", 
+  "lead_paragraph": "Zika, doping and venue problems dominated the opening day of the U.S. Olympic Committee's media summit on Monday as officials were pushed on athlete health and safety for this year's Rio Olympics.", 
+  "headline": {
+    "main": "Mosquitoes, Not Security, Viewed as Big Rio Threat", 
+    "print_headline": "Mosquitoes, Not Security, Viewed as Big Rio Threat"
+  }, 
+  "abstract": null, 
+  "print_page": null, 
+  "word_count": "604", 
+  "_id": "56de1e9638f0d810772444d7", 
+  "snippet": "Zika, doping and venue problems dominated the opening day of the U.S. Olympic Committee's media summit on Monday as officials were pushed on athlete health and safety for this year's Rio Olympics.", 
+  "source": "Reuters", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/reuters/2016/03/07/sports/olympics/07reuters-olympics-usoc.html", 
+  "multimedia": [], 
+  "subsection_name": "Olympics", 
+  "keywords": [], 
+  "byline": {
+    "person": [], 
+    "original": "By REUTERS", 
+    "organization": "REUTERS"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2016-03-07T19:34:54Z", 
+  "section_name": "Sports"
+}

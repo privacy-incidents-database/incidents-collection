@@ -1,0 +1,63 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "Intelligence suggests that terrorists might be considering surgically implanted explosives, an American official said.", 
+  "headline": {
+    "main": "U.S. Adds Body Bombs to Concerns on Air Travel", 
+    "print_headline": "U.S. Adds Body Bombs To Concerns On Air Travel"
+  }, 
+  "abstract": null, 
+  "print_page": "4", 
+  "word_count": "559", 
+  "_id": "540f79e338f0d87641c67ceb", 
+  "snippet": "Intelligence suggests that terrorists might be considering surgically implanted explosives, an American official said.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2011/07/07/world/07security.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "Brian Knowlton reported from Washington, and Nicola Clark from Paris. Eric Schmitt contributed reporting from Washington.", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Brian", 
+        "lastname": "KNOWLTON"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Nicola", 
+        "lastname": "CLARK"
+      }
+    ], 
+    "original": "By BRIAN KNOWLTON and NICOLA CLARK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2011-07-07T00:00:00Z", 
+  "section_name": "World"
+}

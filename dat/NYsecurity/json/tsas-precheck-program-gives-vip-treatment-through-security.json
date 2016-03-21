@@ -1,0 +1,75 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "People who qualify for the T.S.A.\u2019s PreCheck program are chosen from the top ranks of elite fliers who qualify for preferential treatment in the security process itself.", 
+  "headline": {
+    "seo": "T.S.A.&#8217;s PreCheck Program Gives V.I.P. Treatment Through Security", 
+    "main": "V.I.P. Treatment Eases the Way Through Security", 
+    "print_headline": "V.I.P. Treatment Eases the Way Through Security"
+  }, 
+  "abstract": "Top-tier business travelers, who generate the most revenue for airlines, are getting additional benefits like elite access to security lines; concurrently, the Transportation Security Administration has begun a PreCheck program, giving qualifying fliers preferential treatment through the entire security process, based on the idea that a known traveler poses a lower security risk.", 
+  "print_page": "7", 
+  "word_count": "1379", 
+  "_id": "53f64a6f38f0d821a37b1f8c", 
+  "snippet": "People who qualify for the T.S.A.\u2019s PreCheck program are chosen from the top ranks of elite fliers who qualify for preferential treatment in the security process itself.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2012/05/03/business/tsas-precheck-program-gives-vip-treatment-through-security.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Airport Security", 
+      "is_major": "Y", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Business Travel", 
+      "is_major": "Y", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "Y", 
+      "rank": "3", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Airports", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Travel and Vacations", 
+      "is_major": "Y", 
+      "rank": "6", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Joe", 
+        "lastname": "SHARKEY"
+      }
+    ], 
+    "original": "By JOE SHARKEY"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2012-05-03T00:00:00Z", 
+  "section_name": "Business Day"
+}

@@ -1,0 +1,57 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "House & Home/Style Desk", 
+  "lead_paragraph": "Who needs a $500,000 gate? Jon A. Shirley, a former president of Microsoft, and his wife, Mary, ordered one, above, for their 23,000-square-foot house on Evergreen Point Road in Medina, Wash. ''The Second Gates of Paradise,'' a 4,000-pound, bronze-plated stainless steel, Braque-like art gate, is by Joseph Anthony McDonnell of Seattle. To prevent people and things from being accidentally crushed, ''it had to be engineered very thoroughly,'' Mr. McDonnell said, with safety features. The gate seems impenetrable; this summer, when the power failed, Mr. McDonnell was told that Mrs. Shirley was unable to get in her car and leave home, trapped as she was behind Gatehenge.", 
+  "headline": {
+    "main": "Steeling the Home Front With a Two-Ton Art Gate", 
+    "kicker": "CURRENTS: SECURITY"
+  }, 
+  "abstract": "Photo of 4,000-pound bronze-plated stainless steel art gate at entrance to Jon and Mary Shirley's home in Medina, Wash (Currents column)", 
+  "print_page": "3", 
+  "word_count": 108, 
+  "_id": "4fd235d98eb7c8105d7c7c29", 
+  "snippet": "Who needs a $500,000 gate? Jon A. Shirley, a former president of Microsoft, and his wife, Mary, ordered one, above, for their 23,000-square-foot house on Evergreen Point Road in Medina, Wash. ''The Second Gates of Paradise,'' a 4,000-pound,...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/10/16/garden/currents-security-steeling-the-home-front-with-a-two-ton-art-gate.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "SHIRLEY, MARY"
+    }, 
+    {
+      "name": "persons", 
+      "value": "SHIRLEY, JON A"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "MEDINA (WASH)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HOUSING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ART"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Elaine", 
+        "lastname": "Louie"
+      }
+    ], 
+    "original": "By Elaine Louie"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-10-16T00:00:00Z", 
+  "section_name": "Home and Garden; Style"
+}

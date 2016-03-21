@@ -1,0 +1,45 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Weekend Desk", 
+  "lead_paragraph": "Andrew Bergman's play ''Social Security,'' which was to have opened on Broadway on March 27, has been postponed at least one week because its director, Mike Nichols, has experienced chest pains, according to a spokesman for the show. Mr. Nichols reported the pains following a rehearsal in New York on Tuesday and, on his doctor's recommendation, entered a hospital for observation and testing.", 
+  "headline": {
+    "main": "Director's Chest Pains Delay 'Social Security'"
+  }, 
+  "abstract": null, 
+  "print_page": "28", 
+  "word_count": 120, 
+  "_id": "4fd149998eb7c8105d626a28", 
+  "snippet": "Andrew Bergman's play ''Social Security,'' which was to have opened on Broadway on March 27, has been postponed at least one week because its director, Mike Nichols, has experienced chest pains, according to a spokesman for the show.   Mr. Nichols...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1986/01/10/theater/director-s-chest-pains-delay-social-security.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "creative_works", 
+      "value": "SOCIAL SECURITY (PLAY)"
+    }, 
+    {
+      "name": "persons", 
+      "value": "BERGMAN, ANDREW"
+    }, 
+    {
+      "name": "persons", 
+      "value": "HEALTH, PERSONAL"
+    }, 
+    {
+      "name": "persons", 
+      "value": "NICHOLS, MIKE"
+    }, 
+    {
+      "name": "subject", 
+      "value": "THEATER"
+    }
+  ], 
+  "byline": null, 
+  "document_type": "article", 
+  "pub_date": "1986-01-10T00:00:00Z", 
+  "section_name": "Arts; Theater"
+}

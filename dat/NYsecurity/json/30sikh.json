@@ -1,0 +1,61 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "A new federal policy subjects travelers who wear any type of head covering to possible additional screening at airport checkpoints.", 
+  "headline": {
+    "main": "Airport Scrutiny of Headgear Raises Bias Claims From Sikhs", 
+    "print_headline": "Airport Scrutiny of Headgear Raises Bias Claims From Sikhs"
+  }, 
+  "abstract": null, 
+  "print_page": "19", 
+  "word_count": "600", 
+  "_id": "5484b3f138f0d84e18ddf260", 
+  "snippet": "A new federal policy subjects travelers who wear any type of head covering to possible additional screening at airport checkpoints.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/08/30/us/nationalspecial3/30sikh.html", 
+  "multimedia": [], 
+  "subsection_name": "U.S.", 
+  "keywords": [
+    {
+      "value": "Sikhs (Sect)", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Transportation Security Administration", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Neil", 
+        "lastname": "MacFARQUHAR"
+      }
+    ], 
+    "original": "By NEIL MacFARQUHAR"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-08-30T00:00:00Z", 
+  "section_name": "U.S."
+}

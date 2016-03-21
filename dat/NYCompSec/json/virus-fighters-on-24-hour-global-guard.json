@@ -1,0 +1,52 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Circuits", 
+  "lead_paragraph": "JUST outside the security door to the Symantec Antivirus Research Center in Santa Monica, Calif., is a wall-length mural depicting engineers like those inside as superhumans and film noir detectives. SARC is part of the Symantec Corporation, a computer utilities and antivirus protection company that recently published a promotional comic book called ''Sarcman,'' extending the theme of virus fighters.", 
+  "headline": {
+    "main": "Virus Fighters on 24-Hour, Global Guard"
+  }, 
+  "abstract": "Symantec Corp laboratories study the world's thousands of computer viruses and fashion immunizations against them, a laborious and exacting business; Carey Nachenberg, chief researcher at Symantec Antivirus Research Center in Santa Monica, Calif, lives and dreams the challenge of beating back the mounting threat of computer viruses; photo (M)", 
+  "print_page": "7", 
+  "word_count": 1140, 
+  "_id": "4fd2269f8eb7c8105d7aec42", 
+  "snippet": "JUST outside the security door to the Symantec Antivirus Research Center in Santa Monica, Calif., is a wall-length mural depicting engineers like those inside as superhumans and film noir detectives.    SARC is part of the Symantec Corporation, a...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/1999/06/10/technology/virus-fighters-on-24-hour-global-guard.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "persons", 
+      "value": "NACHENBERG, CAREY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "SYMANTEC CORP"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTER SECURITY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "COMPUTERS AND THE INTERNET"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Michel", 
+        "lastname": "MARRIOTT"
+      }
+    ], 
+    "original": "By MICHEL MARRIOTT"
+  }, 
+  "document_type": "article", 
+  "pub_date": "1999-06-10T00:00:00Z", 
+  "section_name": "Technology"
+}

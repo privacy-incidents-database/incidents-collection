@@ -1,0 +1,98 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Metro", 
+  "lead_paragraph": "Senator Charles E. Schumer said some areas that were particularly bad were: security for mass transit, shipping ports and the use of bomb detection devices.", 
+  "headline": {
+    "main": "Domestic Security Since 9/11 Is Barely Better, Schumer Says", 
+    "print_headline": "Domestic Security Since 9/11 Is Barely Better, Schumer Says"
+  }, 
+  "abstract": null, 
+  "print_page": "7", 
+  "word_count": "502", 
+  "_id": "54b1654e38f0d87f8114673f", 
+  "snippet": "Senator Charles E. Schumer said some areas that were particularly bad were: security for mass transit, shipping ports and the use of bomb detection devices.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/09/05/nyregion/05schumer.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/09/05/nyregion/600_schumer.jpg", 
+      "height": 280, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/09/05/nyregion/600_schumer.jpg", 
+        "xlargeheight": "280"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/09/05/nyregion/75_schumer.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/09/05/nyregion/75_schumer.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "Schumer, Charles E", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "persons"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "World Trade Center (NYC)", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Homeland Security Department", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "New York City", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Richard", 
+        "lastname": "P\u00c9REZ-PE\u00d1A"
+      }
+    ], 
+    "original": "By RICHARD P\u00c9REZ-PE\u00d1A"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-09-05T00:00:00Z", 
+  "section_name": "N.Y. / Region"
+}

@@ -1,0 +1,104 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "Three judges hearing challenges to the National Security Agency\u2019s surveillance programs appeared skeptical of the Bush administration\u2019s argument.", 
+  "headline": {
+    "main": "U.S. Defends Surveillance to 3 Skeptical Judges", 
+    "sub": "Appeals Court Hears Challenges to N.S.A. ;", 
+    "print_headline": "U.S. Defends Surveillance Before 3 Skeptical Judges"
+  }, 
+  "abstract": null, 
+  "print_page": "13", 
+  "word_count": "840", 
+  "_id": "548449e638f0d80df4fa4f45", 
+  "snippet": "Three judges hearing challenges to the National Security Agency\u2019s surveillance programs appeared skeptical of the Bush administration\u2019s argument.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2007/08/16/washington/16nsa.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "value": "National Security Agency", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "San Francisco (Calif)", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Suits and Litigation", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Surveillance of Citizens by Government", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Wiretapping and Other Eavesdropping Devices and Methods", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Espionage", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Courts", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Judges", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Walker, Vaughn R", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "persons"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Adam", 
+        "lastname": "LIPTAK"
+      }
+    ], 
+    "original": "By ADAM LIPTAK"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2007-08-16T00:00:00Z", 
+  "section_name": "Washington"
+}

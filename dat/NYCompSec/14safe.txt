@@ -1,0 +1,9 @@
+A Pocket-Size Digital Security Guard That Keeps Your Numbers Secret - The New York Times
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Personal Tech|A Pocket-Size Digital Security Guard That Keeps Your Numbers Secret
+A Pocket-Size Digital Security Guard That Keeps Your Numbers Secret
+The Tke Personal Pocket Safe from Blackbox Innovations is like a safety deposit box to hold your critical digital information, including credit card and bank account numbers and all your passwords.The safe is
+encryption. After you enter your four-digit code, you have 30 seconds to insert the device into a computer before it locks. It also locks if it sits idle in the computer for more than three minutes.All the necessary software is on the drive, and it can be used on any PC without leaving a trace.
+The software has forms that can be filled out with important phone numbers, addresses, account data and so forth. The drive is available for $49 at www.takeanyware.com.If you forget your code and havent registered it on the companys secure Web site, there is no way for you to retrieve the data. The company also protects the hardware from being hacked. If you try to remove the flash memory chip, it will stop working  with more of a whimper than a Mission Impossible-style bang.
+A version of this article appears in print on , on page C8 of the New York edition with the headline: A Pocket-Size Digital Security Guard That Keeps Your Numbers Secret.
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.

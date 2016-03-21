@@ -1,0 +1,70 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "New Jersey Weekly Desk", 
+  "lead_paragraph": "The New Jersey National Guard has been pulled off its latest patrol at Newark Liberty International Airport, which began under heightened terrorism concerns at the start of the Iraq war. A spokeswoman for the governor's office said the state had also taken troops off duty at bridges and tunnels but would keep them at nuclear power plants and use them to increase vehicle inspections on highways. Michael J. Grabell", 
+  "headline": {
+    "main": "AT EASE AT AIRPORT", 
+    "kicker": "BRIEFINGS: SECURITY"
+  }, 
+  "abstract": "New Jersey National Guard takes troops off duty at Newark Liberty International Airport; plans to keep them at nuclear power plants and to increase vehicle inspections on highways (S)", 
+  "print_page": "6", 
+  "word_count": 71, 
+  "_id": "4fd22c0a8eb7c8105d7b7f90", 
+  "snippet": "The New Jersey National Guard has been pulled off its latest patrol at Newark Liberty International Airport, which began under heightened terrorism concerns at the start of the Iraq war. A spokeswoman for the governor's office said the state had also...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2003/05/11/nyregion/briefings-security-at-ease-at-airport.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW JERSEY"
+    }, 
+    {
+      "name": "organizations", 
+      "value": "NATIONAL GUARD"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRPORTS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "NEWARK LIBERTY INTERNATIONAL AIRPORT (NJ)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ROADS AND TRAFFIC"
+    }, 
+    {
+      "name": "subject", 
+      "value": "ATOMIC ENERGY"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "firstname": "Michael", 
+        "middlename": "J.", 
+        "lastname": "Grabell", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By Michael J. Grabell"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2003-05-11T00:00:00Z", 
+  "section_name": "New York and Region"
+}

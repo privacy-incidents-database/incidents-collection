@@ -1,0 +1,69 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Business", 
+  "lead_paragraph": "The Transportation Security Administration will let uniformed airline pilots skip body scans and pat-downs.", 
+  "headline": {
+    "seo": "T.S.A. Grants Airline Pilots an Exception to Screenings", 
+    "main": "T.S.A. Grants Airline Pilots an Exception to Screenings", 
+    "print_headline": "T.S.A. Grants Airline Pilots An Exception To Screenings"
+  }, 
+  "abstract": null, 
+  "print_page": "25", 
+  "word_count": "507", 
+  "_id": "5420d98938f0d81f7a600a75", 
+  "snippet": "The Transportation Security Administration will let uniformed airline pilots skip body scans and pat-downs.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2010/11/21/business/21tsa.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Airports", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Airlines and Airplanes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Transportation Security Administration", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Pilots", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "contributor": "", 
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "firstname": "Ron", 
+        "rank": 1, 
+        "lastname": "NIXON"
+      }
+    ], 
+    "original": "By RON NIXON"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2010-11-21T00:00:00Z", 
+  "section_name": "Business Day"
+}

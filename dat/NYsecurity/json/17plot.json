@@ -1,0 +1,196 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "Foreign", 
+  "lead_paragraph": "New measures could include blocking Web sites and fingerprinting or iris-scanning airline passengers.", 
+  "headline": {
+    "main": "Europe Says It Will Unify Effort in Fight on Terrorism", 
+    "print_headline": "Europe Says It Will Unify Effort in Fight On Terrorism", 
+    "content_kicker": "Security"
+  }, 
+  "abstract": null, 
+  "print_page": "15", 
+  "word_count": "1034", 
+  "_id": "54b0ea9238f0d8367c84297d", 
+  "snippet": "New measures could include blocking Web sites and fingerprinting or iris-scanning airline passengers.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2006/08/17/world/europe/17plot.html", 
+  "multimedia": [
+    {
+      "subtype": "xlarge", 
+      "url": "images/2006/08/17/world/17plot_600x273.jpg", 
+      "height": 273, 
+      "width": 600, 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2006/08/17/world/17plot_600x273.jpg", 
+        "xlargeheight": "273"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "subtype": "thumbnail", 
+      "url": "images/2006/08/17/world/17plot_75x75.jpg", 
+      "height": 75, 
+      "width": 75, 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2006/08/17/world/17plot_75x75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Europe", 
+  "keywords": [
+    {
+      "value": "Europe", 
+      "is_major": "N", 
+      "rank": "1", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Discrimination", 
+      "is_major": "N", 
+      "rank": "11", 
+      "name": "subject"
+    }, 
+    {
+      "value": "European Union", 
+      "is_major": "N", 
+      "rank": "12", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Interpol", 
+      "is_major": "N", 
+      "rank": "13", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "European Commission", 
+      "is_major": "N", 
+      "rank": "14", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Scotland Yard", 
+      "is_major": "N", 
+      "rank": "15", 
+      "name": "organizations"
+    }, 
+    {
+      "value": "Finland", 
+      "is_major": "N", 
+      "rank": "16", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Germany", 
+      "is_major": "N", 
+      "rank": "17", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Portugal", 
+      "is_major": "N", 
+      "rank": "18", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Slovenia", 
+      "is_major": "N", 
+      "rank": "19", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "France", 
+      "is_major": "N", 
+      "rank": "20", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Terrorism", 
+      "is_major": "N", 
+      "rank": "2", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Great Britain", 
+      "is_major": "N", 
+      "rank": "21", 
+      "name": "glocations"
+    }, 
+    {
+      "value": "Airlines and Airplanes", 
+      "is_major": "N", 
+      "rank": "3", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Islam", 
+      "is_major": "N", 
+      "rank": "4", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Identification Devices", 
+      "is_major": "N", 
+      "rank": "5", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Computers and the Internet", 
+      "is_major": "N", 
+      "rank": "6", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Security and Warning Systems", 
+      "is_major": "N", 
+      "rank": "7", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Freedom and Human Rights", 
+      "is_major": "N", 
+      "rank": "8", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Bombs and Explosives", 
+      "is_major": "N", 
+      "rank": "9", 
+      "name": "subject"
+    }, 
+    {
+      "value": "Politics and Government", 
+      "is_major": "N", 
+      "rank": "10", 
+      "name": "subject"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "Heather", 
+        "lastname": "TIMMONS"
+      }, 
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 2, 
+        "firstname": "Eric", 
+        "lastname": "PFANNER"
+      }
+    ], 
+    "original": "By HEATHER TIMMONS and ERIC PFANNER"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2006-08-17T00:00:00Z", 
+  "section_name": "World"
+}

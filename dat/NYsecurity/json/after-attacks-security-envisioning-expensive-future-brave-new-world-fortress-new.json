@@ -1,0 +1,89 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National Desk", 
+  "lead_paragraph": "Late Friday afternoon, pausing amid the swirl of commuters in the main lobby of Grand Central Terminal, a young man leaned into his girlfriend and whispered a thought that in an earlier America would have sounded alarmist and paranoid: ''What's to stop a suicide bomber from taking out this whole place?'' After the suffering of this last week, his words only begin to hint at the broader question many New Yorkers are now confronting with an almost primal urgency: What will it take to make this city's public spaces safe from attack?", 
+  "headline": {
+    "main": "Envisioning an Expensive Future in the Brave New World of Fortress New York", 
+    "kicker": "AFTER THE ATTACKS: SECURITY"
+  }, 
+  "abstract": "Security and terrorism experts agree that there is no way to eliminate threat of terrorism at New York City landmarks, and even approaching maximum security may mean following drastic measures; say security options once dismissed as unpalatable, impractical or too expensive are now likely to be adopted; diagram of measures that might be employed in Times Square (M)", 
+  "print_page": "16", 
+  "word_count": 1591, 
+  "_id": "4fd263778eb7c8105d81630d", 
+  "snippet": "Late Friday afternoon, pausing amid the swirl of commuters in the main lobby of Grand Central Terminal, a young man leaned into his girlfriend and whispered a thought that in an earlier America would have sounded alarmist and paranoid: ''What's to...", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2001/09/16/us/after-attacks-security-envisioning-expensive-future-brave-new-world-fortress-new.html", 
+  "multimedia": [], 
+  "subsection_name": null, 
+  "keywords": [
+    {
+      "name": "glocations", 
+      "value": "NEW YORK CITY"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "TIMES SQUARE AND 42ND STREET (NYC)"
+    }, 
+    {
+      "name": "glocations", 
+      "value": "WASHINGTON (DC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "WORLD TRADE CENTER (NYC)"
+    }, 
+    {
+      "name": "subject", 
+      "value": "AIRLINES AND AIRPLANES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "PENTAGON BUILDING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "FINANCES"
+    }, 
+    {
+      "name": "subject", 
+      "value": "MISSING PERSONS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "HIJACKING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "SECURITY AND WARNING SYSTEMS"
+    }, 
+    {
+      "name": "subject", 
+      "value": "BUDGETS AND BUDGETING"
+    }, 
+    {
+      "name": "subject", 
+      "value": "TERRORISM"
+    }, 
+    {
+      "name": "subject", 
+      "value": "UNITED STATES ARMAMENT AND DEFENSE"
+    }
+  ], 
+  "byline": {
+    "person": [
+      {
+        "organization": "", 
+        "role": "reported", 
+        "rank": 1, 
+        "firstname": "David", 
+        "lastname": "BARSTOW"
+      }
+    ], 
+    "original": "By DAVID BARSTOW"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2001-09-16T00:00:00Z", 
+  "section_name": "U.S."
+}

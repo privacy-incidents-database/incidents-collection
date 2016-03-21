@@ -1,0 +1,693 @@
+
+  
+
+
+
+
+United States Wants to Attract Hackers to Public Sector - The New York Times
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+LEARN MORE »
+
+
+
+
+
+
+
+
+
+Sections
+
+Home
+
+Search
+Skip to content
+Skip to navigation
+View mobile version
+
+
+
+
+The New York Times
+
+
+
+
+
+Technology|Luring Young Web Warriors Is Priority. It’s Also a Game.
+
+
+
+Advertisement
+
+
+
+
+
+
+
+Search
+
+
+Subscribe Now
+Log In
+0
+Settings
+
+
+
+
+Close search
+
+
+search sponsored by
+
+
+
+Site Search Navigation
+
+
+
+Search NYTimes.com
+
+
+
+Clear this text input
+
+
+
+Go
+
+
+
+
+
+
+http://nyti.ms/X6uZfo
+
+
+
+
+Loading...
+
+
+
+
+See next articles
+
+
+
+
+
+See previous articles
+
+
+
+
+
+
+
+
+Site Navigation
+
+
+Site Mobile Navigation
+
+
+
+
+
+
+Advertisement
+
+
+
+
+
+
+Supported by
+
+
+
+Technology 
+Luring Young Web Warriors Is Priority. It’s Also a Game.
+
+By NICOLE PERLROTHMARCH 24, 2013
+
+
+
+Continue reading the main story
+Share This Page
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+Photo
+
+
+
+
+
+
+Virginia high school students competed in a digital defense simulation at the Virginia Governor’s Cup Cyber Challenge at George Mason University.
+
+Credit
+            Mary Newman        
+
+
+WASHINGTON — In the eighth grade, Arlan Jaska figured out how to write a simple script that could switch his keyboard’s Caps Lock key on and off 6,000 times a minute. When friends weren’t looking, he slipped his program onto their computers. It was all fun and games until the program spread to his middle school.“They called my parents and told my dad I was hacking their computers,” Mr. Jaska, 17 years old, recalled. He was grounded and got detention. And he is just the type the Department of Homeland Security is looking for.The secretary of that agency, Janet Napolitano, knows she has a problem that will only worsen. Foreign hackers have been attacking her agency’s computer systems. They have also been busy trying to siphon the nation’s wealth and steal valuable trade secrets. And they have begun probing the nation’s infrastructure — the power grid, and water and transportation systems.So she needs her own hackers — 600, the agency estimates. But potential recruits with the right skills have too often been heading for business, and those who do choose government work often go to the National Security Agency, where they work on offensive digital strategies. At Homeland Security, the emphasis is on keeping hackers out, or playing defense.“We have to show them how cool and exciting this is,” said Ed Skoudis, one of the nation’s top computer security trainers. “And we have to show them that applying these skills to the public sector is important.”
+
+Advertisement
+
+Continue reading the main story
+
+One answer? Start young, and make it a game, even a contest.This month, Mr. Jaska and his classmate Collin Berman took top spots at the Virginia Governor’s Cup Cyber Challenge, a veritable smackdown of hacking for high school students that was the brainchild of Alan Paller, a security expert, and others in the field.With military exercises like NetWars, the competition, the first in a series, had more the feel of a video game. Mr. Paller helped create Cyber Aces, the nonprofit group that was host of the competition, to help Homeland Security, and likens the agency’s need for hackers to the shortage of fighter pilots during World War II. Continue reading the main story
+
+
+
+
+
+
+
+Advertisement
+
+Continue reading the main story
+
+
+
+
+
+The job calls for a certain maverick attitude. “I like to break things,” Mr. Berman, 18, said. “I always want to know, ‘How can I change this so it does something else?’ ”It’s a far different pursuit — and a higher-minded one, enlightened hackers will say — than simply defacing Web sites.“You want people who ask: How do things work? But the very best ones turn it around,” said Mr. Paller, director of research at the SANS Institute, a computer security training organization.It’s no coincidence that the idea of using competitions came, in part, from China, where the People’s Liberation Army runs challenges every spring to identify its next generation of digital warriors.Tan Dailin, a graduate student, won several of the events in 2005. Soon afterward he put his skills to work and was caught breaking into the Pentagon’s network and sending reams of documents back to servers in China.“We have no program like that in the United States — nothing,” Mr. Paller said. “No one is even teaching this in schools. If we don’t solve this problem, we’re in trouble.”
+
+Advertisement
+
+Continue reading the main story
+
+At Northern Virginia’s acclaimed Thomas Jefferson High School for Science and Technology, which both Mr. Jaska and Mr. Berman attend, there are five computer science teachers, but none focused on security.When eight students expressed interest in starting a security club, they had to persuade a Raytheon employee to meet with them once a week. (One idea for a name, the Hacking Club, didn’t last.“We don’t want people who are going to go around defacing sites,” Mr. Berman said. They recently rebranded from the Cybersecurity Club to the Computer Security Club. The group dropped the “Cyber” because “it sounds like you’re trying to be cool but you’re not,” clarified Mr. Jaska.)Mr. Jaska and Mr. Berman heard about the Virginia competition through their school. To qualify, they had to identify bad passwords and clean up security settings — a long way from a Caps Lock program.Some 700 students from 110 Virginia high schools applied, but only 40, including Mr. Jaska and Mr. Berman, made the cut.So, three weeks ago, the pair traveled to the Governor’s Cup Cyber Challenge at George Mason University.There, they found something they rarely encounter in high school — a thriving community of like-minded teenagers, the best and brightest of a highly specialized task.“For some of the kids, who tended to be a little bit loners, this was the first time they had a peer group,” Mr. Paller said. “They were having excited conversations about arcane technical issues — something they never get to do — and their parents exalted in it.”
+
+Advertisement
+
+Continue reading the main story
+
+The students faced the same five-level test that the military uses to test its own security experts. They earned points for cracking passwords, flagging vulnerabilities and breaking into a Web site administrator’s account where, had they changed any settings or defaced a site, they would have been eliminated. Their scores were displayed in real time on a leader board.After several hours, the winners were announced. A third of the students had made it to Level 3 — a level that Rear Adm. Gib Godwin, chairman of the Governor’s Cup, said typically requires someone with seven to 10 years of experience to achieve. Mr. Jaska won, earning a $5,000 scholarship. Mr. Berman won $1,500 for third place.The idea for such competitions is nothing new. For years, a hacking conference called DefCon has hosted games like Capture the Flag in which teams earn points for hacking into each other’s computers. The Air Force started a Cyber Patriot competition in which hackers defend against a “Red Team” trying to steal data. And the Defense Department has its own Digital Forensics Challenge. But none of these was meant for individual high school students.“The goal is to create a continuum, similar to the way kids go to junior high, high school, college and get their Ph.D.,” Admiral Godwin said. “We want to create the same flow for kids in the cyber domain.”This summer, Mr. Jaska is hoping to be an intern at Northrop Grumman. Mr. Berman is considering an internship at Homeland Security. But Ms. Napolitano still has some convincing to do.But asked about their dream job, both said they wanted to work in the private sector. “The problem with going into the government is you’re going to make a lot less,” said Mr. Berman.“Everything’s slower, there’s budget cuts and bureaucracy everywhere and you can’t talk about what you do,” Mr. Jaska added. “It just doesn’t seem like as much fun.”
+
+ Correction: April 1, 2013  
+Because of an editing error, an article last Monday about efforts to identify online security talent through competitions for high school hackers misstated the availability of such contests for such students. Cybersecurity competitions for teams of high school students are sponsored by the Defense Department’s Digital Forensics Challenge, the Air Force Association and other cybersecurity organizations; it is not the case that no contests are available for high school students to face off against each other.
+  
+
+
+
+A version of this article appears in print on March 25, 2013, on page A1 of the New York edition with the headline: Luring Young Web Warriors Is a U.S. Priority. It’s Also a Game.  Order Reprints| Today's Paper|Subscribe
+
+
+
+
+Continue reading the main story
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+What's Next
+
+
+Loading...
+
+
+
+
+
+
+
+
+
+Go to Home Page »
+
+Site Index
+
+The New York Times
+
+
+
+
+
+Site Index Navigation
+
+
+News
+
+
+World
+
+
+U.S.
+
+
+Politics
+
+
+N.Y.
+
+
+Business
+
+
+Tech
+
+
+Science
+
+
+Health
+
+
+Sports
+
+
+Education
+
+
+Obituaries
+
+
+Today's Paper
+
+
+Corrections
+
+
+
+
+Opinion
+
+
+Today's Opinion
+
+
+Op-Ed Columnists
+
+
+Editorials
+
+
+Contributing Writers
+
+
+Op-Ed Contributors
+
+
+Opinionator
+
+
+Letters
+
+
+Sunday Review
+
+
+Taking Note
+
+
+Room for Debate
+
+
+Public Editor
+
+
+Video: Opinion
+
+
+
+
+Arts
+
+
+Today's Arts
+
+
+Art & Design
+
+
+ArtsBeat
+
+
+Books
+
+
+Dance
+
+
+Movies
+
+
+Music
+
+
+N.Y.C. Events Guide
+
+
+Television
+
+
+Theater
+
+
+Video Games
+
+
+Video: Arts
+
+
+
+
+Living
+
+
+Automobiles
+
+
+Crossword
+
+
+Food
+
+
+Education
+
+
+Fashion & Style
+
+
+Health
+
+
+Jobs
+
+
+Magazine
+
+
+N.Y.C. Events Guide
+
+
+Real Estate
+
+
+T Magazine
+
+
+Travel
+
+
+Weddings & Celebrations
+
+
+
+
+Listings & More
+
+
+Classifieds
+
+
+Tools & Services
+
+
+Times Topics
+
+
+Public Editor
+
+
+N.Y.C. Events Guide
+
+
+Blogs
+
+
+Multimedia
+
+
+Photography
+
+
+Video
+
+
+NYT Store
+
+
+Times Journeys
+
+
+Subscribe
+
+
+Manage My Account
+
+
+
+
+Subscribe
+
+Subscribe
+
+
+Times Insider
+
+
+
+Home Delivery
+
+
+
+Digital Subscriptions
+
+
+
+NYT Opinion
+
+
+
+Crossword
+
+
+
+
+Email Newsletters
+
+
+Alerts
+
+
+Gift Subscriptions
+
+
+Corporate Subscriptions
+
+
+Education Rate
+
+
+
+
+Mobile Applications
+
+
+Replica Edition
+
+
+International New York Times
+
+
+
+
+
+
+
+
+Site Information Navigation
+
+
+
+                    © 2016 The New York Times Company
+
+
+Home
+Search
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+Contact Us
+Work With Us
+Advertise
+Your Ad Choices
+Privacy
+Terms of Service
+Terms of Sale
+
+
+
+Site Information Navigation
+
+Site Map
+Help
+Site Feedback
+Subscriptions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

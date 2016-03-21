@@ -1,0 +1,125 @@
+{
+  "type_of_material": "News", 
+  "blog": [], 
+  "news_desk": "National", 
+  "lead_paragraph": "President-elect Barack Obama is planning to choose Janet Napolitano to head the Department of Homeland Security, transition officials said.", 
+  "headline": {
+    "main": "Governor of Arizona Is in Line for Cabinet", 
+    "sub": "Homeland Security, Officials Report  ;", 
+    "print_headline": "Governor Of Arizona Is in Line For Cabinet"
+  }, 
+  "abstract": null, 
+  "print_page": "18", 
+  "word_count": "1083", 
+  "_id": "547a5d8238f0d803f445b7f3", 
+  "snippet": "President-elect Barack Obama is planning to choose Janet Napolitano to head the Department of Homeland Security, transition officials said.", 
+  "source": "The New York Times", 
+  "slideshow_credits": null, 
+  "web_url": "http://www.nytimes.com/2008/11/21/us/politics/21napolitano.html", 
+  "multimedia": [
+    {
+      "width": 600, 
+      "url": "images/2008/11/21/us/21napolitano.600.jpg", 
+      "height": 320, 
+      "subtype": "xlarge", 
+      "legacy": {
+        "xlargewidth": "600", 
+        "xlarge": "images/2008/11/21/us/21napolitano.600.jpg", 
+        "xlargeheight": "320"
+      }, 
+      "type": "image"
+    }, 
+    {
+      "width": 75, 
+      "url": "images/2008/11/21/us/21napolitano.75.jpg", 
+      "height": 75, 
+      "subtype": "thumbnail", 
+      "legacy": {
+        "thumbnailheight": "75", 
+        "thumbnail": "images/2008/11/21/us/21napolitano.75.jpg", 
+        "thumbnailwidth": "75"
+      }, 
+      "type": "image"
+    }
+  ], 
+  "subsection_name": "Politics", 
+  "keywords": [
+    {
+      "rank": "1", 
+      "is_major": "N", 
+      "value": "Napolitano, Janet", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "2", 
+      "is_major": "N", 
+      "value": "Obama, Barack", 
+      "name": "persons"
+    }, 
+    {
+      "rank": "3", 
+      "is_major": "N", 
+      "value": "Homeland Security Department", 
+      "name": "organizations"
+    }, 
+    {
+      "rank": "4", 
+      "is_major": "N", 
+      "value": "Immigration and Refugees", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "5", 
+      "is_major": "N", 
+      "value": "Illegal Immigrants", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "6", 
+      "is_major": "N", 
+      "value": "Fences", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "7", 
+      "is_major": "N", 
+      "value": "Security and Warning Systems", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "8", 
+      "is_major": "N", 
+      "value": "United States Politics and Government", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "9", 
+      "is_major": "N", 
+      "value": "Appointments and Executive Changes", 
+      "name": "subject"
+    }, 
+    {
+      "rank": "10", 
+      "is_major": "N", 
+      "value": "Arizona", 
+      "name": "glocations"
+    }
+  ], 
+  "byline": {
+    "contributor": "Eric Lipton contributed reporting from Washington.", 
+    "person": [
+      {
+        "firstname": "Randal", 
+        "middlename": "C.", 
+        "lastname": "ARCHIBOLD", 
+        "rank": 1, 
+        "role": "reported", 
+        "organization": ""
+      }
+    ], 
+    "original": "By RANDAL C. ARCHIBOLD"
+  }, 
+  "document_type": "article", 
+  "pub_date": "2008-11-21T00:00:00Z", 
+  "section_name": "U.S."
+}

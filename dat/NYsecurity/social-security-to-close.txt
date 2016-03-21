@@ -1,0 +1,5 @@
+campaign: inyt2016_bar1_inyt_q1_blitz_4YWLW -- 283295, creative: 1_CRS-9886_bar1_inyt_q1_blitz_4YWLW -- 412769, page: www.nytimes.com/archive/article/theater, targetedPage: www.nytimes.com/archive/article/theater, position: Bar1
+''Social Security,'' a comedy by Andrew Bergman about a married couple who are art dealers, will close after the Sunday matinee at the Barrymore Theater. Directed by Mike Nichols, the play will have run for 385 regular performances and 26 previews.
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York City’s top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_propensity_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/theater, targetedPage: www.nytimes.com/archive/article/theater, position: Inv1
