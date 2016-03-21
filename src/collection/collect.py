@@ -114,7 +114,10 @@ def get_articles(hits):
                         metadata['headline'] = d['headline']['main']
                         html = fetch_url(d['web_url'])
                         if html != -1:
-                            clean(html, headline=metadata['headline'], filename=metadata['filename'])
+                            final, remove_tag = clean(html)
+                            # Get folder name to store the articles
+                            folder_name = args.destination
+                            write_to_folder(folder_name, metadata['headline'], remove_tag, final)
 
 
 def fetch_url(url):
@@ -138,7 +141,17 @@ def fetch_url(url):
         return -1
 
 
-def clean(string, **kwargs):
+def write_to_folder(folder_name,filename,remove_tag, final):
+    if not os.path.exists(folder_name):
+        os.makedirs(folder_name)
+    wr = open("%s/text/%s.txt" % (folder_name, filename), 'w')  # write into txt file.
+    wr.write(final.encode('utf-8') + "\n")
+    # # return final
+    wr2 = open("%s/html/%s.txt" % (folder_name, filename), 'w')  # write into txt file.
+    wr2.write(remove_tag.encode('utf-8') + "\n")
+
+
+def clean(string):
     """
     @param string raw_html
     @param dict
@@ -146,8 +159,6 @@ def clean(string, **kwargs):
         filename: filename of the output file
     @return
     """
-    headline = kwargs.get('headline')
-    filename = kwargs.get('filename')
     remove_tag = clean_html(string)  # remove tags
     # if headline is not None or remove_tag.lower().find(filename) != -1:
     #     if remove_tag.lower().find(filename) != -1:
@@ -169,16 +180,7 @@ def clean(string, **kwargs):
     # # drop blank lines
     final = '\n'.join(chunk for chunk in chunks if len(chunk) > 50) #if chunk is longer than 50 chars, think it is valid.
     # find start point according to lead_paragraph
-
-    # Get folder name to store the articles
-    folderName = args.destination
-    if not os.path.exists(folderName):
-        os.makedirs(folderName)
-    wr = open("%s/%s.txt" % (folderName, filename), 'w')  # write into txt file.
-    wr.write(final.encode('utf-8') + "\n")
-    # # return final
-    wr2 = open("html/%s.txt" % filename, 'w')  # write into txt file.
-    wr2.write(remove_tag.encode('utf-8') + "\n")
+    return final, remove_tag
 
 
 def clean_html(fragment):

@@ -57,6 +57,8 @@ def create_json(web_url, filename):
     r = requests.get(url)
     if r.status_code == 200:
         w = r.json()
+        if filename is None:
+            filename = str(w["id"])
         if w.has_key('response'):
             docs = w['response']['docs']
             if not docs:

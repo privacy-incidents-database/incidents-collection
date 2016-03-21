@@ -1,14 +1,14 @@
 import csv,json,sys,os
-def gen_csv(neg,pos):
+def gen_csv(neg,pos,undecided):
     """
     Generate CSV according to the json stored.
     neg: path to negative directory
     pos: path to postive directory
 
     """
-    fout = open('data.csv','w')
+    fout = open('data.csv', 'w')
     out = csv.writer(fout)
-    src = [neg,pos]
+    src = [neg, pos, undecided]
     dic = ['no.','type_of_material','news_desk','word_count','document_type','pub_date','byline','isPrivacy'];
     length = len(dic)
     keywords = []
@@ -92,4 +92,4 @@ def gen_csv(neg,pos):
             rank = [0]*(len(keywords))
             cnt+=1
             fin.close()
-gen_csv('dat/NYnegative/json','dat/NYpositive/json')
+

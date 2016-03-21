@@ -11,7 +11,7 @@ def get_args():
 
 args = get_args()
 
-def gen_csv(neg,pos):
+def gen_csv(neg,pos,keywords):
     """
     Generate CSV according to the json stored.
     neg: path to negative directory
@@ -20,22 +20,23 @@ def gen_csv(neg,pos):
     """
     fout = open('tfid-log-' + args.library + '.csv','w')
     out = csv.writer(fout)
-    src = [neg,pos]
-    # length = len(dic)
-    keywords = {}
+    if keywords is None:
+        src = [neg, pos]
+        # length = len(dic)
+        keywords = {}
 
-    ##Get all the keywords
-    for s in src:
-        for filename in os.listdir(s):
-            fin = open(s+'/'+filename)
-            dat = json.load(fin)
-            for key in dat:
-                if key in keywords:
-                    keywords[key] += 1
-                else:
-                    keywords[key] = 1
-    # dic.extend(sorted(keywords))
-    ##sorted and write as header
+        ##Get all the keywords
+        for s in src:
+            for filename in os.listdir(s):
+                fin = open(s+'/'+filename)
+                dat = json.load(fin)
+                for key in dat:
+                    if key in keywords:
+                        keywords[key] += 1
+                    else:
+                        keywords[key] = 1
+        # dic.extend(sorted(keywords))
+        ##sorted and write as header
     out.writerow(sorted(keywords.keys()))
     val = []
     for key in sorted(keywords.keys()):

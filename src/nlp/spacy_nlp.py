@@ -3,10 +3,7 @@ import os,json,operator,re
 import pprint,string
 parser = English()
 
-nouns={}
-adj={}
-adv={}
-verbs={}
+
 
 def traverse(src):
     for filename in os.listdir(src):
@@ -14,22 +11,22 @@ def traverse(src):
             words = {}
             fin = open(src+'/'+filename)
             text = fin.read()
-            nlp(text)
+            nouns, adj, adv, verbs = nlp(text)
             fout = open(src.replace('../dat/','tfreq-spacy/') + '/' + filename,'w')
             words= nouns.copy()
             words.update(adj)
             words.update(adv)
             words.update(verbs)
-            adj.clear()
-            adv.clear()
-            nouns.clear()
-            verbs.clear()
             # words = sorted(words.items(), key=operator.itemgetter(1))
             json.dump(words,fout,indent=2)
             fout.close()
         
         
 def nlp(text):
+    nouns={}
+    adj={}
+    adv={}
+    verbs={}
     try:
         multiSentence = unicode(text,encoding="ascii")
     # all you have to do to parse text is this:
@@ -74,6 +71,7 @@ def nlp(text):
                             adv[token.lemma_] = 1
                         else:
                             adv[token.lemma_] +=1
+        return nouns, adj, adv, verbs
     except Exception,e:
         print "error",e
 
