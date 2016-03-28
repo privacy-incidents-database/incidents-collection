@@ -15,7 +15,7 @@ def get_args():
     args = parser.parse_args()
     return args
 
-args = get_args()
+# args = get_args()
 
 
 def gen_csv(neg, pos):

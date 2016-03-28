@@ -1,13 +1,13 @@
 from collect import fetch_url as fetch
 from collect import clean as clean
 from collect import clean_html as clean_html
-from collect import get_args
+# from collect import get_args
 import json
 import sys
 import os
 import requests
 
-args = get_args()
+# args = get_args()
 
 def get_content_from_json():
     """
@@ -83,5 +83,5 @@ def create_json(web_url, filename):
                     json.dump(d , wr, indent = 2)
                     wr.close()
 
-if __name__ == "__main__":
-    get_content_from_json()
+# if __name__ == "__main__":
+#     get_content_from_json()

@@ -8,35 +8,35 @@ import getopt
 import argparse
 from bs4 import BeautifulSoup
 
-def get_args():
-    global args
-    parser = argparse.ArgumentParser(description="Script for collecting data from Articles")
-    parser.add_argument("destination", help = 'Destination to store the Articles')
-    parser.add_argument('-k', '--keywords', nargs = '+', metavar = 'N', help = 'Keywords for fetching the Articles')
-    parser.add_argument('-l', '--limit', type = int, help = 'Limit of the number of Articles to be fetched, must be a multiple of 10')
-    parser.add_argument('-j', '--json',type = str, help = 'Name of the Json file containing the urls')
-    
-    args = parser.parse_args()
-    return args
+# def get_args():
+#     global args
+#     parser = argparse.ArgumentParser(description="Script for collecting data from Articles")
+#     parser.add_argument("destination", help = 'Destination to store the Articles')
+#     parser.add_argument('-k', '--keywords', nargs = '+', metavar = 'N', help = 'Keywords for fetching the Articles')
+#     parser.add_argument('-l', '--limit', type = int, help = 'Limit of the number of Articles to be fetched, must be a multiple of 10')
+#     parser.add_argument('-j', '--json',type = str, help = 'Name of the Json file containing the urls')
+#
+#     args = parser.parse_args()
+#     return args
 
-def get_keywords():
-    keywords = args.keywords
-    keywordstr = ""
-    cnt = 0
-
-    if keywords is not None:
-        for keyword in keywords:
-            keywordstr += keyword
-            if cnt < len(keywords) - 1 :
-                keywordstr += "+"
-            cnt += 1
-
-    return keywordstr
+# def get_keywords():
+#     keywords = args.keywords
+#     keywordstr = ""
+#     cnt = 0
+#
+#     if keywords is not None:
+#         for keyword in keywords:
+#             keywordstr += keyword
+#             if cnt < len(keywords) - 1 :
+#                 keywordstr += "+"
+#             cnt += 1
+#
+#     return keywordstr
 
 # Global variables
 API_KEY = os.environ.get("NY_TIMES_API_KEY")
-args = get_args()
-keywordstr = get_keywords()
+# args = get_args()
+# keywordstr = get_keywords()
 abstractindex = 0
 
 
@@ -117,7 +117,7 @@ def get_articles(hits):
                             final, remove_tag = clean(html)
                             # Get folder name to store the articles
                             folder_name = args.destination
-                            write_to_folder(folder_name, metadata['headline'], remove_tag, final)
+                            write_to_folder(folder_name, metadata['headline'], final)
 
 
 def fetch_url(url):
@@ -141,14 +141,14 @@ def fetch_url(url):
         return -1
 
 
-def write_to_folder(folder_name,filename,remove_tag, final):
+def write_to_folder(folder_name, filename, final):
     if not os.path.exists(folder_name):
         os.makedirs(folder_name)
     wr = open("%s/text/%s.txt" % (folder_name, filename), 'w')  # write into txt file.
     wr.write(final.encode('utf-8') + "\n")
     # # return final
-    wr2 = open("%s/html/%s.txt" % (folder_name, filename), 'w')  # write into txt file.
-    wr2.write(remove_tag.encode('utf-8') + "\n")
+    # wr2 = open("%s/html/%s.txt" % (folder_name, filename), 'w')  # write into txt file.
+    # wr2.write(remove_tag.encode('utf-8') + "\n")
 
 
 def clean(string):
@@ -197,5 +197,5 @@ def clean_html(fragment):
     return text
 
 
-if __name__ == "__main__":
-    collect()
+# if __name__ == "__main__":
+#     collect()

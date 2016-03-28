@@ -1,5 +1,7 @@
-import csv,json,sys,os,math,re
+import csv, json, os, math
 import argparse
+from utils.common import get_words_frequency
+
 
 def get_args():
     global args
@@ -11,32 +13,23 @@ def get_args():
 
 args = get_args()
 
-def gen_csv(neg,pos,keywords):
+
+def gen_csv(neg, pos, keywords):
     """
     Generate CSV according to the json stored.
     neg: path to negative directory
     pos: path to postive directory
 
     """
-    fout = open('tfid-log-' + args.library + '.csv','w')
+    fout = open('tfid-log-' + args.library + '.csv', 'w')
     out = csv.writer(fout)
     if keywords is None:
         src = [neg, pos]
-        # length = len(dic)
         keywords = {}
-
         ##Get all the keywords
         for s in src:
-            for filename in os.listdir(s):
-                fin = open(s+'/'+filename)
-                dat = json.load(fin)
-                for key in dat:
-                    if key in keywords:
-                        keywords[key] += 1
-                    else:
-                        keywords[key] = 1
-        # dic.extend(sorted(keywords))
-        ##sorted and write as header
+            temp = get_words_frequency(s)
+            keywords.update(temp)
     out.writerow(sorted(keywords.keys()))
     val = []
     for key in sorted(keywords.keys()):
@@ -47,6 +40,5 @@ def gen_csv(neg,pos,keywords):
     for v in val:
         log_val.append(float(math.log10(length/v)))
     out.writerow(log_val)
-    fin.close()
     
 gen_csv('tfreq-' + args.library + '/content','tfreq-' + args.library + '/NYnegative')
