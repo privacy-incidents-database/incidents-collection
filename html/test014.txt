@@ -1,0 +1,881 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BitQuick Taken Offline following Security Breach - NEWSBTC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				30-03-2016 
+
+				 03:11 am			
+
+
+
+
+
+
+BTC
+LTC
+USD
+EUR
+GBP
+CNY
+JPY
+
+
+
+=
+
+
+
+
+USD
+GBP
+EUR
+JPY
+CNY
+BTC
+LTC
+ 
+
+
+
+sponsored by First Global Credit
+
+
+
+
+CRYPTOCURRENCY ANALYSIS
+
+
+
+
+
+The Viability of Bitcoin In A Full-Reserve Banking Scenario
+
+
+
+
+Bitcoin and Bullion, A Great Combination
+
+
+
+
+Can Ethereum Surpass The US$1bn Market Cap Again?
+
+
+
+
+Bitcoin vs Ethereum! Is the Comparison Exaggerated?
+
+
+
+
+Ethereum and Litecoin: Apples and Oranges
+
+
+
+
+ISIL Has Bitcoin; They Also Have USD
+
+
+
+
+What Came First, Bitcoin or Ransomware?
+
+
+
+
+Flawed Economic Stimulus Plan for Canada Helps Bitcoin
+
+
+
+
+Media and Bitcoin, a Bitter-Sweet Relationship
+
+
+
+
+Hola Venezuela, The Government is Lying About Bitcoin!
+
+
+
+
+
+
+
+LATEST NEWS
+
+
+
+French Senate will Debate on Bitcoin RegulationBitcoin Price Watch; Sellers Take ControlMedStar Washington Potentially Affected by Bitcoin RansomwareAntonopoulos and Uphold Get into a Spat over Trademarked SayingBitcoin Price Watch; Intraday Breakout in FocusBitcoin Price Technical Analysis For 03/29/2016 – Buying Dips WorkedEthereum Price Technical Analysis 03/29/2016 – Further Appreciation?Coinify Partnership with IPayDNA Brings 17 Digital Currencies to Asian MerchantsBitcoin Video Casino – Play with Las Vegas Style Video MachinesCoinkite to Terminate Bitcoin Web Wallets and Focus on HardwareBitcoin Price Watch; Breakout on Tonight...Convenient Payments for Online CasinosBanks Need to Collaborate with Bitcoin and Fintech DevelopersCounterparty Founder: Ethereum Can’t Work, it’s 100% HypeTim Swanson of R3 CEV Publicly Thrashes Bitcoin Core DevelopmentBitcoin Price Watch; Weekend Highs HitBitcoin Price Technical Analysis For 03/28/2016 – Looking To Buy BTC?Ethereum Price Technical Analysis 03/28/2016 – Can ETH Break $11.00?
+
+
+
+
+
+
+
+
+
+NEWS 
+ANALYSIS 
+CHARTS 
+EDUCATION 
+
+
+What is Bitcoin?
+
+
+Accepting Bitcoin
+
+
+Using Bitcoin
+
+
+Mining Bitcoin
+
+
+Trading Bitcoin
+
+
+How to Buy Bitcoin?
+
+
+What is money?
+
+
+Blockchain 2.0
+
+
+Bitcoin Glossary
+
+
+CryptoCurrency
+
+
+Proof of Existence
+
+
+LiteCoin
+
+
+AltCoins
+
+
+Is Bitcoin Legal?
+
+
+Bitcoin Book
+
+
+
+BROKERS 
+CASINOS 
+EVENTS 
+
+ADVERTISE 
+PR PLANS 
+SUBMIT PR 
+
+
+
+
+      Global
+    
+
+Global
+Africa
+Arabic
+Canada
+China
+Czech Republic
+France
+Greece
+India
+Italy
+Japan
+Latin America
+Pakistan
+Philippines
+Russia
+South Korea
+Turkey
+UK
+Ukraine
+US
+
+
+
+
+
+
+MENU 
+
+
+NEWS 
+ANALYSIS 
+CHARTS 
+EDUCATION 
+
+
+What is Bitcoin?
+
+
+Accepting Bitcoin
+
+
+Using Bitcoin
+
+
+Mining Bitcoin
+
+
+Trading Bitcoin
+
+
+How to Buy Bitcoin?
+
+
+What is money?
+
+
+Blockchain 2.0
+
+
+Bitcoin Glossary
+
+
+CryptoCurrency
+
+
+Proof of Existence
+
+
+LiteCoin
+
+
+AltCoins
+
+
+Is Bitcoin Legal?
+
+
+Bitcoin Book
+
+
+
+BROKERS 
+CASINOS 
+EVENTS 
+
+ADVERTISE 
+PR PLANS 
+SUBMIT PR 
+
+
+
+
+      Global
+    
+
+Global
+Africa
+Arabic
+Canada
+China
+Czech Republic
+France
+Greece
+India
+Italy
+Japan
+Latin America
+Pakistan
+Philippines
+Russia
+South Korea
+Turkey
+UK
+Ukraine
+US
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BitQuick Taken Offline following Security Breach 
+Posted on 3:00 pm March 18, 2016 Author GauthamCategories Bitcoin, Bitcoin News, NewsTags bitcoin, bitpay, bitquick, hacker, security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					The bitcoin peer to peer exchange, BitQuick is currently offline after it was accessed by unauthorised user. Read more				
+
+
+ 
+
+
+
+
+
+
+Security is one of the major concerns when it comes to the bitcoin industry. There have been so many instances where the security of bitcoin platforms was breached by hackers, making away with loads of bitcoin. The history has taught bitcoin businesses not to compromise on the security of their products, as it may end up causing some serious damage to their reputation. Even with bitcoin exchanges and wallet providers implementing the best security features, they still face the threat.
+Yesterday, BitQuick, a peer to peer bitcoin exchange platform decided to take down the site after detecting a security breach on their trading platform. The company’s webpage now hosts a message explaining the incident, and subsequent steps taken by BitQuick to mitigate the situation.
+According to the founders of BitQuick – Jad Mubaslat and Chad Davis, their platform’s server was attacked by someone to gain unauthorized administrative access. Luckily, the security system working as it is supposed to work detected the break-in early on. The BitQuick administrators are said to have reacted quickly by shutting down the servers to repel serious damage to the platform.
+BitQuick platform is expected to stay offline for another 2-4 weeks until the damage assessment is done. The company is currently investigating the source of the attack and the possible damage the attacker might have caused to the platform. While explaining the situation, BitQuick has also announced that all the funds available on the platform are safe. Additional security measures implemented on the platforms have ensured that all the KYC documents and other user information on the platform are safe.
+There have been various instances where the hackers successfully penetrate the security of multiple bitcoin platforms and steal thousands of dollars’ worth in bitcoins. The Mt Gox incidence is still fresh in the minds of Bitcoin users. Even in the case of Mt Gox, it is alleged that the hackers stole a lot of bitcoins from the platform, forcing it to declare bankruptcy. Mt Gox incident led to the bitcoin price plummeting from over a thousand dollar to less than $200. Bitpay was also a victim of a hacking incident back in 2014. The bitcoin payment processor had lost about 5000 bitcoins to hackers.
+No sooner the breach was detected, BitQuick not only shut down its servers, they also started the process of initiating withdrawals for their users. Emails were sent to the platform’s customers, with instructions for withdrawing balances from their account. According to the statement on BitQuick, except for 3-percent, the company has processed all the remaining funds. By refunding its users, the company has reduced its liabilities, in case things hint to go south.
+In the same announcement, BitQuick has also mentioned that they are planning to hand over the platform to a new management due to personal reasons. They are looking for enthusiastic people who can take over the platform.
+We hope the platform will be up soon to cater for its customers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Published by
+
+ 
+
+Gautham
+
+			Gautham has an eye for anything new. He has been part of multiple startups and his current project focuses towards the social good sector. An entrepreneur, engineer and enthusiast (bitcoin, of course), he has been moonlighting as a writer for multiple publications and currently writes at NewsBTC.  Find him on twitter as @gautham_n and on facebook at /gautham.nm			
+				View all posts by Gautham			
+
+
+
+
+
+ 
+
+
+
+
+
+
+NEWSBTC - EDITOR'S PICKS
+
+
+
+Brokers
+Casinos
+
+
+
+
+
+1
+
+ 
+
+
+Review
+
+
+Trade Now
+
+
+
+2
+
+ 
+
+
+Review
+
+
+Trade Now
+
+
+
+3
+
+ 
+
+
+Review
+
+
+Trade Now
+
+
+
+4
+
+ 
+
+
+Review
+
+
+Trade Now
+
+
+
+5
+
+ 
+
+
+Review
+
+
+Trade Now
+
+
+
+6
+
+ 
+
+
+Review
+
+
+Trade Now
+
+
+
+7
+
+ 
+
+
+Review
+
+
+Trade Now
+
+
+
+
+
+
+
+
+
+1
+
+ 
+
+
+Review
+
+
+Play Now
+
+
+
+2
+
+ 
+
+
+Review
+
+
+Play Now
+
+
+
+3
+
+ 
+
+
+Review
+
+
+Play Now
+
+
+
+
+
+
+
+
+
+
+
+FEATURED PRESS RELEASES
+
+
+
+
+
+
+
+                Mar 24 | 15:41              
+
+Lisk Raises Over 5.7 Million USD in 2nd Most Successful Crypto-Currency Crowd-Fund to Date
+
+
+
+
+                Mar 24 | 14:19              
+
+Exbino Rolls Out New Features to Improve Trading Experience
+
+
+
+
+                Mar 24 | 0:00              
+
+Emercoin To Launch Blockchain R&D Lab
+
+
+
+
+                Mar 23 | 18:29              
+
+Sollywood TV’s New Money Project Aims to Disrupt Cable TV Sector Using Blockchain Technology
+
+
+
+
+                Mar 22 | 20:00              
+
+Blockchain Technology in Europe: Theory and Practice
+
+
+
+
+
+              View More
+            
+
+
+
+              Submit PR
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUBSCRIBE TO OUR NEWSLETTER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Ⓒ Copyright 2016 NEWSBTC. All Rights Reserved
+					
+
+
+
+About
+
+
+Team
+
+
+Business Listing
+
+
+T & C
+
+
+Contact Us
+
+
+Advertise
+
+
+Privacy Policy
+
+
+Comments Policy
+
+
+Franchise
+
+
+Sitemap
+
+
+
+NewsBTC is a news service that covers bitcoin news, technical analysis and forecasts for bitcoin and other altcoins. Here at NewsBTC, we are dedicated to enlightening people all around the world about bitcoin and other cryprocurrencies. We cover news related to bitcoin exchanges, bitcoin mining and price forecasts for various virtual currencies.
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

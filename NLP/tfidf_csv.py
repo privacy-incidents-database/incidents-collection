@@ -18,7 +18,7 @@ def get_args():
 args = get_args()
 
 
-def gen_csv(neg, pos):
+def gen_csv(neg, neg1, pos):
     """
     Generate CSV according to the json stored.
     neg: path to negative directory
@@ -47,7 +47,7 @@ def gen_csv(neg, pos):
     # output = cStringIO.StringIO()
     # out = csv.writer(output)
 
-    src = [neg, pos]
+    src = [neg, neg1, pos]
     dic = ['no.', 'isPrivacy']
     length = len(dic)
     keywords = []
@@ -107,5 +107,5 @@ def gen_csv(neg, pos):
     json.dump(filenames,fjson,indent=2)
     # print filenames
 
-gen_csv('tfreq-' + args.library + '/NYnegative',
+gen_csv('tfreq-' + args.library + '/NYnegative', 'tfreq-' + args.library + '/test',
         'tfreq-' + args.library + '/content')
