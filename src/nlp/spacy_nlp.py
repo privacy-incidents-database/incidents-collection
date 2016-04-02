@@ -22,8 +22,8 @@ def nlp_get_words(parser, text):
     adv = {}
     verbs = {}
     try:
-        multi_sentence = unicode(text, encoding="ascii")
-        parsed_data = parser(multi_sentence)
+        # multi_sentence = unicode(text, encoding="ascii")
+        parsed_data = parser(text)
         for span in parsed_data.sents:
             sent = [parsed_data[i] for i in range(span.start, span.end)]
             for token in sent:
