@@ -5,11 +5,11 @@ from utils.output import convert_json
 from collection.collect import clean, fetch_url, write_to_folder
 import json
 
-
-
-
 # NLP Module Init#
-SPACY_FLAG = False # Use Spacy if set as true
+SPACY_FLAG = True # Use Spacy if set as true
+KEYWORD = "keyword.json"
+KEYWORD_FILE = "keyword_in_file.json"
+
 
 # Spacy Module
 if SPACY_FLAG is True:
@@ -28,8 +28,7 @@ else:
     tagger = PerceptronTagger()
     pstemmer = PorterStemmer()
 
-KEYWORD = "keyword.json"
-KEYWORD_FILE = "keyword_in_file.json"
+
 
 def read_urls(file):
     with open(file) as data:
@@ -57,7 +56,7 @@ def read_urls(file):
                 print "Empty file or wrong json format", e.message
                 dat = {}
                 filename = {}
-            print dat
+            # print dat
             for key in dic:
                 keyword_dic = dic[key]
                 for k in keyword_dic:
@@ -71,11 +70,16 @@ def read_urls(file):
                         dat[k]["value"] = [keyword_dic[k]]
                         dat[k]["files"] = [key]
             filename.update(key_in_file)
-            json.dump(dat, keyword_json, indent=2)
-            json.dump(filename, file_json, indent=2)
+            print "***dat****", dat
+            print "filename **** ", filename
+            json.dump(dat, keyword_json, indent=2,sort_keys=True)
+            json.dump(filename, file_json, indent=2, sort_keys=True)
+            keyword_json.close()
+            file_json.close()
+            convert_json(KEYWORD, KEYWORD_FILE)
         else:
             print "No new file added"
-    convert_json("keyword.json", "keyword_in_file.json")
+    
 
 
 def handle_ny_times(url):
@@ -86,7 +90,6 @@ def handle_ny_times(url):
 
 
 def handle_others(url, **kwargs):
-
     dic = {}
     html = fetch_url(url)
     filename = "invalid"

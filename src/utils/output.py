@@ -2,8 +2,6 @@ import json
 import math
 import csv
 
-KEYWORD = "../keyword.json"
-KEYWORD_FILE = "../keyword_in_file.json"
 TEST = "test.csv"
 TRAINING = "training.csv"
 
@@ -27,7 +25,7 @@ keyword_in_file.json
 '''
 
 
-def convert_json(keyword=KEYWORD, keyword_file=KEYWORD_FILE):
+def convert_json(keyword, keyword_file):
     fin = open(keyword, 'r')
     fin2 = open(keyword_file, 'r')
     dat = json.load(fin)
@@ -63,6 +61,9 @@ def convert_json(keyword=KEYWORD, keyword_file=KEYWORD_FILE):
             out_training.writerow(training)
     test_file.close()
     training_file.close()
-# convert_json()
+
+
+# if __name__ == "__main__":
+#     convert_json("../keyword.json", "../keyword_in_file.json")
 
 
