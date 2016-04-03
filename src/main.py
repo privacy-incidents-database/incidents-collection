@@ -41,7 +41,7 @@ def read_urls(file):
                 handle_ny_times(url)
                 break
             else:
-                filename, result_dic = handle_others(url)
+                filename, result_dic = handle_others(url, file_entry)
                 dic.update(result_dic)
                 key_in_file[filename] = {}
                 key_in_file[filename]["type"] = fin[file_entry]["type"]
@@ -70,8 +70,6 @@ def read_urls(file):
                         dat[k]["value"] = [keyword_dic[k]]
                         dat[k]["files"] = [key]
             filename.update(key_in_file)
-            print "***dat****", dat
-            print "filename **** ", filename
             json.dump(dat, keyword_json, indent=2,sort_keys=True)
             json.dump(filename, file_json, indent=2, sort_keys=True)
             keyword_json.close()
@@ -89,18 +87,13 @@ def handle_ny_times(url):
     print "Use Weka to classify and then move the file to the right folder"
 
 
-def handle_others(url, **kwargs):
+def handle_others(url, filename):
     dic = {}
     html = fetch_url(url)
-    filename = "invalid"
     if html != -1:
         final, remove_tag = clean(html)
         import time
         final = rm_ascii(final)
-        if "file_name" in kwargs:
-            filename = kwargs["file_name"]
-        else:
-            filename = str(time.time())
         write_to_folder("../dat/new", filename, final)
         if SPACY_FLAG is True:
             print "using spacy"
