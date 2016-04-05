@@ -1,0 +1,12784 @@
+{
+  "abandon": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ability": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "able": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "about": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "above": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "abp": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "absolutely": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "abuse": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "acceptable": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "access": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "accident": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "accord": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "account": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "accredit": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "accreditation": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "accredited": {
+    "files": [
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "accuse": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "achieve": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "act": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "action": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "actively": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "activity": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "actually": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "ad": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 34, 
+    "value": [
+      25, 
+      9
+    ]
+  }, 
+  "adaway": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "adblock": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 23, 
+    "value": [
+      22, 
+      1
+    ]
+  }, 
+  "adblock+.": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "adblocker": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "adblockers": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "adblocks": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "add": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      2, 
+      1, 
+      1
+    ]
+  }, 
+  "additional": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "addon": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "address": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "adopt": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "adp": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "ads/spam/crapware": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "adsense": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "advantage": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "adversely": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "advertisement": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 6, 
+    "value": [
+      6
+    ]
+  }, 
+  "advertiser": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "advertising": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 6, 
+    "value": [
+      4, 
+      2
+    ]
+  }, 
+  "advocate": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "adwords": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "affect": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "affiliated": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "afterward": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "again": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "age": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "agree": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "agreement": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "aim": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "aimed": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "alarm": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "alert": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "all": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "allergan": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "allow": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 6, 
+    "value": [
+      5, 
+      1
+    ]
+  }, 
+  "allrightsreserved": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "almost": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "alone": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "along": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "already": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 6, 
+    "value": [
+      5, 
+      1
+    ]
+  }, 
+  "also": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 9, 
+    "value": [
+      7, 
+      1, 
+      1
+    ]
+  }, 
+  "alternative": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "altogether": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "always": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "amazon": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ambition": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "american": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "amy": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "analytics": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "and-wife": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "android": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 19, 
+    "value": [
+      13, 
+      6
+    ]
+  }, 
+  "angeles": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "anger": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "angry": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "announce": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "annoy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "annoyance": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "annoying": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "anon": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "answer": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "anybody": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "anymore": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "anyone": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "anything": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "anyway": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "apk": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "app": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 10, 
+    "value": [
+      1, 
+      8, 
+      1
+    ]
+  }, 
+  "apparently": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "appbrain": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "appear": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "apple": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 8, 
+    "value": [
+      5, 
+      3
+    ]
+  }, 
+  "application": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "approve": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "apps": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 25, 
+    "value": [
+      8, 
+      1, 
+      16
+    ]
+  }, 
+  "ar-15": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "architecture": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "around": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "arrest": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "as": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 6, 
+    "value": [
+      4, 
+      1, 
+      1
+    ]
+  }, 
+  "ask": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      2, 
+      2
+    ]
+  }, 
+  "assault": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "assistant": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "associated": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "assume": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "at": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "atm": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "attack": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "attempt": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "attend": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "attention": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "authorize": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "automatic": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "av": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "available": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      2, 
+      1
+    ]
+  }, 
+  "avg": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "avoid": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "aware": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "away": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "back": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "background": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "backyard": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bad": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "badge": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ban": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 6, 
+    "value": [
+      4, 
+      2
+    ]
+  }, 
+  "bandwidth": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bandwith": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "basic": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "basically": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "be": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 190, 
+    "value": [
+      125, 
+      28, 
+      25, 
+      12
+    ]
+  }, 
+  "beacon": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bean": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "become": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "before": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "begin": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "beginning": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "behavior": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "believe": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "ben": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "best": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bet": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "better": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "beverly": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bezos": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "big": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "bigger": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "birthplace": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bitch": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bite": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "black": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "blank": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "blanket": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "blast": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "block": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 15, 
+    "value": [
+      9, 
+      6
+    ]
+  }, 
+  "blocked": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "blocker": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "blocking": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bmc": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "book": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bookmark": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bos": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bottom": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "boy": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "boyer": {
+    "files": [
+      "ere"
+    ], 
+    "total": 5, 
+    "value": [
+      5
+    ]
+  }, 
+  "boyfriend": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "brand": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "breach": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "break": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "breaking": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "briton": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "broadband": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "brocade": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "browse": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "browser": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "browsers": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bug": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "build": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "building": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bury": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "bus": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "business": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      3
+    ]
+  }, 
+  "buy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cabinet": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cafeteria": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "call": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "calls.\"one": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "calm": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "can": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 24, 
+    "value": [
+      21, 
+      1, 
+      2
+    ]
+  }, 
+  "capture": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "car": {
+    "files": [
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "care": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "career": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "careful": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "case": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "caserestaurant": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "casey": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cash": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "catch": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "cause": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "central": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "certificate": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "chain": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "challenge": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "change": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "channel": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "charge": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "charley": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "chase": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "chasm": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "check": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "chest": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "chief": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "child": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "chill": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "china": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "choice": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "choose": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "chrome": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "church": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cisco": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "claim": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "clampdown": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "class": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "classmate": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "clause": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "click": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "client": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "clinically": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "clinton": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "clip": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "closely": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "closer": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cnn": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "co.": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "code": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "coffin": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "colleague": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "collect": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "college": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "come": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "comfortable": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "comment": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "commercial": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "commitment": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "committed": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "communication": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "community": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "company": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 10, 
+    "value": [
+      3, 
+      6, 
+      1
+    ]
+  }, 
+  "complain": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "completely": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "comply": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "computer": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      3
+    ]
+  }, 
+  "concern": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "conduct": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "configuration": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "confirms": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "confuse": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "connection": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "consider": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "constantly": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "consumer": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "consumption": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "contact": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "contain": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "content": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "continue": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "contrast": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "control": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "controversy": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "convenience": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "converge": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "convict": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "convince": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "convincing": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cookie": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cool": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "copy": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "copyright": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      3
+    ]
+  }, 
+  "corner": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "corp": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "corrupt": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cost": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "coud": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "could": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 9, 
+    "value": [
+      2, 
+      2, 
+      3, 
+      2
+    ]
+  }, 
+  "counter": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "country": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "courage": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "course": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cover": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "crack": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "credit": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "criminal": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "cruel": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "crueles": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cry": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "culture": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "current": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "custom": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "customer": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "cut": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "cya": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "damn": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "danger": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "data": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 23, 
+    "value": [
+      12, 
+      5, 
+      6
+    ]
+  }, 
+  "date": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "date|index": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "day": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      1, 
+      2
+    ]
+  }, 
+  "deal": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "death": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "deathhis": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "debate": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "decade": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "december": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "decide": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "decline": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "degree": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "delay": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "deliver": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dell": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dental": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "depressed": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "describe": {
+    "files": [
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "design": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "desktop": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "destroy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "detail": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "detector": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dev": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "develop": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "developer": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 7, 
+    "value": [
+      4, 
+      3
+    ]
+  }, 
+  "development": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "device": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "die.\"i": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "different": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "digit": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dime": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "direct": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "directly": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "director": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "disappointed": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "disappointing": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "disclose": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "disclosure": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "disconnect": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "display": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "dispute": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "disruptive": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "distinction": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "distribution": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "diversify": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "diving": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "do": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 50, 
+    "value": [
+      37, 
+      5, 
+      7, 
+      1
+    ]
+  }, 
+  "donation": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "doom": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "door": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dormitory": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dow": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "down": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "download": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      3, 
+      2
+    ]
+  }, 
+  "downloads": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dozen": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "draw": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dream": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "drive": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "drop": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dry": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "duckduckgo": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "dumb": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "earlier": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "earnings": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "easily": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "easy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "eat": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "ebook": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "eckersley": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ecosystem": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "edge": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "education": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "effect": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "eighth": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "either": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "electronic": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "else": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "email": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "embed": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "empeado": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "enable": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "encryption": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "end": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "endorse": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "enforce": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "enforcement": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "engine": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "engineer": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "enjoy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "enjoyable.\"(excerpts": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "enough": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "enrol": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ensure": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "entertaining": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "episode": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "era": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "erase": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "err": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "essence": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "estimate": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ethic": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "even": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 8, 
+    "value": [
+      4, 
+      2, 
+      2
+    ]
+  }, 
+  "every": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "everybody": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "everyone": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      2, 
+      1, 
+      1
+    ]
+  }, 
+  "evil": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "exactly": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "exaggerated": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "example": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "excel": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "exchange": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "executive": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "exert": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "existence": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "experience": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "explain": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "extension": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "extra": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "extremely": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "eye": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "eyeo": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "facebook": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "facebooks": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "fact": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fail": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "fair": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fall": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "family": {
+    "files": [
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "fantasy": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "far": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "fast": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "favorite": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "favour": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "feature": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "feed": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "feel": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "few": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "figure": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "file": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "filing": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fill": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "final": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "finalize": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "finance": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "find": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 14, 
+    "value": [
+      7, 
+      1, 
+      6
+    ]
+  }, 
+  "finding": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "finger": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fire": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "firefox": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "firefoxos": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "first": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "fishy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fix": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "flash": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "flight": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "flojo": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "focus": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "follow": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "foot": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "force": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "form": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "former": {
+    "files": [
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "fortune": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "foundation": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "founder": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "foxconn": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "francisco": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "frankly": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fraud": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "free": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 5, 
+    "value": [
+      3, 
+      1, 
+      1
+    ]
+  }, 
+  "freedom": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "friday": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "friend": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "friendless": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "frontier": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "frozen": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fu": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fuck": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fucking": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "full": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fun": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "function": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "further": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "future": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "gadget": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "gain": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "game": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "general": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "generate": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "get": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 18, 
+    "value": [
+      11, 
+      2, 
+      3, 
+      2
+    ]
+  }, 
+  "ghosterys": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "giant": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "girl": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "girlfriend": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "give": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "glad": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "glimpse": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "glock": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "gmail": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "go": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 8, 
+    "value": [
+      6, 
+      1, 
+      1
+    ]
+  }, 
+  "god": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "good": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "goodwill": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "goog": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "google": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 15, 
+    "value": [
+      1, 
+      14
+    ]
+  }, 
+  "google.": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "googles": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "gooooooooogle": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "govern": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "government": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "grab": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "grade": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "gradually": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "graduate": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "great": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "green": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "grillbrutal": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "group": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "growth": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "gtfo": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "guard": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "guardian": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "guess": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "gun": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "guy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hack": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hackable": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "half": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "hampshire": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hand": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "handgun": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "handle": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "happen": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "happier": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hard": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hardware": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "harm": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "harsh": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hash": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hatch": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hate": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "have": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 65, 
+    "value": [
+      43, 
+      12, 
+      5, 
+      5
+    ]
+  }, 
+  "he": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 33, 
+    "value": [
+      31, 
+      1, 
+      1
+    ]
+  }, 
+  "head": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "health": {
+    "files": [
+      "abc"
+    ], 
+    "total": 10, 
+    "value": [
+      10
+    ]
+  }, 
+  "hear": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "heavily": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "height": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "helicopter": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "help": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "her": {
+    "files": [
+      "ere"
+    ], 
+    "total": 7, 
+    "value": [
+      7
+    ]
+  }, 
+  "here": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "high": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      2, 
+      2
+    ]
+  }, 
+  "hillary": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "him": {
+    "files": [
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "himself": {
+    "files": [
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "hinder": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 5, 
+    "value": [
+      5
+    ]
+  }, 
+  "hinton": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hirsch": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "his": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 30, 
+    "value": [
+      29, 
+      1
+    ]
+  }, 
+  "home": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "homecollectionschilling": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hoop": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hope": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hopefully": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "horror": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "host": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hour": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "how": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 8, 
+    "value": [
+      7, 
+      1
+    ]
+  }, 
+  "however": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      4, 
+      2, 
+      1
+    ]
+  }, 
+  "hp": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "htc": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "huckvale": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "huhh": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "humble": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hunt": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "husband": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "id": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "identify": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "identity": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "ignore": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "ill": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 5, 
+    "value": [
+      5
+    ]
+  }, 
+  "illegal": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "image": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "imperial": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "important": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "improve": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "in-the-middle": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "inc.": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "inch": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "include": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "inclusion": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "income": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "increase": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "incur": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "independent": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "industry": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "information": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      3
+    ]
+  }, 
+  "infrastructure": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "initial": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "insecure": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "inside": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "instal": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 6, 
+    "value": [
+      6
+    ]
+  }, 
+  "install": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 10, 
+    "value": [
+      10
+    ]
+  }, 
+  "installation": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "instance": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "instead": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "institute": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "integrity": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "intenciones": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "intention": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "interested": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "interfere": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 7, 
+    "value": [
+      4, 
+      3
+    ]
+  }, 
+  "interference": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "internet": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 19, 
+    "value": [
+      14, 
+      1, 
+      4
+    ]
+  }, 
+  "internet.": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "interview": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "inversion": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "investigate": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "invisible": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "iphone": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "iremos": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ironic": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "issue": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 8, 
+    "value": [
+      7, 
+      1
+    ]
+  }, 
+  "it": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 67, 
+    "value": [
+      52, 
+      5, 
+      7, 
+      3
+    ]
+  }, 
+  "it/them": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "its": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 27, 
+    "value": [
+      18, 
+      8, 
+      1
+    ]
+  }, 
+  "ixquick": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "jackass": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "jar": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "javascript": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "jeff": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "jelly": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "jeopardize": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "jeremy": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "jesus": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "job": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "jones": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "journal": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "just": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 11, 
+    "value": [
+      9, 
+      2
+    ]
+  }, 
+  "kafka": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "keep": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "keyword": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "kick": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "kid": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "kill": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 8, 
+    "value": [
+      3, 
+      5
+    ]
+  }, 
+  "killer": {
+    "files": [
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "kit": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "know": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 13, 
+    "value": [
+      7, 
+      3, 
+      1, 
+      2
+    ]
+  }, 
+  "la": {
+    "files": [
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "label": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "last": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "lat": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "late": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "later": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "latimes": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "launch": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "law": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "lead": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "leap": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "learn": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "least": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "leave": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "led": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "leech": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "legal": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "less": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "let": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "level": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "liam": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "library": {
+    "files": [
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "life": {
+    "files": [
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "light": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "like": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "limit": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "limited": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "line": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "list": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "little": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "live": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "load": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "local": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "location": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "lock": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "logan": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "london": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "loneliness": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "loner": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "long": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "longer": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "look": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 7, 
+    "value": [
+      6, 
+      1
+    ]
+  }, 
+  "loose": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "los": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "lose": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "loss": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "lot": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "loud": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "love": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "low": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "luck": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "luke": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "lunch": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "lyfts": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "magazine": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "main": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "make": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 22, 
+    "value": [
+      19, 
+      2, 
+      1
+    ]
+  }, 
+  "maker": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "malicious": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "man": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "manage": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "management": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "management/sale": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "manager": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "manner": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "manual": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "manually": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "many": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "march": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "market": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "marketing": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "marketplace": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "marvell": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "material": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "matter": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "may": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "md5": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "me": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 14, 
+    "value": [
+      12, 
+      2
+    ]
+  }, 
+  "mean": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 8, 
+    "value": [
+      8
+    ]
+  }, 
+  "medical": {
+    "files": [
+      "abc"
+    ], 
+    "total": 6, 
+    "value": [
+      6
+    ]
+  }, 
+  "medicine": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "medium": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "member": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "mention": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "message": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "messenger": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "microsoft": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "mile": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "mind": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "mine": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "minimise": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "mining": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "mirror": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "mischief": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "miss.": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "mobile": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 5, 
+    "value": [
+      1, 
+      3, 
+      1
+    ]
+  }, 
+  "model": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "modify": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "monetize": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "money": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 9, 
+    "value": [
+      9
+    ]
+  }, 
+  "monitor": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "monkey": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "month": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      1, 
+      1, 
+      5
+    ]
+  }, 
+  "moral": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "more": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "more:seizure": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "morning": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "morph": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "most": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "mostly": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "mother": {
+    "files": [
+      "ere"
+    ], 
+    "total": 9, 
+    "value": [
+      9
+    ]
+  }, 
+  "motherf*ckers.": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "move": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "much": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "multiple": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "murder": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "must": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "my": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 27, 
+    "value": [
+      21, 
+      6
+    ]
+  }, 
+  "myself": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "nail": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "nashua": {
+    "files": [
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "nation": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "national": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "nearly": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "necessary": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "need": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 6, 
+    "value": [
+      5, 
+      1
+    ]
+  }, 
+  "negative": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "neighbor": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "net": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "network": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "never": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 7, 
+    "value": [
+      2, 
+      5
+    ]
+  }, 
+  "nevertheless": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "new": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 7, 
+    "value": [
+      3, 
+      1, 
+      3
+    ]
+  }, 
+  "news": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      2, 
+      1
+    ]
+  }, 
+  "next": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      4, 
+      1, 
+      2
+    ]
+  }, 
+  "nexus": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "nh": {
+    "files": [
+      "abc"
+    ], 
+    "total": 11, 
+    "value": [
+      11
+    ]
+  }, 
+  "nhs.": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "nice": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "night": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "no": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "nobody": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "non": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "noncustomers": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "normally": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "not": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 67, 
+    "value": [
+      49, 
+      9, 
+      8, 
+      1
+    ]
+  }, 
+  "note": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "nothing": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "notice": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "notification": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "novel": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "november": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "now": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 9, 
+    "value": [
+      8, 
+      1
+    ]
+  }, 
+  "nowhere": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "number": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "obligarnos": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "obsessive": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "obvious": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "obviously": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "oct.": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "october": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "oculus": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "of": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "offer": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "office": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "official": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "often": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "okay": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "old": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "one": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 5, 
+    "value": [
+      3, 
+      2
+    ]
+  }, 
+  "online": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "online.com/open/news/item/android-s-code-signing-can-be-bypassed-1911409.html": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "only": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 10, 
+    "value": [
+      7, 
+      1, 
+      2
+    ]
+  }, 
+  "open": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "openness": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "operate": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "oppenheim": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "opportunity": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "oppose": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "opt": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "option": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "order": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "organisational": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "original": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "other": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 14, 
+    "value": [
+      9, 
+      5
+    ]
+  }, 
+  "others": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "our": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 17, 
+    "value": [
+      13, 
+      2, 
+      2
+    ]
+  }, 
+  "ourself": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "out": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "overbearing": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "overplaing": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "overpriced": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "own": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      2, 
+      1, 
+      1
+    ]
+  }, 
+  "page": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "palant": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "par": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "park": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "participate": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "particular": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "party": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "pass": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "past": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "patient": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      3
+    ]
+  }, 
+  "pay": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 8, 
+    "value": [
+      7, 
+      1
+    ]
+  }, 
+  "pc": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "pearl": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "people": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 19, 
+    "value": [
+      15, 
+      3, 
+      1
+    ]
+  }, 
+  "perfect": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "perfectly": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "perform": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "period": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "perk": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "permission": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "person": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "personal": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 8, 
+    "value": [
+      4, 
+      4
+    ]
+  }, 
+  "personally": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "peter": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pfizer": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "phanthom": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "phone": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 11, 
+    "value": [
+      10, 
+      1
+    ]
+  }, 
+  "phone/tablet": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "photograph": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pick": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "picture.\"in": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pie": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "piece": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "piss": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "pissed": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pizza": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "place": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "plan": {
+    "files": [
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "planscrime": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "plastic": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "platform": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 8, 
+    "value": [
+      8
+    ]
+  }, 
+  "play": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 16, 
+    "value": [
+      9, 
+      7
+    ]
+  }, 
+  "play(due": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "playstore": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "plea": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pleased": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "plenty": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "plot": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "plus": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 9, 
+    "value": [
+      8, 
+      1
+    ]
+  }, 
+  "pocket": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "poco": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "point": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "police": {
+    "files": [
+      "ere"
+    ], 
+    "total": 7, 
+    "value": [
+      7
+    ]
+  }, 
+  "policy": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 6, 
+    "value": [
+      1, 
+      4, 
+      1
+    ]
+  }, 
+  "policy|index": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "poor": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "popup": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pornographic": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "positive": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "possible": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "post": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "potentially": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pound": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "power": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "practice": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "precisely": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "prefer": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pregnancy": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "presentation": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "preserve": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "presidential": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "press": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pressure": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "previously": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pricy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "primary": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "prior": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "privacy": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 14, 
+    "value": [
+      1, 
+      6, 
+      7
+    ]
+  }, 
+  "probably": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "problem": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "process": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "product": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 10, 
+    "value": [
+      9, 
+      1
+    ]
+  }, 
+  "profit": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "programme": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "prohibit": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "project": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "prominent": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "promise": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "prompt": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "protect": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "protection": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "prove": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "provide": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 6, 
+    "value": [
+      3, 
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "provider": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "proxy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "psychologically": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "publish": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "pull": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "push": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "put": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      1, 
+      6
+    ]
+  }, 
+  "quake.\"youen": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "quarantine": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "queremos": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "question": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "questioner": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "quiet": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "quite": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "ramble": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "rampage": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "range": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "rare": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "rarely": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "rather": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "re": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 7, 
+    "value": [
+      6, 
+      1
+    ]
+  }, 
+  "read": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "reader": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "ready": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "really": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 7, 
+    "value": [
+      6, 
+      1
+    ]
+  }, 
+  "really_": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "reason": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      3, 
+      2
+    ]
+  }, 
+  "reboot": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "rebuild": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "recent": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "recently": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "recommend": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "record": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      3
+    ]
+  }, 
+  "reflect": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "refuse": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "regardless": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "regulate": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "relate": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "relationship.\"youen": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "release": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "rely": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "remain": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "remember": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "removal": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "remove": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 14, 
+    "value": [
+      10, 
+      1, 
+      3
+    ]
+  }, 
+  "repeatedly": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "replacement": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "report": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "represent": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "reprint": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "reproduce": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "republican": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "reputation": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "request": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "require": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "researcher": {
+    "files": [
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "reserved": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "resolve": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "resort": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "result": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "retirement": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "return": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "reveal": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "revenue": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "revert": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "review": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "rifle": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "rift": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "right": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      2, 
+      2
+    ]
+  }, 
+  "risk": {
+    "files": [
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      7
+    ]
+  }, 
+  "rival": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "rochester": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "room": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "root": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "rooted": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "router": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "routinely": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "rss": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ruckus": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "rule": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      2, 
+      3
+    ]
+  }, 
+  "rulebook": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "run": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      5, 
+      1, 
+      1
+    ]
+  }, 
+  "sadly": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "safe": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "same": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "san": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "saving": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "saw": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "say": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 22, 
+    "value": [
+      5, 
+      4, 
+      9, 
+      4
+    ]
+  }, 
+  "saysadvertisement": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "scene": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "scheme": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "school": {
+    "files": [
+      "ere"
+    ], 
+    "total": 8, 
+    "value": [
+      8
+    ]
+  }, 
+  "score": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "script": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "scroogle.": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "search": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "secretary": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "see": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 8, 
+    "value": [
+      7, 
+      1
+    ]
+  }, 
+  "seem": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "self": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sell": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "semester": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "semiautomatic": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "send": {
+    "files": [
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      7
+    ]
+  }, 
+  "sense": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "september": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "serious": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "server": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "service": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 15, 
+    "value": [
+      9, 
+      4, 
+      2
+    ]
+  }, 
+  "service|privacy": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "set": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "several": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "share": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "sharp": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "she": {
+    "files": [
+      "ere"
+    ], 
+    "total": 7, 
+    "value": [
+      7
+    ]
+  }, 
+  "she/he": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "sheer": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "shift": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "shit": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "shockcomaneci": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "shoot": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "shooting": {
+    "files": [
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "shot": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "should": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 9, 
+    "value": [
+      8, 
+      1
+    ]
+  }, 
+  "show": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "side": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sign": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "signing": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sigue": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "silence": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "similar": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "simple": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "simply": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "single": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "site": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 18, 
+    "value": [
+      10, 
+      8
+    ]
+  }, 
+  "slavery": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sleep": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "slightly": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "smart": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "smartphone": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 4, 
+    "value": [
+      1, 
+      3
+    ]
+  }, 
+  "smartphones": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "so": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 11, 
+    "value": [
+      10, 
+      1
+    ]
+  }, 
+  "society": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "soda": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "software": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "software/hardware": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "some-privacy-apps-get-blocked-from-the-android-play-store/": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "somebody": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "somehow": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "something": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "sometime": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sometimes": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "somewhat": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "son": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "soon": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sooner": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sorely": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "source": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "south": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "space": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "speak": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "specific": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "spell": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "spelling": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "spend": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      2, 
+      1, 
+      1
+    ]
+  }, 
+  "spokesman": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "spokeswoman": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "spot": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "spread": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "stair": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "stakeholder": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "stand": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "standard": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "start": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "startup": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "state": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "statistic": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "stay": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "steal": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "step": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "still": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 9, 
+    "value": [
+      7, 
+      1, 
+      1
+    ]
+  }, 
+  "stink": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "stop": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "store": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 22, 
+    "value": [
+      12, 
+      1, 
+      9
+    ]
+  }, 
+  "story": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "stress": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "strike": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "study": {
+    "files": [
+      "abc"
+    ], 
+    "total": 6, 
+    "value": [
+      6
+    ]
+  }, 
+  "stuff": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "subscriber": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "subscription": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "such": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 5, 
+    "value": [
+      3, 
+      2
+    ]
+  }, 
+  "sucking": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "suddenly": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sue": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "suggest": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "suicidal": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "suicidal.1": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "suicide": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "suisse": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sunken": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "supply": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "support": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sure": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "surgery": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "surprise": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "surprised": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "surprising": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "survive": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "swat": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "syntax.)clarissa": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "system": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      2, 
+      1, 
+      2
+    ]
+  }, 
+  "tab": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "take": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 7, 
+    "value": [
+      4, 
+      1, 
+      2
+    ]
+  }, 
+  "talk": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tall": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tamper": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tan": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "target": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "targeting": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tax": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "team": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "tease": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tech": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "technology": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "teen": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "teenager": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "telecom": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "telephone": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tell": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 8, 
+    "value": [
+      2, 
+      5, 
+      1
+    ]
+  }, 
+  "test": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "text": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "thank": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "thanks": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "that": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 10, 
+    "value": [
+      1, 
+      1, 
+      6, 
+      2
+    ]
+  }, 
+  "theft": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "their": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 35, 
+    "value": [
+      29, 
+      4, 
+      2
+    ]
+  }, 
+  "them": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 10, 
+    "value": [
+      9, 
+      1
+    ]
+  }, 
+  "themselves": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "then": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 9, 
+    "value": [
+      7, 
+      2
+    ]
+  }, 
+  "there": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "theres": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "they": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 36, 
+    "value": [
+      29, 
+      5, 
+      2
+    ]
+  }, 
+  "thin": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "thing": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 6, 
+    "value": [
+      4, 
+      2
+    ]
+  }, 
+  "think": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 10, 
+    "value": [
+      7, 
+      3
+    ]
+  }, 
+  "third": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 5, 
+    "value": [
+      3, 
+      1, 
+      1
+    ]
+  }, 
+  "thought": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "threaten": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "threatening": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "throw": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "thursday": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "time": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 10, 
+    "value": [
+      4, 
+      4, 
+      1, 
+      1
+    ]
+  }, 
+  "timesterms": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tipping": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tirade": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tjk": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "to-end": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ton": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "too": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      3, 
+      1, 
+      1
+    ]
+  }, 
+  "too?'\"that": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tool": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "topic": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "torrent": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tough": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "tourism": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "track": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "tracking": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "traffic": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "train": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "training": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "translation": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "transmit": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "troubled": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "true": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "trust": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "trustworthiness": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "trustworthy": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "truth": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "try": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 7, 
+    "value": [
+      7
+    ]
+  }, 
+  "tuesday": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "turn": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ubers": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "uk": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "unattractive": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "unauthorized": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "underappreciated": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "undermine": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "understand": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "unencrypted": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "unethical": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "unfortunately": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "unhappy": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "unicos": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "uninstall": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "uninstalling": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "unnecessarily": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "unskilled": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "untrusted": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "update": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 5, 
+    "value": [
+      5
+    ]
+  }, 
+  "upper": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "urge": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "usage": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "usar": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "use": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 17, 
+    "value": [
+      12, 
+      1, 
+      1, 
+      3
+    ]
+  }, 
+  "useful": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "user": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 26, 
+    "value": [
+      7, 
+      13, 
+      6
+    ]
+  }, 
+  "usually": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "vacillate": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "vague": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "value": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "variable": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "verify": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "version": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "very": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "video": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "view": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "violate": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "violent": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "virtually": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "visit": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "vive": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "vlc": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "vr": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wait": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "wanna": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "want": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      6, 
+      1
+    ]
+  }, 
+  "waste": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "watch": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "way": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "we": {
+    "files": [
+      "abcd", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 16, 
+    "value": [
+      13, 
+      2, 
+      1
+    ]
+  }, 
+  "wealthy": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "weapon--an": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "web": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 9, 
+    "value": [
+      1, 
+      8
+    ]
+  }, 
+  "webkit": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "website": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 6, 
+    "value": [
+      5, 
+      1
+    ]
+  }, 
+  "week": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "weigh": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "weight": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "welcome": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "well": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 4, 
+    "value": [
+      2, 
+      1, 
+      1
+    ]
+  }, 
+  "what": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "abc"
+    ], 
+    "total": 14, 
+    "value": [
+      12, 
+      1, 
+      1
+    ]
+  }, 
+  "whatsapp": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "when": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 10, 
+    "value": [
+      6, 
+      1, 
+      2, 
+      1
+    ]
+  }, 
+  "whenever": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "where": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 9, 
+    "value": [
+      8, 
+      1
+    ]
+  }, 
+  "which": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 15, 
+    "value": [
+      6, 
+      4, 
+      4, 
+      1
+    ]
+  }, 
+  "white": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "who": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 12, 
+    "value": [
+      9, 
+      3
+    ]
+  }, 
+  "whom": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "whoop": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "why": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 10, 
+    "value": [
+      5, 
+      1, 
+      4
+    ]
+  }, 
+  "wide": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "will": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 17, 
+    "value": [
+      17
+    ]
+  }, 
+  "willfully": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "williams": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "willing": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wind": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "window": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wireless": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "withdrawal": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wladimir": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wo": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "woman": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wonder": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "woodham": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "word": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "wording": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "work": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 6, 
+    "value": [
+      2, 
+      3, 
+      1
+    ]
+  }, 
+  "working": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "world": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      1, 
+      1
+    ]
+  }, 
+  "worry": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "worth": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "would": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 17, 
+    "value": [
+      11, 
+      3, 
+      1, 
+      2
+    ]
+  }, 
+  "wrist": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "write": {
+    "files": [
+      "ere", 
+      "cdf"
+    ], 
+    "total": 7, 
+    "value": [
+      6, 
+      1
+    ]
+  }, 
+  "wrong": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wsj": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wtf": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "ya": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "year": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 5, 
+    "value": [
+      2, 
+      2, 
+      1
+    ]
+  }, 
+  "yesterday": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "yet": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "you": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 69, 
+    "value": [
+      61, 
+      3, 
+      5
+    ]
+  }, 
+  "youens": {
+    "files": [
+      "ere"
+    ], 
+    "total": 14, 
+    "value": [
+      14
+    ]
+  }, 
+  "young": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "your": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 23, 
+    "value": [
+      17, 
+      6
+    ]
+  }, 
+  "yours": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "yourself": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "youth": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "zip": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }
+}
