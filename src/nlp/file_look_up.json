@@ -1,1513 +1,1809 @@
 {
   "1": {
     "type": "negative", 
-    "name": "29cyber.txt"
+    "name": "01reuters-chicago-education.txt"
   }, 
   "2": {
     "type": "negative", 
-    "name": "06online.txt"
+    "name": "black-america-and-the-class-divide.txt"
   }, 
   "3": {
     "type": "negative", 
-    "name": "24clear.txt"
+    "name": "fifa-match-agent-pleads-guilty-in-us-corruption-case.txt"
   }, 
   "4": {
     "type": "negative", 
-    "name": "15askk.txt"
+    "name": "iowa-caucuses-faq-our-man.txt"
   }, 
   "5": {
     "type": "negative", 
-    "name": "10cyber.txt"
+    "name": "paris-fashion-week-chanel-wendi-deng-pharrell-williams.txt"
   }, 
   "6": {
     "type": "negative", 
-    "name": "24computer.txt"
+    "name": "from-smoked-ham-to-a-charred-culinary-institution-in-virginia.txt"
   }, 
   "7": {
     "type": "negative", 
-    "name": "wall-street-journal-reports-attack-by-china-hackers.txt"
+    "name": "the-venus-flytrap-a-plant-that-can-count.txt"
   }, 
   "8": {
     "type": "negative", 
-    "name": "05apple.txt"
+    "name": "08reuters-mideast-crisis-syria-shishani.txt"
   }, 
   "9": {
     "type": "negative", 
-    "name": "keeping-sensitive-personal-data-out-of-hackers-hands.txt"
+    "name": "yahoo-employee-ranking-system-lawsuit.txt"
   }, 
   "10": {
     "type": "negative", 
-    "name": "09cyber.txt"
+    "name": "prudential-of-britain-hires-new-ceo-for-asset-management-business.txt"
   }, 
   "11": {
     "type": "negative", 
-    "name": "qihoo-360-technology-company-deal.txt"
+    "name": "ap-us-prophet-cartoon-contest-trial.txt"
   }, 
   "12": {
     "type": "negative", 
-    "name": "apples-privacy-fight-tests-relationship-with-white-house.txt"
+    "name": "st-patricks-day-dessert-matcha-pie.txt"
   }, 
   "13": {
     "type": "negative", 
-    "name": "how-to-devise-passwords-that-drive-hackers-away.txt"
+    "name": "hitting-brings-don-mattingly-and-barry-bonds-together-on-marlins-staff.txt"
   }, 
   "14": {
     "type": "negative", 
-    "name": "14western.txt"
+    "name": "08reuters-people-brown.txt"
   }, 
   "15": {
     "type": "negative", 
-    "name": "farhad-and-joe-examine-silicon-valleys-pull-in-washington.txt"
+    "name": "made-at-nypl-features-robert-caro-and-other-writers.txt"
   }, 
   "16": {
     "type": "negative", 
-    "name": "21grid.txt"
+    "name": "08reuters-soccer-england-cup.txt"
   }, 
   "17": {
     "type": "negative", 
-    "name": "forum-in-new-york-computer-security-protesters-and-police-plot-and-thwart-online.txt"
+    "name": "01reuters-france-freighter.txt"
   }, 
   "18": {
     "type": "negative", 
-    "name": "a-yearlong-road-to-a-standoff-with-the-fbi.txt"
+    "name": "08reuters-mideast-crisis-syria-aistrike.txt"
   }, 
   "19": {
     "type": "negative", 
-    "name": "at-uc-berkeley-a-new-digital-privacy-protest.txt"
+    "name": "le-coq-rico-jean-georges-vongerichten-beverly-hills.txt"
   }, 
   "20": {
     "type": "negative", 
-    "name": "28count.txt"
+    "name": "ap-us-supreme-court-justice-emails.txt"
   }, 
   "21": {
     "type": "negative", 
-    "name": "04domain.txt"
+    "name": "08reuters-iran-missiles-usa-congress.txt"
   }, 
   "22": {
     "type": "negative", 
-    "name": "15kumar.txt"
+    "name": "tom-hayes-denied-latest-bid-to-appeal-libor-conviction.txt"
   }, 
   "23": {
     "type": "negative", 
-    "name": "united-states-wants-to-attract-hackers-to-public-sector.txt"
+    "name": "afghanistan-kabul-suicide-bombing-taliban.txt"
   }, 
   "24": {
     "type": "negative", 
-    "name": "two-lulzsec-hackers-plead-guilty-in-britain.txt"
+    "name": "ap-us-rel-pastor-shot-the-latest.txt"
   }, 
   "25": {
     "type": "negative", 
-    "name": "18canada.txt"
+    "name": "08reuters-usa-justice-sentencing.txt"
   }, 
   "26": {
     "type": "negative", 
-    "name": "19tickets.txt"
+    "name": "womens-views-on-women-who-are-ovulating.txt"
   }, 
   "27": {
     "type": "negative", 
-    "name": "for-gadget-geek-in-the-oval-office-high-tech-has-its-limits.txt"
+    "name": "in-the-brazilian-soccer-market-the-buyers-are-now-chinese.txt"
   }, 
   "28": {
     "type": "negative", 
-    "name": "if-youre-collecting-our-data-you-ought-to-protect-it.txt"
+    "name": "irans-revolutionary-guards-test-nationwide-ballistic-missiles.txt"
   }, 
   "29": {
     "type": "negative", 
-    "name": "facebook-says-technical-flaw-exposed-6-million-users.txt"
+    "name": "08reuters-lebanon-journalist.txt"
   }, 
   "30": {
     "type": "negative", 
-    "name": "hackers-breached-data-of-millions-insurer-says.txt"
+    "name": "vale-to-take-stake-in-fortescue-an-australian-rival.txt"
   }, 
   "31": {
     "type": "negative", 
-    "name": "24cyber.txt"
+    "name": "01reuters-oregon-militia-protests.txt"
   }, 
   "32": {
     "type": "negative", 
-    "name": "20cyber.txt"
+    "name": "ap-us-congress-cuba.txt"
   }, 
   "33": {
     "type": "negative", 
-    "name": "05digi.txt"
+    "name": "ap-fbn-giants-jpp.txt"
   }, 
   "34": {
     "type": "negative", 
-    "name": "03security.txt"
+    "name": "ap-us-nielsens-list.txt"
   }, 
   "35": {
     "type": "negative", 
-    "name": "23hackside.txt"
+    "name": "08reuters-virginia-fantasysports.txt"
   }, 
   "36": {
     "type": "negative", 
-    "name": "book-review-dark-territory-illuminates-cybersecuritys-shadows.txt"
+    "name": "08reuters-niger-election.txt"
   }, 
   "37": {
     "type": "negative", 
-    "name": "company-news-computer-code-plan-challenged.txt"
+    "name": "ap-lt-venezuela-chavez-city.txt"
   }, 
   "38": {
     "type": "negative", 
-    "name": "no-business-too-small-to-be-hacked.txt"
+    "name": "ap-lt-brazil-zika-app.txt"
   }, 
   "39": {
     "type": "negative", 
-    "name": "apple-fbi-reaction.txt"
+    "name": "ap-us-tv-grease-live.txt"
   }, 
   "40": {
     "type": "negative", 
-    "name": "14safe.txt"
+    "name": "daily-stock-market-activity.txt"
   }, 
   "41": {
     "type": "negative", 
-    "name": "24case.txt"
+    "name": "ap-us-trust-your-sheriff.txt"
   }, 
   "42": {
     "type": "negative", 
-    "name": "threats-responses-computer-security-increase-electronic-attacks-leads-warning.txt"
+    "name": "ap-af-niger-election.txt"
   }, 
   "43": {
     "type": "negative", 
-    "name": "16bailey.txt"
+    "name": "wine-school-assignment-pomerol-merlot.txt"
   }, 
   "44": {
     "type": "negative", 
-    "name": "apple-wins-ruling-in-new-york-iphone-hacking-order.txt"
+    "name": "a-bid-for-burberry-would-come-with-challenges.txt"
   }, 
   "45": {
     "type": "negative", 
-    "name": "hackers-demand-ransom-from-talktalk-british-telecom-firm.txt"
+    "name": "revamped-united-airlines-board-could-be-a-winning-compromise.txt"
   }, 
   "46": {
     "type": "negative", 
-    "name": "apple-encryption-engineers-if-ordered-to-unlock-iphone-might-resist.txt"
+    "name": "china-endangered-wildlife-law.txt"
   }, 
   "47": {
     "type": "negative", 
-    "name": "29ecom.txt"
+    "name": "ap-us-senate-supreme-court.txt"
   }, 
   "48": {
     "type": "negative", 
-    "name": "obama-heads-to-south-by-southwest-festival-to-talk-about-technology.txt"
+    "name": "a-flying-baseball-bat-a-dads-instinct-and-a-photograph.txt"
   }, 
   "49": {
     "type": "negative", 
-    "name": "new-interest-in-hacking-as-threat-to-us-security.txt"
+    "name": "north-korea-phone-hacking.txt"
   }, 
   "50": {
     "type": "negative", 
-    "name": "hackerone-connects-hackers-with-companies-and-hopes-for-a-win-win.txt"
+    "name": "the-new-student-activists.txt"
   }, 
   "51": {
     "type": "negative", 
-    "name": "broad-powers-seen-for-obama-in-cyberstrikes.txt"
+    "name": "ap-lt-guatemala-corruption.txt"
   }, 
   "52": {
     "type": "negative", 
-    "name": "ruling-clears-way-for-jury-verdict-on-former-goldman-sachs-programmer.txt"
+    "name": "brutal-boko-haram-raid-in-nigeria-kills-as-many-as-100.txt"
   }, 
   "53": {
     "type": "negative", 
-    "name": "the-executive-computer-raising-security-consciousness.txt"
+    "name": "08reuters-usa-court-obama-schumer.txt"
   }, 
   "54": {
     "type": "negative", 
-    "name": "apple-vs-the-fbi-how-the-case-could-play-out.txt"
+    "name": "ap-us-police-shooting-alabama-investigation.txt"
   }, 
   "55": {
     "type": "negative", 
-    "name": "new-technologies-give-government-ample-means-to-track-suspects-study-finds.txt"
+    "name": "ap-af-congo-adoptions.txt"
   }, 
   "56": {
     "type": "negative", 
-    "name": "apple-is-said-to-be-working-on-an-iphone-even-it-cant-hack.txt"
+    "name": "eu-ministers-agree-to-share-tax-details-on-multinationals.txt"
   }, 
   "57": {
     "type": "negative", 
-    "name": "02hacker.txt"
+    "name": "08reuters-olympics-swimming-phelps.txt"
   }, 
   "58": {
     "type": "negative", 
-    "name": "hacker-group-lashes-out-against-informant.txt"
+    "name": "ninth-graders-learn-the-lessons-of-brooklyn-sports-history.txt"
   }, 
   "59": {
     "type": "negative", 
-    "name": "virus-fighters-on-24-hour-global-guard.txt"
+    "name": "spotlights-sag-win-sows-confusion-in-the-best-picture-race.txt"
   }, 
   "60": {
     "type": "negative", 
-    "name": "hackers-access-personal-data-in-washington-state.txt"
+    "name": "syria-talks-take-tentative-step-forward-despite-new-attacks.txt"
   }, 
   "61": {
     "type": "negative", 
-    "name": "08twitter.txt"
+    "name": "08reuters-olympics-usa-doping.txt"
   }, 
   "62": {
     "type": "negative", 
-    "name": "cryptography-pioneers-to-win-turing-award.txt"
+    "name": "powerful-storm-kills-driver-and-wreaks-havoc-in-california.txt"
   }, 
   "63": {
     "type": "negative", 
-    "name": "nation-challenged-computer-security-forestall-digital-pearl-harbor-us-looks.txt"
+    "name": "ap-us-congressman-retires.txt"
   }, 
   "64": {
     "type": "negative", 
-    "name": "at-rsa-conference-unlikely-allies-address-value-of-digital-security.txt"
+    "name": "ap-us-film-tribeca.txt"
   }, 
   "65": {
     "type": "negative", 
-    "name": "china-announces-new-cybersecurity-push.txt"
+    "name": "ap-us-travel-briefs-new-and-now.txt"
   }, 
   "66": {
     "type": "negative", 
-    "name": "22ttramsey.txt"
+    "name": "ap-bbo-nationals-astros.txt"
   }, 
   "67": {
     "type": "negative", 
-    "name": "chinese-hackers-infiltrate-new-york-times-computers.txt"
+    "name": "08reuters-france-politics-nkm.txt"
   }, 
   "68": {
     "type": "negative", 
-    "name": "adobe-announces-security-breach.txt"
+    "name": "08reuters-volkswagen-emissions-subpoena.txt"
   }, 
   "69": {
     "type": "negative", 
-    "name": "fcc-proposes-privacy-rules-for-internet-providers.txt"
+    "name": "carlo-scarpa-italys-modernist-architect.txt"
   }, 
   "70": {
     "type": "negative", 
-    "name": "fbi-chief-presses-congress-to-act-on-data-privacy.txt"
+    "name": "ap-bbn-marlins-braves-fort-bragg.txt"
   }, 
   "71": {
     "type": "negative", 
-    "name": "apps-to-manage-passwords-so-they-are-harder-to-crack-than-password.txt"
+    "name": "paris-fashion-week-day-8-with-chanel-and-valentino.txt"
   }, 
   "72": {
     "type": "negative", 
-    "name": "antivirus-makers-work-on-software-to-catch-malware-more-effectively.txt"
+    "name": "spend-the-money-for-the-good-boots-and-wear-them-forever.txt"
   }, 
   "73": {
     "type": "negative", 
-    "name": "27secure.txt"
+    "name": "a-project-reclaims-an-abandoned-stretch-of-new-jersey-coast.txt"
   }, 
   "74": {
     "type": "negative", 
-    "name": "30pipes.txt"
+    "name": "crispr-gene-editing-human-embryos-kathy-niakan-britain.txt"
   }, 
   "75": {
     "type": "negative", 
-    "name": "cyber-attacks-temporarily-cripple-2-israeli-web-sites.txt"
+    "name": "netflix-finds-a-home-with-younger-and-wealthier-households.txt"
   }, 
   "76": {
     "type": "negative", 
-    "name": "19china.txt"
+    "name": "calvin-johnson-retires-detroit-lions.txt"
   }, 
   "77": {
     "type": "negative", 
-    "name": "news-watch-security-it-knows-all-your-passwords-but-promises-not-to-tell.txt"
+    "name": "wine-school-marsannay-burgundy.txt"
   }, 
   "78": {
     "type": "negative", 
-    "name": "the-executive-computer-building-a-moat-with-software.txt"
+    "name": "megyn-kelly-will-appear-on-post-super-bowl-colbert-show.txt"
   }, 
   "79": {
     "type": "negative", 
-    "name": "01vista.txt"
+    "name": "ap-financial-markets-board-of-trade.txt"
   }, 
   "80": {
     "type": "negative", 
-    "name": "07nocera.txt"
+    "name": "pot-roast-recipe-spoon-and-stable-gavin-kaysen.txt"
   }, 
   "81": {
     "type": "negative", 
-    "name": "symantec-takes-investment-and-will-return-cash-to-investors.txt"
+    "name": "david-barton-tmpl-reinvents-his-gym-empire.txt"
   }, 
   "82": {
     "type": "negative", 
-    "name": "apple-unlock-iphone-san-bernardino.txt"
+    "name": "my-first-police-stop.txt"
   }, 
   "83": {
     "type": "negative", 
-    "name": "tech-and-media-firms-called-to-white-house-for-terrorism-meeting.txt"
+    "name": "ap-us-obit-paul-aiken.txt"
   }, 
   "84": {
     "type": "negative", 
-    "name": "30altiris.txt"
+    "name": "alcoa-to-add-3-directors-heading-off-a-board-fight.txt"
   }, 
   "85": {
     "type": "negative", 
-    "name": "back-to-the-future-aig-to-invest-in-kroll-firm.txt"
+    "name": "dining-table-honest-chops-imam-khalid-latif.txt"
   }, 
   "86": {
     "type": "negative", 
-    "name": "21cell.txt"
+    "name": "elvis-nixon-will-debut-at-tribeca-film-festival.txt"
   }, 
   "87": {
     "type": "negative", 
-    "name": "computer-attacks-spur-congress-to-act-on-cybersecurity-bill-years-in-making.txt"
+    "name": "cdc-unable-to-trace-cause-of-outbreaks-at-chipotle.txt"
   }, 
   "88": {
     "type": "negative", 
-    "name": "european-regulators-to-start-inquiry-into-ebay-data-breach.txt"
+    "name": "cocktail-blended-spirits-signature-blend.txt"
   }, 
   "89": {
     "type": "negative", 
-    "name": "18code.txt"
+    "name": "work-at-a-kansas-city-museum-may-be-by-hieronymus-bosch-researchers-say.txt"
   }, 
   "90": {
     "type": "negative", 
-    "name": "an-industry-lines-up-behind-apple.txt"
+    "name": "puerto-rico-power-authoritys-debt-is-rooted-in-free-electricity.txt"
   }, 
   "91": {
     "type": "negative", 
-    "name": "24hack.txt"
+    "name": "grease-live-scores-big-ratings.txt"
   }, 
   "92": {
     "type": "negative", 
-    "name": "upstarts-challenge-old-timers-in-lucrative-computer-security-field.txt"
+    "name": "nhl-this-week-opportunities-to-move-up-in-division-races.txt"
   }, 
   "93": {
     "type": "negative", 
-    "name": "05soft.txt"
+    "name": "countryside-ipo.txt"
   }, 
   "94": {
     "type": "negative", 
-    "name": "apple-and-justice-dept-prepare-to-face-off-in-court.txt"
+    "name": "ap-bbo-cardinals-twins.txt"
   }, 
   "95": {
     "type": "negative", 
-    "name": "after-data-breach-visa-removes-a-service-provider.txt"
+    "name": "china-censorship-caixin-media.txt"
   }, 
   "96": {
     "type": "negative", 
-    "name": "07china.txt"
+    "name": "trump-segment-on-john-oliver-show-explodes-on-youtube.txt"
   }, 
   "97": {
     "type": "negative", 
-    "name": "british-police-say-they-arrested-hacker-group-member.txt"
+    "name": "veggie-bowl-bibimbap-ramen-recipes.txt"
   }, 
   "98": {
     "type": "negative", 
-    "name": "judge-tells-apple-to-help-unlock-san-bernardino-gunmans-iphone.txt"
+    "name": "pakistan-kidnapping-shahbaz-ali-taseer.txt"
   }, 
   "99": {
     "type": "negative", 
-    "name": "17code.txt"
+    "name": "mr-darcys-shirt-is-coming-to-america.txt"
   }, 
   "100": {
     "type": "negative", 
-    "name": "defense-secretary-takes-position-against-a-data-back-door.txt"
+    "name": "ap-car-nascar-appeal-dropped.txt"
   }, 
   "101": {
     "type": "negative", 
-    "name": "04monitor.txt"
+    "name": "warhol-and-avedon-form-an-unlikely-tandem-in-london.txt"
   }, 
   "102": {
     "type": "negative", 
-    "name": "23wwln-medium-t.txt"
+    "name": "wine-school-assignment-etna-rosso.txt"
   }, 
   "103": {
     "type": "negative", 
-    "name": "apple-support-court-briefs-fbi.txt"
+    "name": "champions-league-permanent-spot.txt"
   }, 
   "104": {
     "type": "negative", 
-    "name": "28hack.txt"
+    "name": "frank-zappas-house-can-be-yours-for-9-million.txt"
   }, 
   "105": {
     "type": "negative", 
-    "name": "china-threatens-security-checks-for-tech-firms-after-us-indictments.txt"
+    "name": "nerds-on-broadway-is-canceled.txt"
   }, 
   "106": {
     "type": "negative", 
-    "name": "target-defends-its-oversight-of-customer-data.txt"
+    "name": "mitt-romney-records-another-anti-trump-message-this-time-for-john-kasich.txt"
   }, 
   "107": {
     "type": "negative", 
-    "name": "13vote.txt"
+    "name": "questlove-chef-food-salon.txt"
   }, 
   "108": {
     "type": "negative", 
-    "name": "how-tim-cook-became-a-bulwark-for-digital-privacy.txt"
+    "name": "ap-us-homeless-camps-the-latest.txt"
   }, 
   "109": {
     "type": "negative", 
-    "name": "04soft.txt"
+    "name": "01reuters-rugby-union-england-hartley.txt"
   }, 
   "110": {
     "type": "negative", 
-    "name": "protect-yourself-from-investment-fraud-this-madoff-day.txt"
+    "name": "inside-the-list.txt"
   }, 
   "111": {
     "type": "negative", 
-    "name": "technology-brazilian-company-is-hacking-its-way-up.txt"
+    "name": "oregon-lavoy-finicum-shooting.txt"
   }, 
   "112": {
     "type": "negative", 
-    "name": "20iht-sega20.txt"
+    "name": "hillary-clinton-ad-derides-companies-moving-overseas.txt"
   }, 
   "113": {
     "type": "negative", 
-    "name": "apple-sees-value-in-privacy-vow.txt"
+    "name": "jaffa-israel-stabbing-attacks.txt"
   }, 
   "114": {
     "type": "negative", 
-    "name": "04markoff.txt"
+    "name": "ap-lebanon-hariri-tribunal.txt"
   }, 
   "115": {
     "type": "negative", 
-    "name": "17basics.txt"
+    "name": "pentagon-considers-military-options-against-isis-in-libya.txt"
   }, 
   "116": {
     "type": "negative", 
-    "name": "22cyber.txt"
+    "name": "study-israel-jews-pew-research.txt"
   }, 
   "117": {
     "type": "negative", 
-    "name": "computer-passwords-grow-ever-more-complicated.txt"
+    "name": "a-tour-of-kurt-andersens-home-office-in-brooklyn.txt"
   }, 
   "118": {
     "type": "negative", 
-    "name": "24basics.txt"
+    "name": "01reuters-soccer-messi-olympics.txt"
   }, 
   "119": {
     "type": "negative", 
-    "name": "hacking-in-netherlands-points-to-weak-spot-in-web-security.txt"
+    "name": "super-bowl-denver-broncos-carolina-panthers-flu.txt"
   }, 
   "120": {
     "type": "negative", 
-    "name": "25vista.txt"
+    "name": "ap-bbo-pirates-phillies.txt"
   }, 
   "121": {
     "type": "negative", 
-    "name": "the-spy-in-the-soda-machine.txt"
+    "name": "08reuters-saudi-lebanon-usa.txt"
   }, 
   "122": {
     "type": "negative", 
-    "name": "06security.txt"
+    "name": "ap-eu-germany-cologne-crimes.txt"
   }, 
   "123": {
     "type": "negative", 
-    "name": "apple-showdown-heightens-challenge-of-encrypted-data.txt"
+    "name": "for-an-author-in-the-audience-the-thrill-of-hearing-your-book-invoked.txt"
   }, 
   "124": {
     "type": "negative", 
-    "name": "05google.txt"
+    "name": "ap-ml-israel-jewish-divide-what-we-know.txt"
   }, 
   "125": {
     "type": "negative", 
-    "name": "bolstering-a-phones-defenses-against-breaches.txt"
+    "name": "wine-schooo-etna-rosso.txt"
   }, 
   "126": {
     "type": "negative", 
-    "name": "justice-department-calls-apples-refusal-to-unlock-iphone-a-marketing-strategy.txt"
+    "name": "un-turkey-human-rights.txt"
   }, 
   "127": {
     "type": "negative", 
-    "name": "24novelties.txt"
+    "name": "01reuters-twenty-first-fox-redundancies.txt"
   }, 
   "128": {
     "type": "negative", 
-    "name": "03net.txt"
+    "name": "08reuters-mideast-crisis-iraq-food.txt"
   }, 
   "129": {
     "type": "negative", 
-    "name": "as-more-documents-appear-sony-seeks-to-calm-nervous-employees.txt"
+    "name": "why-donald-trump-has-done-worse-in-mostly-white-states.txt"
   }, 
   "130": {
     "type": "negative", 
-    "name": "white-house-officials-soften-approach-at-rsa-conference.txt"
+    "name": "ge-to-phase-out-cfl-light-bulbs.txt"
   }, 
   "131": {
     "type": "negative", 
-    "name": "apple-iphone-fight-justice-department.txt"
+    "name": "portland-oregon-tango.txt"
   }, 
   "132": {
     "type": "negative", 
-    "name": "09flaw.txt"
+    "name": "zany-mean-classified-and-yuge-the-2016-campaign-so-far.txt"
   }, 
   "133": {
     "type": "negative", 
-    "name": "14app.txt"
+    "name": "ap-fbn-broncos-moving-on.txt"
   }, 
   "134": {
     "type": "negative", 
-    "name": "01virus.txt"
+    "name": "temple-of-dendurs-lost-colors-brought-to-life-at-the-met.txt"
   }, 
   "135": {
     "type": "negative", 
-    "name": "target-had-chance-to-stop-breach-senators-say.txt"
+    "name": "a-proposalto-bridge-the-digital-divide.txt"
   }, 
   "136": {
     "type": "negative", 
-    "name": "researchers-demonstrate-computer-code-can-be-broken.txt"
+    "name": "volkswagen-inquiry-germany.txt"
   }, 
   "137": {
     "type": "negative", 
-    "name": "10attacks.txt"
+    "name": "ap-us-inmate-death-no-food.txt"
   }, 
   "138": {
     "type": "negative", 
-    "name": "27hack.txt"
+    "name": "falafel-williamsburg-brooklyn-12-chairs-cafe.txt"
   }, 
   "139": {
     "type": "negative", 
-    "name": "09vote.txt"
+    "name": "08reuters-usa-crime-jpmorgan.txt"
   }, 
   "140": {
     "type": "negative", 
-    "name": "hacker-disrupts-government-websites-in-canada.txt"
+    "name": "ap-us-haslams-investigation.txt"
   }, 
   "141": {
     "type": "negative", 
-    "name": "microsoft-to-notify-users-of-government-hackings.txt"
+    "name": "x-games-kick-off-without-shaun-white-their-biggest-star.txt"
   }, 
   "142": {
     "type": "negative", 
-    "name": "competing-interests-on-encryption-divide-top-obama-officials.txt"
+    "name": "cecile-mclorin-salvant-moka-pot.txt"
   }, 
   "143": {
     "type": "negative", 
-    "name": "the-executive-computer-pumping-up-macintosh-s-memory.txt"
+    "name": "louis-vuitton-paris.txt"
   }, 
   "144": {
     "type": "negative", 
-    "name": "in-poll-on-apple-public-sides-with-fbi.txt"
+    "name": "family-travel-internet-addiction.txt"
   }, 
   "145": {
     "type": "negative", 
-    "name": "08security.txt"
+    "name": "zika-virus-world-health-organization.txt"
   }, 
   "146": {
     "type": "negative", 
-    "name": "18security.txt"
+    "name": "ap-un-un-women-arts-week.txt"
   }, 
   "147": {
     "type": "negative", 
-    "name": "too-many-passwords-and-no-way-to-remember-them-until-now.txt"
+    "name": "ap-eu-cyprus-peace-talks.txt"
   }, 
   "148": {
     "type": "negative", 
-    "name": "13obama.txt"
+    "name": "ap-eu-czech-lebanon.txt"
   }, 
   "149": {
     "type": "negative", 
-    "name": "china-is-tied-to-spying-on-european-diplomats.txt"
+    "name": "ap-bbo-yankees-marlins.txt"
   }, 
   "150": {
     "type": "negative", 
-    "name": "debate-over-privacy-finds-little-agreement.txt"
+    "name": "ap-us-blackwater-trial.txt"
   }, 
   "151": {
     "type": "negative", 
-    "name": "27spam.txt"
+    "name": "freddie-gray-baltimore-officer-william-porter.txt"
   }, 
   "152": {
     "type": "negative", 
-    "name": "in-nod-to-law-enforcement-obama-ends-attempt-to-straddle-privacy-divide.txt"
+    "name": "ap-us-50-cent-bankruptcy.txt"
   }, 
   "153": {
     "type": "negative", 
-    "name": "in-internets-own-boy-and-beyond-hackers-on-screen.txt"
+    "name": "ines-de-la-fressange-the-new-parisian-shopkeeper.txt"
   }, 
   "154": {
     "type": "negative", 
-    "name": "china-passes-antiterrorism-law-that-critics-fear-may-overreach.txt"
+    "name": "08reuters-soccer-champions-che-psg-blanc.txt"
   }, 
   "155": {
     "type": "negative", 
-    "name": "apps-to-protect-your-array-of-passwords.txt"
+    "name": "08reuters-rugby-union-england.txt"
   }, 
   "156": {
     "type": "negative", 
-    "name": "storage-of-records-of-background-checks-shifted-after-last-years-security-breach.txt"
+    "name": "giving-sundance-movies-a-second-chance.txt"
   }, 
   "157": {
     "type": "negative", 
-    "name": "05cisco.txt"
+    "name": "hunter-gatherers-turtle-qesem-cave-israel.txt"
   }, 
   "158": {
     "type": "negative", 
-    "name": "26walmart.txt"
+    "name": "from-pinup-to-muse-pamela-andersons-next-chapter.txt"
   }, 
   "159": {
     "type": "negative", 
-    "name": "apple-court-filing-iphone-case.txt"
+    "name": "ap-us-nielsens.txt"
   }, 
   "160": {
     "type": "negative", 
-    "name": "news-watch-security-stopping-hackers-while-doing-detective-work-on-the-side.txt"
+    "name": "afghanistan-farkhunda.txt"
   }, 
   "161": {
     "type": "negative", 
-    "name": "23google.txt"
+    "name": "senegal-accara-black-eyed-pea-fritters.txt"
   }, 
   "162": {
     "type": "negative", 
-    "name": "15markoff.txt"
+    "name": "in-politics-as-in-investments-a-long-term-outlook-can-soothe.txt"
   }, 
   "163": {
     "type": "negative", 
-    "name": "22proto.txt"
+    "name": "auction-of-joan-riverss-penthouse-belongings-set-for-christies.txt"
   }, 
   "164": {
     "type": "negative", 
-    "name": "04secure.txt"
+    "name": "iowa-caucuses-what-to-watch-for.txt"
   }, 
   "165": {
     "type": "negative", 
-    "name": "05hack.txt"
+    "name": "strategy-of-alere-board-paid-off-with-buyout-by-abbott.txt"
   }, 
   "166": {
     "type": "negative", 
-    "name": "apple-unlock-iphone-fbi-san-bernardino-brief.txt"
+    "name": "01reuters-ohio-officer.txt"
   }, 
   "167": {
     "type": "negative", 
-    "name": "the-executive-computer-tying-personal-computers-together.txt"
+    "name": "ap-us-obit-quentin-young.txt"
   }, 
   "168": {
     "type": "negative", 
-    "name": "mac-ransomware-attack-exposes-vulnerability-of-apple-users.txt"
+    "name": "ap-us-audiobooks-top-10.txt"
   }, 
   "169": {
     "type": "negative", 
-    "name": "nato-set-to-ratify-pledge-on-joint-defense-in-case-of-major-cyberattack.txt"
+    "name": "ap-us-xgr-colorado-israel.txt"
   }, 
   "170": {
     "type": "negative", 
-    "name": "10warn.txt"
+    "name": "ap-us-woman-dead-in-jail.txt"
   }, 
   "171": {
     "type": "negative", 
-    "name": "08apps.txt"
+    "name": "a-few-solutions-to-the-working-class-revolt.txt"
   }, 
   "172": {
     "type": "negative", 
-    "name": "un-apple-gunman-iphone.txt"
+    "name": "serena-williams-says-sharapovas-announcement-surprised-her.txt"
   }, 
   "173": {
     "type": "negative", 
-    "name": "justice-department-wants-apple-to-unlock-nine-more-iphones.txt"
+    "name": "ap-us-denver-zoo-gorilla-birth.txt"
   }, 
   "174": {
     "type": "negative", 
-    "name": "your-passwords-revealed.txt"
+    "name": "ad-watch-under-armour-trains-with-michael-phelps.txt"
   }, 
   "175": {
     "type": "negative", 
-    "name": "20archives.txt"
+    "name": "moma-ps1-names-winner-of-summer-architecture-competition.txt"
   }, 
   "176": {
     "type": "negative", 
-    "name": "the-executive-computer-hackers-thieves-and-carelessness.txt"
+    "name": "philippines-grace-poe-presidential-election.txt"
   }, 
   "177": {
     "type": "negative", 
-    "name": "hackers-access-employee-records-at-justice-and-homeland-security-depts.txt"
+    "name": "in-san-francisco-and-rooting-for-a-tech-slowdown.txt"
   }, 
   "178": {
     "type": "negative", 
-    "name": "researchers-find-flaw-in-an-online-encryption-method.txt"
+    "name": "08reuters-directv-outages.txt"
   }, 
   "179": {
     "type": "negative", 
-    "name": "17cyber.txt"
+    "name": "08reuters-autos-takata-restructuring.txt"
   }, 
   "180": {
     "type": "negative", 
-    "name": "facebook-cancels-shortcut-over-concern-for-security.txt"
+    "name": "fox-news-democratic-candidates.txt"
   }, 
   "181": {
     "type": "negative", 
-    "name": "22chip.txt"
+    "name": "ap-car-indy-500-countdown-race-22.txt"
   }, 
   "182": {
     "type": "negative", 
-    "name": "the-executive-computer-when-the-password-is-a-passkey.txt"
+    "name": "gordon-bethune-leads-shareholder-revolt-at-united-continental.txt"
   }, 
   "183": {
     "type": "negative", 
-    "name": "23worm.txt"
+    "name": "ap-us-trump-university.txt"
   }, 
   "184": {
     "type": "negative", 
-    "name": "at-the-sec-questions-about-its-own-privacy-controls.txt"
+    "name": "now-a-solid-bet-trumps-nomination-chances-are-better-than-50-percent.txt"
   }, 
   "185": {
     "type": "negative", 
-    "name": "07hack.txt"
+    "name": "as-the-taliban-menace-afghanistan-the-helmand-river-offers-solace.txt"
   }, 
   "186": {
     "type": "negative", 
-    "name": "12tax.txt"
+    "name": "pasta-bake-recipe-video.txt"
   }, 
   "187": {
     "type": "negative", 
-    "name": "28secure.txt"
+    "name": "when-is-hulk-hogan-not-hulk-hogan.txt"
   }, 
   "188": {
     "type": "negative", 
-    "name": "30hack.txt"
+    "name": "abbott-to-acquire-alere-a-maker-of-medical-tests.txt"
   }, 
   "189": {
     "type": "negative", 
-    "name": "security-logs-of-hillary-clintons-email-server-are-said-to-show-no-evidence-of-hacking.txt"
+    "name": "turkey-european-union-refugees.txt"
   }, 
   "190": {
     "type": "negative", 
-    "name": "18secure.txt"
+    "name": "ap-us-united-states-hong-kong.txt"
   }, 
   "191": {
     "type": "negative", 
-    "name": "apple-timothy-cook-fbi-san-bernardino.txt"
+    "name": "study-finds-growing-reason-to-be-wary-of-some-reflux-drugs.txt"
   }, 
   "192": {
-    "type": "positive", 
-    "name": "photos of naked adolescents (middle and high schoo.txt"
+    "type": "negative", 
+    "name": "ap-bba-yankees-bird.txt"
   }, 
   "193": {
-    "type": "positive", 
-    "name": "instances of home surveillance footage showing mis.txt"
+    "type": "negative", 
+    "name": "hulk-hogan-exudes-calm-on-second-day-of-sex-tape-case.txt"
   }, 
   "194": {
-    "type": "positive", 
-    "name": "50m evernote accounts compromised, email addresses.txt"
+    "type": "negative", 
+    "name": "unc-football-player-who-ended-up-homeless-had-cte.txt"
   }, 
   "195": {
-    "type": "positive", 
-    "name": "new law requires companies to store data about rus.txt"
+    "type": "negative", 
+    "name": "hillary-clinton-caution.txt"
   }, 
   "196": {
-    "type": "positive", 
-    "name": "security breach causes leak of snapchat photos, po.txt"
+    "type": "negative", 
+    "name": "ap-fbn-free-agency-what-to-look-for.txt"
   }, 
   "197": {
-    "type": "positive", 
-    "name": "teacher in training was denied her degree after sh.txt"
+    "type": "negative", 
+    "name": "a-style-lights-shines-on-the-presidential-candidates.txt"
   }, 
   "198": {
-    "type": "positive", 
-    "name": "46m records compromised at tjmaxx, homegoods, mars.txt"
+    "type": "negative", 
+    "name": "ap-bbo-twins-blue-jays.txt"
   }, 
   "199": {
-    "type": "positive", 
-    "name": "google search autocomplete links german prime mini.txt"
+    "type": "negative", 
+    "name": "operation-turns-tilting-cargo-ship-modern-express-from-collision-course-with-french-coast.txt"
   }, 
   "200": {
-    "type": "positive", 
-    "name": "nude snapchat images put online by hackers..txt"
+    "type": "negative", 
+    "name": "ezubao-china-fraud.txt"
   }, 
   "201": {
-    "type": "positive", 
-    "name": "e-readers found to be collecting detailed data abo.txt"
+    "type": "negative", 
+    "name": "ap-eu-italy-libya.txt"
   }, 
   "202": {
-    "type": "positive", 
-    "name": "bloomberg news reporters had extracted subscribers.txt"
+    "type": "negative", 
+    "name": "chicory-radicchio-endive-salad.txt"
   }, 
   "203": {
-    "type": "positive", 
-    "name": "calls to understand insurance coverage appear to d.txt"
+    "type": "negative", 
+    "name": "south-china-sea-militarization.txt"
   }, 
   "204": {
-    "type": "positive", 
-    "name": "path app found to be uploading contacts without pe.txt"
+    "type": "negative", 
+    "name": "super-bowl-50-catch-controversy-nfl-rule.txt"
   }, 
   "205": {
-    "type": "positive", 
-    "name": "obama administration medical privacy rules denounc.txt"
+    "type": "negative", 
+    "name": "killing-of-pilot-highlights-tanzanias-struggle-with-poachers.txt"
   }, 
   "206": {
-    "type": "positive", 
-    "name": "orbitz uses the type of machine making the request.txt"
+    "type": "negative", 
+    "name": "john-kerry-syria-talks.txt"
   }, 
   "207": {
-    "type": "positive", 
-    "name": "us office of personnel management hackers gain acc.txt"
+    "type": "negative", 
+    "name": "ap-us-odd-cab-stick-up-deputy.txt"
   }, 
   "208": {
-    "type": "positive", 
-    "name": "etsy default settings make purchases, profiles, fe.txt"
+    "type": "negative", 
+    "name": "karlie-kloss-blake-lively-and-jay-z-at-amfars-fashion-week-kickoff.txt"
   }, 
   "209": {
-    "type": "positive", 
-    "name": "ftc finds that the chitika ad network is only resp.txt"
+    "type": "negative", 
+    "name": "new-wearable-sensor-can-collect-data-from-sweat.txt"
   }, 
   "210": {
-    "type": "positive", 
-    "name": "130m credit and debit cards stored by heartland pa.txt"
+    "type": "negative", 
+    "name": "ap-bkc-big-ten-tournament.txt"
   }, 
   "211": {
-    "type": "positive", 
-    "name": "drone spotted near a school raises privacy and saf.txt"
+    "type": "negative", 
+    "name": "former-daily-news-reporter-dies-abruptly.txt"
   }, 
   "212": {
-    "type": "positive", 
-    "name": "hackers steal information on 2.9 million adobe cus.txt"
+    "type": "negative", 
+    "name": "ap-us-hawaii-helicopter-collision.txt"
   }, 
   "213": {
-    "type": "positive", 
-    "name": "vitalite health doctor accessed female patient fil.txt"
+    "type": "negative", 
+    "name": "a-future-without-jobs-two-views-of-the-changing-work-force.txt"
   }, 
   "214": {
-    "type": "positive", 
-    "name": "56m payment cards compromised by malware infected .txt"
+    "type": "negative", 
+    "name": "ted-cruzs-prospects-ascendant-though-perhaps-not-with-senate-peers.txt"
   }, 
   "215": {
-    "type": "positive", 
-    "name": "security breach at at&t allowed the email addresse.txt"
+    "type": "negative", 
+    "name": "ponza-italy-holidays.txt"
   }, 
   "216": {
-    "type": "positive", 
-    "name": "bug causes private chats to be visible to the frie.txt"
+    "type": "negative", 
+    "name": "how-wealth-plays-into-politics-at-a-personal-level.txt"
   }, 
   "217": {
-    "type": "positive", 
-    "name": "the us supreme court upholds the practice of intru.txt"
+    "type": "negative", 
+    "name": "sfx-entertainment-declares-bankruptcy.txt"
   }, 
   "218": {
-    "type": "positive", 
-    "name": "facebook begins using face recognition to automati.txt"
+    "type": "negative", 
+    "name": "ap-us-theater-nerds.txt"
   }, 
   "219": {
-    "type": "positive", 
-    "name": "researchers discover surprising permissions reques.txt"
+    "type": "negative", 
+    "name": "what-is-meldonium-maria-sharapova.txt"
   }, 
   "220": {
-    "type": "positive", 
-    "name": "us pressures pakistan to provide more detailed inf.txt"
+    "type": "negative", 
+    "name": "clarence-thomas-supreme-court.txt"
   }, 
   "221": {
-    "type": "positive", 
-    "name": "bug gives facebook users access to the chats of th.txt"
+    "type": "negative", 
+    "name": "ap-us-teacher-slaying.txt"
   }, 
   "222": {
-    "type": "positive", 
-    "name": "netflix released data  of user movie ratings with .txt"
+    "type": "negative", 
+    "name": "ap-us-cash-in-road.txt"
   }, 
   "223": {
-    "type": "positive", 
-    "name": "canadian teenager was raped and rapists distribute.txt"
+    "type": "negative", 
+    "name": "08reuters-tennis-sharapova-reactions.txt"
   }, 
   "224": {
-    "type": "positive", 
-    "name": "security breach leasks credit card numbers, as wel.txt"
+    "type": "negative", 
+    "name": "officer-in-ramarley-graham-shooting-wont-face-us-charges.txt"
   }, 
   "225": {
-    "type": "positive", 
-    "name": "quora new feature displaying who has viewed a post.txt"
+    "type": "negative", 
+    "name": "08reuters-nigeria-swiss-assets.txt"
   }, 
   "226": {
-    "type": "positive", 
-    "name": "same-sex marriage opponents protest requests to tu.txt"
+    "type": "negative", 
+    "name": "assessment-of-flint-water-crisis-may-hinge-on-stupidity-vs-criminality.txt"
   }, 
   "227": {
-    "type": "positive", 
-    "name": "privacy concerns about mattel's new recording barb.txt"
+    "type": "negative", 
+    "name": "primary-elections-preview.txt"
   }, 
   "228": {
-    "type": "positive", 
-    "name": "50m living social records compromised.txt"
+    "type": "negative", 
+    "name": "ap-us-nypd-surveillance-lawsuits.txt"
   }, 
   "229": {
-    "type": "positive", 
-    "name": "topless sunbathing photos of kate middleton are pu.txt"
+    "type": "negative", 
+    "name": "ap-us-iditarod.txt"
   }, 
   "230": {
-    "type": "positive", 
-    "name": "new ability to email google+ contacts whose email .txt"
+    "type": "negative", 
+    "name": "everything-about-everything-david-foster-wallaces-infinite-jest-at-20.txt"
   }, 
   "231": {
-    "type": "positive", 
-    "name": "80m anthem patient records exposed.txt"
+    "type": "negative", 
+    "name": "a-charity-minded-lemonade-stand-meets-silicon-valley-churn.txt"
   }, 
   "232": {
-    "type": "positive", 
-    "name": "a man was charged with 10 counts of murder based o.txt"
+    "type": "negative", 
+    "name": "pep-guardiola-manchester-city-manager.txt"
   }, 
   "233": {
-    "type": "positive", 
-    "name": "fbi improperly gained access to calling records of.txt"
+    "type": "negative", 
+    "name": "tribes-win-in-fight-for-la-jolla-bones-clouds-hopes-for-dna-studies.txt"
   }, 
   "234": {
-    "type": "positive", 
-    "name": "fed by on-site cameras, new app scenetap summarize.txt"
+    "type": "negative", 
+    "name": "mandarin-orange.txt"
   }, 
   "235": {
-    "type": "positive", 
-    "name": "edward snowden goes public with details of the nsa.txt"
+    "type": "negative", 
+    "name": "ap-fbn-super-bowl-trick-plays.txt"
   }, 
   "236": {
-    "type": "positive", 
-    "name": "default privacy setting allows fitbit profiles to .txt"
+    "type": "negative", 
+    "name": "ap-us-united-states-islamic-state.txt"
   }, 
   "237": {
-    "type": "positive", 
-    "name": "google search autocomplete feature links a german .txt"
+    "type": "negative", 
+    "name": "ap-oly-los-angeles-2024-athletes.txt"
   }, 
   "238": {
-    "type": "positive", 
-    "name": "classdojo launched in 2011. privacy concerns aroun.txt"
+    "type": "negative", 
+    "name": "california-train-derailment-plays-out-on-social-media.txt"
   }, 
   "239": {
-    "type": "positive", 
-    "name": "avg changes privacy policy to allow more data shar.txt"
+    "type": "negative", 
+    "name": "zika-virus-pregant-women-travel.txt"
   }, 
   "240": {
-    "type": "positive", 
-    "name": "data aggregator klout launches. as a data aggregat.txt"
+    "type": "negative", 
+    "name": "ap-us-kentucky-special-election-the-latest.txt"
   }, 
   "241": {
-    "type": "positive", 
-    "name": "european plans for a terrorist tracking system rai.txt"
+    "type": "negative", 
+    "name": "ap-us-chicago-violence-boy-shot-the-latest.txt"
   }, 
   "242": {
-    "type": "positive", 
-    "name": "hiv clinic accidentally disclosed 780 hiv patients.txt"
+    "type": "negative", 
+    "name": "china-islam-hui-ningxia.txt"
   }, 
   "243": {
-    "type": "positive", 
-    "name": "hacker accesses records of 15m t-mobile customers .txt"
+    "type": "negative", 
+    "name": "01reuters-security-belgum-france.txt"
   }, 
   "244": {
-    "type": "positive", 
-    "name": "a newspaper publishes sexual images of max mosley .txt"
+    "type": "negative", 
+    "name": "test007.txt"
   }, 
   "245": {
-    "type": "positive", 
-    "name": "appops feature that gave users some control over a.txt"
+    "type": "negative", 
+    "name": "test001.txt"
   }, 
   "246": {
-    "type": "positive", 
-    "name": "google doodle contest asks for last 4 digits of ss.txt"
+    "type": "negative", 
+    "name": "test011.txt"
   }, 
   "247": {
-    "type": "positive", 
-    "name": "a us government employee accidentally sent a file .txt"
+    "type": "negative", 
+    "name": "test012.txt"
   }, 
   "248": {
-    "type": "positive", 
-    "name": "global information services group experian was att.txt"
+    "type": "negative", 
+    "name": "test020.txt"
   }, 
   "249": {
-    "type": "positive", 
-    "name": "toysmart accused by ftc of selling the personal in.txt"
+    "type": "negative", 
+    "name": "test003.txt"
   }, 
   "250": {
-    "type": "positive", 
-    "name": "microsoft reviews user emails as part of an invest.txt"
+    "type": "negative", 
+    "name": "test014.txt"
   }, 
   "251": {
-    "type": "positive", 
-    "name": "google begins enforcing g+ real name policy and so.txt"
+    "type": "negative", 
+    "name": "test017.txt"
   }, 
   "252": {
-    "type": "positive", 
-    "name": "playdom amasssed and divulged pii of children who .txt"
+    "type": "negative", 
+    "name": "test015.txt"
   }, 
   "253": {
-    "type": "positive", 
-    "name": "american university accused rapist outed on facebo.txt"
+    "type": "negative", 
+    "name": "test005.txt"
   }, 
   "254": {
-    "type": "positive", 
-    "name": "blippy, a social media service that facilitates sh.txt"
+    "type": "negative", 
+    "name": "test008.txt"
   }, 
   "255": {
-    "type": "positive", 
-    "name": "target uses purchases to infer pregnancy, promotes.txt"
+    "type": "negative", 
+    "name": "test019.txt"
   }, 
   "256": {
-    "type": "positive", 
-    "name": "privacy concerns are raised about html 5 and everc.txt"
+    "type": "negative", 
+    "name": "test002.txt"
   }, 
   "257": {
-    "type": "positive", 
-    "name": "breach of epsilon data exposes names and email add.txt"
+    "type": "negative", 
+    "name": "test004.txt"
   }, 
   "258": {
-    "type": "positive", 
-    "name": "amazon shows off prototype delivery drones on nati.txt"
+    "type": "negative", 
+    "name": "test018.txt"
   }, 
   "259": {
-    "type": "positive", 
-    "name": "lebanon, new hampshire library stops participating.txt"
+    "type": "negative", 
+    "name": "test010.txt"
   }, 
   "260": {
-    "type": "positive", 
-    "name": "new business selling artwork and notebooks contain.txt"
+    "type": "negative", 
+    "name": "test016.txt"
   }, 
   "261": {
-    "type": "positive", 
-    "name": "meritus medical center notifies patients of improp.txt"
+    "type": "negative", 
+    "name": "test021.txt"
   }, 
   "262": {
-    "type": "positive", 
-    "name": "increasing number of fraudsters posing as call cen.txt"
+    "type": "negative", 
+    "name": "test013.txt"
   }, 
   "263": {
-    "type": "positive", 
-    "name": "google play is discovered to share email addresses.txt"
+    "type": "negative", 
+    "name": "test009.txt"
   }, 
   "264": {
-    "type": "positive", 
-    "name": "whsmith accidentally emailed customer personal det.txt"
+    "type": "negative", 
+    "name": "test006.txt"
   }, 
   "265": {
-    "type": "positive", 
-    "name": "news of the world reporters found to be hacking vo.txt"
+    "type": "negative", 
+    "name": "test022.txt"
   }, 
   "266": {
     "type": "positive", 
-    "name": "4 cia officers were embedded in the nyc police dep.txt"
+    "name": "photos of naked adolescents (middle and high schoo.txt"
   }, 
   "267": {
     "type": "positive", 
-    "name": "court requires yelp to report identities of anonym.txt"
+    "name": "instances of home surveillance footage showing mis.txt"
   }, 
   "268": {
     "type": "positive", 
-    "name": "tens of millions of user name, id, account has bee.txt"
+    "name": "50m evernote accounts compromised, email addresses.txt"
   }, 
   "269": {
     "type": "positive", 
-    "name": "script made available for determining ip address o.txt"
+    "name": "new law requires companies to store data about rus.txt"
   }, 
   "270": {
     "type": "positive", 
-    "name": "southern phone company breaches customer privacy b.txt"
+    "name": "security breach causes leak of snapchat photos, po.txt"
   }, 
   "271": {
     "type": "positive", 
-    "name": "linkedin defaults, confusing privacy wording in se.txt"
+    "name": "teacher in training was denied her degree after sh.txt"
   }, 
   "272": {
     "type": "positive", 
-    "name": "emails of faculty and staff at harvard were search.txt"
+    "name": "46m records compromised at tjmaxx, homegoods, mars.txt"
   }, 
   "273": {
     "type": "positive", 
-    "name": "memorial hermann health system notifies patients o.txt"
+    "name": "google search autocomplete links german prime mini.txt"
   }, 
   "274": {
     "type": "positive", 
-    "name": "eli lilli accidentally discloses email addresses o.txt"
+    "name": "nude snapchat images put online by hackers..txt"
   }, 
   "275": {
     "type": "positive", 
-    "name": "consumers voice concerns about flash cookies; some.txt"
+    "name": "e-readers found to be collecting detailed data abo.txt"
   }, 
   "276": {
     "type": "positive", 
-    "name": "a 16 year old girl was sexually assaulted by two s.txt"
+    "name": "bloomberg news reporters had extracted subscribers.txt"
   }, 
   "277": {
     "type": "positive", 
-    "name": "unexpected linking of text to a google+ account ac.txt"
+    "name": "calls to understand insurance coverage appear to d.txt"
   }, 
   "278": {
     "type": "positive", 
-    "name": "fbi agents are given more freedom to surveil and m.txt"
+    "name": "path app found to be uploading contacts without pe.txt"
   }, 
   "279": {
     "type": "positive", 
-    "name": "philadelphia school district remotely activated ca.txt"
+    "name": "obama administration medical privacy rules denounc.txt"
   }, 
   "280": {
     "type": "positive", 
-    "name": "aol instant messenger found to log chats perhaps i.txt"
+    "name": "orbitz uses the type of machine making the request.txt"
   }, 
   "281": {
     "type": "positive", 
-    "name": "youtube comments begin requiring a google+ account.txt"
+    "name": "us office of personnel management hackers gain acc.txt"
   }, 
   "282": {
     "type": "positive", 
-    "name": "callisto service allows victims of sexual assault .txt"
+    "name": "etsy default settings make purchases, profiles, fe.txt"
   }, 
   "283": {
     "type": "positive", 
-    "name": "a start-up that makes it easier for employers to r.txt"
+    "name": "ftc finds that the chitika ad network is only resp.txt"
   }, 
   "284": {
     "type": "positive", 
-    "name": "police departments are building dna databases of p.txt"
+    "name": "130m credit and debit cards stored by heartland pa.txt"
   }, 
   "285": {
     "type": "positive", 
-    "name": "consumers voice privacy concerns about online reta.txt"
+    "name": "drone spotted near a school raises privacy and saf.txt"
   }, 
   "286": {
     "type": "positive", 
-    "name": "police used text messages on victim's phone to cha.txt"
+    "name": "hackers steal information on 2.9 million adobe cus.txt"
   }, 
   "287": {
     "type": "positive", 
-    "name": "former classmate buys amy boyer's ssn and employer.txt"
+    "name": "vitalite health doctor accessed female patient fil.txt"
   }, 
   "288": {
     "type": "positive", 
-    "name": "snapchat's claims of the ephemerality of snaps fou.txt"
+    "name": "56m payment cards compromised by malware infected .txt"
   }, 
   "289": {
     "type": "positive", 
-    "name": "concerns are raised about the profiling and target.txt"
+    "name": "security breach at at&t allowed the email addresse.txt"
   }, 
   "290": {
     "type": "positive", 
-    "name": "facebook changes privacy policy to require users t.txt"
+    "name": "bug causes private chats to be visible to the frie.txt"
   }, 
   "291": {
     "type": "positive", 
-    "name": "research project finds that 67% of kis apps collec.txt"
+    "name": "the us supreme court upholds the practice of intru.txt"
   }, 
   "292": {
     "type": "positive", 
-    "name": "a google advertiser targeted users based on health.txt"
+    "name": "facebook begins using face recognition to automati.txt"
   }, 
   "293": {
     "type": "positive", 
-    "name": "google buzz exposed contacts of users who didn't c.txt"
+    "name": "researchers discover surprising permissions reques.txt"
   }, 
   "294": {
     "type": "positive", 
-    "name": "high school student in saratoga, ca, was victim of.txt"
+    "name": "us pressures pakistan to provide more detailed inf.txt"
   }, 
   "295": {
     "type": "positive", 
-    "name": "ez-passes are discovered to be read at various non.txt"
+    "name": "bug gives facebook users access to the chats of th.txt"
   }, 
   "296": {
     "type": "positive", 
-    "name": "a duke student circulated a powerpoint presentatio.txt"
+    "name": "netflix released data  of user movie ratings with .txt"
   }, 
   "297": {
     "type": "positive", 
-    "name": "google streetview cars accidentally collected wifi.txt"
+    "name": "canadian teenager was raped and rapists distribute.txt"
   }, 
   "298": {
     "type": "positive", 
-    "name": "dorm mates of tyler clementi secretly video record.txt"
+    "name": "security breach leasks credit card numbers, as wel.txt"
   }, 
   "299": {
     "type": "positive", 
-    "name": "a photo randi zuckerberg shared on facebook ends u.txt"
+    "name": "quora new feature displaying who has viewed a post.txt"
   }, 
   "300": {
     "type": "positive", 
-    "name": "user misunderstanding of facebook wall functionali.txt"
+    "name": "same-sex marriage opponents protest requests to tu.txt"
   }, 
   "301": {
     "type": "positive", 
-    "name": "google and various ad servers found to be circumve.txt"
+    "name": "privacy concerns about mattel's new recording barb.txt"
   }, 
   "302": {
     "type": "positive", 
-    "name": "kid-directed websites found to set more cookies th.txt"
+    "name": "50m living social records compromised.txt"
   }, 
   "303": {
     "type": "positive", 
-    "name": "facebook releases \"signal\" a product that aggregat.txt"
+    "name": "topless sunbathing photos of kate middleton are pu.txt"
   }, 
   "304": {
     "type": "positive", 
-    "name": "english women posts revenge porn pictures on faceb.txt"
+    "name": "new ability to email google+ contacts whose email .txt"
   }, 
   "305": {
     "type": "positive", 
-    "name": "hundreds of ios apps found to be collecting pii us.txt"
+    "name": "80m anthem patient records exposed.txt"
   }, 
   "306": {
     "type": "positive", 
-    "name": "some users of google talk and google hangout had c.txt"
+    "name": "a man was charged with 10 counts of murder based o.txt"
   }, 
   "307": {
     "type": "positive", 
-    "name": "touchstone medical imaging patient data accessible.txt"
+    "name": "fbi improperly gained access to calling records of.txt"
   }, 
   "308": {
     "type": "positive", 
-    "name": "\"girls around me\" app launches. makes available on.txt"
+    "name": "fed by on-site cameras, new app scenetap summarize.txt"
   }, 
   "309": {
     "type": "positive", 
-    "name": "verizon found to be injecting perma-cookies to tra.txt"
+    "name": "edward snowden goes public with details of the nsa.txt"
   }, 
   "310": {
     "type": "positive", 
-    "name": "users who visit the sites 2012 presidential candid.txt"
+    "name": "default privacy setting allows fitbit profiles to .txt"
   }, 
   "311": {
     "type": "positive", 
-    "name": "judge orders twitter to give information about 3 a.txt"
+    "name": "google search autocomplete feature links a german .txt"
   }, 
   "312": {
     "type": "positive", 
-    "name": "a database about needy nyc residents that aggregat.txt"
+    "name": "classdojo launched in 2011. privacy concerns aroun.txt"
   }, 
   "313": {
     "type": "positive", 
-    "name": "tracking cookie accidentally set by facebook; even.txt"
+    "name": "avg changes privacy policy to allow more data shar.txt"
   }, 
   "314": {
     "type": "positive", 
-    "name": "referrer sent to advertisers from several social n.txt"
+    "name": "data aggregator klout launches. as a data aggregat.txt"
   }, 
   "315": {
     "type": "positive", 
-    "name": "audit by the state of north carolina of consumer p.txt"
+    "name": "european plans for a terrorist tracking system rai.txt"
   }, 
   "316": {
     "type": "positive", 
-    "name": "advertising code used by angry birds and other app.txt"
+    "name": "hiv clinic accidentally disclosed 780 hiv patients.txt"
   }, 
   "317": {
     "type": "positive", 
-    "name": "awareness grows over volume of data collected by c.txt"
+    "name": "hacker accesses records of 15m t-mobile customers .txt"
   }, 
   "318": {
     "type": "positive", 
-    "name": "growth of apps that use face recognition to determ.txt"
+    "name": "a newspaper publishes sexual images of max mosley .txt"
   }, 
   "319": {
     "type": "positive", 
-    "name": "millions of user's email account, password, ip add.txt"
+    "name": "appops feature that gave users some control over a.txt"
   }, 
   "320": {
     "type": "positive", 
-    "name": "new tool makes users aware of default geolocation .txt"
+    "name": "google doodle contest asks for last 4 digits of ss.txt"
   }, 
   "321": {
     "type": "positive", 
-    "name": "france begins use of full body scanners at charles.txt"
+    "name": "a us government employee accidentally sent a file .txt"
   }, 
   "322": {
     "type": "positive", 
-    "name": "internet explorer changes default setting for do n.txt"
+    "name": "global information services group experian was att.txt"
   }, 
   "323": {
     "type": "positive", 
-    "name": "blood test of mother of dead newborn used to convi.txt"
+    "name": "toysmart accused by ftc of selling the personal in.txt"
   }, 
   "324": {
     "type": "positive", 
-    "name": "in some cases, the facebook user id could be infer.txt"
+    "name": "microsoft reviews user emails as part of an invest.txt"
   }, 
   "325": {
     "type": "positive", 
-    "name": "billions of password from netease mail box is leak.txt"
+    "name": "google begins enforcing g+ real name policy and so.txt"
   }, 
   "326": {
     "type": "positive", 
-    "name": "exif data used to infer the location of wanted per.txt"
+    "name": "playdom amasssed and divulged pii of children who .txt"
   }, 
   "327": {
     "type": "positive", 
-    "name": "united arab emirates announces it will suspend bla.txt"
+    "name": "american university accused rapist outed on facebo.txt"
   }, 
   "328": {
     "type": "positive", 
-    "name": "presidential candidate web sites found to often be.txt"
+    "name": "blippy, a social media service that facilitates sh.txt"
   }, 
   "329": {
     "type": "positive", 
-    "name": "request from obama administration to allow the fbi.txt"
+    "name": "target uses purchases to infer pregnancy, promotes.txt"
   }, 
   "330": {
     "type": "positive", 
-    "name": "ashley madison website hacked..txt"
+    "name": "privacy concerns are raised about html 5 and everc.txt"
   }, 
   "331": {
     "type": "positive", 
-    "name": "those who opt-in to linkedin calendar feature enab.txt"
+    "name": "breach of epsilon data exposes names and email add.txt"
   }, 
   "332": {
     "type": "positive", 
-    "name": "carefirst bluecross blueshield hacking incident; i.txt"
+    "name": "amazon shows off prototype delivery drones on nati.txt"
   }, 
   "333": {
     "type": "positive", 
-    "name": "iphones found to be storing user location data for.txt"
+    "name": "lebanon, new hampshire library stops participating.txt"
   }, 
   "334": {
     "type": "positive", 
-    "name": "leak of neiman marcus shopper pii due to malware..txt"
+    "name": "new business selling artwork and notebooks contain.txt"
   }, 
   "335": {
     "type": "positive", 
-    "name": "military bases are using ssns as identifiers in a .txt"
+    "name": "meritus medical center notifies patients of improp.txt"
   }, 
   "336": {
     "type": "positive", 
-    "name": "voter registration information exposed for 191m am.txt"
+    "name": "increasing number of fraudsters posing as call cen.txt"
   }, 
   "337": {
     "type": "positive", 
-    "name": "healthfirst, is notifying approximately 5300 affec.txt"
+    "name": "google play is discovered to share email addresses.txt"
   }, 
   "338": {
     "type": "positive", 
-    "name": "predictive assistant introduced, google now, perce.txt"
+    "name": "whsmith accidentally emailed customer personal det.txt"
   }, 
   "339": {
     "type": "positive", 
-    "name": "apple mobile devices found to be storing locations.txt"
+    "name": "news of the world reporters found to be hacking vo.txt"
   }, 
   "340": {
     "type": "positive", 
-    "name": "sony pictures hack releases lots of sensitive data.txt"
+    "name": "4 cia officers were embedded in the nyc police dep.txt"
   }, 
   "341": {
     "type": "positive", 
-    "name": "phishing attack compromises partners healthcare 3,.txt"
+    "name": "court requires yelp to report identities of anonym.txt"
   }, 
   "342": {
     "type": "positive", 
-    "name": "call centers analyzing voice data for emotional st.txt"
+    "name": "tens of millions of user name, id, account has bee.txt"
   }, 
   "343": {
     "type": "positive", 
-    "name": "windows 10 update was pulled because it forgot cer.txt"
+    "name": "script made available for determining ip address o.txt"
   }, 
   "344": {
     "type": "positive", 
-    "name": "ftc finds that 20% of 400 child-directed apps prov.txt"
+    "name": "southern phone company breaches customer privacy b.txt"
   }, 
   "345": {
     "type": "positive", 
-    "name": "explorer launch of google glass raises concerns ab.txt"
+    "name": "linkedin defaults, confusing privacy wording in se.txt"
   }, 
   "346": {
     "type": "positive", 
-    "name": "some germans dislike having photos of their homes .txt"
+    "name": "emails of faculty and staff at harvard were search.txt"
   }, 
   "347": {
     "type": "positive", 
-    "name": "several facebook apps (e.g. farmville) found to be.txt"
+    "name": "memorial hermann health system notifies patients o.txt"
   }, 
   "348": {
     "type": "positive", 
-    "name": "some android phones found to be broadcasting locat.txt"
+    "name": "eli lilli accidentally discloses email addresses o.txt"
   }, 
   "349": {
     "type": "positive", 
-    "name": "the existence of a list of well-connected applican.txt"
+    "name": "consumers voice concerns about flash cookies; some.txt"
   }, 
   "350": {
     "type": "positive", 
-    "name": "twitter changes \"block\" functionality to allow blo.txt"
+    "name": "a 16 year old girl was sexually assaulted by two s.txt"
   }, 
   "351": {
     "type": "positive", 
-    "name": "it's discovered that microsoft scans skype message.txt"
+    "name": "unexpected linking of text to a google+ account ac.txt"
   }, 
   "352": {
     "type": "positive", 
-    "name": "spotify changed its privacy policy on 81915 to all.txt"
+    "name": "fbi agents are given more freedom to surveil and m.txt"
   }, 
   "353": {
     "type": "positive", 
-    "name": "harvard students facebook data gathered and shared.txt"
+    "name": "philadelphia school district remotely activated ca.txt"
   }, 
   "354": {
     "type": "positive", 
-    "name": "comcast exposed pii of customers who had paid to k.txt"
+    "name": "aol instant messenger found to log chats perhaps i.txt"
   }, 
   "355": {
     "type": "positive", 
-    "name": "hackers accessed pii of 102m playstation users..txt"
+    "name": "youtube comments begin requiring a google+ account.txt"
   }, 
   "356": {
     "type": "positive", 
-    "name": "disconnect mobile, an ad-blocking app, removed fro.txt"
+    "name": "callisto service allows victims of sexual assault .txt"
   }, 
   "357": {
     "type": "positive", 
-    "name": "laptop with patient data stolen from northwestern .txt"
+    "name": "a start-up that makes it easier for employers to r.txt"
   }, 
   "358": {
     "type": "positive", 
-    "name": "names and diagnosis codes for 20k stanford hospita.txt"
+    "name": "police departments are building dna databases of p.txt"
   }, 
   "359": {
     "type": "positive", 
-    "name": "high school student victim of sexual abuse outs pe.txt"
+    "name": "consumers voice privacy concerns about online reta.txt"
   }, 
   "360": {
     "type": "positive", 
-    "name": "foursquare sharing check-ins regardless of user pr.txt"
+    "name": "police used text messages on victim's phone to cha.txt"
   }, 
   "361": {
     "type": "positive", 
-    "name": "a british legal ruling bars media outlets from pub.txt"
+    "name": "former classmate buys amy boyer's ssn and employer.txt"
   }, 
   "362": {
     "type": "positive", 
-    "name": "call-center workers for at&t inc. leaked confident.txt"
+    "name": "snapchat's claims of the ephemerality of snaps fou.txt"
   }, 
   "363": {
     "type": "positive", 
-    "name": "us high school teacher forced to resign or be susp.txt"
+    "name": "concerns are raised about the profiling and target.txt"
   }, 
   "364": {
     "type": "positive", 
-    "name": "hacker compromises a database causing a pii leak f.txt"
+    "name": "facebook changes privacy policy to require users t.txt"
   }, 
   "365": {
     "type": "positive", 
-    "name": "ubuntu version automatically searches amazon in ad.txt"
+    "name": "research project finds that 67% of kis apps collec.txt"
   }, 
   "366": {
     "type": "positive", 
-    "name": "facebook begins using views of pages containing th.txt"
+    "name": "a google advertiser targeted users based on health.txt"
   }, 
   "367": {
     "type": "positive", 
-    "name": "hulu sharing video watching histories, along with .txt"
+    "name": "google buzz exposed contacts of users who didn't c.txt"
   }, 
   "368": {
     "type": "positive", 
-    "name": "adblock plus, an ad-blocking app, removed from the.txt"
+    "name": "high school student in saratoga, ca, was victim of.txt"
   }, 
   "369": {
     "type": "positive", 
-    "name": "growth of mugshot sites, that use public records t.txt"
+    "name": "ez-passes are discovered to be read at various non.txt"
   }, 
   "370": {
     "type": "positive", 
-    "name": "adultfriendfinder website hacked, pii accessed, at.txt"
+    "name": "a duke student circulated a powerpoint presentatio.txt"
   }, 
   "371": {
     "type": "positive", 
-    "name": "data breach at tampa general hospital.\n.txt"
+    "name": "google streetview cars accidentally collected wifi.txt"
   }, 
   "372": {
     "type": "positive", 
-    "name": "google, microsoft and yahoo believed to be retaini.txt"
+    "name": "dorm mates of tyler clementi secretly video record.txt"
   }, 
   "373": {
     "type": "positive", 
-    "name": "four mclean hospital backup data tapes go missing,.txt"
+    "name": "a photo randi zuckerberg shared on facebook ends u.txt"
   }, 
   "374": {
     "type": "positive", 
-    "name": "google agreed to remove links regarding an old cri.txt"
+    "name": "user misunderstanding of facebook wall functionali.txt"
   }, 
   "375": {
     "type": "positive", 
-    "name": "flash drive with employee data missing from easter.txt"
+    "name": "google and various ad servers found to be circumve.txt"
   }, 
   "376": {
     "type": "positive", 
-    "name": "nhs-accredited health apps found to be sending une.txt"
+    "name": "kid-directed websites found to set more cookies th.txt"
   }, 
   "377": {
     "type": "positive", 
-    "name": "cloud storage debacle marks hospital's third priva.txt"
+    "name": "facebook releases \"signal\" a product that aggregat.txt"
   }, 
   "378": {
+    "type": "positive", 
+    "name": "english women posts revenge porn pictures on faceb.txt"
+  }, 
+  "379": {
+    "type": "positive", 
+    "name": "hundreds of ios apps found to be collecting pii us.txt"
+  }, 
+  "380": {
+    "type": "positive", 
+    "name": "some users of google talk and google hangout had c.txt"
+  }, 
+  "381": {
+    "type": "positive", 
+    "name": "touchstone medical imaging patient data accessible.txt"
+  }, 
+  "382": {
+    "type": "positive", 
+    "name": "\"girls around me\" app launches. makes available on.txt"
+  }, 
+  "383": {
+    "type": "positive", 
+    "name": "verizon found to be injecting perma-cookies to tra.txt"
+  }, 
+  "384": {
+    "type": "positive", 
+    "name": "users who visit the sites 2012 presidential candid.txt"
+  }, 
+  "385": {
+    "type": "positive", 
+    "name": "judge orders twitter to give information about 3 a.txt"
+  }, 
+  "386": {
+    "type": "positive", 
+    "name": "a database about needy nyc residents that aggregat.txt"
+  }, 
+  "387": {
+    "type": "positive", 
+    "name": "tracking cookie accidentally set by facebook; even.txt"
+  }, 
+  "388": {
+    "type": "positive", 
+    "name": "referrer sent to advertisers from several social n.txt"
+  }, 
+  "389": {
+    "type": "positive", 
+    "name": "audit by the state of north carolina of consumer p.txt"
+  }, 
+  "390": {
+    "type": "positive", 
+    "name": "advertising code used by angry birds and other app.txt"
+  }, 
+  "391": {
+    "type": "positive", 
+    "name": "awareness grows over volume of data collected by c.txt"
+  }, 
+  "392": {
+    "type": "positive", 
+    "name": "growth of apps that use face recognition to determ.txt"
+  }, 
+  "393": {
+    "type": "positive", 
+    "name": "millions of user's email account, password, ip add.txt"
+  }, 
+  "394": {
+    "type": "positive", 
+    "name": "new tool makes users aware of default geolocation .txt"
+  }, 
+  "395": {
+    "type": "positive", 
+    "name": "france begins use of full body scanners at charles.txt"
+  }, 
+  "396": {
+    "type": "positive", 
+    "name": "internet explorer changes default setting for do n.txt"
+  }, 
+  "397": {
+    "type": "positive", 
+    "name": "blood test of mother of dead newborn used to convi.txt"
+  }, 
+  "398": {
+    "type": "positive", 
+    "name": "in some cases, the facebook user id could be infer.txt"
+  }, 
+  "399": {
+    "type": "positive", 
+    "name": "billions of password from netease mail box is leak.txt"
+  }, 
+  "400": {
+    "type": "positive", 
+    "name": "exif data used to infer the location of wanted per.txt"
+  }, 
+  "401": {
+    "type": "positive", 
+    "name": "united arab emirates announces it will suspend bla.txt"
+  }, 
+  "402": {
+    "type": "positive", 
+    "name": "presidential candidate web sites found to often be.txt"
+  }, 
+  "403": {
+    "type": "positive", 
+    "name": "request from obama administration to allow the fbi.txt"
+  }, 
+  "404": {
+    "type": "positive", 
+    "name": "ashley madison website hacked..txt"
+  }, 
+  "405": {
+    "type": "positive", 
+    "name": "those who opt-in to linkedin calendar feature enab.txt"
+  }, 
+  "406": {
+    "type": "positive", 
+    "name": "carefirst bluecross blueshield hacking incident; i.txt"
+  }, 
+  "407": {
+    "type": "positive", 
+    "name": "iphones found to be storing user location data for.txt"
+  }, 
+  "408": {
+    "type": "positive", 
+    "name": "leak of neiman marcus shopper pii due to malware..txt"
+  }, 
+  "409": {
+    "type": "positive", 
+    "name": "military bases are using ssns as identifiers in a .txt"
+  }, 
+  "410": {
+    "type": "positive", 
+    "name": "voter registration information exposed for 191m am.txt"
+  }, 
+  "411": {
+    "type": "positive", 
+    "name": "healthfirst, is notifying approximately 5300 affec.txt"
+  }, 
+  "412": {
+    "type": "positive", 
+    "name": "predictive assistant introduced, google now, perce.txt"
+  }, 
+  "413": {
+    "type": "positive", 
+    "name": "apple mobile devices found to be storing locations.txt"
+  }, 
+  "414": {
+    "type": "positive", 
+    "name": "sony pictures hack releases lots of sensitive data.txt"
+  }, 
+  "415": {
+    "type": "positive", 
+    "name": "phishing attack compromises partners healthcare 3,.txt"
+  }, 
+  "416": {
+    "type": "positive", 
+    "name": "call centers analyzing voice data for emotional st.txt"
+  }, 
+  "417": {
+    "type": "positive", 
+    "name": "windows 10 update was pulled because it forgot cer.txt"
+  }, 
+  "418": {
+    "type": "positive", 
+    "name": "ftc finds that 20% of 400 child-directed apps prov.txt"
+  }, 
+  "419": {
+    "type": "positive", 
+    "name": "explorer launch of google glass raises concerns ab.txt"
+  }, 
+  "420": {
+    "type": "positive", 
+    "name": "some germans dislike having photos of their homes .txt"
+  }, 
+  "421": {
+    "type": "positive", 
+    "name": "several facebook apps (e.g. farmville) found to be.txt"
+  }, 
+  "422": {
+    "type": "positive", 
+    "name": "some android phones found to be broadcasting locat.txt"
+  }, 
+  "423": {
+    "type": "positive", 
+    "name": "the existence of a list of well-connected applican.txt"
+  }, 
+  "424": {
+    "type": "positive", 
+    "name": "twitter changes \"block\" functionality to allow blo.txt"
+  }, 
+  "425": {
+    "type": "positive", 
+    "name": "it's discovered that microsoft scans skype message.txt"
+  }, 
+  "426": {
+    "type": "positive", 
+    "name": "spotify changed its privacy policy on 81915 to all.txt"
+  }, 
+  "427": {
+    "type": "positive", 
+    "name": "harvard students facebook data gathered and shared.txt"
+  }, 
+  "428": {
+    "type": "positive", 
+    "name": "comcast exposed pii of customers who had paid to k.txt"
+  }, 
+  "429": {
+    "type": "positive", 
+    "name": "hackers accessed pii of 102m playstation users..txt"
+  }, 
+  "430": {
+    "type": "positive", 
+    "name": "disconnect mobile, an ad-blocking app, removed fro.txt"
+  }, 
+  "431": {
+    "type": "positive", 
+    "name": "laptop with patient data stolen from northwestern .txt"
+  }, 
+  "432": {
+    "type": "positive", 
+    "name": "names and diagnosis codes for 20k stanford hospita.txt"
+  }, 
+  "433": {
+    "type": "positive", 
+    "name": "high school student victim of sexual abuse outs pe.txt"
+  }, 
+  "434": {
+    "type": "positive", 
+    "name": "foursquare sharing check-ins regardless of user pr.txt"
+  }, 
+  "435": {
+    "type": "positive", 
+    "name": "a british legal ruling bars media outlets from pub.txt"
+  }, 
+  "436": {
+    "type": "positive", 
+    "name": "call-center workers for at&t inc. leaked confident.txt"
+  }, 
+  "437": {
+    "type": "positive", 
+    "name": "us high school teacher forced to resign or be susp.txt"
+  }, 
+  "438": {
+    "type": "positive", 
+    "name": "hacker compromises a database causing a pii leak f.txt"
+  }, 
+  "439": {
+    "type": "positive", 
+    "name": "ubuntu version automatically searches amazon in ad.txt"
+  }, 
+  "440": {
+    "type": "positive", 
+    "name": "facebook begins using views of pages containing th.txt"
+  }, 
+  "441": {
+    "type": "positive", 
+    "name": "hulu sharing video watching histories, along with .txt"
+  }, 
+  "442": {
+    "type": "positive", 
+    "name": "adblock plus, an ad-blocking app, removed from the.txt"
+  }, 
+  "443": {
+    "type": "positive", 
+    "name": "growth of mugshot sites, that use public records t.txt"
+  }, 
+  "444": {
+    "type": "positive", 
+    "name": "adultfriendfinder website hacked, pii accessed, at.txt"
+  }, 
+  "445": {
+    "type": "positive", 
+    "name": "data breach at tampa general hospital.\n.txt"
+  }, 
+  "446": {
+    "type": "positive", 
+    "name": "google, microsoft and yahoo believed to be retaini.txt"
+  }, 
+  "447": {
+    "type": "positive", 
+    "name": "four mclean hospital backup data tapes go missing,.txt"
+  }, 
+  "448": {
+    "type": "positive", 
+    "name": "google agreed to remove links regarding an old cri.txt"
+  }, 
+  "449": {
+    "type": "positive", 
+    "name": "flash drive with employee data missing from easter.txt"
+  }, 
+  "450": {
+    "type": "positive", 
+    "name": "nhs-accredited health apps found to be sending une.txt"
+  }, 
+  "451": {
+    "type": "positive", 
+    "name": "cloud storage debacle marks hospital's third priva.txt"
+  }, 
+  "452": {
     "type": "positive", 
     "name": "google begins allowing advertisers to target users.txt"
   }
