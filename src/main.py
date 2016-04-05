@@ -4,6 +4,7 @@ from utils.common import remove_non_ascii as rm_ascii
 from utils.output import convert_json
 from collection.collect import clean, fetch_url, write_to_folder
 import json
+import os.path
 
 # NLP Module Init#
 SPACY_FLAG = False  # Use Spacy if set as true
@@ -34,13 +35,14 @@ def read_urls(file):
         input_json = json.load(input_data)
         new_keyword_dic = {}
         new_file_dic = {}
-        with open(KEYWORD,'r') as old_keyword_f:
+        mode = 'r' if os.path.exists(KEYWORD) else 'w'
+        with open(KEYWORD, mode) as old_keyword_f:
             try:
                 old_keyword_dic = json.load(old_keyword_f)
             except Exception, e:
                 print "Empty file or wrong json format for keyword dic", e.message
                 old_keyword_dic = {}
-        with open(KEYWORD_FILE, 'r') as old_filename_f:
+        with open(KEYWORD_FILE, mode) as old_filename_f:
             try:
                 old_file_dic = json.load(old_filename_f)
             except Exception, e:
@@ -85,6 +87,7 @@ def read_urls(file):
                 except Exception, e:
                     print "Error writing to file for filename dic", e.message
             convert_json(KEYWORD, KEYWORD_FILE)
+            print "Finished"
         else:
             print "No new file added"
 
