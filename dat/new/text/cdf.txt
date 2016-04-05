@@ -30,7 +30,11 @@ For instance, Ghosterys Ad Control app asks companies to opt users out of target
 The ability to collect data from users is one perk of developing apps for the Android ecosystem, developers say. Googles rules force users to agree to a blanket request for data before they use an app. On Apples iPhone, users can opt out of specific requests as they go.
 The Android permission requests can prompt their own concerns. Some Facebook users were alarmed earlier this month when they saw the disclosure for Facebooks Messenger app, which included permission to read users contacts and text messages download files without notification. Facebook said it wouldnt take advantage of the permissions, and said it had no control over the wording of the permissions, which were written by Google.
 Hillary Clinton Tells Tech Executives Not Everyone Is Sharing in Industry Gains
-Saving for Retirement? The Rulebook Is About to Change
+Japans Abe Defends U.S. Alliance, Warns Against Nationalism
+Afghan Spy Agency Arms Villagers to Fight Islamic State
+HTC Vive Review: Oculus Rifts Rival Makes VR Bigger
+Actor Alan Cumming on Surviving Childhood on a Scottish Estate
+Glencore in Advanced Talks to Sell Stake in Agriculture Unit
 Chase ATMs to Limit Withdrawals for Noncustomers to $1,000 a Day
 New Rules on Tax Inversions Threaten Pfizer-Allergan Deal
 Copyright 2015 Dow Jones & Company, Inc. All Rights Reserved.

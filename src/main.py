@@ -6,7 +6,7 @@ from collection.collect import clean, fetch_url, write_to_folder
 import json
 
 # NLP Module Init#
-SPACY_FLAG = True # Use Spacy if set as true
+SPACY_FLAG = False  # Use Spacy if set as true
 KEYWORD = "keyword.json"
 KEYWORD_FILE = "keyword_in_file.json"
 
@@ -29,55 +29,64 @@ else:
     pstemmer = PorterStemmer()
 
 
-
 def read_urls(file):
-    with open(file) as data:
-        fin = json.load(data)
-        dic = {}
-        key_in_file = {}
-        for file_entry in fin:
-            url = fin[file_entry]["url"]
+    with open(file) as input_data:
+        input_json = json.load(input_data)
+        new_keyword_dic = {}
+        new_file_dic = {}
+        with open(KEYWORD,'r') as old_keyword_f:
+            try:
+                old_keyword_dic = json.load(old_keyword_f)
+            except Exception, e:
+                print "Empty file or wrong json format for keyword dic", e.message
+                old_keyword_dic = {}
+        with open(KEYWORD_FILE, 'r') as old_filename_f:
+            try:
+                old_file_dic = json.load(old_filename_f)
+            except Exception, e:
+                print "Empty file or wrong json format for file dic", e.message
+                old_file_dic = {}
+        for file_entry in input_json:
+            if file_entry in old_file_dic:
+                print "this file is already in json."
+                continue
+            url = input_json[file_entry]["url"]
             if "nytimes" in url:
                 handle_ny_times(url)
                 break
             else:
-                filename, result_dic = handle_others(url, file_entry)
-                dic.update(result_dic)
-                key_in_file[filename] = {}
-                key_in_file[filename]["type"] = fin[file_entry]["type"]
-                key_in_file[filename]["keywords"] = result_dic[filename]
-        if len(dic) > 0:
-            keyword_json = open(KEYWORD, 'w+')
-            file_json = open(KEYWORD_FILE, 'w+')
-            try:
-                dat = json.load(keyword_json)
-                filename = json.load(file_json)
-            except ValueError, e:
-                print "Empty file or wrong json format", e.message
-                dat = {}
-                filename = {}
-            # print dat
-            for key in dic:
-                keyword_dic = dic[key]
+                name, result_dic = handle_others(url, file_entry)
+                new_keyword_dic.update(result_dic)
+                new_file_dic[name] = {}
+                new_file_dic[name]["type"] = input_json[file_entry]["type"]
+                new_file_dic[name]["keywords"] = result_dic[name]
+        if len(new_keyword_dic) > 0:
+            for key in new_keyword_dic:
+                keyword_dic = new_keyword_dic[key]
                 for k in keyword_dic:
-                    if k in dat:
-                        dat[k]["total"] += keyword_dic[k]
-                        dat[k]["value"].append(keyword_dic[k])
-                        dat[k]["files"].append(key)
+                    if k in old_keyword_dic:
+                        old_keyword_dic[k]["total"] += keyword_dic[k]
+                        old_keyword_dic[k]["value"].append(keyword_dic[k])
+                        old_keyword_dic[k]["files"].append(key)
                     else:
-                        dat[k] = {}
-                        dat[k]["total"] = keyword_dic[k]
-                        dat[k]["value"] = [keyword_dic[k]]
-                        dat[k]["files"] = [key]
-            filename.update(key_in_file)
-            json.dump(dat, keyword_json, indent=2,sort_keys=True)
-            json.dump(filename, file_json, indent=2, sort_keys=True)
-            keyword_json.close()
-            file_json.close()
+                        old_keyword_dic[k] = {}
+                        old_keyword_dic[k]["total"] = keyword_dic[k]
+                        old_keyword_dic[k]["value"] = [keyword_dic[k]]
+                        old_keyword_dic[k]["files"] = [key]
+            old_file_dic.update(new_file_dic)
+            with open(KEYWORD, 'w') as new_keyword_f:
+                try:
+                    json.dump(old_keyword_dic, new_keyword_f, indent=2, sort_keys=True)
+                except Exception, e:
+                    print "Error writing to file for keyword dic", e.message
+            with open(KEYWORD_FILE, 'w') as new_filename_f:
+                try:
+                    json.dump(old_file_dic, new_filename_f, indent=2, sort_keys=True)
+                except Exception, e:
+                    print "Error writing to file for filename dic", e.message
             convert_json(KEYWORD, KEYWORD_FILE)
         else:
             print "No new file added"
-    
 
 
 def handle_ny_times(url):
@@ -92,7 +101,6 @@ def handle_others(url, filename):
     html = fetch_url(url)
     if html != -1:
         final, remove_tag = clean(html)
-        import time
         final = rm_ascii(final)
         write_to_folder("../dat/new", filename, final)
         if SPACY_FLAG is True:

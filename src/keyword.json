@@ -8,7 +8,16 @@
       1
     ]
   }, 
-  "ability": {
+  "abe": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "abil": {
     "files": [
       "abcd", 
       "cdf"
@@ -19,33 +28,13 @@
       1
     ]
   }, 
-  "able": {
+  "abl": {
     "files": [
       "abcd"
     ], 
     "total": 4, 
     "value": [
       4
-    ]
-  }, 
-  "about": {
-    "files": [
-      "abcd", 
-      "cdf"
-    ], 
-    "total": 2, 
-    "value": [
-      1, 
-      1
-    ]
-  }, 
-  "above": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
     ]
   }, 
   "abp": {
@@ -57,7 +46,7 @@
       3
     ]
   }, 
-  "absolutely": {
+  "absolut": {
     "files": [
       "abcd"
     ], 
@@ -66,7 +55,7 @@
       1
     ]
   }, 
-  "abuse": {
+  "abus": {
     "files": [
       "ere"
     ], 
@@ -75,7 +64,7 @@
       1
     ]
   }, 
-  "acceptable": {
+  "accept": {
     "files": [
       "abcd"
     ], 
@@ -93,7 +82,7 @@
       1
     ]
   }, 
-  "accident": {
+  "accid": {
     "files": [
       "ere"
     ], 
@@ -126,30 +115,12 @@
     "files": [
       "abc"
     ], 
-    "total": 1, 
+    "total": 4, 
     "value": [
-      1
+      4
     ]
   }, 
-  "accreditation": {
-    "files": [
-      "abc"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "accredited": {
-    "files": [
-      "abc"
-    ], 
-    "total": 3, 
-    "value": [
-      3
-    ]
-  }, 
-  "accuse": {
+  "accus": {
     "files": [
       "ere"
     ], 
@@ -158,7 +129,7 @@
       1
     ]
   }, 
-  "achieve": {
+  "achiev": {
     "files": [
       "abcd"
     ], 
@@ -187,25 +158,25 @@
       1
     ]
   }, 
-  "actively": {
+  "activ": {
     "files": [
       "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "actor": {
+    "files": [
+      "cdf"
     ], 
     "total": 1, 
     "value": [
       1
     ]
   }, 
-  "activity": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "actually": {
+  "actual": {
     "files": [
       "abcd"
     ], 
@@ -217,12 +188,23 @@
   "ad": {
     "files": [
       "abcd", 
-      "cdf"
+      "cdf", 
+      "abc"
     ], 
-    "total": 34, 
+    "total": 33, 
     "value": [
       25, 
-      9
+      7, 
+      1
+    ]
+  }, 
+  "ad-block": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 2, 
+    "value": [
+      2
     ]
   }, 
   "adaway": {
@@ -239,62 +221,24 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 23, 
+    "total": 29, 
     "value": [
-      22, 
-      1
-    ]
-  }, 
-  "adblock+.": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "adblocker": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "adblockers": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "adblocks": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
+      28, 
       1
     ]
   }, 
   "add": {
     "files": [
       "abcd", 
-      "ere", 
-      "abc"
+      "ere"
     ], 
-    "total": 4, 
+    "total": 3, 
     "value": [
       2, 
-      1, 
       1
     ]
   }, 
-  "additional": {
+  "addit": {
     "files": [
       "abcd"
     ], 
@@ -314,12 +258,10 @@
   }, 
   "address": {
     "files": [
-      "abcd", 
       "abc"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      1, 
       1
     ]
   }, 
@@ -341,7 +283,7 @@
       2
     ]
   }, 
-  "ads/spam/crapware": {
+  "ads/spam/crapwar": {
     "files": [
       "abcd"
     ], 
@@ -350,65 +292,34 @@
       1
     ]
   }, 
-  "adsense": {
+  "adsens": {
     "files": [
       "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "advantage": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "adversely": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "advertisement": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 6, 
-    "value": [
-      6
-    ]
-  }, 
-  "advertiser": {
-    "files": [
-      "abcd", 
-      "cdf"
     ], 
     "total": 2, 
     "value": [
-      1, 
-      1
-    ]
-  }, 
-  "advertising": {
-    "files": [
-      "abcd", 
-      "cdf"
-    ], 
-    "total": 6, 
-    "value": [
-      4, 
       2
     ]
   }, 
-  "advocate": {
+  "advanc": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "advantag": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "advers": {
     "files": [
       "abcd"
     ], 
@@ -417,7 +328,27 @@
       1
     ]
   }, 
-  "adwords": {
+  "advertis": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 14, 
+    "value": [
+      11, 
+      3
+    ]
+  }, 
+  "advoc": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "adword": {
     "files": [
       "abcd"
     ], 
@@ -435,7 +366,7 @@
       2
     ]
   }, 
-  "affiliated": {
+  "affili": {
     "files": [
       "abc"
     ], 
@@ -444,9 +375,9 @@
       1
     ]
   }, 
-  "afterward": {
+  "afghan": {
     "files": [
-      "ere"
+      "cdf"
     ], 
     "total": 1, 
     "value": [
@@ -462,16 +393,16 @@
       1
     ]
   }, 
-  "age": {
+  "agenc": {
     "files": [
-      "ere"
+      "cdf"
     ], 
     "total": 1, 
     "value": [
       1
     ]
   }, 
-  "agree": {
+  "agre": {
     "files": [
       "cdf"
     ], 
@@ -491,16 +422,25 @@
       1
     ]
   }, 
+  "agricultur": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "aim": {
     "files": [
       "cdf"
     ], 
-    "total": 2, 
+    "total": 5, 
     "value": [
-      2
+      5
     ]
   }, 
-  "aimed": {
+  "alan": {
     "files": [
       "cdf"
     ], 
@@ -527,16 +467,7 @@
       1
     ]
   }, 
-  "all": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "allergan": {
+  "allianc": {
     "files": [
       "cdf"
     ], 
@@ -556,7 +487,7 @@
       1
     ]
   }, 
-  "allrightsreserved": {
+  "allrightsreserv": {
     "files": [
       "abc"
     ], 
@@ -574,25 +505,16 @@
       1
     ]
   }, 
-  "alone": {
+  "alon": {
     "files": [
       "ere"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      2
+      3
     ]
   }, 
-  "along": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "already": {
+  "alreadi": {
     "files": [
       "abcd", 
       "abc"
@@ -616,7 +538,7 @@
       1
     ]
   }, 
-  "alternative": {
+  "altern": {
     "files": [
       "abcd"
     ], 
@@ -625,7 +547,7 @@
       1
     ]
   }, 
-  "altogether": {
+  "altogeth": {
     "files": [
       "abcd"
     ], 
@@ -634,7 +556,7 @@
       1
     ]
   }, 
-  "always": {
+  "alway": {
     "files": [
       "abcd", 
       "ere"
@@ -642,6 +564,17 @@
     "total": 5, 
     "value": [
       4, 
+      1
+    ]
+  }, 
+  "am": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
       1
     ]
   }, 
@@ -654,7 +587,7 @@
       1
     ]
   }, 
-  "ambition": {
+  "ambit": {
     "files": [
       "abc"
     ], 
@@ -667,12 +600,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      2
+      3
     ]
   }, 
-  "amy": {
+  "ami": {
     "files": [
       "ere"
     ], 
@@ -681,7 +614,7 @@
       2
     ]
   }, 
-  "analytics": {
+  "analyt": {
     "files": [
       "abcd"
     ], 
@@ -690,9 +623,9 @@
       1
     ]
   }, 
-  "and-wife": {
+  "and/or": {
     "files": [
-      "cdf"
+      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -710,7 +643,7 @@
       6
     ]
   }, 
-  "angeles": {
+  "angel": {
     "files": [
       "ere"
     ], 
@@ -721,16 +654,14 @@
   }, 
   "anger": {
     "files": [
-      "abcd", 
-      "ere"
+      "abcd"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      1, 
       1
     ]
   }, 
-  "angry": {
+  "anger-manag": {
     "files": [
       "ere"
     ], 
@@ -739,7 +670,16 @@
       1
     ]
   }, 
-  "announce": {
+  "angri": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "announc": {
     "files": [
       "abc"
     ], 
@@ -752,27 +692,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
-    ]
-  }, 
-  "annoyance": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "annoying": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      3
     ]
   }, 
   "anon": {
@@ -793,7 +715,7 @@
       1
     ]
   }, 
-  "anybody": {
+  "anybodi": {
     "files": [
       "abcd"
     ], 
@@ -802,7 +724,7 @@
       1
     ]
   }, 
-  "anymore": {
+  "anymor": {
     "files": [
       "abcd"
     ], 
@@ -811,7 +733,7 @@
       1
     ]
   }, 
-  "anyone": {
+  "anyon": {
     "files": [
       "abcd", 
       "ere"
@@ -822,7 +744,7 @@
       1
     ]
   }, 
-  "anything": {
+  "anyth": {
     "files": [
       "abcd"
     ], 
@@ -855,14 +777,14 @@
       "cdf", 
       "abc"
     ], 
-    "total": 10, 
+    "total": 64, 
     "value": [
-      1, 
-      8, 
-      1
+      23, 
+      24, 
+      17
     ]
   }, 
-  "apparently": {
+  "appar": {
     "files": [
       "ere"
     ], 
@@ -875,9 +797,9 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "appear": {
@@ -891,7 +813,7 @@
       1
     ]
   }, 
-  "apple": {
+  "appl": {
     "files": [
       "abcd", 
       "cdf"
@@ -902,35 +824,15 @@
       3
     ]
   }, 
-  "application": {
-    "files": [
-      "abc"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "approve": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "apps": {
+  "applic": {
     "files": [
       "abcd", 
-      "cdf", 
       "abc"
     ], 
-    "total": 25, 
+    "total": 2, 
     "value": [
-      8, 
       1, 
-      16
+      1
     ]
   }, 
   "ar-15": {
@@ -942,9 +844,42 @@
       1
     ]
   }, 
-  "architecture": {
+  "architectur": {
     "files": [
       "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "are": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 33, 
+    "value": [
+      26, 
+      1, 
+      5, 
+      1
+    ]
+  }, 
+  "arent": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "arm": {
+    "files": [
+      "cdf"
     ], 
     "total": 1, 
     "value": [
@@ -977,9 +912,9 @@
       "ere", 
       "cdf"
     ], 
-    "total": 6, 
+    "total": 4, 
     "value": [
-      4, 
+      2, 
       1, 
       1
     ]
@@ -1004,7 +939,7 @@
       1
     ]
   }, 
-  "assistant": {
+  "assist": {
     "files": [
       "ere"
     ], 
@@ -1013,7 +948,7 @@
       1
     ]
   }, 
-  "associated": {
+  "associ": {
     "files": [
       "ere"
     ], 
@@ -1022,7 +957,7 @@
       1
     ]
   }, 
-  "assume": {
+  "assum": {
     "files": [
       "abc"
     ], 
@@ -1031,13 +966,13 @@
       1
     ]
   }, 
-  "at": {
+  "ate": {
     "files": [
-      "abcd"
+      "ere"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "atm": {
@@ -1051,12 +986,10 @@
   }, 
   "attack": {
     "files": [
-      "abcd", 
       "abc"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      1, 
       1
     ]
   }, 
@@ -1080,7 +1013,7 @@
       1
     ]
   }, 
-  "attention": {
+  "attent": {
     "files": [
       "ere"
     ], 
@@ -1089,7 +1022,7 @@
       1
     ]
   }, 
-  "authorize": {
+  "author": {
     "files": [
       "abcd"
     ], 
@@ -1098,7 +1031,7 @@
       1
     ]
   }, 
-  "automatic": {
+  "automat": {
     "files": [
       "abcd"
     ], 
@@ -1116,7 +1049,7 @@
       1
     ]
   }, 
-  "available": {
+  "avail": {
     "files": [
       "abcd", 
       "cdf", 
@@ -1147,7 +1080,7 @@
       1
     ]
   }, 
-  "aware": {
+  "awar": {
     "files": [
       "abcd", 
       "ere"
@@ -1196,16 +1129,7 @@
       1
     ]
   }, 
-  "bad": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "badge": {
+  "badg": {
     "files": [
       "abc"
     ], 
@@ -1245,22 +1169,13 @@
   }, 
   "basic": {
     "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "basically": {
-    "files": [
       "abcd", 
       "ere"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
       1, 
-      1
+      2
     ]
   }, 
   "be": {
@@ -1270,12 +1185,12 @@
       "cdf", 
       "abc"
     ], 
-    "total": 190, 
+    "total": 31, 
     "value": [
-      125, 
-      28, 
-      25, 
-      12
+      23, 
+      1, 
+      3, 
+      4
     ]
   }, 
   "beacon": {
@@ -1296,7 +1211,7 @@
       1
     ]
   }, 
-  "become": {
+  "becom": {
     "files": [
       "abcd"
     ], 
@@ -1305,34 +1220,45 @@
       1
     ]
   }, 
-  "before": {
+  "been": {
     "files": [
       "abcd", 
       "ere", 
-      "cdf"
+      "abc"
     ], 
-    "total": 3, 
+    "total": 9, 
     "value": [
-      1, 
-      1, 
-      1
-    ]
-  }, 
-  "begin": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
+      5, 
+      2, 
       2
     ]
   }, 
-  "beginning": {
+  "befor": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "before.boy": {
     "files": [
       "ere"
     ], 
     "total": 1, 
     "value": [
+      1
+    ]
+  }, 
+  "begin": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
       1
     ]
   }, 
@@ -1345,7 +1271,7 @@
       1
     ]
   }, 
-  "believe": {
+  "believ": {
     "files": [
       "abcd", 
       "cdf"
@@ -1359,6 +1285,15 @@
   "ben": {
     "files": [
       "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "beneth": {
+    "files": [
+      "ere"
     ], 
     "total": 1, 
     "value": [
@@ -1392,7 +1327,7 @@
       2
     ]
   }, 
-  "beverly": {
+  "beverli": {
     "files": [
       "ere"
     ], 
@@ -1401,7 +1336,7 @@
       1
     ]
   }, 
-  "bezos": {
+  "bezo": {
     "files": [
       "cdf"
     ], 
@@ -1423,12 +1358,12 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "birthplace": {
+  "birthplac": {
     "files": [
       "abcd"
     ], 
@@ -1496,19 +1431,10 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 15, 
+    "total": 22, 
     "value": [
-      9, 
-      6
-    ]
-  }, 
-  "blocked": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 2, 
-    "value": [
-      2
+      15, 
+      7
     ]
   }, 
   "blocker": {
@@ -1519,15 +1445,6 @@
     "total": 3, 
     "value": [
       2, 
-      1
-    ]
-  }, 
-  "blocking": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
       1
     ]
   }, 
@@ -1558,7 +1475,7 @@
       1
     ]
   }, 
-  "bos": {
+  "boss": {
     "files": [
       "cdf"
     ], 
@@ -1589,12 +1506,12 @@
     "files": [
       "ere"
     ], 
-    "total": 5, 
+    "total": 4, 
     "value": [
-      5
+      4
     ]
   }, 
-  "boyfriend": {
+  "boyfriend-girlfriend": {
     "files": [
       "ere"
     ], 
@@ -1632,15 +1549,6 @@
       1
     ]
   }, 
-  "breaking": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
   "briton": {
     "files": [
       "ere"
@@ -1659,7 +1567,7 @@
       1
     ]
   }, 
-  "brocade": {
+  "brocad": {
     "files": [
       "cdf"
     ], 
@@ -1668,7 +1576,16 @@
       1
     ]
   }, 
-  "browse": {
+  "broke": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "brows": {
     "files": [
       "cdf"
     ], 
@@ -1679,16 +1596,27 @@
   }, 
   "browser": {
     "files": [
-      "abcd"
+      "abcd", 
+      "cdf"
     ], 
-    "total": 4, 
+    "total": 5, 
     "value": [
-      4
+      4, 
+      1
     ]
   }, 
-  "browsers": {
+  "btche": {
     "files": [
-      "cdf"
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "bu": {
+    "files": [
+      "ere"
     ], 
     "total": 1, 
     "value": [
@@ -1709,22 +1637,13 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 4, 
+    "total": 5, 
     "value": [
       3, 
-      1
+      2
     ]
   }, 
-  "building": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "bury": {
+  "buri": {
     "files": [
       "abcd", 
       "ere"
@@ -1735,16 +1654,7 @@
       1
     ]
   }, 
-  "bus": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "business": {
+  "busi": {
     "files": [
       "abcd", 
       "cdf"
@@ -1764,6 +1674,15 @@
       1
     ]
   }, 
+  "c": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "cabinet": {
     "files": [
       "ere"
@@ -1773,7 +1692,7 @@
       1
     ]
   }, 
-  "cafeteria": {
+  "cafeteria.h": {
     "files": [
       "ere"
     ], 
@@ -1788,19 +1707,10 @@
       "ere", 
       "cdf"
     ], 
-    "total": 3, 
+    "total": 5, 
     "value": [
       1, 
-      1, 
-      1
-    ]
-  }, 
-  "calls.\"one": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
+      3, 
       1
     ]
   }, 
@@ -1813,20 +1723,16 @@
       1
     ]
   }, 
-  "can": {
+  "cant": {
     "files": [
-      "abcd", 
-      "ere", 
-      "cdf"
+      "abcd"
     ], 
-    "total": 24, 
+    "total": 1, 
     "value": [
-      21, 
-      1, 
-      2
+      1
     ]
   }, 
-  "capture": {
+  "captur": {
     "files": [
       "abc"
     ], 
@@ -1846,25 +1752,18 @@
   }, 
   "care": {
     "files": [
-      "abcd"
+      "abcd", 
+      "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
+      1, 
       1
     ]
   }, 
   "career": {
     "files": [
       "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "careful": {
-    "files": [
-      "cdf"
     ], 
     "total": 1, 
     "value": [
@@ -1882,7 +1781,7 @@
       1
     ]
   }, 
-  "caserestaurant": {
+  "caserestaur": {
     "files": [
       "ere"
     ], 
@@ -1909,7 +1808,7 @@
       1
     ]
   }, 
-  "catch": {
+  "caught": {
     "files": [
       "abcd"
     ], 
@@ -1918,7 +1817,7 @@
       2
     ]
   }, 
-  "cause": {
+  "caus": {
     "files": [
       "abcd", 
       "cdf"
@@ -1938,7 +1837,7 @@
       1
     ]
   }, 
-  "certificate": {
+  "certif": {
     "files": [
       "abcd"
     ], 
@@ -1956,7 +1855,7 @@
       1
     ]
   }, 
-  "challenge": {
+  "challeng": {
     "files": [
       "abc"
     ], 
@@ -1965,15 +1864,13 @@
       1
     ]
   }, 
-  "change": {
+  "chang": {
     "files": [
-      "abcd", 
-      "cdf"
+      "abcd"
     ], 
-    "total": 3, 
+    "total": 6, 
     "value": [
-      2, 
-      1
+      6
     ]
   }, 
   "channel": {
@@ -1985,7 +1882,7 @@
       1
     ]
   }, 
-  "charge": {
+  "charg": {
     "files": [
       "abcd"
     ], 
@@ -2050,7 +1947,16 @@
       1
     ]
   }, 
-  "child": {
+  "childhood": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "children": {
     "files": [
       "ere"
     ], 
@@ -2077,7 +1983,7 @@
       1
     ]
   }, 
-  "choice": {
+  "choic": {
     "files": [
       "abcd", 
       "abc"
@@ -2088,7 +1994,7 @@
       1
     ]
   }, 
-  "choose": {
+  "choos": {
     "files": [
       "abcd"
     ], 
@@ -2142,7 +2048,7 @@
       1
     ]
   }, 
-  "class": {
+  "clarissa": {
     "files": [
       "ere"
     ], 
@@ -2151,16 +2057,34 @@
       1
     ]
   }, 
-  "classmate": {
+  "classes.thos": {
     "files": [
       "ere"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
     ]
   }, 
-  "clause": {
+  "classmat": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "classmate.but": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "claus": {
     "files": [
       "abcd"
     ], 
@@ -2187,7 +2111,7 @@
       1
     ]
   }, 
-  "clinically": {
+  "clinic": {
     "files": [
       "abc"
     ], 
@@ -2214,7 +2138,7 @@
       1
     ]
   }, 
-  "closely": {
+  "close": {
     "files": [
       "abcd"
     ], 
@@ -2236,9 +2160,18 @@
     "files": [
       "ere"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
+    ]
+  }, 
+  "co-found": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "co.": {
@@ -2268,7 +2201,7 @@
       1
     ]
   }, 
-  "colleague": {
+  "colleagu": {
     "files": [
       "cdf"
     ], 
@@ -2288,14 +2221,21 @@
       1
     ]
   }, 
-  "college": {
+  "colleg": {
     "files": [
-      "ere", 
       "abc"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      1, 
+      1
+    ]
+  }, 
+  "college.afterward": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
       1
     ]
   }, 
@@ -2312,7 +2252,7 @@
       1
     ]
   }, 
-  "comfortable": {
+  "comfort": {
     "files": [
       "abcd"
     ], 
@@ -2332,52 +2272,27 @@
       1
     ]
   }, 
-  "commercial": {
+  "commit": {
     "files": [
-      "cdf"
+      "abcd"
     ], 
     "total": 2, 
     "value": [
       2
     ]
   }, 
-  "commitment": {
+  "commun": {
     "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "committed": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "communication": {
-    "files": [
+      "abcd", 
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
+      1, 
       1
     ]
   }, 
-  "community": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "company": {
+  "compani": {
     "files": [
       "abcd", 
       "cdf", 
@@ -2399,7 +2314,7 @@
       1
     ]
   }, 
-  "completely": {
+  "complet": {
     "files": [
       "abcd"
     ], 
@@ -2408,7 +2323,7 @@
       1
     ]
   }, 
-  "comply": {
+  "compli": {
     "files": [
       "abc"
     ], 
@@ -2417,7 +2332,7 @@
       1
     ]
   }, 
-  "computer": {
+  "comput": {
     "files": [
       "ere", 
       "cdf"
@@ -2448,7 +2363,7 @@
       1
     ]
   }, 
-  "configuration": {
+  "configur": {
     "files": [
       "abcd"
     ], 
@@ -2457,7 +2372,7 @@
       1
     ]
   }, 
-  "confirms": {
+  "confirm": {
     "files": [
       "ere"
     ], 
@@ -2466,7 +2381,7 @@
       1
     ]
   }, 
-  "confuse": {
+  "confus": {
     "files": [
       "abcd"
     ], 
@@ -2475,7 +2390,7 @@
       1
     ]
   }, 
-  "connection": {
+  "connect": {
     "files": [
       "abcd"
     ], 
@@ -2484,7 +2399,7 @@
       2
     ]
   }, 
-  "consider": {
+  "consid": {
     "files": [
       "abcd"
     ], 
@@ -2493,7 +2408,7 @@
       1
     ]
   }, 
-  "constantly": {
+  "constantli": {
     "files": [
       "abcd"
     ], 
@@ -2502,7 +2417,7 @@
       1
     ]
   }, 
-  "consumer": {
+  "consum": {
     "files": [
       "cdf"
     ], 
@@ -2511,7 +2426,7 @@
       1
     ]
   }, 
-  "consumption": {
+  "consumpt": {
     "files": [
       "abcd"
     ], 
@@ -2525,10 +2440,10 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
       1, 
-      1
+      2
     ]
   }, 
   "contain": {
@@ -2549,7 +2464,7 @@
       1
     ]
   }, 
-  "continue": {
+  "continu": {
     "files": [
       "abcd"
     ], 
@@ -2572,13 +2487,13 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 3, 
+    "total": 7, 
     "value": [
       2, 
-      1
+      5
     ]
   }, 
-  "controversy": {
+  "controversi": {
     "files": [
       "cdf"
     ], 
@@ -2587,7 +2502,7 @@
       1
     ]
   }, 
-  "convenience": {
+  "conveni": {
     "files": [
       "ere"
     ], 
@@ -2596,7 +2511,7 @@
       1
     ]
   }, 
-  "converge": {
+  "converg": {
     "files": [
       "ere"
     ], 
@@ -2614,25 +2529,16 @@
       1
     ]
   }, 
-  "convince": {
+  "convinc": {
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "convincing": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "cookie": {
+  "cooki": {
     "files": [
       "cdf"
     ], 
@@ -2650,7 +2556,7 @@
       1
     ]
   }, 
-  "copy": {
+  "copi": {
     "files": [
       "cdf"
     ], 
@@ -2715,22 +2621,7 @@
       1
     ]
   }, 
-  "could": {
-    "files": [
-      "abcd", 
-      "ere", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 9, 
-    "value": [
-      2, 
-      2, 
-      3, 
-      2
-    ]
-  }, 
-  "counter": {
+  "couldnt": {
     "files": [
       "abcd"
     ], 
@@ -2739,7 +2630,16 @@
       1
     ]
   }, 
-  "country": {
+  "counter-attack": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "countri": {
     "files": [
       "abcd"
     ], 
@@ -2748,7 +2648,7 @@
       2
     ]
   }, 
-  "courage": {
+  "courag": {
     "files": [
       "ere"
     ], 
@@ -2757,13 +2657,13 @@
       1
     ]
   }, 
-  "course": {
+  "cours": {
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 4, 
     "value": [
-      1
+      4
     ]
   }, 
   "cover": {
@@ -2795,7 +2695,16 @@
       1
     ]
   }, 
-  "criminal": {
+  "cri": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "crimin": {
     "files": [
       "ere"
     ], 
@@ -2808,30 +2717,21 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "crueles": {
+  "cultur": {
     "files": [
-      "abcd"
+      "cdf"
     ], 
     "total": 1, 
     "value": [
       1
     ]
   }, 
-  "cry": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "culture": {
+  "cum": {
     "files": [
       "cdf"
     ], 
@@ -2853,31 +2753,22 @@
   }, 
   "custom": {
     "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "customer": {
-    "files": [
       "abcd", 
       "cdf"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
       1, 
-      1
+      2
     ]
   }, 
   "cut": {
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "cya": {
@@ -2893,9 +2784,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "danger": {
@@ -2969,7 +2860,7 @@
       2
     ]
   }, 
-  "deathhis": {
+  "deathhi": {
     "files": [
       "ere"
     ], 
@@ -2978,7 +2869,7 @@
       1
     ]
   }, 
-  "debate": {
+  "debat": {
     "files": [
       "ere"
     ], 
@@ -2987,7 +2878,7 @@
       1
     ]
   }, 
-  "decade": {
+  "decad": {
     "files": [
       "ere"
     ], 
@@ -2996,16 +2887,7 @@
       1
     ]
   }, 
-  "december": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "decide": {
+  "decid": {
     "files": [
       "abcd", 
       "ere"
@@ -3016,7 +2898,7 @@
       1
     ]
   }, 
-  "decline": {
+  "declin": {
     "files": [
       "cdf"
     ], 
@@ -3025,7 +2907,16 @@
       1
     ]
   }, 
-  "degree": {
+  "defend": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "degre": {
     "files": [
       "cdf"
     ], 
@@ -3043,7 +2934,7 @@
       1
     ]
   }, 
-  "deliver": {
+  "deliv": {
     "files": [
       "abcd"
     ], 
@@ -3070,7 +2961,7 @@
       1
     ]
   }, 
-  "depressed": {
+  "depress": {
     "files": [
       "ere"
     ], 
@@ -3079,7 +2970,7 @@
       1
     ]
   }, 
-  "describe": {
+  "describ": {
     "files": [
       "ere"
     ], 
@@ -3091,6 +2982,15 @@
   "design": {
     "files": [
       "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "desistiendo": {
+    "files": [
+      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -3146,34 +3046,16 @@
   }, 
   "develop": {
     "files": [
-      "cdf"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "developer": {
-    "files": [
       "abcd", 
       "cdf"
     ], 
-    "total": 7, 
+    "total": 12, 
     "value": [
-      4, 
-      3
+      7, 
+      5
     ]
   }, 
-  "development": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 3, 
-    "value": [
-      3
-    ]
-  }, 
-  "device": {
+  "devic": {
     "files": [
       "abcd", 
       "cdf"
@@ -3184,7 +3066,31 @@
       2
     ]
   }, 
-  "die.\"i": {
+  "did": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      3, 
+      2, 
+      1, 
+      1
+    ]
+  }, 
+  "didnt": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "die": {
     "files": [
       "ere"
     ], 
@@ -3193,7 +3099,7 @@
       1
     ]
   }, 
-  "different": {
+  "differ": {
     "files": [
       "abcd"
     ], 
@@ -3229,7 +3135,7 @@
       1
     ]
   }, 
-  "directly": {
+  "directli": {
     "files": [
       "abcd"
     ], 
@@ -3247,25 +3153,16 @@
       1
     ]
   }, 
-  "disappointed": {
+  "disappoint": {
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "disappointing": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "disclose": {
+  "disclos": {
     "files": [
       "abc"
     ], 
@@ -3274,7 +3171,7 @@
       1
     ]
   }, 
-  "disclosure": {
+  "disclosur": {
     "files": [
       "cdf"
     ], 
@@ -3287,9 +3184,9 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 5, 
     "value": [
-      1
+      5
     ]
   }, 
   "display": {
@@ -3297,13 +3194,13 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
       1, 
-      1
+      2
     ]
   }, 
-  "dispute": {
+  "disput": {
     "files": [
       "abcd"
     ], 
@@ -3312,7 +3209,7 @@
       1
     ]
   }, 
-  "disruptive": {
+  "disrupt": {
     "files": [
       "cdf"
     ], 
@@ -3321,7 +3218,7 @@
       1
     ]
   }, 
-  "distinction": {
+  "distinct": {
     "files": [
       "abcd"
     ], 
@@ -3330,7 +3227,7 @@
       2
     ]
   }, 
-  "distribution": {
+  "distribut": {
     "files": [
       "cdf"
     ], 
@@ -3339,18 +3236,18 @@
       3
     ]
   }, 
-  "diversify": {
+  "dive": {
     "files": [
-      "cdf"
+      "abcd"
     ], 
     "total": 1, 
     "value": [
       1
     ]
   }, 
-  "diving": {
+  "diversifi": {
     "files": [
-      "abcd"
+      "cdf"
     ], 
     "total": 1, 
     "value": [
@@ -3361,23 +3258,65 @@
     "files": [
       "abcd", 
       "ere", 
-      "cdf", 
-      "abc"
+      "cdf"
     ], 
-    "total": 50, 
+    "total": 21, 
     "value": [
-      37, 
-      5, 
-      7, 
+      17, 
+      2, 
+      2
+    ]
+  }, 
+  "doe": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
       1
     ]
   }, 
-  "donation": {
+  "doesnt": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 6, 
+    "value": [
+      4, 
+      2
+    ]
+  }, 
+  "donat": {
     "files": [
       "abcd"
     ], 
     "total": 1, 
     "value": [
+      1
+    ]
+  }, 
+  "done": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "dont": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 9, 
+    "value": [
+      8, 
       1
     ]
   }, 
@@ -3399,7 +3338,7 @@
       1
     ]
   }, 
-  "dormitory": {
+  "dormitori": {
     "files": [
       "ere"
     ], 
@@ -3417,33 +3356,15 @@
       3
     ]
   }, 
-  "down": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
   "download": {
     "files": [
       "abcd", 
       "cdf"
     ], 
-    "total": 5, 
+    "total": 8, 
     "value": [
-      3, 
-      2
-    ]
-  }, 
-  "downloads": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      5, 
+      3
     ]
   }, 
   "dozen": {
@@ -3455,7 +3376,7 @@
       1
     ]
   }, 
-  "draw": {
+  "drawn": {
     "files": [
       "ere"
     ], 
@@ -3473,13 +3394,22 @@
       1
     ]
   }, 
+  "dri": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "drive": {
     "files": [
       "ere"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
     ]
   }, 
   "drop": {
@@ -3491,9 +3421,9 @@
       1
     ]
   }, 
-  "dry": {
+  "drove": {
     "files": [
-      "abcd"
+      "ere"
     ], 
     "total": 1, 
     "value": [
@@ -3507,6 +3437,15 @@
     "total": 1, 
     "value": [
       1
+    ]
+  }, 
+  "due": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
     ]
   }, 
   "dumb": {
@@ -3529,7 +3468,7 @@
       2
     ]
   }, 
-  "earnings": {
+  "earn": {
     "files": [
       "abcd"
     ], 
@@ -3538,7 +3477,7 @@
       1
     ]
   }, 
-  "easily": {
+  "easi": {
     "files": [
       "abcd"
     ], 
@@ -3547,22 +3486,22 @@
       1
     ]
   }, 
-  "easy": {
+  "easier": {
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
     ]
   }, 
-  "eat": {
+  "easili": {
     "files": [
-      "ere"
+      "abcd"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
     ]
   }, 
   "ebook": {
@@ -3594,7 +3533,7 @@
       1
     ]
   }, 
-  "edge": {
+  "edg": {
     "files": [
       "abcd"
     ], 
@@ -3603,7 +3542,7 @@
       1
     ]
   }, 
-  "education": {
+  "educ": {
     "files": [
       "cdf"
     ], 
@@ -3612,7 +3551,7 @@
       1
     ]
   }, 
-  "effect": {
+  "effect.when": {
     "files": [
       "ere"
     ], 
@@ -3621,7 +3560,7 @@
       1
     ]
   }, 
-  "eighth": {
+  "eighth-grad": {
     "files": [
       "ere"
     ], 
@@ -3639,18 +3578,27 @@
       2
     ]
   }, 
-  "electronic": {
+  "electron": {
     "files": [
       "abcd", 
       "cdf"
     ], 
-    "total": 3, 
+    "total": 2, 
     "value": [
       1, 
-      2
+      1
     ]
   }, 
-  "else": {
+  "electronic-fil": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "els": {
     "files": [
       "abcd"
     ], 
@@ -3686,7 +3634,7 @@
       1
     ]
   }, 
-  "enable": {
+  "enabl": {
     "files": [
       "abcd"
     ], 
@@ -3695,7 +3643,7 @@
       1
     ]
   }, 
-  "encryption": {
+  "encrypt": {
     "files": [
       "cdf"
     ], 
@@ -3704,7 +3652,7 @@
       1
     ]
   }, 
-  "end": {
+  "end-to-end": {
     "files": [
       "cdf"
     ], 
@@ -3713,7 +3661,7 @@
       1
     ]
   }, 
-  "endorse": {
+  "endors": {
     "files": [
       "abc"
     ], 
@@ -3722,36 +3670,7 @@
       1
     ]
   }, 
-  "enforce": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "enforcement": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "engine": {
-    "files": [
-      "abcd", 
-      "cdf"
-    ], 
-    "total": 2, 
-    "value": [
-      1, 
-      1
-    ]
-  }, 
-  "engineer": {
+  "enforc": {
     "files": [
       "abcd"
     ], 
@@ -3760,21 +3679,25 @@
       3
     ]
   }, 
-  "enjoy": {
+  "engin": {
     "files": [
-      "abcd"
+      "abcd", 
+      "cdf"
     ], 
-    "total": 1, 
+    "total": 5, 
     "value": [
+      4, 
       1
     ]
   }, 
-  "enjoyable.\"(excerpts": {
+  "enjoy": {
     "files": [
+      "abcd", 
       "ere"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
+      1, 
       1
     ]
   }, 
@@ -3796,7 +3719,7 @@
       1
     ]
   }, 
-  "ensure": {
+  "ensur": {
     "files": [
       "abc"
     ], 
@@ -3805,7 +3728,7 @@
       1
     ]
   }, 
-  "entertaining": {
+  "entertain": {
     "files": [
       "abcd"
     ], 
@@ -3814,7 +3737,7 @@
       1
     ]
   }, 
-  "episode": {
+  "episod": {
     "files": [
       "ere"
     ], 
@@ -3832,7 +3755,7 @@
       1
     ]
   }, 
-  "erase": {
+  "eras": {
     "files": [
       "abcd"
     ], 
@@ -3850,7 +3773,7 @@
       1
     ]
   }, 
-  "essence": {
+  "essenc": {
     "files": [
       "cdf"
     ], 
@@ -3859,7 +3782,16 @@
       1
     ]
   }, 
-  "estimate": {
+  "estat": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "estim": {
     "files": [
       "abc"
     ], 
@@ -3890,7 +3822,7 @@
       2
     ]
   }, 
-  "every": {
+  "everybodi": {
     "files": [
       "abcd"
     ], 
@@ -3899,16 +3831,7 @@
       1
     ]
   }, 
-  "everybody": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "everyone": {
+  "everyon": {
     "files": [
       "abcd", 
       "ere", 
@@ -3925,12 +3848,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 3, 
+    "total": 4, 
     "value": [
-      3
+      4
     ]
   }, 
-  "exactly": {
+  "exactli": {
     "files": [
       "abcd"
     ], 
@@ -3939,7 +3862,7 @@
       1
     ]
   }, 
-  "exaggerated": {
+  "exagger": {
     "files": [
       "abcd"
     ], 
@@ -3948,7 +3871,7 @@
       1
     ]
   }, 
-  "example": {
+  "exampl": {
     "files": [
       "abc"
     ], 
@@ -3966,7 +3889,16 @@
       1
     ]
   }, 
-  "exchange": {
+  "excerpt": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "exchang": {
     "files": [
       "abcd"
     ], 
@@ -3975,7 +3907,7 @@
       1
     ]
   }, 
-  "executive": {
+  "execut": {
     "files": [
       "cdf"
     ], 
@@ -3993,7 +3925,7 @@
       1
     ]
   }, 
-  "existence": {
+  "exist": {
     "files": [
       "abcd", 
       "ere"
@@ -4004,7 +3936,7 @@
       1
     ]
   }, 
-  "experience": {
+  "experi": {
     "files": [
       "cdf"
     ], 
@@ -4022,7 +3954,7 @@
       1
     ]
   }, 
-  "extension": {
+  "extens": {
     "files": [
       "abcd"
     ], 
@@ -4040,7 +3972,7 @@
       1
     ]
   }, 
-  "extremely": {
+  "extrem": {
     "files": [
       "abcd"
     ], 
@@ -4071,18 +4003,9 @@
     "files": [
       "cdf"
     ], 
-    "total": 2, 
+    "total": 4, 
     "value": [
-      2
-    ]
-  }, 
-  "facebooks": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 2, 
-    "value": [
-      2
+      4
     ]
   }, 
   "fact": {
@@ -4114,16 +4037,7 @@
       1
     ]
   }, 
-  "fall": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "family": {
+  "famili": {
     "files": [
       "ere"
     ], 
@@ -4132,7 +4046,7 @@
       4
     ]
   }, 
-  "fantasy": {
+  "fantasi": {
     "files": [
       "ere"
     ], 
@@ -4159,7 +4073,7 @@
       1
     ]
   }, 
-  "favorite": {
+  "favorit": {
     "files": [
       "ere"
     ], 
@@ -4177,7 +4091,16 @@
       1
     ]
   }, 
-  "feature": {
+  "fck": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "featur": {
     "files": [
       "abc"
     ], 
@@ -4204,6 +4127,24 @@
       1
     ]
   }, 
+  "feet": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "fell": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "few": {
     "files": [
       "abcd", 
@@ -4215,7 +4156,16 @@
       2
     ]
   }, 
-  "figure": {
+  "fight": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "figur": {
     "files": [
       "ere"
     ], 
@@ -4235,15 +4185,6 @@
       1
     ]
   }, 
-  "filing": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
   "fill": {
     "files": [
       "ere"
@@ -4257,21 +4198,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "finalize": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "finance": {
+  "financ": {
     "files": [
       "abcd"
     ], 
@@ -4283,23 +4215,12 @@
   "find": {
     "files": [
       "abcd", 
-      "ere", 
       "abc"
     ], 
-    "total": 14, 
+    "total": 11, 
     "value": [
       7, 
-      1, 
-      6
-    ]
-  }, 
-  "finding": {
-    "files": [
-      "abc"
-    ], 
-    "total": 2, 
-    "value": [
-      2
+      4
     ]
   }, 
   "finger": {
@@ -4324,12 +4245,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
+      3
     ]
   }, 
-  "firefoxos": {
+  "firefoxo": {
     "files": [
       "abcd"
     ], 
@@ -4349,7 +4270,7 @@
       1
     ]
   }, 
-  "fishy": {
+  "fishi": {
     "files": [
       "abcd"
     ], 
@@ -4396,7 +4317,7 @@
       1
     ]
   }, 
-  "focus": {
+  "focu": {
     "files": [
       "ere"
     ], 
@@ -4414,16 +4335,7 @@
       1
     ]
   }, 
-  "foot": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "force": {
+  "forc": {
     "files": [
       "abcd", 
       "cdf"
@@ -4452,7 +4364,7 @@
       3
     ]
   }, 
-  "fortune": {
+  "fortun": {
     "files": [
       "abcd"
     ], 
@@ -4461,7 +4373,18 @@
       1
     ]
   }, 
-  "foundation": {
+  "found": {
+    "files": [
+      "ere", 
+      "abc"
+    ], 
+    "total": 5, 
+    "value": [
+      1, 
+      4
+    ]
+  }, 
+  "foundat": {
     "files": [
       "abcd", 
       "cdf"
@@ -4469,15 +4392,6 @@
     "total": 2, 
     "value": [
       1, 
-      1
-    ]
-  }, 
-  "founder": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
       1
     ]
   }, 
@@ -4499,7 +4413,7 @@
       1
     ]
   }, 
-  "frankly": {
+  "frankli": {
     "files": [
       "abcd"
     ], 
@@ -4599,18 +4513,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 4, 
     "value": [
-      1
-    ]
-  }, 
-  "fucking": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
+      4
     ]
   }, 
   "full": {
@@ -4649,7 +4554,7 @@
       1
     ]
   }, 
-  "future": {
+  "futur": {
     "files": [
       "abcd", 
       "abc"
@@ -4657,6 +4562,15 @@
     "total": 2, 
     "value": [
       1, 
+      1
+    ]
+  }, 
+  "g": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
       1
     ]
   }, 
@@ -4689,22 +4603,26 @@
       1
     ]
   }, 
-  "general": {
+  "gave": {
     "files": [
-      "abc"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "generate": {
-    "files": [
-      "abcd"
+      "abcd", 
+      "ere"
     ], 
     "total": 2, 
     "value": [
-      2
+      1, 
+      1
+    ]
+  }, 
+  "gener": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
     ]
   }, 
   "get": {
@@ -4714,15 +4632,15 @@
       "cdf", 
       "abc"
     ], 
-    "total": 18, 
+    "total": 17, 
     "value": [
       11, 
-      2, 
+      1, 
       3, 
       2
     ]
   }, 
-  "ghosterys": {
+  "ghosteri": {
     "files": [
       "cdf"
     ], 
@@ -4749,23 +4667,12 @@
       2
     ]
   }, 
-  "girlfriend": {
+  "give": {
     "files": [
-      "ere"
+      "abcd"
     ], 
     "total": 1, 
     "value": [
-      1
-    ]
-  }, 
-  "give": {
-    "files": [
-      "abcd", 
-      "ere"
-    ], 
-    "total": 3, 
-    "value": [
-      2, 
       1
     ]
   }, 
@@ -4778,7 +4685,16 @@
       1
     ]
   }, 
-  "glimpse": {
+  "glencor": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "glimps": {
     "files": [
       "ere"
     ], 
@@ -4808,25 +4724,30 @@
   "go": {
     "files": [
       "abcd", 
-      "ere", 
       "cdf"
     ], 
-    "total": 8, 
+    "total": 4, 
     "value": [
-      6, 
-      1, 
+      3, 
       1
     ]
   }, 
   "god": {
     "files": [
-      "abcd", 
-      "ere"
+      "abcd"
     ], 
-    "total": 3, 
+    "total": 1, 
     "value": [
-      1, 
-      2
+      1
+    ]
+  }, 
+  "gone": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "good": {
@@ -4840,7 +4761,7 @@
       1
     ]
   }, 
-  "goodwill": {
+  "goodwil": {
     "files": [
       "abcd"
     ], 
@@ -4858,38 +4779,29 @@
       1
     ]
   }, 
-  "google": {
+  "googl": {
     "files": [
       "abcd", 
       "cdf"
     ], 
-    "total": 15, 
+    "total": 75, 
     "value": [
-      1, 
+      61, 
       14
     ]
   }, 
-  "google.": {
+  "gooooooooogl": {
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
     ]
   }, 
-  "googles": {
+  "got": {
     "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "gooooooooogle": {
-    "files": [
-      "abcd"
+      "ere"
     ], 
     "total": 1, 
     "value": [
@@ -4898,19 +4810,12 @@
   }, 
   "govern": {
     "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "government": {
-    "files": [
+      "cdf", 
       "abc"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
+      1, 
       1
     ]
   }, 
@@ -4923,16 +4828,7 @@
       2
     ]
   }, 
-  "grade": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "gradually": {
+  "gradual": {
     "files": [
       "abcd"
     ], 
@@ -4941,7 +4837,7 @@
       1
     ]
   }, 
-  "graduate": {
+  "graduat": {
     "files": [
       "ere"
     ], 
@@ -4972,7 +4868,7 @@
       1
     ]
   }, 
-  "grillbrutal": {
+  "grillbrut": {
     "files": [
       "ere"
     ], 
@@ -5053,6 +4949,19 @@
       1
     ]
   }, 
+  "ha": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 9, 
+    "value": [
+      6, 
+      2, 
+      1
+    ]
+  }, 
   "hack": {
     "files": [
       "abc"
@@ -5062,7 +4971,31 @@
       1
     ]
   }, 
-  "hackable": {
+  "hackabl": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "had": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 13, 
+    "value": [
+      2, 
+      7, 
+      1, 
+      3
+    ]
+  }, 
+  "hadnt": {
     "files": [
       "abcd"
     ], 
@@ -5073,16 +5006,14 @@
   }, 
   "half": {
     "files": [
-      "ere", 
-      "abc"
+      "ere"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      1, 
       1
     ]
   }, 
-  "hampshire": {
+  "hampshir": {
     "files": [
       "ere"
     ], 
@@ -5109,7 +5040,7 @@
       1
     ]
   }, 
-  "handle": {
+  "handl": {
     "files": [
       "abc"
     ], 
@@ -5140,12 +5071,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "hardware": {
+  "hardwar": {
     "files": [
       "abcd"
     ], 
@@ -5181,6 +5112,15 @@
       1
     ]
   }, 
+  "hasnt": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "hatch": {
     "files": [
       "ere"
@@ -5195,10 +5135,10 @@
       "abcd", 
       "ere"
     ], 
-    "total": 3, 
+    "total": 4, 
     "value": [
       2, 
-      1
+      2
     ]
   }, 
   "have": {
@@ -5208,24 +5148,20 @@
       "cdf", 
       "abc"
     ], 
-    "total": 65, 
+    "total": 31, 
     "value": [
-      43, 
-      12, 
-      5, 
-      5
+      22, 
+      4, 
+      3, 
+      2
     ]
   }, 
-  "he": {
+  "havent": {
     "files": [
-      "ere", 
-      "cdf", 
-      "abc"
+      "abcd"
     ], 
-    "total": 33, 
+    "total": 1, 
     "value": [
-      31, 
-      1, 
       1
     ]
   }, 
@@ -5247,7 +5183,7 @@
       10
     ]
   }, 
-  "hear": {
+  "heard": {
     "files": [
       "ere"
     ], 
@@ -5256,7 +5192,7 @@
       1
     ]
   }, 
-  "heavily": {
+  "heavili": {
     "files": [
       "abcd"
     ], 
@@ -5274,7 +5210,7 @@
       1
     ]
   }, 
-  "helicopter": {
+  "helicopt": {
     "files": [
       "ere"
     ], 
@@ -5294,15 +5230,6 @@
       1
     ]
   }, 
-  "her": {
-    "files": [
-      "ere"
-    ], 
-    "total": 7, 
-    "value": [
-      7
-    ]
-  }, 
   "here": {
     "files": [
       "abcd", 
@@ -5314,18 +5241,36 @@
       1
     ]
   }, 
+  "hey": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "high": {
     "files": [
       "abcd", 
       "ere"
     ], 
-    "total": 4, 
+    "total": 5, 
     "value": [
-      2, 
-      2
+      1, 
+      4
     ]
   }, 
-  "hillary": {
+  "high-level": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "hillari": {
     "files": [
       "cdf"
     ], 
@@ -5334,22 +5279,31 @@
       1
     ]
   }, 
-  "him": {
+  "him.a": {
     "files": [
       "ere"
     ], 
-    "total": 4, 
+    "total": 1, 
     "value": [
-      4
+      1
     ]
   }, 
-  "himself": {
+  "him.hi": {
     "files": [
       "ere"
     ], 
-    "total": 3, 
+    "total": 1, 
     "value": [
-      3
+      1
+    ]
+  }, 
+  "himself.suddenli": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "hinder": {
@@ -5379,14 +5333,12 @@
       1
     ]
   }, 
-  "his": {
+  "hmmm..": {
     "files": [
-      "ere", 
-      "abc"
+      "ere"
     ], 
-    "total": 30, 
+    "total": 1, 
     "value": [
-      29, 
       1
     ]
   }, 
@@ -5399,7 +5351,7 @@
       1
     ]
   }, 
-  "homecollectionschilling": {
+  "homecollectionschil": {
     "files": [
       "ere"
     ], 
@@ -5421,18 +5373,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
-    ]
-  }, 
-  "hopefully": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      2
     ]
   }, 
   "horror": {
@@ -5448,9 +5391,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
+      3
     ]
   }, 
   "hour": {
@@ -5464,18 +5407,7 @@
       1
     ]
   }, 
-  "how": {
-    "files": [
-      "abcd", 
-      "abc"
-    ], 
-    "total": 8, 
-    "value": [
-      7, 
-      1
-    ]
-  }, 
-  "however": {
+  "howev": {
     "files": [
       "abcd", 
       "cdf", 
@@ -5501,12 +5433,23 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "huckvale": {
+  "http": {
+    "files": [
+      "abcd", 
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      1, 
+      2
+    ]
+  }, 
+  "huckval": {
     "files": [
       "abc"
     ], 
@@ -5524,7 +5467,7 @@
       1
     ]
   }, 
-  "humble": {
+  "humbl": {
     "files": [
       "abcd"
     ], 
@@ -5542,9 +5485,29 @@
       1
     ]
   }, 
-  "husband": {
+  "husband-and-wif": {
     "files": [
       "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "i": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 52, 
+    "value": [
+      40, 
+      12
+    ]
+  }, 
+  "i.e": {
+    "files": [
+      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -5560,7 +5523,16 @@
       4
     ]
   }, 
-  "identify": {
+  "ident": {
+    "files": [
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "identifi": {
     "files": [
       "ere", 
       "abc"
@@ -5571,16 +5543,7 @@
       1
     ]
   }, 
-  "identity": {
-    "files": [
-      "abc"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "ignore": {
+  "ignor": {
     "files": [
       "abcd", 
       "ere"
@@ -5600,7 +5563,7 @@
       5
     ]
   }, 
-  "illegal": {
+  "illeg": {
     "files": [
       "abcd"
     ], 
@@ -5609,7 +5572,16 @@
       4
     ]
   }, 
-  "image": {
+  "im": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "imag": {
     "files": [
       "abcd"
     ], 
@@ -5618,7 +5590,7 @@
       1
     ]
   }, 
-  "imperial": {
+  "imperi": {
     "files": [
       "abc"
     ], 
@@ -5627,7 +5599,7 @@
       1
     ]
   }, 
-  "important": {
+  "import": {
     "files": [
       "abcd"
     ], 
@@ -5636,18 +5608,9 @@
       2
     ]
   }, 
-  "improve": {
+  "improv": {
     "files": [
       "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "in-the-middle": {
-    "files": [
-      "abc"
     ], 
     "total": 1, 
     "value": [
@@ -5672,7 +5635,7 @@
       1
     ]
   }, 
-  "include": {
+  "includ": {
     "files": [
       "ere", 
       "cdf"
@@ -5683,7 +5646,7 @@
       1
     ]
   }, 
-  "inclusion": {
+  "inclus": {
     "files": [
       "abcd"
     ], 
@@ -5692,7 +5655,7 @@
       1
     ]
   }, 
-  "income": {
+  "incom": {
     "files": [
       "abcd"
     ], 
@@ -5701,7 +5664,7 @@
       3
     ]
   }, 
-  "increase": {
+  "increas": {
     "files": [
       "abcd"
     ], 
@@ -5719,7 +5682,7 @@
       1
     ]
   }, 
-  "independent": {
+  "independ": {
     "files": [
       "abcd"
     ], 
@@ -5728,7 +5691,7 @@
       1
     ]
   }, 
-  "industry": {
+  "industri": {
     "files": [
       "cdf"
     ], 
@@ -5737,7 +5700,7 @@
       1
     ]
   }, 
-  "information": {
+  "inform": {
     "files": [
       "cdf", 
       "abc"
@@ -5748,7 +5711,7 @@
       3
     ]
   }, 
-  "infrastructure": {
+  "infrastructur": {
     "files": [
       "abcd"
     ], 
@@ -5757,7 +5720,7 @@
       2
     ]
   }, 
-  "initial": {
+  "initi": {
     "files": [
       "abcd"
     ], 
@@ -5766,7 +5729,7 @@
       1
     ]
   }, 
-  "insecure": {
+  "insecur": {
     "files": [
       "abcd"
     ], 
@@ -5775,7 +5738,7 @@
       1
     ]
   }, 
-  "inside": {
+  "inside.h": {
     "files": [
       "ere"
     ], 
@@ -5788,30 +5751,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 6, 
+    "total": 19, 
     "value": [
-      6
+      19
     ]
   }, 
-  "install": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 10, 
-    "value": [
-      10
-    ]
-  }, 
-  "installation": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 3, 
-    "value": [
-      3
-    ]
-  }, 
-  "instance": {
+  "instanc": {
     "files": [
       "cdf"
     ], 
@@ -5829,7 +5774,7 @@
       1
     ]
   }, 
-  "institute": {
+  "institut": {
     "files": [
       "ere"
     ], 
@@ -5838,7 +5783,7 @@
       1
     ]
   }, 
-  "integrity": {
+  "integr": {
     "files": [
       "abcd"
     ], 
@@ -5847,7 +5792,7 @@
       1
     ]
   }, 
-  "intenciones": {
+  "intencion": {
     "files": [
       "abcd"
     ], 
@@ -5856,7 +5801,7 @@
       1
     ]
   }, 
-  "intention": {
+  "intent": {
     "files": [
       "abcd"
     ], 
@@ -5865,7 +5810,7 @@
       1
     ]
   }, 
-  "interested": {
+  "interest": {
     "files": [
       "abcd"
     ], 
@@ -5874,44 +5819,31 @@
       1
     ]
   }, 
-  "interfere": {
+  "interfer": {
     "files": [
       "abcd", 
       "cdf"
     ], 
-    "total": 7, 
+    "total": 10, 
     "value": [
-      4, 
-      3
-    ]
-  }, 
-  "interference": {
-    "files": [
-      "abcd", 
-      "cdf"
-    ], 
-    "total": 3, 
-    "value": [
-      2, 
-      1
+      6, 
+      4
     ]
   }, 
   "internet": {
     "files": [
       "abcd", 
-      "ere", 
       "abc"
     ], 
     "total": 19, 
     "value": [
-      14, 
-      1, 
+      15, 
       4
     ]
   }, 
-  "internet.": {
+  "internet.youen": {
     "files": [
-      "abcd"
+      "ere"
     ], 
     "total": 1, 
     "value": [
@@ -5927,7 +5859,7 @@
       1
     ]
   }, 
-  "inversion": {
+  "invers": {
     "files": [
       "cdf"
     ], 
@@ -5936,7 +5868,7 @@
       1
     ]
   }, 
-  "investigate": {
+  "investig": {
     "files": [
       "abc"
     ], 
@@ -5945,7 +5877,7 @@
       1
     ]
   }, 
-  "invisible": {
+  "invis": {
     "files": [
       "abcd"
     ], 
@@ -5954,7 +5886,7 @@
       1
     ]
   }, 
-  "iphone": {
+  "iphon": {
     "files": [
       "abcd", 
       "cdf"
@@ -5965,7 +5897,7 @@
       1
     ]
   }, 
-  "iremos": {
+  "iremo": {
     "files": [
       "abcd"
     ], 
@@ -5974,7 +5906,7 @@
       1
     ]
   }, 
-  "ironic": {
+  "iron": {
     "files": [
       "abcd"
     ], 
@@ -5983,7 +5915,40 @@
       1
     ]
   }, 
-  "issue": {
+  "is": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 55, 
+    "value": [
+      45, 
+      2, 
+      7, 
+      1
+    ]
+  }, 
+  "islam": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "isnt": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "issu": {
     "files": [
       "abcd", 
       "abc"
@@ -5992,21 +5957,6 @@
     "value": [
       7, 
       1
-    ]
-  }, 
-  "it": {
-    "files": [
-      "abcd", 
-      "ere", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 67, 
-    "value": [
-      52, 
-      5, 
-      7, 
-      3
     ]
   }, 
   "it/them": {
@@ -6018,17 +5968,13 @@
       1
     ]
   }, 
-  "its": {
+  "ive": {
     "files": [
-      "abcd", 
-      "cdf", 
-      "abc"
+      "abcd"
     ], 
-    "total": 27, 
+    "total": 8, 
     "value": [
-      18, 
-      8, 
-      1
+      8
     ]
   }, 
   "ixquick": {
@@ -6047,6 +5993,15 @@
     "total": 2, 
     "value": [
       2
+    ]
+  }, 
+  "japan": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "jar": {
@@ -6076,7 +6031,7 @@
       1
     ]
   }, 
-  "jelly": {
+  "jelli": {
     "files": [
       "abcd"
     ], 
@@ -6085,7 +6040,7 @@
       1
     ]
   }, 
-  "jeopardize": {
+  "jeopard": {
     "files": [
       "abcd"
     ], 
@@ -6094,7 +6049,7 @@
       1
     ]
   }, 
-  "jeremy": {
+  "jeremi": {
     "files": [
       "abc"
     ], 
@@ -6103,7 +6058,7 @@
       1
     ]
   }, 
-  "jesus": {
+  "jesu": {
     "files": [
       "abcd"
     ], 
@@ -6123,7 +6078,16 @@
       1
     ]
   }, 
-  "jones": {
+  "johann": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "jone": {
     "files": [
       "cdf"
     ], 
@@ -6163,12 +6127,21 @@
   }, 
   "keep": {
     "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "kept": {
+    "files": [
       "abcd", 
       "ere"
     ], 
-    "total": 5, 
+    "total": 2, 
     "value": [
-      4, 
+      1, 
       1
     ]
   }, 
@@ -6228,17 +6201,37 @@
       1
     ]
   }, 
+  "knew": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "know": {
     "files": [
       "abcd", 
       "ere", 
-      "cdf", 
+      "cdf"
+    ], 
+    "total": 8, 
+    "value": [
+      6, 
+      1, 
+      1
+    ]
+  }, 
+  "known": {
+    "files": [
+      "abcd", 
+      "ere", 
       "abc"
     ], 
-    "total": 13, 
+    "total": 4, 
     "value": [
-      7, 
-      3, 
+      1, 
       1, 
       2
     ]
@@ -6267,25 +6260,16 @@
       "ere", 
       "abc"
     ], 
-    "total": 3, 
+    "total": 4, 
     "value": [
       1, 
-      1, 
+      2, 
       1
     ]
   }, 
   "lat": {
     "files": [
       "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "late": {
-    "files": [
-      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -6301,7 +6285,16 @@
       2
     ]
   }, 
-  "latimes": {
+  "latest": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "latim": {
     "files": [
       "ere"
     ], 
@@ -6330,13 +6323,11 @@
   }, 
   "lead": {
     "files": [
-      "ere", 
       "cdf", 
       "abc"
     ], 
-    "total": 3, 
+    "total": 2, 
     "value": [
-      1, 
       1, 
       1
     ]
@@ -6368,7 +6359,7 @@
       1
     ]
   }, 
-  "leave": {
+  "leav": {
     "files": [
       "abcd"
     ], 
@@ -6379,10 +6370,12 @@
   }, 
   "led": {
     "files": [
+      "ere", 
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
+      1, 
       1
     ]
   }, 
@@ -6409,9 +6402,9 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      1, 
+      2, 
       1
     ]
   }, 
@@ -6424,15 +6417,6 @@
       3
     ]
   }, 
-  "level": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
   "liam": {
     "files": [
       "ere"
@@ -6442,7 +6426,7 @@
       2
     ]
   }, 
-  "library": {
+  "librari": {
     "files": [
       "abc"
     ], 
@@ -6455,9 +6439,18 @@
     "files": [
       "ere"
     ], 
-    "total": 3, 
+    "total": 2, 
     "value": [
-      3
+      2
+    ]
+  }, 
+  "life.decemb": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "light": {
@@ -6469,34 +6462,16 @@
       1
     ]
   }, 
-  "like": {
-    "files": [
-      "abcd", 
-      "cdf"
-    ], 
-    "total": 3, 
-    "value": [
-      2, 
-      1
-    ]
-  }, 
   "limit": {
     "files": [
       "abcd", 
-      "cdf"
-    ], 
-    "total": 2, 
-    "value": [
-      1, 
-      1
-    ]
-  }, 
-  "limited": {
-    "files": [
+      "cdf", 
       "abc"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
+      1, 
+      1, 
       1
     ]
   }, 
@@ -6520,7 +6495,16 @@
       1
     ]
   }, 
-  "little": {
+  "listen": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "littl": {
     "files": [
       "abcd", 
       "ere"
@@ -6537,6 +6521,17 @@
     ], 
     "total": 1, 
     "value": [
+      1
+    ]
+  }, 
+  "lo": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
       1
     ]
   }, 
@@ -6558,7 +6553,7 @@
       1
     ]
   }, 
-  "location": {
+  "locat": {
     "files": [
       "abcd"
     ], 
@@ -6596,7 +6591,7 @@
       1
     ]
   }, 
-  "loneliness": {
+  "loneli": {
     "files": [
       "ere"
     ], 
@@ -6618,9 +6613,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 4, 
     "value": [
-      2
+      4
     ]
   }, 
   "longer": {
@@ -6643,23 +6638,12 @@
       1
     ]
   }, 
-  "loose": {
+  "loos": {
     "files": [
       "abcd"
     ], 
     "total": 1, 
     "value": [
-      1
-    ]
-  }, 
-  "los": {
-    "files": [
-      "abcd", 
-      "ere"
-    ], 
-    "total": 2, 
-    "value": [
-      1, 
       1
     ]
   }, 
@@ -6704,13 +6688,13 @@
       "abcd", 
       "ere"
     ], 
-    "total": 3, 
+    "total": 5, 
     "value": [
       2, 
-      1
+      3
     ]
   }, 
-  "low": {
+  "lower": {
     "files": [
       "abcd"
     ], 
@@ -6746,7 +6730,7 @@
       1
     ]
   }, 
-  "lyfts": {
+  "lyft": {
     "files": [
       "cdf"
     ], 
@@ -6755,7 +6739,18 @@
       1
     ]
   }, 
-  "magazine": {
+  "made": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 4, 
+    "value": [
+      3, 
+      1
+    ]
+  }, 
+  "magazin": {
     "files": [
       "ere"
     ], 
@@ -6781,11 +6776,11 @@
       "ere", 
       "cdf"
     ], 
-    "total": 22, 
+    "total": 20, 
     "value": [
-      19, 
-      2, 
-      1
+      16, 
+      1, 
+      3
     ]
   }, 
   "maker": {
@@ -6797,7 +6792,7 @@
       1
     ]
   }, 
-  "malicious": {
+  "malici": {
     "files": [
       "abcd"
     ], 
@@ -6806,7 +6801,7 @@
       2
     ]
   }, 
-  "man": {
+  "man-in-the-middl": {
     "files": [
       "abc"
     ], 
@@ -6815,7 +6810,16 @@
       1
     ]
   }, 
-  "manage": {
+  "manag": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "management/sal": {
     "files": [
       "abcd"
     ], 
@@ -6824,32 +6828,14 @@
       1
     ]
   }, 
-  "management": {
+  "mani": {
     "files": [
       "abcd", 
       "ere"
     ], 
-    "total": 2, 
+    "total": 5, 
     "value": [
-      1, 
-      1
-    ]
-  }, 
-  "management/sale": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "manager": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
+      4, 
       1
     ]
   }, 
@@ -6866,29 +6852,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
-    ]
-  }, 
-  "manually": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "many": {
-    "files": [
-      "abcd", 
-      "ere"
-    ], 
-    "total": 5, 
-    "value": [
-      4, 
-      1
+      2
     ]
   }, 
   "march": {
@@ -6906,21 +6872,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      2
+      3
     ]
   }, 
-  "marketing": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "marketplace": {
+  "marketplac": {
     "files": [
       "abcd", 
       "abc"
@@ -6931,7 +6888,7 @@
       1
     ]
   }, 
-  "marvell": {
+  "marvel": {
     "files": [
       "cdf"
     ], 
@@ -6940,7 +6897,7 @@
       1
     ]
   }, 
-  "material": {
+  "materi": {
     "files": [
       "cdf"
     ], 
@@ -6958,17 +6915,6 @@
       2
     ]
   }, 
-  "may": {
-    "files": [
-      "abcd", 
-      "abc"
-    ], 
-    "total": 5, 
-    "value": [
-      4, 
-      1
-    ]
-  }, 
   "md5": {
     "files": [
       "abcd"
@@ -6978,27 +6924,27 @@
       1
     ]
   }, 
-  "me": {
-    "files": [
-      "abcd", 
-      "ere"
-    ], 
-    "total": 14, 
-    "value": [
-      12, 
-      2
-    ]
-  }, 
   "mean": {
     "files": [
       "abcd"
     ], 
-    "total": 8, 
+    "total": 9, 
     "value": [
-      8
+      9
     ]
   }, 
-  "medical": {
+  "media": {
+    "files": [
+      "cdf", 
+      "abc"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
+  "medic": {
     "files": [
       "abc"
     ], 
@@ -7007,23 +6953,12 @@
       6
     ]
   }, 
-  "medicine": {
+  "medicin": {
     "files": [
       "abc"
     ], 
     "total": 1, 
     "value": [
-      1
-    ]
-  }, 
-  "medium": {
-    "files": [
-      "cdf", 
-      "abc"
-    ], 
-    "total": 2, 
-    "value": [
-      1, 
       1
     ]
   }, 
@@ -7045,7 +6980,7 @@
       1
     ]
   }, 
-  "message": {
+  "messag": {
     "files": [
       "abcd", 
       "cdf"
@@ -7056,7 +6991,7 @@
       1
     ]
   }, 
-  "messenger": {
+  "messeng": {
     "files": [
       "cdf"
     ], 
@@ -7090,9 +7025,9 @@
       "abcd", 
       "ere"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      1, 
+      2, 
       1
     ]
   }, 
@@ -7100,23 +7035,14 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "minimise": {
+  "minimis": {
     "files": [
       "abc"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "mining": {
-    "files": [
-      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -7127,9 +7053,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
+      3
     ]
   }, 
   "mischief": {
@@ -7150,16 +7076,16 @@
       1
     ]
   }, 
-  "mobile": {
+  "mobil": {
     "files": [
       "abcd", 
       "cdf", 
       "abc"
     ], 
-    "total": 5, 
+    "total": 8, 
     "value": [
-      1, 
-      3, 
+      2, 
+      5, 
       1
     ]
   }, 
@@ -7172,7 +7098,7 @@
       1
     ]
   }, 
-  "modify": {
+  "modifi": {
     "files": [
       "abc"
     ], 
@@ -7181,7 +7107,7 @@
       1
     ]
   }, 
-  "monetize": {
+  "monet": {
     "files": [
       "abcd"
     ], 
@@ -7194,9 +7120,18 @@
     "files": [
       "abcd"
     ], 
-    "total": 9, 
+    "total": 8, 
     "value": [
-      9
+      8
+    ]
+  }, 
+  "money-suck": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "monitor": {
@@ -7223,11 +7158,11 @@
       "cdf", 
       "abc"
     ], 
-    "total": 7, 
+    "total": 6, 
     "value": [
       1, 
       1, 
-      5
+      4
     ]
   }, 
   "moral": {
@@ -7246,24 +7181,15 @@
       "cdf", 
       "abc"
     ], 
-    "total": 4, 
+    "total": 6, 
     "value": [
-      1, 
-      1, 
+      2, 
+      2, 
       1, 
       1
     ]
   }, 
-  "more:seizure": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "morning": {
+  "morn": {
     "files": [
       "abcd"
     ], 
@@ -7285,12 +7211,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "mostly": {
+  "mostli": {
     "files": [
       "ere"
     ], 
@@ -7308,7 +7234,7 @@
       9
     ]
   }, 
-  "motherf*ckers.": {
+  "motherfck": {
     "files": [
       "abcd"
     ], 
@@ -7330,12 +7256,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 3, 
+    "total": 4, 
     "value": [
-      3
+      4
     ]
   }, 
-  "multiple": {
+  "multipl": {
     "files": [
       "cdf"
     ], 
@@ -7353,27 +7279,25 @@
       1
     ]
   }, 
-  "must": {
+  "n.h.": {
     "files": [
-      "abcd"
+      "ere"
     ], 
     "total": 1, 
     "value": [
       1
     ]
   }, 
-  "my": {
+  "n.y.": {
     "files": [
-      "abcd", 
       "ere"
     ], 
-    "total": 27, 
+    "total": 1, 
     "value": [
-      21, 
-      6
+      1
     ]
   }, 
-  "myself": {
+  "na": {
     "files": [
       "abcd"
     ], 
@@ -7402,23 +7326,18 @@
   }, 
   "nation": {
     "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "national": {
-    "files": [
+      "abcd", 
+      "cdf", 
       "abc"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
+      1, 
+      1, 
       1
     ]
   }, 
-  "nearly": {
+  "nearli": {
     "files": [
       "abcd"
     ], 
@@ -7427,7 +7346,7 @@
       1
     ]
   }, 
-  "necessary": {
+  "necessari": {
     "files": [
       "abcd"
     ], 
@@ -7447,7 +7366,7 @@
       1
     ]
   }, 
-  "negative": {
+  "neg": {
     "files": [
       "abcd"
     ], 
@@ -7471,9 +7390,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "network": {
@@ -7513,11 +7432,20 @@
       "ere", 
       "cdf"
     ], 
-    "total": 7, 
+    "total": 6, 
     "value": [
-      3, 
+      2, 
       1, 
       3
+    ]
+  }, 
+  "newest": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "news": {
@@ -7539,14 +7467,14 @@
       "ere", 
       "abc"
     ], 
-    "total": 7, 
+    "total": 9, 
     "value": [
-      4, 
-      1, 
+      5, 
+      2, 
       2
     ]
   }, 
-  "nexus": {
+  "nexu": {
     "files": [
       "abcd"
     ], 
@@ -7559,18 +7487,18 @@
     "files": [
       "abc"
     ], 
-    "total": 11, 
+    "total": 10, 
     "value": [
-      11
+      10
     ]
   }, 
-  "nhs.": {
+  "nhs-accredit": {
     "files": [
       "abc"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "nice": {
@@ -7600,7 +7528,7 @@
       4
     ]
   }, 
-  "nobody": {
+  "nobodi": {
     "files": [
       "ere"
     ], 
@@ -7609,18 +7537,25 @@
       1
     ]
   }, 
-  "non": {
+  "non-approv": {
     "files": [
-      "abcd", 
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "non-commerci": {
+    "files": [
       "cdf"
     ], 
-    "total": 3, 
+    "total": 2, 
     "value": [
-      1, 
       2
     ]
   }, 
-  "noncustomers": {
+  "non-person": {
     "files": [
       "cdf"
     ], 
@@ -7629,7 +7564,16 @@
       1
     ]
   }, 
-  "normally": {
+  "noncustom": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "normal": {
     "files": [
       "abcd"
     ], 
@@ -7645,11 +7589,11 @@
       "cdf", 
       "abc"
     ], 
-    "total": 67, 
+    "total": 27, 
     "value": [
-      49, 
-      9, 
-      8, 
+      19, 
+      4, 
+      3, 
       1
     ]
   }, 
@@ -7662,7 +7606,7 @@
       1
     ]
   }, 
-  "nothing": {
+  "noth": {
     "files": [
       "abcd"
     ], 
@@ -7671,7 +7615,7 @@
       2
     ]
   }, 
-  "notice": {
+  "notic": {
     "files": [
       "abcd"
     ], 
@@ -7680,7 +7624,7 @@
       1
     ]
   }, 
-  "notification": {
+  "notif": {
     "files": [
       "cdf"
     ], 
@@ -7698,7 +7642,7 @@
       1
     ]
   }, 
-  "november": {
+  "novemb": {
     "files": [
       "ere"
     ], 
@@ -7718,13 +7662,22 @@
       1
     ]
   }, 
-  "nowhere": {
+  "nowher": {
     "files": [
       "abcd"
     ], 
     "total": 1, 
     "value": [
       1
+    ]
+  }, 
+  "nt": {
+    "files": [
+      "ere"
+    ], 
+    "total": 5, 
+    "value": [
+      5
     ]
   }, 
   "number": {
@@ -7736,7 +7689,7 @@
       1
     ]
   }, 
-  "obligarnos": {
+  "o": {
     "files": [
       "abcd"
     ], 
@@ -7745,16 +7698,25 @@
       1
     ]
   }, 
-  "obsessive": {
+  "obligarno": {
     "files": [
-      "ere"
+      "abcd"
     ], 
     "total": 1, 
     "value": [
       1
     ]
   }, 
-  "obvious": {
+  "obsess": {
+    "files": [
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "obviou": {
     "files": [
       "abcd", 
       "ere"
@@ -7765,7 +7727,7 @@
       1
     ]
   }, 
-  "obviously": {
+  "obvious": {
     "files": [
       "abcd"
     ], 
@@ -7783,7 +7745,7 @@
       1
     ]
   }, 
-  "october": {
+  "octob": {
     "files": [
       "ere"
     ], 
@@ -7792,22 +7754,13 @@
       1
     ]
   }, 
-  "oculus": {
+  "oculu": {
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
-    ]
-  }, 
-  "of": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      2
     ]
   }, 
   "offer": {
@@ -7821,7 +7774,7 @@
       1
     ]
   }, 
-  "office": {
+  "offic": {
     "files": [
       "ere"
     ], 
@@ -7830,7 +7783,7 @@
       1
     ]
   }, 
-  "official": {
+  "offici": {
     "files": [
       "abcd"
     ], 
@@ -7848,6 +7801,17 @@
       1
     ]
   }, 
+  "oh": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 2, 
+    "value": [
+      1, 
+      1
+    ]
+  }, 
   "okay": {
     "files": [
       "abcd"
@@ -7857,27 +7821,31 @@
       1
     ]
   }, 
-  "old": {
-    "files": [
-      "ere"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
   "one": {
     "files": [
       "abcd", 
       "ere"
     ], 
-    "total": 5, 
+    "total": 3, 
     "value": [
-      3, 
+      2, 
+      1
+    ]
+  }, 
+  "onli": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf"
+    ], 
+    "total": 15, 
+    "value": [
+      12, 
+      1, 
       2
     ]
   }, 
-  "online": {
+  "onlin": {
     "files": [
       "abc"
     ], 
@@ -7886,47 +7854,16 @@
       1
     ]
   }, 
-  "online.com/open/news/item/android-s-code-signing-can-be-bypassed-1911409.html": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "only": {
-    "files": [
-      "abcd", 
-      "ere", 
-      "cdf"
-    ], 
-    "total": 10, 
-    "value": [
-      7, 
-      1, 
-      2
-    ]
-  }, 
   "open": {
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 8, 
     "value": [
-      1
+      8
     ]
   }, 
-  "openness": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "operate": {
+  "oper": {
     "files": [
       "cdf"
     ], 
@@ -7944,7 +7881,7 @@
       2
     ]
   }, 
-  "opportunity": {
+  "opportun": {
     "files": [
       "abc"
     ], 
@@ -7953,7 +7890,7 @@
       1
     ]
   }, 
-  "oppose": {
+  "oppos": {
     "files": [
       "abcd"
     ], 
@@ -7991,7 +7928,7 @@
       2
     ]
   }, 
-  "organisational": {
+  "organis": {
     "files": [
       "abc"
     ], 
@@ -8000,7 +7937,7 @@
       1
     ]
   }, 
-  "original": {
+  "origin": {
     "files": [
       "ere"
     ], 
@@ -8009,42 +7946,27 @@
       1
     ]
   }, 
+  "os": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
   "other": {
     "files": [
       "abcd", 
       "cdf"
     ], 
-    "total": 14, 
+    "total": 16, 
     "value": [
-      9, 
-      5
+      10, 
+      6
     ]
   }, 
-  "others": {
-    "files": [
-      "abcd", 
-      "cdf"
-    ], 
-    "total": 2, 
-    "value": [
-      1, 
-      1
-    ]
-  }, 
-  "our": {
-    "files": [
-      "abcd", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 17, 
-    "value": [
-      13, 
-      2, 
-      2
-    ]
-  }, 
-  "ourself": {
+  "overbear": {
     "files": [
       "abcd"
     ], 
@@ -8053,7 +7975,7 @@
       1
     ]
   }, 
-  "out": {
+  "overpla": {
     "files": [
       "abcd"
     ], 
@@ -8062,25 +7984,7 @@
       1
     ]
   }, 
-  "overbearing": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "overplaing": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "overpriced": {
+  "overpr": {
     "files": [
       "abcd"
     ], 
@@ -8102,6 +8006,15 @@
       1
     ]
   }, 
+  "p.m.": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "page": {
     "files": [
       "abcd", 
@@ -8110,6 +8023,26 @@
     "total": 3, 
     "value": [
       2, 
+      1
+    ]
+  }, 
+  "paid": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "paid-for": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
       1
     ]
   }, 
@@ -8140,7 +8073,18 @@
       1
     ]
   }, 
-  "participate": {
+  "parti": {
+    "files": [
+      "abcd", 
+      "abc"
+    ], 
+    "total": 5, 
+    "value": [
+      4, 
+      1
+    ]
+  }, 
+  "particip": {
     "files": [
       "abcd"
     ], 
@@ -8155,17 +8099,6 @@
     ], 
     "total": 1, 
     "value": [
-      1
-    ]
-  }, 
-  "party": {
-    "files": [
-      "abcd", 
-      "abc"
-    ], 
-    "total": 5, 
-    "value": [
-      4, 
       1
     ]
   }, 
@@ -8200,22 +8133,20 @@
   }, 
   "pay": {
     "files": [
-      "abcd", 
-      "ere"
+      "abcd"
     ], 
-    "total": 8, 
+    "total": 4, 
     "value": [
-      7, 
-      1
+      4
     ]
   }, 
   "pc": {
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
     ]
   }, 
   "pearl": {
@@ -8227,7 +8158,7 @@
       1
     ]
   }, 
-  "people": {
+  "peopl": {
     "files": [
       "abcd", 
       "ere", 
@@ -8249,7 +8180,7 @@
       1
     ]
   }, 
-  "perfectly": {
+  "perfectli": {
     "files": [
       "abcd"
     ], 
@@ -8287,7 +8218,7 @@
       1
     ]
   }, 
-  "permission": {
+  "permiss": {
     "files": [
       "cdf"
     ], 
@@ -8298,31 +8229,15 @@
   }, 
   "person": {
     "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "personal": {
-    "files": [
+      "abcd", 
       "cdf", 
       "abc"
     ], 
-    "total": 8, 
+    "total": 9, 
     "value": [
-      4, 
+      2, 
+      3, 
       4
-    ]
-  }, 
-  "personally": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
     ]
   }, 
   "peter": {
@@ -8334,7 +8249,7 @@
       1
     ]
   }, 
-  "pfizer": {
+  "pfizer-allergan": {
     "files": [
       "cdf"
     ], 
@@ -8390,7 +8305,7 @@
       2
     ]
   }, 
-  "picture.\"in": {
+  "pictur": {
     "files": [
       "ere"
     ], 
@@ -8408,7 +8323,7 @@
       1
     ]
   }, 
-  "piece": {
+  "piec": {
     "files": [
       "abcd"
     ], 
@@ -8421,18 +8336,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      2
-    ]
-  }, 
-  "pissed": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      3
     ]
   }, 
   "pizza": {
@@ -8462,7 +8368,7 @@
       3
     ]
   }, 
-  "planscrime": {
+  "planscrim": {
     "files": [
       "ere"
     ], 
@@ -8494,28 +8400,10 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 16, 
+    "total": 17, 
     "value": [
-      9, 
+      10, 
       7
-    ]
-  }, 
-  "play(due": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "playstore": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
     ]
   }, 
   "plea": {
@@ -8527,16 +8415,18 @@
       1
     ]
   }, 
-  "pleased": {
+  "pleas": {
     "files": [
-      "abcd"
+      "abcd", 
+      "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
+      1, 
       1
     ]
   }, 
-  "plenty": {
+  "plenti": {
     "files": [
       "abcd"
     ], 
@@ -8554,17 +8444,6 @@
       1
     ]
   }, 
-  "plus": {
-    "files": [
-      "abcd", 
-      "cdf"
-    ], 
-    "total": 9, 
-    "value": [
-      8, 
-      1
-    ]
-  }, 
   "pocket": {
     "files": [
       "cdf"
@@ -8578,9 +8457,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "point": {
@@ -8594,7 +8473,7 @@
       1
     ]
   }, 
-  "police": {
+  "polic": {
     "files": [
       "ere"
     ], 
@@ -8603,7 +8482,7 @@
       7
     ]
   }, 
-  "policy": {
+  "polici": {
     "files": [
       "abcd", 
       "cdf", 
@@ -8643,7 +8522,7 @@
       1
     ]
   }, 
-  "pornographic": {
+  "pornograph": {
     "files": [
       "ere"
     ], 
@@ -8652,7 +8531,7 @@
       1
     ]
   }, 
-  "positive": {
+  "posit": {
     "files": [
       "abcd"
     ], 
@@ -8661,7 +8540,7 @@
       1
     ]
   }, 
-  "possible": {
+  "possibl": {
     "files": [
       "abcd"
     ], 
@@ -8679,7 +8558,16 @@
       1
     ]
   }, 
-  "potentially": {
+  "post-pc": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "potenti": {
     "files": [
       "abcd"
     ], 
@@ -8706,7 +8594,7 @@
       1
     ]
   }, 
-  "practice": {
+  "practic": {
     "files": [
       "ere", 
       "abc"
@@ -8717,7 +8605,7 @@
       1
     ]
   }, 
-  "precisely": {
+  "precis": {
     "files": [
       "cdf"
     ], 
@@ -8735,7 +8623,7 @@
       1
     ]
   }, 
-  "pregnancy": {
+  "pregnanc": {
     "files": [
       "abc"
     ], 
@@ -8744,7 +8632,7 @@
       1
     ]
   }, 
-  "presentation": {
+  "presentation-readi": {
     "files": [
       "cdf"
     ], 
@@ -8753,7 +8641,7 @@
       1
     ]
   }, 
-  "preserve": {
+  "preserv": {
     "files": [
       "ere"
     ], 
@@ -8762,7 +8650,7 @@
       1
     ]
   }, 
-  "presidential": {
+  "presidenti": {
     "files": [
       "ere"
     ], 
@@ -8780,7 +8668,7 @@
       1
     ]
   }, 
-  "pressure": {
+  "pressur": {
     "files": [
       "abcd"
     ], 
@@ -8789,7 +8677,7 @@
       1
     ]
   }, 
-  "previously": {
+  "previous": {
     "files": [
       "abcd"
     ], 
@@ -8798,7 +8686,7 @@
       1
     ]
   }, 
-  "pricy": {
+  "prici": {
     "files": [
       "abcd"
     ], 
@@ -8807,7 +8695,7 @@
       2
     ]
   }, 
-  "primary": {
+  "primari": {
     "files": [
       "cdf"
     ], 
@@ -8825,7 +8713,7 @@
       1
     ]
   }, 
-  "privacy": {
+  "privaci": {
     "files": [
       "abcd", 
       "cdf", 
@@ -8838,7 +8726,7 @@
       7
     ]
   }, 
-  "probably": {
+  "probabl": {
     "files": [
       "abcd"
     ], 
@@ -8885,7 +8773,7 @@
       3
     ]
   }, 
-  "programme": {
+  "programm": {
     "files": [
       "abc"
     ], 
@@ -8912,7 +8800,7 @@
       1
     ]
   }, 
-  "prominent": {
+  "promin": {
     "files": [
       "abcd"
     ], 
@@ -8921,7 +8809,7 @@
       1
     ]
   }, 
-  "promise": {
+  "promis": {
     "files": [
       "cdf"
     ], 
@@ -8942,20 +8830,13 @@
   "protect": {
     "files": [
       "abcd", 
-      "cdf"
-    ], 
-    "total": 3, 
-    "value": [
-      1, 
-      2
-    ]
-  }, 
-  "protection": {
-    "files": [
+      "cdf", 
       "abc"
     ], 
-    "total": 2, 
+    "total": 5, 
     "value": [
+      1, 
+      2, 
       2
     ]
   }, 
@@ -8968,31 +8849,22 @@
       1
     ]
   }, 
-  "provide": {
+  "provid": {
     "files": [
       "abcd", 
       "ere", 
       "cdf", 
       "abc"
     ], 
-    "total": 6, 
+    "total": 8, 
     "value": [
-      3, 
+      5, 
       1, 
       1, 
       1
     ]
   }, 
-  "provider": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "proxy": {
+  "proxi": {
     "files": [
       "abcd"
     ], 
@@ -9001,7 +8873,7 @@
       1
     ]
   }, 
-  "psychologically": {
+  "psycholog": {
     "files": [
       "ere"
     ], 
@@ -9048,7 +8920,7 @@
       6
     ]
   }, 
-  "quake.\"youen": {
+  "quak": {
     "files": [
       "ere"
     ], 
@@ -9057,7 +8929,7 @@
       1
     ]
   }, 
-  "quarantine": {
+  "quarantin": {
     "files": [
       "abcd"
     ], 
@@ -9066,7 +8938,16 @@
       1
     ]
   }, 
-  "queremos": {
+  "que": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "queremo": {
     "files": [
       "abcd"
     ], 
@@ -9078,33 +8959,17 @@
   "question": {
     "files": [
       "abcd", 
+      "ere", 
       "abc"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
+      1, 
       1, 
       1
     ]
   }, 
-  "questioner": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "quiet": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "quite": {
+  "quit": {
     "files": [
       "abcd", 
       "ere"
@@ -9115,16 +8980,7 @@
       1
     ]
   }, 
-  "ramble": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "rampage": {
+  "rampag": {
     "files": [
       "ere"
     ], 
@@ -9133,7 +8989,16 @@
       2
     ]
   }, 
-  "range": {
+  "ran": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "rang": {
     "files": [
       "abc"
     ], 
@@ -9144,22 +9009,13 @@
   }, 
   "rare": {
     "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "rarely": {
-    "files": [
       "abcd", 
       "ere"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
       1, 
-      1
+      2
     ]
   }, 
   "rather": {
@@ -9169,17 +9025,6 @@
     "total": 4, 
     "value": [
       4
-    ]
-  }, 
-  "re": {
-    "files": [
-      "abcd", 
-      "cdf"
-    ], 
-    "total": 7, 
-    "value": [
-      6, 
-      1
     ]
   }, 
   "read": {
@@ -9204,18 +9049,16 @@
       3
     ]
   }, 
-  "ready": {
+  "readi": {
     "files": [
-      "abcd", 
-      "cdf"
+      "abcd"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      1, 
       1
     ]
   }, 
-  "really": {
+  "realli": {
     "files": [
       "abcd", 
       "ere"
@@ -9268,18 +9111,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
-    ]
-  }, 
-  "recently": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
+      3
     ]
   }, 
   "recommend": {
@@ -9311,7 +9145,7 @@
       1
     ]
   }, 
-  "refuse": {
+  "refus": {
     "files": [
       "abcd", 
       "ere"
@@ -9331,7 +9165,7 @@
       1
     ]
   }, 
-  "regulate": {
+  "regul": {
     "files": [
       "abcd", 
       "ere"
@@ -9342,7 +9176,7 @@
       1
     ]
   }, 
-  "relate": {
+  "relat": {
     "files": [
       "abcd"
     ], 
@@ -9351,7 +9185,7 @@
       2
     ]
   }, 
-  "relationship.\"youen": {
+  "relationship": {
     "files": [
       "ere"
     ], 
@@ -9360,7 +9194,7 @@
       1
     ]
   }, 
-  "release": {
+  "releas": {
     "files": [
       "abcd"
     ], 
@@ -9369,7 +9203,7 @@
       4
     ]
   }, 
-  "rely": {
+  "reli": {
     "files": [
       "abcd"
     ], 
@@ -9387,7 +9221,7 @@
       1
     ]
   }, 
-  "remember": {
+  "rememb": {
     "files": [
       "abcd", 
       "ere"
@@ -9398,29 +9232,20 @@
       1
     ]
   }, 
-  "removal": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "remove": {
+  "remov": {
     "files": [
       "abcd", 
       "ere", 
       "cdf"
     ], 
-    "total": 14, 
+    "total": 15, 
     "value": [
       10, 
       1, 
-      3
+      4
     ]
   }, 
-  "repeatedly": {
+  "repeatedli": {
     "files": [
       "ere"
     ], 
@@ -9429,7 +9254,7 @@
       1
     ]
   }, 
-  "replacement": {
+  "replac": {
     "files": [
       "abcd"
     ], 
@@ -9447,7 +9272,7 @@
       1
     ]
   }, 
-  "represent": {
+  "repres": {
     "files": [
       "abcd"
     ], 
@@ -9465,7 +9290,7 @@
       1
     ]
   }, 
-  "reproduce": {
+  "reproduc": {
     "files": [
       "abcd"
     ], 
@@ -9483,7 +9308,7 @@
       1
     ]
   }, 
-  "reputation": {
+  "reput": {
     "files": [
       "abcd"
     ], 
@@ -9501,7 +9326,7 @@
       3
     ]
   }, 
-  "require": {
+  "requir": {
     "files": [
       "abcd"
     ], 
@@ -9510,7 +9335,7 @@
       1
     ]
   }, 
-  "researcher": {
+  "research": {
     "files": [
       "abc"
     ], 
@@ -9519,7 +9344,7 @@
       4
     ]
   }, 
-  "reserved": {
+  "reserv": {
     "files": [
       "cdf"
     ], 
@@ -9528,7 +9353,7 @@
       2
     ]
   }, 
-  "resolve": {
+  "resolv": {
     "files": [
       "abcd"
     ], 
@@ -9557,15 +9382,6 @@
       1
     ]
   }, 
-  "retirement": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
   "return": {
     "files": [
       "abcd", 
@@ -9586,7 +9402,7 @@
       2
     ]
   }, 
-  "revenue": {
+  "revenu": {
     "files": [
       "abcd"
     ], 
@@ -9610,14 +9426,14 @@
       "cdf", 
       "abc"
     ], 
-    "total": 3, 
+    "total": 4, 
     "value": [
       1, 
-      1, 
+      2, 
       1
     ]
   }, 
-  "rifle": {
+  "rifle.but": {
     "files": [
       "ere"
     ], 
@@ -9630,9 +9446,9 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "right": {
@@ -9659,12 +9475,12 @@
     "files": [
       "cdf"
     ], 
-    "total": 2, 
+    "total": 4, 
     "value": [
-      2
+      4
     ]
   }, 
-  "rochester": {
+  "rochest": {
     "files": [
       "ere"
     ], 
@@ -9686,18 +9502,9 @@
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      2
-    ]
-  }, 
-  "rooted": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      3
     ]
   }, 
   "router": {
@@ -9709,7 +9516,7 @@
       1
     ]
   }, 
-  "routinely": {
+  "routin": {
     "files": [
       "abc"
     ], 
@@ -9727,7 +9534,7 @@
       1
     ]
   }, 
-  "ruckus": {
+  "rucku": {
     "files": [
       "cdf"
     ], 
@@ -9747,29 +9554,29 @@
       3
     ]
   }, 
-  "rulebook": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
   "run": {
     "files": [
       "abcd", 
       "ere", 
       "abc"
     ], 
-    "total": 7, 
+    "total": 6, 
     "value": [
-      5, 
+      4, 
       1, 
       1
     ]
   }, 
-  "sadly": {
+  "s": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "sadli": {
     "files": [
       "abcd"
     ], 
@@ -9786,6 +9593,28 @@
     "total": 2, 
     "value": [
       1, 
+      1
+    ]
+  }, 
+  "said": {
+    "files": [
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 10, 
+    "value": [
+      2, 
+      4, 
+      4
+    ]
+  }, 
+  "said.youen": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
       1
     ]
   }, 
@@ -9809,15 +9638,6 @@
       1
     ]
   }, 
-  "saving": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
   "saw": {
     "files": [
       "cdf"
@@ -9831,18 +9651,16 @@
     "files": [
       "abcd", 
       "ere", 
-      "cdf", 
-      "abc"
+      "cdf"
     ], 
-    "total": 22, 
+    "total": 11, 
     "value": [
       5, 
-      4, 
-      9, 
-      4
+      1, 
+      5
     ]
   }, 
-  "saysadvertisement": {
+  "saysadvertis": {
     "files": [
       "ere"
     ], 
@@ -9889,6 +9707,15 @@
       1
     ]
   }, 
+  "scottish": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "script": {
     "files": [
       "abcd"
@@ -9898,7 +9725,7 @@
       1
     ]
   }, 
-  "scroogle.": {
+  "scroogl": {
     "files": [
       "abcd"
     ], 
@@ -9911,12 +9738,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "secretary": {
+  "secretari": {
     "files": [
       "abc"
     ], 
@@ -9930,9 +9757,9 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 8, 
+    "total": 6, 
     "value": [
-      7, 
+      5, 
       1
     ]
   }, 
@@ -9943,6 +9770,24 @@
     "total": 4, 
     "value": [
       4
+    ]
+  }, 
+  "seen": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "seizur": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "self": {
@@ -9959,13 +9804,13 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 4, 
+    "total": 5, 
     "value": [
       3, 
-      1
+      2
     ]
   }, 
-  "semester": {
+  "semest": {
     "files": [
       "ere"
     ], 
@@ -9974,7 +9819,7 @@
       1
     ]
   }, 
-  "semiautomatic": {
+  "semiautomat": {
     "files": [
       "ere"
     ], 
@@ -9983,16 +9828,7 @@
       1
     ]
   }, 
-  "send": {
-    "files": [
-      "abc"
-    ], 
-    "total": 7, 
-    "value": [
-      7
-    ]
-  }, 
-  "sense": {
+  "sens": {
     "files": [
       "abcd"
     ], 
@@ -10001,7 +9837,16 @@
       1
     ]
   }, 
-  "september": {
+  "sent": {
+    "files": [
+      "abc"
+    ], 
+    "total": 7, 
+    "value": [
+      7
+    ]
+  }, 
+  "septemb": {
     "files": [
       "abc"
     ], 
@@ -10010,7 +9855,7 @@
       1
     ]
   }, 
-  "serious": {
+  "seriou": {
     "files": [
       "ere"
     ], 
@@ -10028,7 +9873,7 @@
       1
     ]
   }, 
-  "service": {
+  "servic": {
     "files": [
       "abcd", 
       "cdf", 
@@ -10041,9 +9886,18 @@
       2
     ]
   }, 
-  "service|privacy": {
+  "service|privaci": {
     "files": [
       "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "servicio": {
+    "files": [
+      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -10059,7 +9913,7 @@
       2
     ]
   }, 
-  "several": {
+  "sever": {
     "files": [
       "abcd", 
       "abc"
@@ -10075,9 +9929,9 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 3, 
+    "total": 4, 
     "value": [
-      2, 
+      3, 
       1
     ]
   }, 
@@ -10090,22 +9944,13 @@
       1
     ]
   }, 
-  "she": {
-    "files": [
-      "ere"
-    ], 
-    "total": 7, 
-    "value": [
-      7
-    ]
-  }, 
-  "she/he": {
+  "she/h": {
     "files": [
       "abcd"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      2
+      3
     ]
   }, 
   "sheer": {
@@ -10148,15 +9993,6 @@
     "files": [
       "ere"
     ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "shooting": {
-    "files": [
-      "ere"
-    ], 
     "total": 3, 
     "value": [
       3
@@ -10166,19 +10002,17 @@
     "files": [
       "ere"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
+      3
     ]
   }, 
-  "should": {
+  "shouldnt": {
     "files": [
-      "abcd", 
       "cdf"
     ], 
-    "total": 9, 
+    "total": 1, 
     "value": [
-      8, 
       1
     ]
   }, 
@@ -10189,6 +10023,15 @@
     "total": 2, 
     "value": [
       2
+    ]
+  }, 
+  "si": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "side": {
@@ -10205,13 +10048,13 @@
       "abcd", 
       "ere"
     ], 
-    "total": 4, 
+    "total": 5, 
     "value": [
-      3, 
+      4, 
       1
     ]
   }, 
-  "signing": {
+  "sigu": {
     "files": [
       "abcd"
     ], 
@@ -10220,22 +10063,22 @@
       1
     ]
   }, 
-  "sigue": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "silence": {
+  "silenc": {
     "files": [
       "ere"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
+    ]
+  }, 
+  "silence.h": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
+      1
     ]
   }, 
   "similar": {
@@ -10249,7 +10092,7 @@
       1
     ]
   }, 
-  "simple": {
+  "simpl": {
     "files": [
       "abcd"
     ], 
@@ -10258,7 +10101,7 @@
       1
     ]
   }, 
-  "simply": {
+  "simpli": {
     "files": [
       "abcd"
     ], 
@@ -10267,7 +10110,7 @@
       2
     ]
   }, 
-  "single": {
+  "singl": {
     "files": [
       "abcd"
     ], 
@@ -10287,7 +10130,16 @@
       8
     ]
   }, 
-  "slavery": {
+  "six-month": {
+    "files": [
+      "abc"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "slaveri": {
     "files": [
       "abcd"
     ], 
@@ -10305,7 +10157,7 @@
       1
     ]
   }, 
-  "slightly": {
+  "slightli": {
     "files": [
       "ere"
     ], 
@@ -10323,24 +10175,15 @@
       1
     ]
   }, 
-  "smartphone": {
+  "smartphon": {
     "files": [
       "cdf", 
       "abc"
     ], 
-    "total": 4, 
+    "total": 5, 
     "value": [
       1, 
-      3
-    ]
-  }, 
-  "smartphones": {
-    "files": [
-      "abc"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      4
     ]
   }, 
   "so": {
@@ -10354,7 +10197,7 @@
       1
     ]
   }, 
-  "society": {
+  "societi": {
     "files": [
       "abc"
     ], 
@@ -10372,7 +10215,7 @@
       1
     ]
   }, 
-  "software": {
+  "softwar": {
     "files": [
       "abcd", 
       "cdf"
@@ -10383,7 +10226,7 @@
       1
     ]
   }, 
-  "software/hardware": {
+  "software/hardwar": {
     "files": [
       "abcd"
     ], 
@@ -10392,16 +10235,7 @@
       1
     ]
   }, 
-  "some-privacy-apps-get-blocked-from-the-android-play-store/": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "somebody": {
+  "somebodi": {
     "files": [
       "abcd"
     ], 
@@ -10419,7 +10253,7 @@
       1
     ]
   }, 
-  "something": {
+  "someth": {
     "files": [
       "abcd"
     ], 
@@ -10428,22 +10262,13 @@
       4
     ]
   }, 
-  "sometime": {
+  "sometim": {
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
-    ]
-  }, 
-  "sometimes": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
+      3
     ]
   }, 
   "somewhat": {
@@ -10484,7 +10309,7 @@
       1
     ]
   }, 
-  "sorely": {
+  "sore": {
     "files": [
       "abcd"
     ], 
@@ -10493,7 +10318,7 @@
       1
     ]
   }, 
-  "source": {
+  "sourc": {
     "files": [
       "abcd"
     ], 
@@ -10520,16 +10345,7 @@
       2
     ]
   }, 
-  "speak": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "specific": {
+  "specif": {
     "files": [
       "cdf", 
       "abc"
@@ -10544,30 +10360,48 @@
     "files": [
       "ere"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "spelling": {
+  "spend": {
     "files": [
-      "ere"
+      "abcd"
     ], 
     "total": 1, 
     "value": [
       1
     ]
   }, 
-  "spend": {
+  "spent": {
     "files": [
       "abcd", 
       "ere", 
       "cdf"
     ], 
-    "total": 4, 
+    "total": 3, 
     "value": [
-      2, 
       1, 
+      1, 
+      1
+    ]
+  }, 
+  "spi": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "spoke": {
+    "files": [
+      "ere"
+    ], 
+    "total": 1, 
+    "value": [
       1
     ]
   }, 
@@ -10616,7 +10450,16 @@
       1
     ]
   }, 
-  "stakeholder": {
+  "stake": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "stakehold": {
     "files": [
       "abcd"
     ], 
@@ -10668,15 +10511,17 @@
   "state": {
     "files": [
       "abcd", 
+      "cdf", 
       "abc"
     ], 
-    "total": 3, 
+    "total": 5, 
     "value": [
-      2, 
+      3, 
+      1, 
       1
     ]
   }, 
-  "statistic": {
+  "statist": {
     "files": [
       "abcd"
     ], 
@@ -10751,14 +10596,23 @@
       "ere", 
       "cdf"
     ], 
-    "total": 22, 
+    "total": 21, 
     "value": [
-      12, 
+      11, 
       1, 
       9
     ]
   }, 
-  "story": {
+  "stores.y": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "stori": {
     "files": [
       "ere"
     ], 
@@ -10785,7 +10639,7 @@
       1
     ]
   }, 
-  "study": {
+  "studi": {
     "files": [
       "abc"
     ], 
@@ -10803,7 +10657,7 @@
       2
     ]
   }, 
-  "subscriber": {
+  "subscrib": {
     "files": [
       "cdf"
     ], 
@@ -10812,7 +10666,7 @@
       1
     ]
   }, 
-  "subscription": {
+  "subscript": {
     "files": [
       "abcd"
     ], 
@@ -10830,24 +10684,6 @@
     "value": [
       3, 
       2
-    ]
-  }, 
-  "sucking": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "suddenly": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
     ]
   }, 
   "sue": {
@@ -10870,13 +10706,13 @@
       1
     ]
   }, 
-  "suicidal": {
+  "suicid": {
     "files": [
       "ere"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
+      3
     ]
   }, 
   "suicidal.1": {
@@ -10888,16 +10724,7 @@
       1
     ]
   }, 
-  "suicide": {
-    "files": [
-      "ere"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "suisse": {
+  "suiss": {
     "files": [
       "cdf"
     ], 
@@ -10915,7 +10742,7 @@
       1
     ]
   }, 
-  "supply": {
+  "suppli": {
     "files": [
       "abc"
     ], 
@@ -10937,12 +10764,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 3, 
+    "total": 4, 
     "value": [
-      3
+      4
     ]
   }, 
-  "surgery": {
+  "surgeri": {
     "files": [
       "ere"
     ], 
@@ -10951,39 +10778,23 @@
       1
     ]
   }, 
-  "surprise": {
+  "surpris": {
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 4, 
     "value": [
-      1
+      4
     ]
   }, 
-  "surprised": {
+  "surviv": {
     "files": [
-      "abcd"
+      "ere", 
+      "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
-    ]
-  }, 
-  "surprising": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "survive": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
+      1, 
       1
     ]
   }, 
@@ -10996,7 +10807,7 @@
       1
     ]
   }, 
-  "syntax.)clarissa": {
+  "syntax": {
     "files": [
       "ere"
     ], 
@@ -11018,6 +10829,15 @@
       2
     ]
   }, 
+  "t": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
   "tab": {
     "files": [
       "abcd"
@@ -11033,9 +10853,9 @@
       "ere", 
       "cdf"
     ], 
-    "total": 7, 
+    "total": 6, 
     "value": [
-      4, 
+      3, 
       1, 
       2
     ]
@@ -11044,9 +10864,9 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "tall": {
@@ -11080,18 +10900,9 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
-    ]
-  }, 
-  "targeting": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      2
     ]
   }, 
   "tax": {
@@ -11114,7 +10925,7 @@
       1
     ]
   }, 
-  "tease": {
+  "teas": {
     "files": [
       "ere"
     ], 
@@ -11132,7 +10943,7 @@
       2
     ]
   }, 
-  "technology": {
+  "technolog": {
     "files": [
       "ere", 
       "cdf", 
@@ -11145,7 +10956,7 @@
       1
     ]
   }, 
-  "teen": {
+  "teen-ag": {
     "files": [
       "ere"
     ], 
@@ -11154,7 +10965,7 @@
       1
     ]
   }, 
-  "teenager": {
+  "teenag": {
     "files": [
       "ere"
     ], 
@@ -11172,7 +10983,7 @@
       1
     ]
   }, 
-  "telephone": {
+  "telephon": {
     "files": [
       "ere"
     ], 
@@ -11187,10 +10998,10 @@
       "ere", 
       "cdf"
     ], 
-    "total": 8, 
+    "total": 4, 
     "value": [
       2, 
-      5, 
+      1, 
       1
     ]
   }, 
@@ -11220,71 +11031,25 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "thanks": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "that": {
-    "files": [
-      "abcd", 
-      "ere", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 10, 
-    "value": [
-      1, 
-      1, 
-      6, 
-      2
-    ]
-  }, 
-  "theft": {
-    "files": [
-      "abc"
-    ], 
     "total": 2, 
     "value": [
       2
     ]
   }, 
-  "their": {
-    "files": [
-      "abcd", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 35, 
-    "value": [
-      29, 
-      4, 
-      2
-    ]
-  }, 
-  "them": {
+  "that": {
     "files": [
       "abcd", 
       "cdf"
     ], 
-    "total": 10, 
+    "total": 11, 
     "value": [
-      9, 
+      10, 
       1
     ]
   }, 
-  "themselves": {
+  "theft": {
     "files": [
-      "abcd"
+      "abc"
     ], 
     "total": 2, 
     "value": [
@@ -11307,32 +11072,28 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 4, 
+    "total": 3, 
     "value": [
-      3, 
+      2, 
       1
     ]
   }, 
-  "theres": {
+  "theyr": {
     "files": [
-      "cdf"
+      "abcd"
+    ], 
+    "total": 4, 
+    "value": [
+      4
+    ]
+  }, 
+  "theyv": {
+    "files": [
+      "abcd"
     ], 
     "total": 1, 
     "value": [
       1
-    ]
-  }, 
-  "they": {
-    "files": [
-      "abcd", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 36, 
-    "value": [
-      29, 
-      5, 
-      2
     ]
   }, 
   "thin": {
@@ -11360,10 +11121,10 @@
       "abcd", 
       "ere"
     ], 
-    "total": 10, 
+    "total": 8, 
     "value": [
-      7, 
-      3
+      6, 
+      2
     ]
   }, 
   "third": {
@@ -11381,10 +11142,12 @@
   }, 
   "thought": {
     "files": [
-      "abcd"
+      "abcd", 
+      "ere"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
+      2, 
       1
     ]
   }, 
@@ -11393,22 +11156,13 @@
       "ere", 
       "cdf"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      1, 
+      2, 
       1
     ]
   }, 
-  "threatening": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "throw": {
+  "threw": {
     "files": [
       "abcd", 
       "ere"
@@ -11443,7 +11197,7 @@
       1
     ]
   }, 
-  "timesterms": {
+  "timesterm": {
     "files": [
       "ere"
     ], 
@@ -11452,7 +11206,7 @@
       1
     ]
   }, 
-  "tipping": {
+  "tip": {
     "files": [
       "abcd"
     ], 
@@ -11461,7 +11215,7 @@
       1
     ]
   }, 
-  "tirade": {
+  "tirad": {
     "files": [
       "ere"
     ], 
@@ -11479,13 +11233,13 @@
       1
     ]
   }, 
-  "to-end": {
+  "told": {
     "files": [
-      "cdf"
+      "ere"
     ], 
-    "total": 1, 
+    "total": 4, 
     "value": [
-      1
+      4
     ]
   }, 
   "ton": {
@@ -11503,16 +11257,16 @@
       "ere", 
       "cdf"
     ], 
-    "total": 5, 
+    "total": 6, 
     "value": [
       3, 
-      1, 
+      2, 
       1
     ]
   }, 
-  "too?'\"that": {
+  "took": {
     "files": [
-      "ere"
+      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -11571,19 +11325,10 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 3, 
+    "total": 5, 
     "value": [
       1, 
-      2
-    ]
-  }, 
-  "tracking": {
-    "files": [
-      "cdf"
-    ], 
-    "total": 2, 
-    "value": [
-      2
+      4
     ]
   }, 
   "traffic": {
@@ -11599,21 +11344,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
-  "training": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "translation": {
+  "translat": {
     "files": [
       "abcd"
     ], 
@@ -11631,7 +11367,16 @@
       1
     ]
   }, 
-  "troubled": {
+  "tri": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 7, 
+    "value": [
+      7
+    ]
+  }, 
+  "troubl": {
     "files": [
       "ere"
     ], 
@@ -11653,27 +11398,18 @@
     "files": [
       "abcd"
     ], 
-    "total": 4, 
+    "total": 5, 
     "value": [
-      4
+      5
     ]
   }, 
-  "trustworthiness": {
+  "trustworthi": {
     "files": [
       "abc"
     ], 
-    "total": 2, 
+    "total": 3, 
     "value": [
-      2
-    ]
-  }, 
-  "trustworthy": {
-    "files": [
-      "abc"
-    ], 
-    "total": 1, 
-    "value": [
-      1
+      3
     ]
   }, 
   "truth": {
@@ -11683,15 +11419,6 @@
     "total": 1, 
     "value": [
       1
-    ]
-  }, 
-  "try": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 7, 
-    "value": [
-      7
     ]
   }, 
   "tuesday": {
@@ -11714,7 +11441,25 @@
       1
     ]
   }, 
-  "ubers": {
+  "u": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "u.s.": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
+  "uber": {
     "files": [
       "cdf"
     ], 
@@ -11732,7 +11477,7 @@
       1
     ]
   }, 
-  "unattractive": {
+  "unattract": {
     "files": [
       "ere"
     ], 
@@ -11741,7 +11486,7 @@
       1
     ]
   }, 
-  "unauthorized": {
+  "unauthor": {
     "files": [
       "abcd"
     ], 
@@ -11750,7 +11495,7 @@
       3
     ]
   }, 
-  "underappreciated": {
+  "underappreci": {
     "files": [
       "cdf"
     ], 
@@ -11759,7 +11504,7 @@
       1
     ]
   }, 
-  "undermine": {
+  "undermin": {
     "files": [
       "abcd"
     ], 
@@ -11777,16 +11522,16 @@
       1
     ]
   }, 
-  "unencrypted": {
+  "unencrypt": {
     "files": [
       "abc"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
-      1
+      3
     ]
   }, 
-  "unethical": {
+  "uneth": {
     "files": [
       "abcd"
     ], 
@@ -11795,7 +11540,7 @@
       1
     ]
   }, 
-  "unfortunately": {
+  "unfortun": {
     "files": [
       "abcd"
     ], 
@@ -11804,7 +11549,7 @@
       1
     ]
   }, 
-  "unhappy": {
+  "unhappi": {
     "files": [
       "ere"
     ], 
@@ -11813,7 +11558,7 @@
       1
     ]
   }, 
-  "unicos": {
+  "unico": {
     "files": [
       "abcd"
     ], 
@@ -11822,25 +11567,25 @@
       1
     ]
   }, 
-  "uninstall": {
+  "uninstal": {
     "files": [
       "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "unit": {
+    "files": [
+      "cdf"
     ], 
     "total": 1, 
     "value": [
       1
     ]
   }, 
-  "uninstalling": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "unnecessarily": {
+  "unnecessarili": {
     "files": [
       "abc"
     ], 
@@ -11849,7 +11594,7 @@
       2
     ]
   }, 
-  "unskilled": {
+  "unskil": {
     "files": [
       "ere"
     ], 
@@ -11858,7 +11603,7 @@
       1
     ]
   }, 
-  "untrusted": {
+  "untrust": {
     "files": [
       "abcd"
     ], 
@@ -11867,13 +11612,22 @@
       1
     ]
   }, 
-  "update": {
+  "up": {
     "files": [
       "abcd"
     ], 
-    "total": 5, 
+    "total": 2, 
     "value": [
-      5
+      2
+    ]
+  }, 
+  "updat": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 13, 
+    "value": [
+      13
     ]
   }, 
   "upper": {
@@ -11885,7 +11639,7 @@
       1
     ]
   }, 
-  "urge": {
+  "urg": {
     "files": [
       "abc"
     ], 
@@ -11894,7 +11648,7 @@
       1
     ]
   }, 
-  "usage": {
+  "usag": {
     "files": [
       "abcd"
     ], 
@@ -11919,21 +11673,12 @@
       "cdf", 
       "abc"
     ], 
-    "total": 17, 
+    "total": 23, 
     "value": [
-      12, 
+      14, 
       1, 
-      1, 
+      5, 
       3
-    ]
-  }, 
-  "useful": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
     ]
   }, 
   "user": {
@@ -11949,7 +11694,7 @@
       6
     ]
   }, 
-  "usually": {
+  "usual": {
     "files": [
       "abcd"
     ], 
@@ -11958,7 +11703,7 @@
       1
     ]
   }, 
-  "vacillate": {
+  "vacil": {
     "files": [
       "ere"
     ], 
@@ -11967,7 +11712,7 @@
       1
     ]
   }, 
-  "vague": {
+  "vagu": {
     "files": [
       "cdf"
     ], 
@@ -11976,7 +11721,7 @@
       1
     ]
   }, 
-  "value": {
+  "valu": {
     "files": [
       "abcd"
     ], 
@@ -11985,7 +11730,7 @@
       1
     ]
   }, 
-  "variable": {
+  "variabl": {
     "files": [
       "abc"
     ], 
@@ -11994,7 +11739,25 @@
       1
     ]
   }, 
-  "verify": {
+  "ver": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "veri": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "verifi": {
     "files": [
       "abcd"
     ], 
@@ -12004,15 +11767,6 @@
     ]
   }, 
   "version": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 2, 
-    "value": [
-      2
-    ]
-  }, 
-  "very": {
     "files": [
       "abcd"
     ], 
@@ -12039,7 +11793,16 @@
       1
     ]
   }, 
-  "violate": {
+  "villag": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "violat": {
     "files": [
       "abcd", 
       "cdf"
@@ -12059,7 +11822,7 @@
       2
     ]
   }, 
-  "virtually": {
+  "virtual": {
     "files": [
       "cdf"
     ], 
@@ -12083,9 +11846,9 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
     ]
   }, 
   "vlc": {
@@ -12101,9 +11864,24 @@
     "files": [
       "cdf"
     ], 
-    "total": 1, 
+    "total": 2, 
     "value": [
-      1
+      2
+    ]
+  }, 
+  "wa": {
+    "files": [
+      "abcd", 
+      "ere", 
+      "cdf", 
+      "abc"
+    ], 
+    "total": 37, 
+    "value": [
+      9, 
+      19, 
+      6, 
+      3
     ]
   }, 
   "wait": {
@@ -12117,7 +11895,7 @@
       2
     ]
   }, 
-  "wanna": {
+  "wan": {
     "files": [
       "abcd"
     ], 
@@ -12137,7 +11915,25 @@
       1
     ]
   }, 
-  "waste": {
+  "warn": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "wasnt": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "wast": {
     "files": [
       "abcd"
     ], 
@@ -12161,25 +11957,12 @@
     "files": [
       "abcd"
     ], 
-    "total": 1, 
+    "total": 9, 
     "value": [
-      1
+      9
     ]
   }, 
-  "we": {
-    "files": [
-      "abcd", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 16, 
-    "value": [
-      13, 
-      2, 
-      1
-    ]
-  }, 
-  "wealthy": {
+  "wealthi": {
     "files": [
       "abcd"
     ], 
@@ -12188,7 +11971,7 @@
       1
     ]
   }, 
-  "weapon--an": {
+  "weapon": {
     "files": [
       "ere"
     ], 
@@ -12217,7 +12000,7 @@
       1
     ]
   }, 
-  "website": {
+  "websit": {
     "files": [
       "abcd", 
       "abc"
@@ -12255,7 +12038,7 @@
       1
     ]
   }, 
-  "welcome": {
+  "welcom": {
     "files": [
       "abcd"
     ], 
@@ -12270,23 +12053,45 @@
       "ere", 
       "cdf"
     ], 
-    "total": 4, 
+    "total": 9, 
     "value": [
+      6, 
       2, 
-      1, 
       1
     ]
   }, 
-  "what": {
+  "went": {
+    "files": [
+      "abcd", 
+      "ere"
+    ], 
+    "total": 3, 
+    "value": [
+      2, 
+      1
+    ]
+  }, 
+  "were": {
     "files": [
       "abcd", 
       "ere", 
+      "cdf", 
       "abc"
     ], 
-    "total": 14, 
+    "total": 9, 
     "value": [
-      12, 
+      4, 
       1, 
+      3, 
+      1
+    ]
+  }, 
+  "weve": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
       1
     ]
   }, 
@@ -12299,56 +12104,6 @@
       1
     ]
   }, 
-  "when": {
-    "files": [
-      "abcd", 
-      "ere", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 10, 
-    "value": [
-      6, 
-      1, 
-      2, 
-      1
-    ]
-  }, 
-  "whenever": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "where": {
-    "files": [
-      "abcd", 
-      "ere"
-    ], 
-    "total": 9, 
-    "value": [
-      8, 
-      1
-    ]
-  }, 
-  "which": {
-    "files": [
-      "abcd", 
-      "ere", 
-      "cdf", 
-      "abc"
-    ], 
-    "total": 15, 
-    "value": [
-      6, 
-      4, 
-      4, 
-      1
-    ]
-  }, 
   "white": {
     "files": [
       "abcd"
@@ -12358,20 +12113,9 @@
       1
     ]
   }, 
-  "who": {
+  "wholl": {
     "files": [
-      "abcd", 
-      "ere"
-    ], 
-    "total": 12, 
-    "value": [
-      9, 
-      3
-    ]
-  }, 
-  "whom": {
-    "files": [
-      "ere"
+      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -12385,19 +12129,6 @@
     "total": 1, 
     "value": [
       1
-    ]
-  }, 
-  "why": {
-    "files": [
-      "abcd", 
-      "ere", 
-      "cdf"
-    ], 
-    "total": 10, 
-    "value": [
-      5, 
-      1, 
-      4
     ]
   }, 
   "wide": {
@@ -12415,32 +12146,14 @@
     "files": [
       "abcd"
     ], 
-    "total": 17, 
+    "total": 2, 
     "value": [
-      17
+      2
     ]
   }, 
-  "willfully": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "williams": {
+  "william": {
     "files": [
       "cdf"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "willing": {
-    "files": [
-      "abcd"
     ], 
     "total": 1, 
     "value": [
@@ -12474,7 +12187,7 @@
       1
     ]
   }, 
-  "withdrawal": {
+  "withdraw": {
     "files": [
       "cdf"
     ], 
@@ -12490,15 +12203,6 @@
     "total": 1, 
     "value": [
       1
-    ]
-  }, 
-  "wo": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 3, 
-    "value": [
-      3
     ]
   }, 
   "woman": {
@@ -12519,32 +12223,34 @@
       2
     ]
   }, 
+  "wont": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 3, 
+    "value": [
+      3
+    ]
+  }, 
   "woodham": {
     "files": [
       "ere"
     ], 
-    "total": 2, 
+    "total": 1, 
     "value": [
-      2
+      1
     ]
   }, 
   "word": {
     "files": [
       "abcd", 
-      "ere"
-    ], 
-    "total": 2, 
-    "value": [
-      1, 
-      1
-    ]
-  }, 
-  "wording": {
-    "files": [
+      "ere", 
       "cdf"
     ], 
-    "total": 1, 
+    "total": 3, 
     "value": [
+      1, 
+      1, 
       1
     ]
   }, 
@@ -12554,19 +12260,10 @@
       "ere", 
       "cdf"
     ], 
-    "total": 6, 
+    "total": 13, 
     "value": [
-      2, 
-      3, 
-      1
-    ]
-  }, 
-  "working": {
-    "files": [
-      "ere"
-    ], 
-    "total": 1, 
-    "value": [
+      8, 
+      4, 
       1
     ]
   }, 
@@ -12583,13 +12280,22 @@
       1
     ]
   }, 
-  "worry": {
+  "worri": {
     "files": [
       "abcd"
     ], 
     "total": 1, 
     "value": [
       1
+    ]
+  }, 
+  "wors": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
     ]
   }, 
   "worth": {
@@ -12601,18 +12307,23 @@
       1
     ]
   }, 
-  "would": {
+  "wouldnt": {
     "files": [
       "abcd", 
-      "ere", 
-      "cdf", 
-      "abc"
+      "cdf"
     ], 
-    "total": 17, 
+    "total": 2, 
     "value": [
-      11, 
-      3, 
       1, 
+      1
+    ]
+  }, 
+  "wow": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
       2
     ]
   }, 
@@ -12625,14 +12336,14 @@
       1
     ]
   }, 
-  "write": {
+  "written": {
     "files": [
       "ere", 
       "cdf"
     ], 
-    "total": 7, 
+    "total": 2, 
     "value": [
-      6, 
+      1, 
       1
     ]
   }, 
@@ -12645,6 +12356,15 @@
       1
     ]
   }, 
+  "wrote": {
+    "files": [
+      "ere"
+    ], 
+    "total": 5, 
+    "value": [
+      5
+    ]
+  }, 
   "wsj": {
     "files": [
       "cdf"
@@ -12655,6 +12375,33 @@
     ]
   }, 
   "wtf": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "www.djreprints.com": {
+    "files": [
+      "cdf"
+    ], 
+    "total": 1, 
+    "value": [
+      1
+    ]
+  }, 
+  "x": {
+    "files": [
+      "abcd"
+    ], 
+    "total": 2, 
+    "value": [
+      2
+    ]
+  }, 
+  "y": {
     "files": [
       "abcd"
     ], 
@@ -12703,20 +12450,7 @@
       1
     ]
   }, 
-  "you": {
-    "files": [
-      "abcd", 
-      "ere", 
-      "cdf"
-    ], 
-    "total": 69, 
-    "value": [
-      61, 
-      3, 
-      5
-    ]
-  }, 
-  "youens": {
+  "youen": {
     "files": [
       "ere"
     ], 
@@ -12725,7 +12459,7 @@
       14
     ]
   }, 
-  "young": {
+  "youngest": {
     "files": [
       "ere"
     ], 
@@ -12739,27 +12473,9 @@
       "abcd", 
       "cdf"
     ], 
-    "total": 23, 
+    "total": 3, 
     "value": [
-      17, 
-      6
-    ]
-  }, 
-  "yours": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
-      1
-    ]
-  }, 
-  "yourself": {
-    "files": [
-      "abcd"
-    ], 
-    "total": 1, 
-    "value": [
+      2, 
       1
     ]
   }, 
