@@ -1,0 +1,25 @@
+Samsung rejects concern over 'Orwellian' privacy policy | Technology | The Guardian
+Samsung rejects concern over 'Orwellian' privacy policy
+Smart TV voice recognition software could transmit personal or other sensitive information to a third party, Samsungs policy warns
+A Samsung Electronics SUHD smart TV at its launch event in Seoul, February 5, 2015.
+Last modified on Tuesday 10 February 2015 05.01EST
+Users of Samsungs Smart TV devices have raised concerns over the devices privacy policy, which seems to suggest that they should not discuss any sensitive topics in their living room while the television is plugged in.
+The warning relates to the product lines voice recognition services, which lets users control their television with voice commands input through a microphone on the sets remote control.
+Samsung privacy policy warns: Please be aware that if your spoken words include personal or other sensitive information, that information will be among the data captured and transmitted to a third party through your use of voice recognition.
+The third-party mentioned is thought to be Massachusetts-based voice recognition company Nuance, which provides the technology to Samsung as a white-label service.
+Parker Higgins, an activist for San Francisco-based advocacy group Electronic Frontier Foundation who brought the privacy policy to light, compared the feature to the telescreens in George Orwells dystopian novel 1984.
+Orwell wrote: Any sound that Winston made, above the level of a very low whisper, would be picked up by it, moreover, so long as he remained within the field of vision which the metal plaque commanded, he could be seen as well as heard. There was of course no way of knowing whether you were being watched at any given moment. How often, or on what system, the Thought Police plugged in on any individual wire was guesswork.
+Samsung told the Guardian that the fears were overblown. Samsung takes consumer privacy very seriously. In all of our Smart TVs any data gathering or their use is carried out with utmost transparency and we provide meaningful options for consumers to freely choose or to opt out of a service. We employ industry-standard security safeguards and practices, including data encryption, to secure consumers personal information and prevent unauthorised collection or use.
+Samsung said the ability to control the TV using voice commands can be activated or deactivated by the user and that the Smart TV displayed when it is actively listening. Samsung said: Should consumers enable the voice recognition capability, the voice data consists of TV commands or search sentences, only. Users can easily recognise if the voice recognition feature is activated because a microphone icon appears on the screen.
+It added: Samsung does not retain voice data or sell it to third parties. If a consumer consents and uses the voice recognition feature, voice data is provided to a third party during a requested voice command search. At that time, the voice data is sent to a server, which searches for the requested content then returns the desired content to the TV.
+Emma Carr, director of privacy campaign group Big Brother Watch, said: Samsung needs to understand that not everyone wants to be spied on by their TV. It is outrageous that the company has even stated in its own privacy policy that if the TVs owner does decide not to share their private information, then the company may still take the information anyway.
+This leaves users with no knowledge or control over where your information goes or who has access to it and that is simply unacceptable.
+Few people would expect a TV to intrude on our privacy, yet this is increasingly becoming the case. As this sort of technology is being made to gather increasing amounts of data about us, it is vitally important that people should have to choose to make use of these additional services.
+Samsung is not the only company to have found always on voice recognition causes controversy. Microsofts Xbox One console features a similar implementation, which lets users control their machine with voice commands while playing games or watching television.
+But the company did not account for gamers sense of humour when planning the feature, and soon found that legions of pranksters were endeavouring to trick players into uttering the words Xbox Shut Off  which, if said out loud, caused the users console to turn off.
+Worse still, the company decided to advertise the console by demonstrating the voice control features. If any user had the misfortune to watch the adverts through the console, which can also be used to watch television, they would find it responding to the on-screen command to shut down.
+Apple, Google and Amazon also offer services which feature always-on voice recognition, sold respectively as Hey Siri, OK Google and Alexa.
+or create your Guardian account to join the discussion.
+Were doing some maintenance right now. You can still read comments, but please come back later to add your own.
+Commenting has been disabled for this account (why?)
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.

@@ -1,0 +1,23 @@
+Apps' data collection from children comes under UK privacy review | Technology | The Guardian
+Apps' data collection from children comes under UK privacy review
+Information Commissioners Office to examine 50 apps and websites to find out what information they collect and how they explain it
+Apps are popular among children, but do the products respect their privacy?
+Childrens apps and websites are in the spotlight on privacy grounds again, after the UKs Information Commissioners Office (ICO) announced a review of how these services collect data on their young users.
+The ICO will review 50 sites and apps to find out what information that collect, how they explain it to children, and how they seek parental permission. Its study will be part of a wider, global review involving 28 other privacy bodies from around the world.
+Related: Moms With Apps aims to direct parents to responsible apps for kids
+Anyone with children knows how many websites and apps are now targeted at them, and how popular they are with children, said the ICOs head of enforcement, Steve Eckersley, in a statement.
+In the UK, were clear that apps and websites should not gather more personal data than they require, and operators should be upfront about how and why they collect information and how they use it.
+The research will fall under the umbrella of the pan-governmental Global Privacy Enforcement Network, which in 2014 studied 1,200 apps for adults and found that 85% failed to disclose how they used information collected from their users.
+Eckersley promised that the new study will focus carefully on established data protection principles. These principles are true whatever the audience, but they are especially true where children are concerned, he said.
+This research should give us a valuable insight into whether companies in the UK are operating compliantly, as well as how that fits with what is happening around the world.
+This is not the first time childrens app developers have faced scrutiny over how they conduct their businesses, however.
+In 2012, the US Federal Trade Commission (FTC) published a report claiming that most childrens apps were collecting information  including device IDs, location data and phone numbers  without the permission of parents.
+Related: Who is responsible for kids and in-app purchases: Apple, developers or parents?
+The FTC has also taken action against app store owners over children spending money on in-app purchases without their parents knowledge or permission. In January 2014 Apple agreed to pay $32.5m to consumers to settle a complaint about its iOS platform on this score.
+In September that year, Google agreed to a $19m settlement in a similar case, while the FTC has also pursued Amazon over in-app purchases made by children on that companys devices.
+On the other side of the Atlantic, the European Commission praised Google but criticised Apple over the companies respective policies regarding children and in-app purchases in July 2014.
+Meanwhile, in 2013 the UKs Office of Fair Trading (OFT) published a report examining 38 mobile and online games for children, and drew up best practices for areas including in-app purchases and advertising.
+or create your Guardian account to join the discussion.
+Were doing some maintenance right now. You can still read comments, but please come back later to add your own.
+Commenting has been disabled for this account (why?)
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.

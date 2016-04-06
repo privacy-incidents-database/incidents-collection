@@ -116,4 +116,5 @@ def handle_others(url, filename):
     return filename, dic
 
 if __name__ == "__main__":
-    read_urls("file.json")
+    import os
+    read_urls(os.sys.argv[1])

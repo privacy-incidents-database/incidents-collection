@@ -1,0 +1,19 @@
+Android M could return privacy control to users | Technology | The Guardian
+Focus on user data privacy is tipped for Googles next version of Android, to bring it in line with Apples iOS and custom Android versions such as Cyanogen
+Google is expected to implement user privacy controls for app data access, similar to iOS and custom Android versions such as Cyanogen.
+Google is expected to bring Android into line with Apple iOS on user privacy, with version M due for release later this month, giving control of app data back to the users.
+Android will include detailed control over personal data, such as phone numbers, location, names and addresses, and whether apps can access some or none or all of it, according to a Bloomberg report.
+Apps installed on Android request permission to access various features and data of a mobile device, but a user can either accept all permission requests and install the app, or reject them and prevent the app from installing.
+There is no middle ground and users cannot revoke permissions after the fact.
+A hidden system of app permissions control called AppOps was implemented by Google with Android 4.3 Jelly Bean, accessible only by using a third-party application. The feature was said to be exposed in error and was removed in the next Android update to version 4.4 KitKat.
+Third-party customised versions of Android  including Cyanogen, which shipped on the OnePlus One  allow users to control the types of data accessible to installed apps outside of the standard Android permissions.
+Apples iOS has a similar system, where installed apps must ask permission to access data, such as location, the first time it is required. Users can approve the request once or forever, or deny it.
+The issue with specifying permission to access certain data on Android is that apps often crash when they are denied access. Developers are likely to need to update their apps to handle the exceptions caused by data requests being blocked.
+Several developer conference sessions at Google I/O in San Francisco later this month suggest that user permissions could be key to Android M, including a new system of website permissions.
+Key to a new permission system will be protecting users from permission-request overload to avoid a scenario that is present in user agreements, where most users blindly say yes without reading what they are agreeing to.
+ Free Android apps connect to thousands of tracking and ad URLs, research shows
+ The next version of Android is on its way. But what will it be called?
+or create your Guardian account to join the discussion.
+Were doing some maintenance right now. You can still read comments, but please come back later to add your own.
+Commenting has been disabled for this account (why?)
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.

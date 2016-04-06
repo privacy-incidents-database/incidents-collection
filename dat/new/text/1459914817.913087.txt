@@ -1,0 +1,27 @@
+Facebook's new opt-out for tracking ads is not enough, says privacy expert | Technology | The Guardian
+Facebook's new opt-out for tracking ads is not enough, says privacy expert
+Social network provides new opt-out tool for behavioural adverts, but doesnt stop collection of user data
+Facebook makes it easier to for users to opt-out of behavioural ads with new tool.
+Last modified on Friday 18 September 2015 10.15EDT
+Facebook has rolled out a new tool that allows users to choose whether tracking data from Like buttons and other social elements is used to serve them ads, but privacy experts say the move does not go far enough.
+The new privacy tool allows users to opt-out of behavioural advertising, which uses tracking tools that monitor where users go and what they see on the web.
+Facebook previously pointed users who wanted to opt out of behavioural advertising to third-party choice sites such as the Digital Advertising Alliance, as well as opt-out mechanisms within its iOS and Android apps.
+Stephen Deadman, global deputy chief privacy officer for Facebook said: Were introducing an additional way for people to turn off this kind of advertising from the ad settings page right on Facebook. If you choose to use this tool, it will become the master control for online interest-based advertising across all of your devices and browsers where you use Facebook.
+Brendan Van Alsenoy, author of a Belgium data protection report into Facebook and a legal researcher at the KU Leuven Centre for IT & IP Law, said: This new setting is a very modest step in the right direction. But the net result for privacy is limited.
+The use of tracking information for behavioural ads is still an opt-out process, rather than opt-in with explicit consent, warned Van Alsenoy.
+The new setting only determines whether or not Facebook will use its tracking data for ad purposes. Regardless of the setting, Facebook will still collect the same information about your visits to external sites containing Facebook social plug-ins. Facebook only promises to no longer use this information for the purposes of interest-based advertising, Van Alsenoy added.
+A report commissioned by the Belgian data protection authority claimed that Facebook used long-term cookies to track users, as well as non-users of Facebook, when browsing the open web
+, using its social plugins such as the Like button, which is placed on 13m sites, including health and government sites.
+The social network disputed the claims, saying that the report did not understand Facebooks use of data.
+The Belgian data protection authority later took Facebook to court over its alleged trampling over Belgian and European privacy law, specifically around its lack of explicit consent from non-users for tracking. Initial arguments in the case are expected to be heard Monday.
+This week Facebook began displaying cookie placement warnings to non-users who visit the social network at the behest of the Irish data protection authority, which audits Facebooks privacy practices. The site has been accused of preempting the opening arguments of the Belgian lawsuit.
+Tracking and the use of behavioural data has been thrown into the spotlight, first by privacy implications highlighted across Europe, and now by the advent of content blockers within Apples latest iOS 9 operating system for iPhone and iPad.
+The use of adblockers, which prevent tracking code within websites and from third-parties from operating, has risen dramatically on mobile platforms within the last two days.
+On the desktop, however, users concerned about Facebook tracking should continue to use tools such as Privacy Badger, Ghostery or Disconnect, according to Van Alsenoy.
+Facebook event read receipts ruin your excuse to never go out
+Zuckerberg: one in seven people on the planet used Facebook on Monday
+Facebook rescinds internship from student who exposed app privacy flaws
+or create your Guardian account to join the discussion.
+Were doing some maintenance right now. You can still read comments, but please come back later to add your own.
+Commenting has been disabled for this account (why?)
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.
