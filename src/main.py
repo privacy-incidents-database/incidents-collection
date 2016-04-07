@@ -14,11 +14,13 @@ KEYWORD_FILE = "keyword_in_file.json"
 
 # Spacy Module
 if SPACY_FLAG is True:
+    print "using spacy"
     from spacy.en import English
     from nlp.spacy_nlp import nlp_get_words as spacy_get_words
     parser = English()
     sent_detector, tagger, pstemmer = None, None, None
 else:
+    print "using nltk"
     parser = None
     # NLTK Module
     import nltk.data
@@ -107,10 +109,10 @@ def handle_others(url, filename):
         final = rm_ascii(final)
         write_to_folder("../dat/new", filename, final)
         if SPACY_FLAG is True:
-            print "using spacy"
+
             words = spacy_get_words(parser, final)
         else:
-            print "using nltk"
+
             words = nltk_get_words(final, sent_detector, pstemmer, tagger)
         dic[filename] = words
     return filename, dic
