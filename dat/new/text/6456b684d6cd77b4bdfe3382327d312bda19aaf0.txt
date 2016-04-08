@@ -1,0 +1,50 @@
+Skype Reveals Remote and Local IP Address Of All Online Users - gHacks Tech News
+Skype Reveals Remote and Local IP Address Of All Online Users
+If you are a user of the messaging software Skype, you know that you can see the location of your contacts in the Skype interface. What you probably do not know is that there is currently a way to display a Skype user's remote and local IP address as well.
+A script has been uploaded to Github that offers these options. According to the page, it can be used to lookup IP addresses of online Skype accounts, and return both the remote and the local IP of that account on a website.
+This blog post reveals how the script works. It basically starts an add a Skype contact request but does not complete it. The log file will display the local and remote IP of that Skype user, even if the user is not added to the list of contacts in Skype.
+The script is for instance available on this site. Just enter the user name of a Skype user, fill out the captcha, and click the search button to initiate the lookup. You will receive the user's remote IP and port, as well as the local IP and port.
+This works only if the Skype user is online at the time of the lookup, and not if the user is offline. The IP address can reveal the user's country of origin, and maybe even the town or district. This can be done with the help of tools such as this one. Just enter a public IP address in the form, and you will receive information about the provider of the IP address.
+You can also use a tool like IP on Map to display the real world location of an IP address on a map.
+Some Skype users may not see this as a problem at all, as the IP address does not reveal a user's name or street address for instance. The IP address can however lead to those information, for instance in a lawsuit.
+There is currently no way of protecting yourself against the lookup of the IP address, other than not logging in to Skype when the software is not needed. The only other option would be the use of a virtual private network or proxy to hide the IP address from users who look it up. (via Hacker News)
+What's your take on this? Do you think Microsoft / Skype should fix the issue, for instance by revealing IP addresses only after confirmation by the new contact in Skype?
+Update: Here is a statement from a Skype spokesperson:
+We are investigating reports of a new tool that allegedly captures a Skype users last known IP address. This is an ongoing, industry-wide issue faced by all peer-to-peer software companies. We are committed to the safety and security of our customersand we are takings measures to help protect them.
+Martin Brinkmann is a journalist from Germany who founded Ghacks Technology News Back in 2005. He is passionate about all things tech and knows the Internet and computers like the back of his hand.
+Home > Security > Skype Reveals Remote and Local IP Address Of All Online Users
+Responses to Skype Reveals Remote and Local IP Address Of All Online Users
+Microsoft should absolutely fix this. Skype is used by activists worldwide who would not want their IP addresses revealed to oppressive governments.
+Microsoft tells us there is an inherent privacy problem with all Peer-to-peer software, the reaction is outrage or fear, the solution they will propose is to transit all the conversations via their servers, thus making the CISPA infinitely more effective.
+No, they should leave it alone. How are bored internet users gonna spend their time?
+Had a friend of mine go through it. When you first visit it redirects to:
+http://skype-ip-finder.tk/govalidateyourself#%5Bnumbers%5D:%5Bport%5D:%5Bip%5D:%5Bport%5D/
+Basically, it creates a DB of everyone who visits. People who will go there will generally look themselves up, which is added to the DB at the beginning, then it just puts two and two together and makes the entry to the database so that your IP is applied to the username if it doesn't already have an entry (I believe). The flash object in the bottom corner is from .skype.com, and is used in the "About Skype" section of the software, so that's also nothing special.
+Also, as trivia, the server is hosted in Amsterdam and the host IP is malicious:
+http://support.clean-mx.de/clean-mx/viruses.php?ip=94.75.209.182&sort=first%20desc
+Interesting. I can however use it to lookup the IP of other Skype users as well, and the users over at hacker news think it is legit as well.
+You can read author's article as well as comments here (in Russian):
+It's probably legit. Presumably the site simply implements the scheme presented in this 2011 paper:
+The issue's been known for a while (and Skype isn't the only vulnerable service).
+Is there any known way to add some opacity to this? Last thing I need is a few men in black coats kicking down my door and grabbing my computer based on my router's DHCP table.
+Yea. Put your tinfoil hat on. Should keep the boogies away for a bit anyway
+Each application connected to the network can see your ip.
+Enough of this misinformation ... you are ridiculous ...
+Leaking applications and protocols are bad and therefor should be fixed.
+There are people relying on not being revealed by just their "screen-name" in Skype. I'm not affected and don't care when one would see me IP.
+If they know you are using skype, and they know your IP and open port, injecting software onto your system COULD be more simple as they will be using a trusted application to do so.
+This "unveiling" is just the first step to a huge security issue.
+Martin, I think your IP is not obfuscated on the top part of the last screenshot (left and right of the "Locate" button).
+You state that "There is currently no way of protecting yourself against the lookup of the IP address" and then contradict yourself by going on to say that there is a way --> "The only other option would be the use of a virtual private network or proxy to hide the IP address from users who look it up."
+Why don't you just say "The only way of protecting yourself against the lookup of the IP address is to use a virtual private network or proxy to hide the IP address from users who look it up."?
+You can't protect yourself against the lookup, as the other party is still able to lookup your vpns or proxy's IP address. These usually do not add full anonymity, as law enforcement and other legal parties may still get your real IP after all. I should have worded it more carefully though.
+Does this work to look up a Skype user who is online on Skype but has their Skype status set to "Invisible"?
+This would be interesting to try out. Anyone tested this?
+In the recent past I had set up an skype ID to have video conversation with relatives and out of blue afetr few days of my last conversation with one of them (Out of two contacts) the ring tone sounds to which I responded but there was silence on the other side. I am just curious if I can track down the originating IP and location address of such individuals just to clear my suspicion and block it for ever. I did delete my first skype ID and set up new one this time two new skype ID show up without and contact from my side.
+Martin, speaking of Skype and IM, have you seen this directory? http://www.search-im.com ?
+Notify me of followup comments via e-mail. You can also subscribe without commenting.
+Security Update MS16-023 installs new Get Windows 10 functionality
+This computer will soon stop receiving Google Chrome updates
+Bitrix24 workplace social intranet  now free for unlimited users
+About Ghacks Ghacks is a technology news blog that was founded in 2005 by Martin Brinkmann. It has since then become one of the most popular tech news sites on the Internet with five authors and regular contributions from freelance writers.
+ 2016 gHacks Technology News. All Rights Reserved.

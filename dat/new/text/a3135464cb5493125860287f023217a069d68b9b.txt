@@ -1,0 +1,18 @@
+LinkedIn's iPhone App Sparks Latest Privacy Controversy Over Mobile Devices
+LinkedIn's iPhone App Sparks Latest Privacy Controversy Over Mobile Devices
+Security researchers have discovered a feature on LinkedIn's iPhone and iPad app that sends detailed information from users' calendars to the company's servers without their knowledge or consent.
+If iPhone users "opt-in" to the app's calendar feature, the app automatically sends all of users' calendar entries within a five-day time frame to LinkedIn's servers, researchers say. This can include the subject, time and location of meetings as well as the names and email addresses of the meeting organizer and attendees. It can also include meeting notes, "which tend to contain highly sensitive information such as conference call details and passcodes," Yair Amit and Adi Sharabani, researchers at Skycure Security, said in a blog post Tuesday. As an example, they said users may create a "financial results" meeting on their calendar and it would be sent to LinkedIn's servers.
+The manner in which the app transmits sensitive data is a possible violation of Apple's privacy guidelines, the researchers said.
+"We are concerned by the fact it collects and sends-out sensitive information about its users, without a clear indication and consent," the researchers said. They were scheduled to present their findings at a cybersecurity conference Wednesday at Tel-Aviv University.
+In a blog post Wednesday responding to the findings, Joff Redfern, head of mobile products at LinkedIn, said the app's calendar feature will no longer send data from meeting notes to the app's servers. He said that the changes would be available soon and that the company has added a link so users can learn more about how the calendar data is used.
+Redfern said LinkedIn syncs its app's calendar feature with the calendar on users' mobile devices so that people can see the LinkedIn profiles of people they are about to meet. He noted that the company asks users' permission before accessing their calendars and that people can opt-in to the feature. Information from users' calendars is sent securely and not shared or stored on its servers, he said.
+"Its a great feature," Redfern said. "We hope you try it out. If at any time you decide its not for you, then you can always go to the mobile apps settings page to turn off the calendar feature."
+The researchers' findings are the latest controversy surrounding mobile apps leaking sensitive data without users' knowledge.
+In February, a programmer in Singapore revealed that Path, a popular new social networking app for the iPhone, was uploading users' address books to its servers without users' knowledge. Path later released a new version of the app that asks for permission before uploading the information, acknowleding in a blog post, "We made a mistake."
+In December, a researcher found hidden software installed on smart phones called Carrier IQ that logged text messages, Google searches and phone numbers from about 150 million smart phones and reported them to mobile phone carriers. The researcher's findings sparked calls for investigation in Congress and resulted in a class-action lawsuit against the software's maker, Carrier IQ Inc., based in Mountain View, Calif.
+Enter your email address to get top stories and blog posts emailed to you each day.
+Enter your email address to get top stories and blog posts emailed to you each day.
+Get top stories and blog posts emailed to me each day.
+Newsletters may offer personalized content or advertisements.
+LinkedIn's iPhone App Sparks Latest Privacy Controversy Over Mobile Devices
+"The Huffington Post" is a registered trademark of TheHuffingtonPost.com, Inc.

@@ -1,0 +1,17 @@
+Court Orders Google To Delete SearchSuggestions that Violate Privacy - SPIEGEL ONLINE
+>Court Orders Google To Delete SearchSuggestions that Violate Privacy
+'Autocomplete' Privacy Violations: Court Orders Google To Delete Results
+A German court ruled Tuesday that Google's "Autocomplete" feature on search terms violates privacy laws in some cases. The company has been ordered to remove any suggestions that violate the rules. An entrepreneur sued after the algorithm linked him with Scientology.
+A Google auto-search for Bettina Wulff, the former German first lady.
+In a significant ruling against Google on Tuesday in Germany, the country's Federal Court of Justice ordered that the search engine giant must remove recommended search results created by its "Autocomplete" function if they are deemed to violate an individual's right to privacy. The feature is notorious in Germany after it began suggesting results for the wife of former German President Christian Wulff suggesting she might have been a prostitute or had an affiliation with a red-light district.
+In the court's words, the company is not obligated to review the software-generated suggestions in advance. The company would only be held liable once it had knowledge of an illegal violation of a person's privacy rights. Google would then be required to remove the objectionable terms from the automated suggestions.
+With its decision, the court overturned an earlier ruling by the Cologne Higher Regional Court, and sent the case back for further review. The case was not centered on Bettina Wulff, but rather an entrepreneur whose name had automatically been associated with the terms "Scientology" and "swindle" by the search engine's Autocomplete feature.
+In his case, the plaintiff sought to have Google prohibited from connecting his name on its search engine with those terms. Last year, the Cologne court rejected his case and ruled in Google's favor. The Internet giant had argued that search suggestions merely reflect the searches conducted by users of its service.
+Although not directly connected to Bettina Wulff, who has since separated from her husband, the ruling is expected to have an impact on her case, which had been delayed because of the current proceedings. Google first implemented the Autocomplete function in its search engine in 2009. When users begin to type in a search phrase, Google automatically suggests possible endings for the search term to save them time and also show what terms are trending.
+Reproduction only allowed with the permission of SPIEGELnet GmbH
+Find out how you can reprint this SPIEGEL ONLINE article.
+Google's Lobby Offensive: Internet Giant Builds Web of Influence in Berlin (09/25/2012)
+Blaming the Algorithm: Defamation Case Highlights Google's Double Standard (09/10/2012)
+AutocompletingBettina Wulff: Can a Google Function Be Libelous? (09/20/2012)
+Sign up for our newsletter -- and get the very best of SPIEGEL in English sent to your email inbox twice weekly.
+I agree to receive information about products from SPIEGEL-Verlag and manager magazin Verlagsgesellschaft (e.g. magazines, books, subscription offers, online products and events) with no obligation by email. I understand that I may repeal my consent at any time.

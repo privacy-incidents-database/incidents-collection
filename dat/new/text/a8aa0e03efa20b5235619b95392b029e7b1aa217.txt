@@ -1,0 +1,23 @@
+Botched database leaks records for 191 million voters
+DARPA christens its anti-submarine drone ship 'Sea Hunter'
+Hackers hijack radio stations to air a furry podcast
+EU court says linking to copyrighted material isn't illegal
+Hackers hijack radio stations to air a furry podcast
+Botched database leaks records for 191 million voters
+If you've voted in the US since 2000, there's a chance your personal info is out in the wild.
+Did you vote in a US election sometime this century?
+Researcher Chris Vickery has discovered that a badly configured database exposed the voter registration info for 191 million Americans, including addresses, party affiliations and state voter IDs.
+It's not clear who originally managed the data, but Vickery and Databreaches.net are reaching out to everyone from online services to Congressional political action committees.
+The two are also contacting law enforcement in hopes of shutting down the leak, although it's not certain that officials are taking action.
+The consequences of this database falling into the wrong hands could be severe, as you might have guessed.
+Less-than-scrupulous marketers and political campaigns could exploit the data, and criminals could combine it with other info to commit fraud or theft.
+It's a particularly big problem for people who need to keep their details secret, such as stalking victims and police.
+Beyond this, the leak illustrates the need for stricter, consistent security standards around voter data -- while states like California and South Dakota have sharp limits on where records go and what they're used for, other states (including Alaska, Arkansas and Colorado) have no real restrictions.
+There's a real possibility that this kind of incident could happen again.[Image credit: Getty Images]
+A Japanese firm claims it developed an artificial tongue as accurate as a human's.
+NASA's resurrected telescope seeks wandering planets
+Kepler will use "gravitational lensing" to spot Milky Way exoplanets.
+IKI (I Knew It) lets you prove when you decided something was going to happen.
+Google makes building apps easier with Android Studio 2.0
+"Developing on the official Android Emulator is faster than a real device."
+Ribose could form in space despite the harsh conditions.

@@ -1,0 +1,20 @@
+Windows 10 November update was pulled for forgetting privacy settings; its now back | Ars Technica
+Windows 10 November update was pulled for forgetting privacy settings; its now back
+Four privacy settings were reset to their defaults when upgrading Windows 10.
+The mystery behind the removal of the Windows 10 November Update, version 1511, has been revealed. Last week Microsoft received reports that, when upgrading from the Windows 10 July release to the November update, four privacy-related settings were getting reset to their default values. Concerned that there might be a significant problem, Microsoft removed the November Update from Windows Update for existing Windows 10 users and also removed the updated Media Creation Tool used to create install media.
+When upgrading from the initial Windows 10 release to the new version, four settings (whether to allow apps to use a unique advertiser ID, which apps are allowed to run in the background, whether Smartscreen Web filtering is enabled, and whether settings sync between devices) were reverted to their defaults, as if a fresh Windows installation had been performed. While for most users this made no difference, for those who'd disabled those features previously, the upgrade would silently revert those choices.
+Oddly, upgrading from Windows 7 or 8 to Windows 10 wasn't affected, and the November Update was still being rolled out over Windows Update to people upgrading from those operating systems. Only those already on Windows 10 were affected.
+Microsoft has now fixed the upgrade/installation process to properly preserve these settings, and the November Update has once more been made available to Windows 10 users through Windows Update. The updated Media Creation Tool has also been restored, re-enabling clean installs of version 1511. The company has also published a knowledge-base article describing the issue and which settings are affected, so any Windows 10 users who have already installed the November Update can double-check their settings and re-establish their preference if necessary.
+In light of some of the other bugs that have been found in the November update, it seems a little surprising that Microsoft would pull it for something that seems so minor. However, the company has been under fire for privacy issues around Windows 10; this kind of vigorous reaction to even a minor privacy concern feels like an attempt to try to restore some of the lost trust and demonstrate that the company really does care about privacy.
+/ Peter is Technology Editor at Ars. He covers Microsoft, programming and software development, Web technology and browsers, and security. He is based in Brooklyn, NY.
+OK, panicnewly evolved ransomware is bad news for everyone
+Crypto-ransomware has turned every network intrusion into a potential payday.
+A group of researchers found out and advanced the field of robot interaction design.
+To power its rocket of the future, NASA turns to 1950s technology
+Heres where you can try out the HTC Vive without spending $800
+Biologists start sharing unpublished workoh, the horror!
+ER docs get heart rate info from Fitbit, save patients life
+Oculus brings real (and pervasive) data-mining to virtual reality
+EU-US Privacy Shield may not pass muster, according to leaked extract
+Use of this Site constitutes acceptance of our User Agreement (effective 1/2/14) and Privacy Policy (effective 1/2/14), and Ars Technica Addendum (effective 5/17/2012)
+The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond Nast.

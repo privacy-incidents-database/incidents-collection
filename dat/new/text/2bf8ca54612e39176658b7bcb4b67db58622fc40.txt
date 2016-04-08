@@ -1,0 +1,16 @@
+Facebook Security Flaw Publicizes Private Chats - The New York Times
+The security flaw allowed users to see active chats and friend requests on a friends pages.
+Including new information about the security flaw and adding comment from Facebook.
+8:10 p.m. | 2nd Update Read our latest story on the Facebook privacy flaw: Glitch Heightens Facebook Privacy Concerns
+A security flaw was discovered on the Facebook Web site early Wednesday morning that enabled users to see private chats taking place between friends. Another security issue allowed users to see their online friends pending social requests.
+reported by TechCrunch, ismade visible through a Preview My Profile function on a users privacy page, which has beenavailablesince September 2008.
+Barry Schnitt, director of policy communications at Facebook, said the bug was live for a few hours and had nothing to do with the changes from April 21 during the companys latest developers conference.
+Facebook did not notify individual users who had been subjected to the privacy flaw, although Mr. Schnitt said, We did notify people via the Facebook page (http://www.facebook.com/facebook).
+The chat feature is currently disabled on the site while the company works to rectify thesituation.
+In a statement sent to The New York Times and other press outlets, Facebook said it was aware of the bug and working to fix it:
+For a limited period of time, a bug permitted some users chat messages and pending friend requests to be made visible to their friends by manipulating the preview my profile feature of Facebook privacy settings. When we received reports of the problem, our engineers promptly diagnosed it and temporarily disabled the chat function. We also pushed out a fix to take care of the visible friend requests, which is now complete. Chat will be turned back on across the site shortly. We worked quickly to resolve this matter, ensuring that once the bug was reported to us, a solution was quickly found and implemented.
+Facebook has been under heavy scrutiny for its latest privacy settings since the company announced its new Connections feature last month at f8, its yearly developer conference. At the time, Facebook also made changes to its privacy policy and privacy settings. Since then, the company has drawn heavy criticism from consumer watchdogs and government officials.
+The Electronic Frontier Foundation, an online civil liberties group, has been highly critical of the sites newest features. In a blog post last week, the E.F.F. said Facebooks latest changes to the site reduce control of an individuals personal
+information and dont offer an easy opt-out preference for many of the sites latestfeatures.
+In addition, last week, four United States senators, including Charles E. Schumer of New York, asked the Federal Trade Commission to develop a series of privacyguidelinesfor social networking Web sites, specifically citing Facebook, MySpace and Twitter, that would give users a standard level of privacy over their personal information.
+Visit the Technology section for complete coverage of the industry. 

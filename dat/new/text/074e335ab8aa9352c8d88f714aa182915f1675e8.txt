@@ -1,0 +1,51 @@
+ICO investigating 56 Dean Street clinic for disclosing details of 780 HIV patients in data breach | Computing
+The IT Leaders Forum brings together the senior IT professionals who drive technology decisions within major UK enterprises.
+The Internet of Things presents a huge opportunity for businesses, public authorities and consumers alike. This Computing Summit will explore the benefits and pitfalls of everything the Internet of Things has to offer, including real-world example from people at the cutting edge of the movement.
+These annual awards celebrate the achievements of the technology vendors and service providers who are leading the field of enterprise IT with innovative products, services and solutions that underpin and drive success in both business and public sector organisations.
+Only the most agile enterprise stands a chance in todays ever-changing business environment. To be successful they need to become far more innovative whilst greatly improving velocity which can be achieved by bringing together the areas of DevOps and Business Process Management.
+Sign up to receive email alerts about our eventsSign up
+This Computing review looks at why small businesses need to stop being complacent about their networks and at what they can do to maintain their competitive edge as they follow the big players down the route of increasing collaboration and improving performance. Download your copy to learn more.
+Hybrid Cloud: What it really means to the future of enterprise IT
+In the vast majority of enterprise data centres, cloud-like architectures are taking root. Risk-averse enterprise IT professionals are understandably cautious about moving their entire IT portfolio of resources and services to a 100% architecture. Many IT professionals advocate a "hybrid" approach.
+Access your subscription from outside of the office
+Get relevant news and insight straight to your inbox
+Access your subscription from outside of the office
+Get relevant news and insight straight to your inbox
+ICO investigating 56 Dean Street clinic for disclosing details of 780 HIV patients in data breach
+56 Dean Street clinic reveals names and contact details of HIV patients in mass email
+A data breach at of the leading sexual health clinics in Britain has revealed the names and contact details of almost 800 HIV positive patients.
+The 56 Dean Street clinic in London, part of the Chelsea and Westminster NHS Trust, accidentally disclosed the information when an email newsletter for the clinic's Option E online service was sent out en masse, rather than to individual recipients.
+ICO fines sexual health clinic 250 for data breach
+ICO investigates illegal data sharing in charity sector
+Names and email addresses of the 780 recipients of the list were not hidden in the email. The incident represents a massive breach of patient privacy.
+The privacy breach is suspected to be one of the biggest of its kind and is already being investigated by the Information Commissioner's Office (ICO).
+"We are aware of an incident regarding the 56 Dean Street clinic and are making enquiries" an ICO spokesperson told Computing.
+The clinic has already stated that it is examining how the breach occurred, with a "human mistake" thought to be the cause.
+56 Dean Street clinic has apologised to patients affected by the breach and set up a helpline to aid those who have had their privacy breached.
+"I'm writing to apologise to you. This morning at around 11.30am at we sent you the latest edition of OptionE newsletter," Dr Alan McOwan, Chelsea and Westminster hospital NHS Trust's director for sexual health wrote in an email to patients.
+"This is normally sent to individuals on an individual basis but unfortunately we sent out today's email to a group of email addresses. We apologise for this error," he said.
+"We recalled/deleted the email as soon as we realised what had happened," Dr McOwan continued, adding "If it is still in your inbox please delete it immediately."
+"Clearly this is completely unacceptable. We are urgently investigating how this has happened and I promise you that we will take steps to ensure it never happens again. We will send you the outcome of the investigation," he concluded.
+Complaints about the breach have already been made to the NHS patient advice and liaison service on behalf of those who've been affected.
+"This is serious breach of data protection. There are several names I recognise from the list, and while I am of course being discreet, I am not sure I trust every other person on the list to do the same," Elliot Herman from London wrote in an email of complaint seen by The Guardian.
+"I feel bad making this complaint, because I have a great deal of respect and admiration for the excellent service provided by the clinic and my own doctor, Alan McOwan, who has always provided superb clinical care. I have never had cause to complain in the past. However, I feel this is important enough to bring to official attention," he added.
+ICO granted new powers to audit NHS organisations for data protection
+ICO to examine data protection and privacy implications of connected medical devices
+How Barclays data scientists created an algorithm to anonymise data at scale
+Investigatory Powers Bill: Opposition largely abstains in second reading - UPDATED
+Bill Gates calls for tighter safeguards on bulk data collection
+Facebook, Wikipedia and the dark future of zero-rated content
+Investigatory Powers Bill fails to address key flaws raised by critical Parliamentary reports
+The FBI's spat with Apple is of major significance to privacy
+University of Greenwich exposes students' personal details in data privacy breach
+BBC ditches Steria and picks IBM to overhaul payroll and finance tech
+Corporation hopes to embrace mobile working and better analytics on financial transactions
+Councils share 560k of funding for big data and digital schemes
+The funding will go towards IT projects that can be reused by other councils in the future, says Local Government Association
+Hacking Team's export licence revoked by Italian government
+Please enable JavaScript to view the comments powered by Disqus.
+bet365 in hunt for 70 developers and information security specialists
+John Lewis unveils Internet of Things-based department at flagship store
+Google reveals its shift to an open security architecture
+Hacking Team's export licence revoked by Italian government
+ Incisive Business Media (IP) Limited, Published by Incisive Business Media Limited, Haymarket House, 28-29 Haymarket, London SW1Y 4RX, are companies registered in England and Wales with company registration numbers 9177174 & 9178013

@@ -55,11 +55,13 @@ def read_urls(file):
                 print "this file is already in json."
                 continue
             url = input_json[file_entry]["url"]
-            if "nytimes" in url:
+            if "nytimeeees" in url:
                 handle_ny_times(url)
                 break
             else:
                 name, result_dic = handle_others(url, file_entry)
+                if len(result_dic) == 0:
+                    continue
                 new_keyword_dic.update(result_dic)
                 new_file_dic[name] = {}
                 new_file_dic[name]["type"] = input_json[file_entry]["type"]

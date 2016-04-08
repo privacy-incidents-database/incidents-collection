@@ -1,0 +1,44 @@
+Four McLean Hospital backup data tapes go missing, thousands affected - SC Magazine
+Cybersecurity being overlooked by American universities: Report
+Reports find high security risks among policies for third-party vendors
+German police arrest two in cybergang investigation, including main suspect
+Huge data breach leaves details of 55 million Filipino voters exposed to hackers
+Will White House, currently mulling bill, remain mum on encryption?
+DHS issues three advisories warning of vulnerabilities in Industrial Control Systems
+Report: 14% of doctors keep patient data on cell phones, don't use password
+A new report found 28 percent of doctors store patient data on their cell phones, and 80% of doctors use a mobile device as a tool to assist their daily practice.
+A former executive was arrested in San Francisco on charges of stealing trade secrets after learning his job with a video game company might not be secure
+Four McLean Hospital backup data tapes go missing, thousands affected
+Four McLean Hospital backup data tapes go missing, thousands affected
+Massachusetts-based McLean Hospital is notifying about 12,600 individuals that their personal information was on four unencrypted backup data tapes related to the Harvard Brain Tissue Resource Center (HBTRC) that have gone missing.
+What type of personal information? Names, dates of birth, diagnoses and Social Security numbers.
+What happened? The personal information was on four unencrypted backup data tapes related to the HBTRC that have gone missing.
+What was the response? McLean Hospital has implemented encryption of all new backup tapes going forward, as well as enhancements to its process for handling and storage of HBTRC backup data tapes. All affected individuals are being notified.
+Details: McLean Hospital learned of the incident on May 29. The backup data tapes contained information on individuals associated with the HBTRC in various capacities, including deceased tissue donors, individuals who registered as potential donors and their family members. McLean Hospital said specialized software, equipment and technical expertise would be required to access the information on the tapes.
+Quote: Although to date, we have been unable to locate the missing backup data tapes, we have no reason to believe that any of the information on the tapes has been accessed or used inappropriately, a notification posted to the McLean Hospital website said.
+Source: mcleanhospital.org, McLean Hospital Notifies Research Participants of a Privacy Incident, July 28, 2015.
+Hundreds of Massachusetts General Hospital patients notified of data incident
+PagerDuty requires password change for all customers following breach
+Data on 5,300 Healthfirst members caught up in fraud scheme
+UCLA Health attacked, data on up to 4.5 million individuals at risk
+Orlando Health employee improperly accesses patient medical records
+You must be a registered member of SC Magazine to post a comment.
+PagerDuty requires password change for all customers following breach
+Will the Panama Papers change legal firms' cyber practices?
+UPDATE: Petya ransomware leverages Dropbox and overwrites hard drives
+IT depts. suffering from 'patch fatigue,' study says
+W-2 Data Breach places 21K Sprouts Farmers Market employees at risk
+Hacker picks 1-800-FLOWERS' customers credit card info
+Huge data breach leaves details of 55 million Filipino voters exposed to hackers
+10% of IT pros never change their admin credentials
+Will White House, currently mulling bill, remain mum on encryption?
+DHS issues three advisories warning of vulnerabilities in Industrial Control Systems
+Kentucky State University was hit with a data breach on March 22 when an employee, responding to an email supposedly from the school's president, sent off W-2s for employees and ...
+3,000 Tidewater Community College workers victimized in W-2 scam
+Tidewater Community College (TCC) in Norfolk, Va., reported the tax information of all its employees was hijacked in a spear phishing scam.
+Attacker compromises information of 250K in Bailey's data breach
+Outdoor equipment retailer Bailey's Inc. notified its customers their information may have been compromised for more than four years.
+SC Magazine arms information security professionals with the in-depth, unbiased business and technical information they need to tackle the countless security challenges they face and establish risk management and compliance postures that underpin overall business strategies.
+Copyright  2016 Haymarket Media, Inc. All Rights Reserved
+This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.
+Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms & Conditions.

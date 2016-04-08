@@ -1,0 +1,22 @@
+Cyberattackers have breached the servers of the United States' second-largest health insurer, Anthem, Inc. (formerly WellPoint), and stolen the records of tens of millions of individuals. The stolen data includes full names, birth dates, medical IDs, Social Security numbers, physical addresses, email addresses and employment histories  more than enough information to open fraudulent bank or credit-card accounts.
+Between the types of customer information that was stolen, and the sheer volume of records involved, the Anthem breach looks to be quite serious. If you think you may have been affected in this data breach, read on to see what you can do to protect yourself from identity theft.
+Though the thieves made off with a lot of personal information, there's no evidence that they stole medical history, diagnoses or treatments. Credit-card data also does not appear to have been affected. However, Anthem employees' personal information was also included in the stolen data.
+Anthem Inc. has almost 69 million current customers, according to its website, and does business under a variety of different company names. USA Today reported that the affected database contained approximately 80 million patient records, a number that presumably includes former customers.
+The affected Anthem brands, according to a website set up to deal with the breach, include Anthem Blue Cross, Anthem Blue Cross and Blue Shield, Blue Cross and Blue Shield of Georgia, Empire Blue Cross and Blue Shield, Amerigroup, Caremore, Unicare, Healthlink and DeCare.
+The perpetrators are not yet known, but Anthem president and CEO Joseph R. Swedish described the breach as the result of "a very sophisticated external cyber attack."
+The company is now working with the FBI and security company Mandiant, which has become the go-to firm for such incidents, to investigate the breach, Swedish said in a statement.
+Affected Anthem customers will receive email messages confirming that their information was compromised, the company said: "We continue working to identify the members who are impacted. We will begin to mail letters to impacted members in the coming weeks."
+Anthem also said it would offer affected customers some kind of protection services, information on which will be included in the notices. Customers of the affected Anthem divisions can call 1-877-263-7995 for further information.
+In the meantime, current and former Anthem customers should take actions to protect themselves.
+If you think you're affected, contact one of the three major credit-reporting agencies  Experian, TransUnion and Equifax  and ask the agency to place a free credit alert on your file. (Whichever one you contact will then notify the other two). These alerts, which last for 90 days but can be renewed indefinitely, will notify you if anyone tries to run a credit check on you or open an account in your name.
+If you do discover that someone has fraudulently opened an account in your name, first file a police report. It may seem pointless, but it's actually a crucial legal step. Next, contact the credit-reporting agencies, describe what happened and ask for a credit freeze, which will halt any activity on your accounts without your explicit consent. (Credit freezes can severely complicate your financial life, but if your identity's already been stolen, you've got bigger problems.)
+If you think you're in the clear, there's still something you ought to do: Request a free credit report every year from each of the three credit-reporting agencies, which will help you keep an eye on your records. If you stagger out the requests, you can get a new report every four months.
+Scariest Security Threats Headed Your Way: Special ReportFree vs. Paid Antivirus: Avira vs. BitdefenderMobile Security Guide: Everything You Need to Know
+Jill Scharr is a staff writer for Tom's Guide, where she regularly covers security, 3D printing and video games. You canfollow Jill on Twitter@JillScharrand onGoogle+.Follow us@tomsguide,onFacebookand onGoogle+.
+Create a new thread in the Antivirus / Security / Privacy forum about this subject
+Samsung NX500: Flagship Camera Specs, Mid-Range Price
+HTC 10 Rumors: What We've Heard About HTC's Next Phone
+LG Signature G6 OLED 4K TV Review: The Best Gets More C...
+Trending: Superman Shills Smartphones, The Best Game Bo...
+This Kitchen Tablet Is Ready to Make Cooking More Fun
+Copyright  2016 Purch Group, Inc. All Rights Reserved

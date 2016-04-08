@@ -1,0 +1,27 @@
+The Electronic Frontier Foundation (EFF) has raised concerns about the latest version of AOL Instant Messenger (AIM), an application used for sending and receiving instant messages on Macs, PCs and portable devices, including iOS devices. According to the EFF:
+The new preview version of AOL Instant Messenger raised privacy concerns for us when it was first introduced, first because it started storing more logs of communications and second, because it apparently scanned all private IMs for URLs and pre-fetched any URLs found in them.
+The EFF met with AOL to discuss these issues, but in a recent blog post, they said:
+...we still recommend that AIM users do not switch to the new version, as it introduces important privacy-unfriendly features.
+Mac users may not be aware, but when they use iChat, they are using AOL Instant Messenger. Apple's iChat uses AOL's servers to connect Mac users. Here's a screen shot of the Server Settings tab in iChat's Accounts preferences; you can see that the server used is an aol.com server:
+The biggest privacy issue with the latest version of AIM is that it logs your chats for up to two months, or potentially indefinitely. While this may not be a serious issue for most users, data breaches could allow malicious users to obtain such logs which might contain personal information, phone numbers, passwords and more. In addition, "your private conversations are now available to, for instance, law enforcement agents with a warrant or a national security letter (In other words, be careful what you send by iChat.)
+In addition to this, those people you chat with who are not using AIM may not be aware that their chats are being logged. While the new AIM will warn users the first time you initiate a chat, if you are using the new version of AIM, and there is option for the person using the new AIM to turn off logging, this is unclear, and inconsistent. Macworld's Dan Miller wrote about this recently, pointing out that after he deleted the new version of AIM, these messages persisted, and it wasn't at all clear whether chats were indeed being logged or not. It seems that once you log into your iChat account with the new AIM, this logging is turned on, and you simply cannot turn it off.
+You cannot go "off the record" if you are using an alternative client like iChat or Pidgin, or if you switch back to an earlier version of AIM. And if the other participant in the chat is not using the new AIM, that person cannot toggle the conversation off the record, such that it is not stored by AOL. Finally, there is no off the record mode for the new group chat feature at all. All group chats on AIM will be logged.
+Another element of the new AIM is that the program scans all URLs in chats, in order to attempt to embed photos or videos in chat windows. Even if these links don't lead to photos or videos, they are scanned and stored in logs. Yet this, too, cannot be turned off. The EFF says that, "it does not look like there will be a way to permanently opt out of the link downloading behavior." It addition, "Since conversations can only be marked "off the record" from inside the new AIM, users of older versions or alternate clients will always be prone to having some of the links they send scraped, even though they wont see them rendered."
+Finally, the EFF points out that users were not warned about this URL fetching service, and are not given an option to turn it off. As with many such privacy changes, it is best to inform users of what is changing and offer them a chance to opt in to the new features. AOL has not done so, and most users are not aware of what is happening. Users should carefully consider whether they want to install the new AIM. iChat users won't see any changes on their end, but their contacts who do have the new AIM installed will cause chats with them to be logged.
+The EFF's final verdict is clear: "Because signing onto the new version of AIM permanently changes your account settings to log all conversations to AOLs servers by default, we recommend that existing AIM users do not upgrade."
+This entry was posted in Security & Privacy, Software & Apps and tagged AIM, iChat, privacy. Bookmark the permalink.
+This Home VPN Router Setup Protects Your Traffic Wherever You Are
+Want to Buy a Secondhand iPhone? Here's How to Check if it was Stolen
+Setting Up a New Mac: Should You Migrate or Do a Clean Installation?
+iOS Crash Report? Don't Be Fooled by iPhone/iPad Scammers
+Mac Users Hit by Rare Ransomware Attack, Spread via Transmission BitTorrent App
+The Evolution of Mac OS X Security and Privacy Features
+10 Years of Mac Malware: How OS X Threats Have Evolved [Infographic]
+How to Use Apples Find My iPhone to Find and Wipe Your Device
+OS X Security: Under the Hood Features That Protect Your Mac
+Timeline of Key Features Added to Every Mac OS X Release to Date
+Apple Updates OS X El Capitan, Issues Security Update 2016-002
+Safari 9.1 Closes Security Hole That May Leak Sensitive Data
+Microsoft Issues Office 2011 14.6.2 Security Update
+Enter your email address below to start receiving the best Mac Security Updates.
+{"url":"\/marketo\/json\/add-to-newsletter","data":"list_name=Blog Roadblock"}
