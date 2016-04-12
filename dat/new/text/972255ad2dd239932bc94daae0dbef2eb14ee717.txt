@@ -36,23 +36,21 @@ Facebook has been made the center of attention around a really important issue o
 This article has been revised to reflect the following correction:Correction: May 10, 2010An article on Thursday about Facebook users privacy concerns referred incorrectly to the type of information the site uses to customize advertising for individual users. It uses both public and private information on the users profile page, not public information alone.
 A version of this article appeared in print on May 6, 2010, on page B1 of the New York edition.
 ADVERTISING; Industry Tightens Its Standards For Tracking Web Surfers(July 2, 2009)Facebook to Offer New Features to Allow Users to Control Privacy of Information(July 2, 2009)Lost in the Real World, Found via Cyberspace(April 8, 2009)DIGITAL DOMAIN; When Everyone's a Friend, Is Anything Private?(March 8, 2009)
-Tech Fix: Virtual Reality Check: Rating the HTC Vive and the Oculus Rift
-Gadgetwise: How to Switch to iPhone From Android: Patience and Persistence
-Bridging a Digital Divide That Leaves Schoolchildren Behind
-Reddit Steps Up Anti-Harassment Measures With New Blocking Tool
-Tech Tip: Adding Links to the Windows 10 Start Menu
-Tech Tip: Taking Control of the Windows 10 Control Panel
-State of the Art: Car-Pooling Helps Uber Go the Extra Mile
-Facebook Moves to Ban Private Gun Sales on Its Site and Instagram
-Gadgetwise: How to Switch to iPhone From Android: Patience and Persistence
-Reddit Steps Up Anti-Harassment Measures With New Blocking Tool
-App Smart: What the Apple Watch Does, One Year Later
-Tech Fix: Virtual Reality Check: Rating the HTC Vive and the Oculus Rift
+Bits: Billing by Millionths of Pennies, Cloud Computings Giants Take In Billions
 Tech Fix: Tips and Myths About Extending Smartphone Battery Life
-Yahoo Paints Grim Financial Picture as Deadline for Bids Nears
+Intuit Sheds Its PC Roots and Rises as a Cloud Software Company
+U.S. Textile Industry Turns to Tech as Gateway to Revival
+F.B.I. Clash With Apple Loosed a Torrent of Possible Ways to Hack an iPhone
+Apple Policy on Bugs May Explain Why Hackers Would Help F.B.I.
+Bits: Billing by Millionths of Pennies, Cloud Computings Giants Take In Billions
+Tech Fix: Tips and Myths About Extending Smartphone Battery Life
+Intuit Sheds Its PC Roots and Rises as a Cloud Software Company
+U.S. Presses Bid to Force Apple to Unlock iPhone in New York
+App Smart: What the Apple Watch Does, One Year Later
+U.S. Textile Industry Turns to Tech as Gateway to Revival
 Website Seeks to Make Government Data Easier to Sift Through
-Tech Tip: Adding Links to the Windows 10 Start Menu
 Amazon May Violate Indias New Rules on Foreign E-Commerce
+Bits: The Week in Tech: Facebook Live, a More Civil Reddit and Yahoos Odd Deal-Making
 Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
 New York Citys top public schools must become more diverse.
 campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_personalized_isEDU_cookie_dropper -- 401071, page: www.nytimes.com/yr/mo/day/technology/internet/06facebook.html, targetedPage: www.nytimes.com/yr/mo/day/technology/internet, position: Inv1

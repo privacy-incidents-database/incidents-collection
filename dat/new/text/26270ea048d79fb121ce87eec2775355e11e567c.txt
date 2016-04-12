@@ -1,5 +1,4 @@
 A shock in the dark: Flashlight app tracks your location
-Watch Live: Deadly Shooting at Joint Base San Antonio in Texas
 A shock in the dark: Flashlight app tracks your location
 The element of surprise causes hard feelings when it comes to privacy violations, and mobile phone apps are ambushing consumers far too often, according to researchers at Carnegie Mellon University.
 Researchers at the school's Human-Computer Interaction Institute studied both the data gathered by the 100 most popular programs in Google's Android app store, and how surprised users were when told what the apps were doing. On Tuesday they released a list of the 10 worst offenders in terms of transparency.

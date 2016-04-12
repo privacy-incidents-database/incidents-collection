@@ -43,8 +43,5 @@ This would be interesting to try out. Anyone tested this?
 In the recent past I had set up an skype ID to have video conversation with relatives and out of blue afetr few days of my last conversation with one of them (Out of two contacts) the ring tone sounds to which I responded but there was silence on the other side. I am just curious if I can track down the originating IP and location address of such individuals just to clear my suspicion and block it for ever. I did delete my first skype ID and set up new one this time two new skype ID show up without and contact from my side.
 Martin, speaking of Skype and IM, have you seen this directory? http://www.search-im.com ?
 Notify me of followup comments via e-mail. You can also subscribe without commenting.
-Security Update MS16-023 installs new Get Windows 10 functionality
-This computer will soon stop receiving Google Chrome updates
-Bitrix24 workplace social intranet  now free for unlimited users
 About Ghacks Ghacks is a technology news blog that was founded in 2005 by Martin Brinkmann. It has since then become one of the most popular tech news sites on the Internet with five authors and regular contributions from freelance writers.
  2016 gHacks Technology News. All Rights Reserved.

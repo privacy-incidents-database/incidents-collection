@@ -1,6 +1,6 @@
 The 15 worst data security breaches of the 21st Century | CSO Online
+GDPR explained: What you need to know about the EU's data protection rules
 How to build cybersecurity into outsourcing contracts
-Salary Survey 2016: How does your compensation stack up?
 The 15 worst data security breaches of the 21st Century
 Why and how does AOL still exist...and earn money!?
 Sony Corp's Executive Deputy President Kazuo Hirai speaks at a news conference to apologise for a massive security breach of its PlayStation Network in Tokyo May 1, 2011.
@@ -12,21 +12,25 @@ A federal grand jury indicted Albert Gonzalez and two unnamed Russian accomplice
 There are conflicting accounts about how this happened. One supposes that a group of hackers took advantage of a weak data encryption system and stole credit card data during a wireless transfer between two Marshall's stores in Miami, Fla. The other has them breaking into the TJX network through in-store kiosks that allowed people to apply for jobs electronically. According to KNOS Project cofounder and chief architect Kevin McAleavey, this was possible because TJX's network wasn't protected by any firewalls. Albert Gonzalez, hacking legend and ringleader of the Heartland breach, was convicted and sentenced to 40 years in prison, while 11 others were arrested.
 Impact: Exposed names and e-mails of millions of customers stored in more than 108 retail stores plus several huge financial firms like CitiGroup Inc. and the non-profit educational organization, College Board.
 The source of the breach is still undetermined, but tech experts say it could lead to numerous phishing scams and countless identity theft claims. There are different views on how damaging the Epsilon breach was. Bruce Schneier, chief security technology officer at BT and a prolific author, wrote in a blog post at the time that, "Yes, millions of names and e-mail addresses (and) other customer information might have been stolen. Yes, this personal information could be used to create more personalized and better-targeted phishing attacks. So what? These sorts of breaches happen all the time, and even more personal information is stolen." Still, Kevin McAleavey of the KNOS Project says the breach is being estimated as a $4 billion dollar loss. Since Epsilon has a client list of more than 2,200 global brands and handles more than 40 billion e-mails annually, he says it could be, "the biggest, if not the most expensive, security breach of all-time."
-Insider: 5 ways to kickstart your infosec job search in 2016
+Insider: Survey: With all eyes on security, talent shortage sends salaries sky high
 Be the first to comment on this article. Our Commenting Policies
-A security consultant lays out various scenarios in hopes you are not the next victim.
-iPhone hack turns mobile forensics firm into the biggest name in cybersecurity
+A mystery shopper scam targeting Walmart customers, which has been around since at least 2011, has...
+Incident response teams dealing with 3 to 4 Ransomware incidents weekly
+LA Times said to be compromised, shell access offered up for sale
 Newsletters Get the latest security news and analysis.Sign up for our CSO Update newsletter
-5 security bad habits (and easy ways to break them)
-Your end-users are often the weakest link in your organization's security strategy. Here are five...
-Flaw in popular door controllers allow hackers to easily unlock secure doors
-A flaw in door controllers made by HID Global could allow hackers to unlock secure doors over the...
+Patching, backups, firewall configuration  when it comes to security, make sure you take care of your...
+Kinder, gentler hacks: A bevy of low-stakes early computer breaches
+Today, IT security is a deadly serious business. But in the early days of computing, the stakes were a...
 The cloud  is it more secure than my organization?
-50 Cloud Questions You Should Ask Before Selecting a Cloud Provider
-Law firms and other professional services providers, such as financial investment advisors, are seen to...
-An open-source project dedicated to cataloguing a huge range of computer security flaws has closed its...
-Law firms and other professional services providers, such as financial investment advisors, are seen to...
-But what about when the zero-day attack is in the form of a...
+A New Way To Work : Collaborate on Cloud, Web and Mobile in ways you've never seen before
+Corporate Recruiters Add Recruitment Marketing and Supportive Tech to their Toolkits
+Every time you access your phone via fingerprint reader, youre using biometric identification...
+Malware is getting nastier, but that shouldnt matter
+Sure, cybercriminals are always improving their wares, but nothing has changed about how our machines...
+Wordpress.com turns on default encryption for hosted domains
+Website hosting platform Wordpress.com will automatically enable HTTPS for all the custom domain names...
+Experts crack Petya ransomware, enable hard drive decryption for free
+Security experts have devised a method that allows users to recover data from computers infected with...
 CSO provides news, analysis and research on security and risk management
 Copyright  1994 - 2016 CXO Media, Inc. a subsidiary of IDG Enterprise. All rights reserved.
 This ad will close in 20 seconds. Continue to site 

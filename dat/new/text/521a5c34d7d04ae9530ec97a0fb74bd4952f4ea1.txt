@@ -13,15 +13,14 @@ This entry was posted in Security & Privacy, Software & Apps and tagged AIM, iCh
 This Home VPN Router Setup Protects Your Traffic Wherever You Are
 Want to Buy a Secondhand iPhone? Here's How to Check if it was Stolen
 Setting Up a New Mac: Should You Migrate or Do a Clean Installation?
-iOS Crash Report? Don't Be Fooled by iPhone/iPad Scammers
 Mac Users Hit by Rare Ransomware Attack, Spread via Transmission BitTorrent App
 The Evolution of Mac OS X Security and Privacy Features
 10 Years of Mac Malware: How OS X Threats Have Evolved [Infographic]
 How to Use Apples Find My iPhone to Find and Wipe Your Device
 OS X Security: Under the Hood Features That Protect Your Mac
 Timeline of Key Features Added to Every Mac OS X Release to Date
+Adobe: Update Flash Player Immediately, Exploit in the Wild
 Apple Updates OS X El Capitan, Issues Security Update 2016-002
 Safari 9.1 Closes Security Hole That May Leak Sensitive Data
-Microsoft Issues Office 2011 14.6.2 Security Update
 Enter your email address below to start receiving the best Mac Security Updates.
 {"url":"\/marketo\/json\/add-to-newsletter","data":"list_name=Blog Roadblock"}

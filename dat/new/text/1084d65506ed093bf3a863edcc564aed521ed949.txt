@@ -1,0 +1,14 @@
+Does antivirus software protect my PC from hackers?
+Antivirus software can protect your machine from certain tools that hackers have been known to use, like Trojan horse programs (designed to steal passwords) that you may get in the form of an e-mail attachment. A hacker trying to break directly into your computer over the Internet, however, can thwart an antivirus program.
+Antivirus software can stop some types of spyware, but not all of it. Spyware is classified as unwanted programs on your computer (installed with or without your knowledge) that can do a number of things including pestering you with unwanted advertising, or even more sinister actions like blocking your access to certain Web sites.
+Adding a dedicated anti-spyware program is another way to strengthen your PCs security. Using a firewall  software that blocks unauthorized access to your computer from Internet intruders  is another way to further shore up defenses. Firewalls also come built into broadband routers, and both Windows and Mac OS X include integrated system firewalls.
+Most programs labeled as Internet security suites include antivirus and antispyware programs, as well as a firewall with more configuration options and other features like parental controls. These software packages typically cost $50 or more, but if money is tight, you can find free alternatives around the Web.
+Microsoft has free antivirus and antispyware programs and plenty of others are listed on the Gizmos Freeware site.
+Sites like onguardonline.gov and getsafeonline.org offer much more information on keeping your computer and your personal information secure.
+Gadgetwise is a blog about everything related to buying and using tech products. From figuring out which gadget to buy and how to get the best deal on it to configuring it once its out of the box, Gadgetwise offers a mix of information, analysis and opinion to help you get the most out of your personal tech.
+All the regular features on the Gadgetwise blog can now be found on the Personal Tech section front. Thank you for reading.Readmore
+FX-Sport VR1 Programmable Personal Trainer Headphones are a smart concept  a pair of headphones with a built-in coach, or virtual competitor. Readmore
+Online file storage services like Dropbox let you share files with people who do not have an account with the company.Readmore
+Q&A: Revealing Your Location (or Not) to Mobile Apps
+Mobile apps may have useful reasons for requesting your location information, while others just want to show you local advertising.Readmore
+Amazons store for Android apps has a Test Drive feature that lets you see an app in action before you buy or download it.Readmore

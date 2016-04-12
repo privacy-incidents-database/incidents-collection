@@ -39,14 +39,13 @@ In fact, I kind of doubt it, just because it would be more efficient (especially
 But would this not would show the results presented in this article while still being end-to-end encryption?
 How can you rule out this scenario from this test?If the local client is reading the info and acting on it, then it's not end-to-end encryption. It is still a MiM scenario, only that the "Middle" is really close to one of the endpoints, a Man at almost the Endpoint attack if you want to name it.
 / Dan is the Security Editor at Ars Technica, which he joined in 2012 after working for The Register, the Associated Press, Bloomberg News, and other publications.
-OK, panicnewly evolved ransomware is bad news for everyone
-Crypto-ransomware has turned every network intrusion into a potential payday.
-A group of researchers found out and advanced the field of robot interaction design.
-To power its rocket of the future, NASA turns to 1950s technology
-Heres where you can try out the HTC Vive without spending $800
-Biologists start sharing unpublished workoh, the horror!
-ER docs get heart rate info from Fitbit, save patients life
-Oculus brings real (and pervasive) data-mining to virtual reality
-EU-US Privacy Shield may not pass muster, according to leaked extract
+The Ars VR headset showdownOculus Rift vs. HTC Vive
+Our tale of the tape comparison makes a first-generation recommendation.
+Ars visited BlueSonic, a local manufacturing facility in Kabul that produces PCs, laptops, mobile phones and computer accessories.
+GOP lawmakers try to limit FCCs ability to help consumers
+Appeals court: Google will have to deal with Mississippi AG investigation
+Pitch black: Fords autonomous cars dont care whether its day or night
+Kepler exits emergency mode, re-establishes full communication
+More big-name sites hit by rash of malicious ads that attack end users
 Use of this Site constitutes acceptance of our User Agreement (effective 1/2/14) and Privacy Policy (effective 1/2/14), and Ars Technica Addendum (effective 5/17/2012)
 The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond Nast.

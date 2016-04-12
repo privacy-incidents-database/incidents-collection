@@ -1,0 +1,17 @@
+A Lie That's Good for Password Security - The New York Times
+The other day, for some inexplicable reason, a Web site that uses responses to personal questions as password protection stopped accepting one of my answers. It just doesnt seem to like this word anymore, the tech assist told me.
+But how many different ways can you answer a question like, What was the first car you owned? Obviously, I couldnt change the first car I owned (unless my current car is a time-traveling DeLorean).
+But she made a brilliant point. Since the Web site doesnt know if my answer is correct, I could put in anything. In fact, she pointed out, a good security tip is to answer incorrectly.
+Her reasoning was this: With so much information out there online, people can pretty easily find things like your mothers maiden name, your pets name, your high school mascot and so forth  all of which are common security questions.
+But wait  wouldnt it be hard to recall the correct passwords if they had nothing to do with the prompts?
+Not necessarily, she said. She gave an example of one gentleman who answered every question with his favorite flavor. So if a site asked him for his mothers maiden name, he would enter something like Butterscotch. Favorite pet? Butterscotch. Elementary school he attended? Butterscotch.
+It makes passwords easy to remember and hard to break. Of course, there is one glaring defect. If someone does get your password, that person has access to every Web site you use.
+I know this is no substitute for a really strong password like one you would get from a random password generator, but realistically, how many of those jumbles can you remember? And as we know, writing them down is a bad practice.
+So while a non sequitur as an answer may not be the ultimate defense, for many it would improve on what they have.
+Gadgetwise is a blog about everything related to buying and using tech products. From figuring out which gadget to buy and how to get the best deal on it to configuring it once its out of the box, Gadgetwise offers a mix of information, analysis and opinion to help you get the most out of your personal tech.
+All the regular features on the Gadgetwise blog can now be found on the Personal Tech section front. Thank you for reading.Readmore
+FX-Sport VR1 Programmable Personal Trainer Headphones are a smart concept  a pair of headphones with a built-in coach, or virtual competitor. Readmore
+Online file storage services like Dropbox let you share files with people who do not have an account with the company.Readmore
+Q&A: Revealing Your Location (or Not) to Mobile Apps
+Mobile apps may have useful reasons for requesting your location information, while others just want to show you local advertising.Readmore
+Amazons store for Android apps has a Test Drive feature that lets you see an app in action before you buy or download it.Readmore

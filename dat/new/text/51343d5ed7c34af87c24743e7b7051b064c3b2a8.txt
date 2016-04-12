@@ -7,18 +7,19 @@ Hackers broke into the internal computer network of Adobe Systems and stole info
 "Based on our findings to date, we are not aware of any specific increased risk to customers as a result of this incident," Arkin said in a separate blog post, adding that Adobe is not aware of any zero-day exploits -- exploits against previously unknown vulnerabilities -- being used to target Adobe products.Arkin credited security journalist Brian Krebs, as well as Alex Holden, chief information security officer of Hold Security, a company that monitors the Internet underground for stolen business data, with helping Adobe respond to the incident.According to Hold Security, more than 40GB of encrypted archives that appear to contain the source code for the Adobe Acrobat and Adobe ColdFusion product lines were found on servers used by cybercriminals who are believed to have also hacked into computer systems of major data brokers Dun and Bradstreet, LexisNexis and Kroll Background America.The breach appears to have occurred in early August, and it's unclear whether the hackers analyzed the source code or used it for malicious purposes, Holden said on its website.The firm seems to disagree with Adobe on the potential security impact of the source code being stolen."Adobe products are installed on most end-user devices and used on many corporate and government servers around the world," Holden Security said in a blog post. "While we are not aware of specific use of data from the source code, we fear that disclosure of encryption algorithms, other security schemes, and software vulnerabilities can be used to bypass protections for individual and corporate data. Effectively, this breach may have opened a gateway for [a] new generation of viruses, malware, and exploits."Adobe could not confirm whether the popular Adobe Reader product was also affected, or if the security breach also resulted in the theft of encryption keys or code-signing certificates."Our investigation is still ongoing," the Adobe spokeswoman said.This is not the first time hackers have compromised Adobe's internal computer systems. Last year, attackers gained access to an Adobe code-signing server and used it to digitally sign malware.
 Tags intrusionsecurityAdobe Systemsdata breachHold SecurityencryptionExploits / vulnerabilitiesdata protection
 More about Adobe SystemsAdobe SystemsBradstreetHolden- General MotorsKroll
+NBN: Return to fibre-to-the-home rollout seems increasingly unlikely
 NBNs fibre to the most economic point a global trend, local Nokia boss argues
 Fujitsu wins $15.3m Tasmanian emergency dispatch system contract
-Vodafone to launch Voice over WiFi shortly, CEO says
-Telstra customers smash previous record for mobile data traffic
 Forrester Wave Report for Privileged Identity Management
+How to give users what they want AND maintain control, visibility, and security
 Please enable JavaScript to view the comments powered by Disqus.
-Salesforce buys AI specialist MetaMind to avoid being flanked'
-Apple's aging Mac Pro is falling way behind Windows rivals
-FBI: CEO spoofing has cost businesses $2.3bn in under three years
+Fujitsu wins $15.3m Tasmanian emergency dispatch system contract
+AI just 3D printed a brand-new Rembrandt, and it's shockingly good
+HP integrates IDS and self-healing features to bolster printer security
 In Pictures: Ultimate guide to Raspberry Pi operating systems, part 1
 Edge browser edges Chrome in early adoption sweepstakes
-INSIGHTS: The State of Cloud Storage & Collaboration 2016 - Take this 5 min survey and you could WIN a $500 Visa gift card : START SURVEY NOW
 REGISTER NOW! The TCS Global Insights Knowledge Sharing Program is up and running. Feb-May. Sydney.
+INSIGHTS: The State of Cloud Storage & Collaboration 2016 - Take this 5 min survey and you could WIN a $500 Visa gift card : START SURVEY NOW
 CSO Live Webcast: Hear from KuppingerCole Analysts and ForgeRock on User-Managed Access. Register now
+APJ businesses think they will be breached: Here's why: Read the article NOW
 Copyright 2016 IDG Communications. ABN 14 001 592 650. All rights reserved. Reproduction in whole or in part in any form or medium without express written permission of IDG Communications is prohibited.

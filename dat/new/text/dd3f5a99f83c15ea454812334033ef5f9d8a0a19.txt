@@ -1,23 +1,16 @@
 Why Some Privacy Apps Get Blocked From the Android Play Store - Digits - WSJ
 News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.
-Roots of Apple-FBI Standoff Reach Back to 2008 Case
-Uber Settles With California Regulators for Up to $25 Million
-FCC Plan Would Revamp Oversight of Bulk Data Service Provided to Businesses
-Demand for H1-B Skilled-Worker Visas Exceeds U.S. Supply
-Publishers Seek to Stop Brave Browser Ad-Blocking Tool
-Chinese Internet Users Voice Frustration Over Great Firewall
-Chinas Homegrown Rival to Uber Valued at Over $25 Billion
-Amazon Struts Its Fashion Sense, Challenging Traditional Stores
+For Generation Z, Email Has Become a Rite of Passage
+Japanese Tech Entrepreneurs Try to Build an Ecosystem for Startups
+Fintech Lenders Dial Back Marketing in Response to Softer Investor Demand
+NHN Entertainment Invests in South Koreas Ticket Monster
+SpaceX Lands Portion of Spent Rocket on Floating Platform
+FCC Chairman Calls for Fresh Start in Oversight of Business-Data Services
+On the Web, the Criminal Class Is Just a Click Away
 Facebook to Allow Media Companies, Marketers to Post Sponsored Content
-Toyota Steps Up University Relations for Autonomous Driving
-San Bernardino iPhone Hack Doesnt Work on Newer Models
-ZTE Plunges as Continuing U.S. Investigation Sparks Uncertainties
-Sprint to Raise $2.2 Billion in Asset Sale, Leaseback Transaction
-Huaweis $700 Smartphone to Challenge Apple, Samsung
-Rovio Records Operating Loss Over Angry Birds Movie
-ZTE Says U.S. Trade Probe Could Lead to Criminal Charges
-Why Your Record Collection Matters, Even in the Age of Spotify
-In Science, Inspiration Can Come From Unlikely Places
+Long-Anticipated Encryption Bill Is Now Online  Or Is It?
+Demand for H1-B Skilled-Worker Visas Exceeds U.S. Supply
+Uber Settles With California Regulators for Up to $25 Million
 This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers visit http://www.djreprints.com.
 http://blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/
 Why Some Privacy Apps Get Blocked From the Android Play Store
@@ -37,8 +30,16 @@ For instance, Ghosterys Ad Control app asks companies to opt users out of target
 The ability to collect data from users is one perk of developing apps for the Android ecosystem, developers say. Googles rules force users to agree to a blanket request for data before they use an app. On Apples iPhone, users can opt out of specific requests as they go.
 The Android permission requests can prompt their own concerns. Some Facebook users were alarmed earlier this month when they saw the disclosure for Facebooks Messenger app, which included permission to read users contacts and text messages download files without notification. Facebook said it wouldnt take advantage of the permissions, and said it had no control over the wording of the permissions, which were written by Google.
 Hillary Clinton Tells Tech Executives Not Everyone Is Sharing in Industry Gains
-Coconuts Go Upscale, Boosting Price of Conventional Coconut Oil
-San Bernardino iPhone Hack Doesnt Work on Newer Models
+Campaign Promises Raise Prospects of Deeper U.S. Debt
+Trump University Staff Detail How School Changed Course
+Abu Dhabi Fund Says It Never Received 1MDB Payments
+Student Debt Is Holding Back Millennials? Not So Fast
+Inductee Steve Miller Rips Into Rock and Roll Hall of Fame
+Video Footage Emerges From Inside Hijacked EgyptAir Flight
+Vietnam: The Challenges of Investing in Social Good
+Opinion: Why Are Companies Taking Sides Against Religious Liberty?
+More People Buy Short-Term Health Policies, Risk Fines
+For Generation Z, Email Has Become a Rite of Passage
 Copyright 2015 Dow Jones & Company, Inc. All Rights Reserved.
 Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved
 This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.

@@ -1,5 +1,5 @@
 EFF hits Google for removing 'vital privacy feature' with Android 4.4.2 | Computerworld
-IT Salary Survey 2016: Hottest jobs, cities and industries for IT pay
+SSD shootout: PCI Express blows away SATA and M.2 in throughput testing
 How to build cybersecurity into outsourcing contracts
 EFF hits Google for removing 'vital privacy feature' with Android 4.4.2
 The new Android update disables a feature that allowed users to revoke permissions for installed apps
@@ -13,14 +13,14 @@ Latest Microsoft PR fail: New PCs dont support Windows 7, nor 8.1 [smh]
 Microsoft makes this full-of-fail clarification to its Windows support policy. With zero notice,...
 iOS download for Apple iPhone & iPad breaks activation
 Updated: iOS 9.3 has this horrible bug -- possibly two bugs -- but don't be shocked, because something...
-TeraGo Solves Hybrid Cloud Challenges with VMware Alliance
-50 Cloud Questions You Should Ask Before Selecting a Cloud Provider
-Edge freezes Flash content; imitates Chrome and Safari
-In both Chrome and Safari, users can click the Flash content to activate it. Without a click, the...
-For decades, power has been accruing to employers at the expense of employees. But managers and...
-A fleet of self-driving trucks rumbles across Europe
-A dozen trucks from Volvo, Daimler and others have just finished a week-long test that took them across...
-The companys secret throttling of data rates undercuts the arguments it had made in supporting net...
+Aberdeen Report: No Content Left Behind - When To Extend File Sync / Share With ECM
+A New Way To Work : Collaborate on Cloud, Web and Mobile in ways you've never seen before
+SoftBank's Pepper robot may still be the better-known contender, but a new humanoid device from Hitachi...
+Scientists could use DNA to shrink a data center into a sugar cube
+Microsoft and University of Washington researchers have successfully converted long strings of ones and...
+Forget the smart gadgets. The ultimate home automation appliance is the house itself.
+All-metal and $299, Acer's Chromebook 14 targets IT pros
+Acer this week announced a new Chromebook that shows just how much better these machines are getting.
 Online Master of Science in Information Systems at Northwestern University
 Copyright  1994 - 2016 Computerworld, Inc. All rights reserved.
 This ad will close in 20 seconds. Continue to site 

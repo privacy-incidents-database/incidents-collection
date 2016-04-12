@@ -1,13 +1,12 @@
 Four McLean Hospital backup data tapes go missing, thousands affected - SC Magazine
-Cybersecurity being overlooked by American universities: Report
-Reports find high security risks among policies for third-party vendors
-German police arrest two in cybergang investigation, including main suspect
-Huge data breach leaves details of 55 million Filipino voters exposed to hackers
-Will White House, currently mulling bill, remain mum on encryption?
-DHS issues three advisories warning of vulnerabilities in Industrial Control Systems
-Report: 14% of doctors keep patient data on cell phones, don't use password
-A new report found 28 percent of doctors store patient data on their cell phones, and 80% of doctors use a mobile device as a tool to assist their daily practice.
-A former executive was arrested in San Francisco on charges of stealing trade secrets after learning his job with a video game company might not be secure
+Spying on iPhones a cinch with 'Su-A-Cyder' homegrown malware kit
+Pros examine Mossack Fonseca breach: WordPress plugin, Drupal likely suspects
+Energy execs may be too confident in ability to detect threats as cyber attacks ...
+Massive DDoS attack could spell trouble for standard protections
+WordPress sets up default HTTPS encryption for custom domains
+Report: Dark web surprisingly small, with less than 30K sites
+The dark web is actually much smaller than you think, and the percentage of websites residing there that provide illegal content and services is also over-exaggerated, according to a new report from Intelliagg and Darksum.
+Argentina, the United States and Vietnam were among the top producers of zombie IP addresses following Russia.
 Four McLean Hospital backup data tapes go missing, thousands affected
 Four McLean Hospital backup data tapes go missing, thousands affected
 Massachusetts-based McLean Hospital is notifying about 12,600 individuals that their personal information was on four unencrypted backup data tapes related to the Harvard Brain Tissue Resource Center (HBTRC) that have gone missing.
@@ -24,15 +23,17 @@ UCLA Health attacked, data on up to 4.5 million individuals at risk
 Orlando Health employee improperly accesses patient medical records
 You must be a registered member of SC Magazine to post a comment.
 PagerDuty requires password change for all customers following breach
+Pros examine Mossack Fonseca breach: WordPress plugin, Drupal likely suspects
 Will the Panama Papers change legal firms' cyber practices?
 UPDATE: Petya ransomware leverages Dropbox and overwrites hard drives
 IT depts. suffering from 'patch fatigue,' study says
 W-2 Data Breach places 21K Sprouts Farmers Market employees at risk
-Hacker picks 1-800-FLOWERS' customers credit card info
-Huge data breach leaves details of 55 million Filipino voters exposed to hackers
-10% of IT pros never change their admin credentials
-Will White House, currently mulling bill, remain mum on encryption?
-DHS issues three advisories warning of vulnerabilities in Industrial Control Systems
+3,000 Tidewater Community College workers victimized in W-2 scam
+FBI investigating attack against computer networks at U.S. law firms
+Worldpay merchant portal allowed merchants to view customer card data
+Massive DDoS attack could spell trouble for standard protections
+WordPress sets up default HTTPS encryption for custom domains
+Costa Rica investigating rigged elections by political hacker
 Kentucky State University was hit with a data breach on March 22 when an employee, responding to an email supposedly from the school's president, sent off W-2s for employees and ...
 3,000 Tidewater Community College workers victimized in W-2 scam
 Tidewater Community College (TCC) in Norfolk, Va., reported the tax information of all its employees was hijacked in a spear phishing scam.

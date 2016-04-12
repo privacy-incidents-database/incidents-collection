@@ -1,16 +1,11 @@
 Facebook in Online Privacy Breach; Applications Transmitting Identifying Information - WSJ
-Roots of Apple-FBI Standoff Reach Back to 2008 Case
-Uber Settles With California Regulators for Up to $25 Million
-FCC Plan Would Revamp Oversight of Bulk Data Service Provided to Businesses
-Demand for H1-B Skilled-Worker Visas Exceeds U.S. Supply
-Publishers Seek to Stop Brave Browser Ad-Blocking Tool
-Chinas Homegrown Rival to Uber Valued at Over $25 Billion
-Amazon Struts Its Fashion Sense, Challenging Traditional Stores
-Facebook to Allow Media Companies, Marketers to Post Sponsored Content
-Toyota Steps Up University Relations for Autonomous Driving
-San Bernardino iPhone Hack Doesnt Work on Newer Models
-John Doerrs Move Highlights a Venture-Capital Challenge: Succession
-ZTE Plunges as Continuing U.S. Investigation Sparks Uncertainties
+For Generation Z, Email Has Become a Rite of Passage
+Japanese Tech Entrepreneurs Try to Build an Ecosystem for Startups
+Fintech Lenders Dial Back Marketing in Response to Softer Investor Demand
+NHN Entertainment Invests in South Koreas Ticket Monster
+SpaceX Lands Portion of Spent Rocket on Floating Platform
+FCC Chairman Calls for Fresh Start in Oversight of Business-Data Services
+On the Web, the Criminal Class Is Just a Click Away
 This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers visit http://www.djreprints.com.
 http://www.wsj.com/articles/SB10001424052702304772804575558484075236968
 Top-Ranked Applications Transmit Personal IDs, a Journal Investigation Finds
@@ -35,8 +30,17 @@ The Wall Street Journal analyzed the tracking files installed on people's comput
 A spokeswoman for LOLapps Media declined to comment.
 The applications transmitting Facebook IDs may have breached their own privacy policies, as well as industry standards, which say sites shouldn't share and advertisers shouldn't collect personally identifiable information without users' permission. Zynga, for example, says in its privacy policy that it "does not provide any Personally Identifiable Information to third-party advertising companies." A Zynga spokeswoman said, "Zynga has a strict policy of not passing personally identifiable information to any third parties. We look forward to working with Facebook to refine how web technologies work to keep people in control of their information." The most expansive use of Facebook user information uncovered by the Journal involved RapLeaf. The San Francisco company compiles and sells profiles of individuals based in part on their online activities. The Journal found that some LOLapps applications, as well as the Family Tree application, were transmitting users' Facebook ID numbers to RapLeaf. RapLeaf then linked those ID numbers to dossiers it had previously assembled on those individuals, according to RapLeaf. RapLeaf then embedded that information in an Internet-tracking file known as a "cookie." RapLeaf says it strips out the user's name when it embeds the information in the cookie and shares that information for ad targeting. However, The Wall Street Journal found that RapLeaf transmitted Facebook user IDs to a dozen other advertising and data firms, including Google Inc.'s Invite Media. All 12 companies said that they didn't collect, store or use the information. Ilya Nikolayev, chief executive of Familybuilder, maker of the Family Tree application, said in an email, "It is Familybuilder's corporate policy to keep any actual, potential, current or prior business partnerships, relationships, customer details, and any similar information confidential. As this story relates to a company other than Familybuilder, we have nothing further to contribute."
 Emily Steel at emily.steel@wsj.com and Geoffrey A. Fowler at geoffrey.fowler@wsj.com
-San Bernardino iPhone Hack Doesnt Work on Newer Models
-Coconuts Go Upscale, Boosting Price of Conventional Coconut Oil
+Inductee Steve Miller Rips Into Rock and Roll Hall of Fame
+Video Footage Emerges From Inside Hijacked EgyptAir Flight
+Vietnam: The Challenges of Investing in Social Good
+Opinion: Why Are Companies Taking Sides Against Religious Liberty?
+More People Buy Short-Term Health Policies, Risk Fines
+For Generation Z, Email Has Become a Rite of Passage
+Campaign Promises Raise Prospects of Deeper U.S. Debt
+Trump University Staff Detail How School Changed Course
+Abu Dhabi Fund Says It Never Received 1MDB Payments
+If workers lose their jobs to imports and central banks cant bolster domestic spending enough to re-employ them, a country may be worse off, Greg Ip writes.
+Student Debt Is Holding Back Millennials? Not So Fast
 Copyright 2016 Dow Jones & Company, Inc. All Rights Reserved.
 Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved
 This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.

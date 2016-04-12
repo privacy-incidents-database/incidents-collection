@@ -7,14 +7,13 @@ Oddly, upgrading from Windows 7 or 8 to Windows 10 wasn't affected, and the Nove
 Microsoft has now fixed the upgrade/installation process to properly preserve these settings, and the November Update has once more been made available to Windows 10 users through Windows Update. The updated Media Creation Tool has also been restored, re-enabling clean installs of version 1511. The company has also published a knowledge-base article describing the issue and which settings are affected, so any Windows 10 users who have already installed the November Update can double-check their settings and re-establish their preference if necessary.
 In light of some of the other bugs that have been found in the November update, it seems a little surprising that Microsoft would pull it for something that seems so minor. However, the company has been under fire for privacy issues around Windows 10; this kind of vigorous reaction to even a minor privacy concern feels like an attempt to try to restore some of the lost trust and demonstrate that the company really does care about privacy.
 / Peter is Technology Editor at Ars. He covers Microsoft, programming and software development, Web technology and browsers, and security. He is based in Brooklyn, NY.
-OK, panicnewly evolved ransomware is bad news for everyone
-Crypto-ransomware has turned every network intrusion into a potential payday.
-A group of researchers found out and advanced the field of robot interaction design.
-To power its rocket of the future, NASA turns to 1950s technology
-Heres where you can try out the HTC Vive without spending $800
-Biologists start sharing unpublished workoh, the horror!
-ER docs get heart rate info from Fitbit, save patients life
-Oculus brings real (and pervasive) data-mining to virtual reality
-EU-US Privacy Shield may not pass muster, according to leaked extract
+The Ars VR headset showdownOculus Rift vs. HTC Vive
+Our tale of the tape comparison makes a first-generation recommendation.
+Ars visited BlueSonic, a local manufacturing facility in Kabul that produces PCs, laptops, mobile phones and computer accessories.
+GOP lawmakers try to limit FCCs ability to help consumers
+Appeals court: Google will have to deal with Mississippi AG investigation
+Pitch black: Fords autonomous cars dont care whether its day or night
+Kepler exits emergency mode, re-establishes full communication
+More big-name sites hit by rash of malicious ads that attack end users
 Use of this Site constitutes acceptance of our User Agreement (effective 1/2/14) and Privacy Policy (effective 1/2/14), and Ars Technica Addendum (effective 5/17/2012)
 The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond Nast.

@@ -1,35 +1,35 @@
 Fancy a little kinky sex? GCHQ+NSA will know - thanks to ANGRY BIRDS  The Register
-Vivaldi Jon: Mobile  yes. Feeds and an ad blocker probably not
-Costa Rica launches investigation after reports hackers rigged 2014 election
-What did the one Toshiba desktop SSD say to the other? Our cell size has shrunk
-BOFH: Sure, I could make your cheapo printer perform miracles
-Vendor: Do we need Quality of Service with shared storage arrays?
-Vivaldi Jon: Mobile  yes. Feeds and an ad blocker probably not
-Google adds Cloud Test Lab integration to new Android Studio 2.0
-Google to admins: We'll tell you when your network is pwned
-Cash-strapped Sprint to raise $2.2bn by flogging off its network hardware
-China's Great Firewall inventor forced to use VPN live on stage to dodge his own creation
-Verizon peeps gobbled by Frontier enter week two of crap internet
-Costa Rica launches investigation after reports hackers rigged 2014 election
-Academics claim Google Android two-factor authentication is breakable
-SANS man lists five security things you're not doing but should
-Google to admins: We'll tell you when your network is pwned
-Managing infrastructure, a newbie's guide: Simple stuff you need to know
-We bet your firm doesn't stick to half of these 10 top IT admin tips
-Windows 7's grip on the enterprise desktop is loosening
+NASA gives blacked-out Kepler space 'scope the kiss of life
+We're not in Kansas City anymore, Toto ... Google axes free fiber internet
+Bibliotheca Alexandrina buys a Huawei superdupercomputer
+Bibliotheca Alexandrina buys a Huawei superdupercomputer
+Seagate's Kinetic drives: They're moving... but in what direction?
+Canonical steps up to the NexentaEdge, jumps aboard OpenStack
+Former Microsoft HoloLens man: It's NOT about gaming
+BlackBerry boss kills off BB 10 OS, mulls mid-range Androids
+Dear Windows, OS X folks: Update Flash now. Or kill it. Killing it works
+Read America's insane draft crypto-borking law that no one's willing to admit they wrote
+We're not in Kansas City anymore, Toto ... Google axes free fiber internet
+UK competition watchdog gripes to Brussels about Three-O2 merger
+Popular cable modem vulnerable to remote reboot/reset flaw
+Telstra being paid to fix Telstra's network for NBN  AGAIN
+Baddies' brilliant plan to get mobile malware whitelisted: Bribery
+SQL injection vuln found at Panama Papers firm Mossack Fonseca
+British booter bandit walks free after pleading guilty to malware sales
+Anonymised search engine page found on 'kid-friendly' search site
+Met cops shop for 150m IT system. Must have: Data centre ops
 Puppet snags COO, ties up partners, and renames itself
 Continuous Lifecycle: Just ten conference tickets left
 Wanna be a DevOps expert? Youll have to be a Red Hat expert first
-GCHQ is having problems meeting Osborne's 2020 recruitment target
-GDS has no real strategy for 450m budget pot, internal plan reveals
-Troubled Azzurri Comms offloaded to AIM-listed Maintel
-Fujitsu Services hacks bonuses to pay for minimum wage hike
-Field technicians want to grab my tool and probe my things
-London to Dover 'smart' road could help make driverless cars mainstream  expert
-Oculus, why do you need to record our every move? Al Franken asks
-FBI Director defends iPhone 5C unlock tool that's obviously going to leak into wrong hands
-Dropping 1,000 cats from 32km: How practical is that?
-Britain is sending a huge nuclear waste shipment to America. Why?
+Dell infosec unit SecureWorks given $1.42bn price tag in IPO
+Citrix asks you, yes you, to write its certification exams and courseware
+BlackBerry boss kills off BB 10 OS, mulls mid-range Androids
+FBI, Apple continue cat-and-mouse game over iPhones in New York
+Look who's here to solve the Internet of Things' security nightmare  hey, it's Uncle Sam
+Read America's insane draft crypto-borking law that no one's willing to admit they wrote
+NASA gives blacked-out Kepler space 'scope the kiss of life
+Saturn spacecraft immune to mysterious Planet 9's charms
+Europe's biggest radiotelescope in fast-burst-finding upgrade
 Bavarian town rescinds Hitler's honorary citizenship
 Florida weed suspect cuffed after hoverboard pursuit
 Brits rattle tin for 'revolutionary' hydrogen-powered car
@@ -57,22 +57,22 @@ But Snowden, who gave his first TV interview for German network ARD on Sunday, c
 "I'd say that it's not very likely that anyone who was watching the German government was only watching Merkel and not her advisers nor other government officials nor ministers, heads of industries or even local government officials."
 Snowden said he no longer had any NSA documents himself, having passed them all on to journalists around the world. Despite death threats from certain excitable US intelligence operatives, Snowden said he was unconcerned for his safety.
 "I'm still alive and don't lose sleep for what I did because it was the right thing to do," he added. 
-LG picks up US smartphone crumbs, gains on Apple and Samsung
-Google to unleash Android Pay on UK shoppers within 'months'
-Don't belive in plastic or paper? Try silicon and bytes
 Court to Wikimedia: Your NSA spying evidence is inadmissable, so you can't prove NSA spying
+LG picks up US smartphone crumbs, gains on Apple and Samsung
 Future Snowden hunt starts with audit of NSA spooks' privileges
-Rounded corners on Android phones cost Samsung $548m: It will pay up to Apple after all
 Speaking in Tech: Did the FBI not ask the NSA to take a crack at breaking iOS?
+Gartner: RIP double-digit smartphone growth. 2016 has killed you
+Microsoft can stop worrying about smartphone non-strategy
+How NSA continued to spy on American citizens' email traffic  from overseas
 Hacker attacks are evolving to target applications and to focus on financial gain. This report brings you the key findings and conclusions of this year-long research effort.
 According to Gartner analyst Allan Daley, we are living in an unstructured, data nightmare.
-Cybersecurity perspectives from the boardroom and C-suite
-A survey of over 700 C-Suite executives to understand any patterns, as well as any differing or aligning attitudes on cybersecurity
-With every step forward, flash storage is becoming faster, more reliable, and less expensive.
-China's Great Firewall inventor forced to use VPN live on stage to dodge his own creation
-Megabreach: 55 MILLION voters' details leaked in Philippines
-Microsoft rethinks the Windows application platform one more time
-Britain is sending a huge nuclear waste shipment to America. Why?
+Failure to balance data security and quality reduces confidence in decision making. Read this e-Book for tips on securing big data environments
+eBook: The Guide to Selecting Flash for Virtual Environments
+Flash storage allows for a higher number of virtual machines (VM) per host.
+BlackBerry boss kills off BB 10 OS, mulls mid-range Androids
+Popular cable modem vulnerable to remote reboot/reset flaw
+SQL injection vuln found at Panama Papers firm Mossack Fonseca
+Former Microsoft HoloLens man: It's NOT about gaming
 PC World's cloudy backup failed when exposed to ransomware
 You say I mustnt write down my password? Let me make a note of that
 Norman Conquest, King Edward, cyber pathogen and illegal gambling all emerge in Apple v FBI

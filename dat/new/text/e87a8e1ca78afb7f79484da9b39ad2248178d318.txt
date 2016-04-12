@@ -1,0 +1,7 @@
+Twitter Says It Was Not Hacked - The New York Times
+After many Twitter users received e-mails on Thursday morning asking them to reset the passwords to their Twitter accounts, many suspected that they, or the company, had been hacked.
+As a security policy, Twitter regularly resets passwords to accounts it believes may have been compromised and sends users an e-mail informing them that they need to create a new passwords. But on Thursday morning, a large number of Twitter users took to the platform to complain that they had received the e-mail and worried they had been hacked.
+Twitter said it had mistakenly reset passwords for more people than it it intended on Thursday. We unintentionally reset passwords of a larger number of accounts, beyond those that we believed to have been compromised, the company said in a blog post. We apologize for any inconvenience or confusion this may have caused.
+If your password was reset, I have a few pointers for coming up with a new secure one in an article in the Personal Tech section of The New York Times today.
+RIM Drums Up Support for New BlackBerry Among the Loyal
+Visit the Technology section for complete coverage of the industry. 

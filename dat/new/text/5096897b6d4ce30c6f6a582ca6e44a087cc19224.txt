@@ -24,15 +24,14 @@ We love that Ubuntu is bold enough to break new ground and compete directly with
 Stay tuned for part two of Privacy in Ubuntu 12.10, where we will talk about new Ubuntu privacy features that we really like.
 Trademark Law Does Not Require Companies To Tirelessly Censor the Internet
 EFF Gets Straight Privacy Answers From Amazon About New "Silk" Tablet Browser
-WhatsApp Rolls Out End-To-End Encryption to its Over One Billion Users
-Illinois Law Requiring Sex Offenders To Report All Internet Activity Violates Free Speech Rights
-The FCC's Plan To Unlock Your Set-Top Box Is About Competition, Not Copyright
-Courts Decision on Recording Police Erodes First Amendment Rights and Transparency While Inviting Violence
-Nest Reminds Customers That Ownership Isn't What It Used to Be
+Here are 79 California Surveillance Tech Policies. But Where Are the Other 90?
+Is the U.S Intelligence Chief Serious About Fixing Overclassification? Time Will Tell
+Stop the Copyright Creep: New Restrictions are Not the Answer to the Challenges of Digital Publishing
+The Burr-Feinstein Proposal Is Simply Anti-Security
 Fair Use and Intellectual Property: Defending the Balance
 Fixing Copyright? The 2013-2016 Copyright Review Process
 Public Health Reporting and Hospital Discharge Data
 EFF is leading the fight against the NSA's illegal mass surveillance program. Learn more about what the program is, how it works, and what you can do.
-WhatsApp rolls out end-to-end encryption to its over one billion users. Our technical rundown: https://eff.org/r.rng8
-ACLU ask Illinois' top court to strike down unconstitutional sex offender law that impedes free speech rights:
-Links are not copyright infringement, says EU's top legal adviser. Important development in an ongoing ECJ case: http://fortune.com/2016/04/07...
+Here are 79 California license plate reader and cell-site simulator policies. But where are the other 90? https://www.eff.org/deeplinks...
+From the archives: EFF's executive director Cindy Cohn presented the state of the "Crypto Wars" in 2014 https://www.youtube.com/watch...
+A new bill in Congress would prevent patent trolls from interfering with international trade. https://www.eff.org/deeplinks...

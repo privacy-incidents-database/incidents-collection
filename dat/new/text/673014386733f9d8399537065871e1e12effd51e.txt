@@ -1,0 +1,12 @@
+Apple Strengthens iCloud Security With 2-Step Authentication - The New York Times
+Apple Strengthens iCloud Security With 2-Step Authentication
+Apple Strengthens iCloud Security With 2-Step Authentication
+Apple on Thursday rolled out a tool that strengthens password security for Apple accounts: two-step verification, a feature widely available for many Web services.
+The security feature, which has to be turned on manually at Apples Web site, lets a user receive a code on another device that can serve as a second password. For example, after entering a password to log in to iTunes or iCloud.com on a computer, the user receives a text message with a temporary four-digit code on his cellphone that must be entered as well to successfully log in.
+Apple takes customer privacy very seriously, and two-step verification is an even more robust process to ensure our users data remains protected, said Natalie Kerris, an Apple spokeswoman.
+Traditional password systems have been found to be extremely vulnerable to hacks. Security researchers recommend that people use two-step authentication, combined with complex passwords.
+Many online services, like Facebook, Google and online banking Web sites, have been offering two-step verification for a while. Apples security came under scrutiny last year after the iCloud account of a technology journalist, Mat Honan, was spectacularly hacked. The blog 9 to 5 Mac first reported the new feature.
+A version of this article appears in print on 03/25/2013, on page B4 of the NewYork edition with the headline: Apple Adds
+Computer Networks in South Korea Are Paralyzed in Cyberattack
+Todays Scuttlebot: Bezos Raises Moon Rockets, and False Face of the Drone
+Visit the Technology section for complete coverage of the industry. 

@@ -1,5 +1,5 @@
 Facebook's Privacy Incident Response: a study of geolocation sharing on Facebook Messenger - Technology Science
-TweetPublished 2015-08-11.Views 109,694.Downloads 5,430.Suggestions 23. Facebook's Privacy Incident Response: a study of geolocation sharing on Facebook MessengerAran KhannaAbstractIntroductionBackgroundMethodsResultsDiscussionReferencesDownloadAuthorsCitationDataSuggestionsNews coverage by dayIn 2012, a media outlet reported that Facebook Messenger shared
+TweetPublished 2015-08-11.Views 109,822.Downloads 5,456.Suggestions 23. Facebook's Privacy Incident Response: a study of geolocation sharing on Facebook MessengerAran KhannaAbstractIntroductionBackgroundMethodsResultsDiscussionReferencesDownloadAuthorsCitationDataSuggestionsNews coverage by dayIn 2012, a media outlet reported that Facebook Messenger shared
 personal geolocations by defaultIn 2015, my demonstration displayed Facebook's shared data on a
 map; it was downloaded over 85,000 timesAfter 9 days of news coverage, Facebook released an update that requires
 a user's permission to share geolocationsAbstractFacebook allows users to chat among themselves on a mobile
