@@ -8,10 +8,13 @@ import os.path
 
 # NLP Module Init#
 SPACY_FLAG = False  # Use Spacy if set as true
+
+#File used to store the previous keywords
 KEYWORD = "keyword.json"
+#File used to store the existing news/file/url
 KEYWORD_FILE = "keyword_in_file.json"
 
-
+# Load only when necessary
 # Spacy Module
 if SPACY_FLAG is True:
     print "using spacy"
@@ -32,11 +35,36 @@ else:
     pstemmer = PorterStemmer()
 
 
+
+
+# Read urls from input file
+# Accept file input as
+
+'''
+{
+  "hashed_url": {
+    "url": "http://www.wired.com/2012/02/google-safari-browser-cookie/", 
+    "type": 0
+  }, 
+  "ac578aabe6a13294d98d5862562956e4aa1c8ece": {
+    "url": "http://www.latimes.com/business/la-fi-mugshots-lawsuit-20140121-story.html#axzz2sCXHQMCZ", 
+    "type": 0
+  }
+}
+
+
+
+'''
+#Type is defined through ###TODO###
+
 def read_urls(file):
     with open(file) as input_data:
         input_json = json.load(input_data)
+        # new_key_word_dic is used to store the keywords generated this time only
         new_keyword_dic = {}
+        # new_file_dic is used to store the filename this time only
         new_file_dic = {}
+        # create files if not exist
         mode = 'r' if os.path.exists(KEYWORD) else 'w'
         with open(KEYWORD, mode) as old_keyword_f:
             try:
@@ -51,10 +79,12 @@ def read_urls(file):
                 print "Empty file or wrong json format for file dic", e.message
                 old_file_dic = {}
         for file_entry in input_json:
+            # Continue when the url(hashed) already exists
             if file_entry in old_file_dic:
                 print "this file is already in json."
                 continue
             url = input_json[file_entry]["url"]
+            #TODO# for nytimes need to handle that using the json field instead of text mining to get more accurate result
             if "nytimeeees" in url:
                 handle_ny_times(url)
                 break
@@ -66,6 +96,7 @@ def read_urls(file):
                 new_file_dic[name] = {}
                 new_file_dic[name]["type"] = input_json[file_entry]["type"]
                 new_file_dic[name]["keywords"] = result_dic[name]
+        # If new data has been added through this file, will update the keywords and file_entry file to store this result.
         if len(new_keyword_dic) > 0:
             for key in new_keyword_dic:
                 keyword_dic = new_keyword_dic[key]
@@ -90,19 +121,20 @@ def read_urls(file):
                     json.dump(old_file_dic, new_filename_f, indent=2, sort_keys=True)
                 except Exception, e:
                     print "Error writing to file for filename dic", e.message
+            # generate the csv for weka.
             convert_json(KEYWORD, KEYWORD_FILE)
             print "Finished"
         else:
             print "No new file added"
 
-
+# Call the functions to generate the attribute which can be got from NYtimes Api
 def handle_ny_times(url):
     prefix = "new-ny"
     create_json(url, None)
     gen_csv_ny('../../dat/NYnegative/json', '../../dat/NYpositive/json', '../../dat/undecided/json')
     print "Use Weka to classify and then move the file to the right folder"
 
-
+# Call text mining(NLP) module to get the keywords dic and filename
 def handle_others(url, filename):
     dic = {}
     html = fetch_url(url)
@@ -110,11 +142,11 @@ def handle_others(url, filename):
         final, remove_tag = clean(html)
         final = rm_ascii(final)
         write_to_folder("../dat/new", filename, final)
+        # Use different tool to get the nlp result...
+        # All modification deals with nlp should be done in the nlp module.
         if SPACY_FLAG is True:
-
             words = spacy_get_words(parser, final)
         else:
-
             words = nltk_get_words(final, sent_detector, pstemmer, tagger)
         dic[filename] = words
     return filename, dic
