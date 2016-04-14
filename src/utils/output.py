@@ -37,16 +37,18 @@ def convert_json(keyword, keyword_file):
     tfidf_log = {}
     title = ['filename', 'isPrivacy']
     keyword_list = []
+    ### TODO Improve performance... It is really slow when the keyword.json is 50MBs...
+    # Calculate the tfidf value for each given key and store in the array tfidf_log
     for key in dat:
         key_len = len(dat.keys())
         tfidf_log[key] = float(math.log10(key_len/dat[key]["total"]))
         title.append(key)
         keyword_list.append(key)
-    title.extend(keyword_list)
     out_test.writerow(title)
     out_training.writerow(title)
     for entry in filename_file:
         val = [0] * (len(keyword_list))
+        # Recalculate the value using the actual appearance in the article times tfidf value of the word
         for word in filename_file[entry]["keywords"]:
             idx = keyword_list.index(word)
             file_idx = dat[word]["files"].index(entry)

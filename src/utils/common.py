@@ -1,7 +1,9 @@
 import os
 import json
 
-
+# Remove the non-ascii characters in a text file
+# @input text
+# @return text
 def remove_non_ascii(s):
     import string
     printable = set(string.printable)
