@@ -8,36 +8,9 @@ import getopt
 import argparse
 from bs4 import BeautifulSoup
 
-# def get_args():
-#     global args
-#     parser = argparse.ArgumentParser(description="Script for collecting data from Articles")
-#     parser.add_argument("destination", help = 'Destination to store the Articles')
-#     parser.add_argument('-k', '--keywords', nargs = '+', metavar = 'N', help = 'Keywords for fetching the Articles')
-#     parser.add_argument('-l', '--limit', type = int, help = 'Limit of the number of Articles to be fetched, must be a multiple of 10')
-#     parser.add_argument('-j', '--json',type = str, help = 'Name of the Json file containing the urls')
-#
-#     args = parser.parse_args()
-#     return args
-#
-# def get_keywords():
-#     keywords = args.keywords
-#     keywordstr = ""
-#     cnt = 0
-#
-#     if keywords is not None:
-#         for keyword in keywords:
-#             keywordstr += keyword
-#             if cnt < len(keywords) - 1 :
-#                 keywordstr += "+"
-#             cnt += 1
-#
-#     return keywordstr
-
-
 # Global variables
 API_KEY = os.environ.get("NY_TIMES_API_KEY")
-# args = get_args()
-# keywordstr = get_keywords()
+
 abstractindex = 0
 
 
@@ -162,18 +135,6 @@ def clean(string):
     @return
     """
     remove_tag = clean_html(string)  # remove tags
-    # if headline is not None or remove_tag.lower().find(filename) != -1:
-    #     if remove_tag.lower().find(filename) != -1:
-    #         headline = filename
-    #     headline += "\n\n\nBy"
-    #     remove_tag = remove_tag.lower()
-    #     headline = headline.lower()
-    #     start = remove_tag.find(headline)
-    #     remove_start = remove_tag[start:]  # start from the lead para_graph
-    #     # mark the end using string Inside NYTimes.com
-    #     end = remove_start.find("inside nytimes.com")
-    #     final = remove_start[:end].rstrip()  # final ver
-    # else:
 
     # # break into lines and remove leading and trailing space on each
     lines = (line.strip() for line in remove_tag.splitlines())
