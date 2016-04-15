@@ -16,6 +16,8 @@ parser = English()
 #             fout.close()
 #
         
+        
+# Return the words that got from the nlp algo
 def nlp_get_words(parser, text):
     nouns = {}
     adj = {}

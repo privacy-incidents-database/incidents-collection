@@ -35,7 +35,8 @@ def traverse(sent_detector, src):
             # total_time = time.time() - start
             # print total_time
 
-
+# Return the words that got from the nlp algo
+# Any change regarding the nlp should be done here...
 def nlp_get_words(text, sent_detector, pstemmer, tagger):
     import string
     ascii_text = text.strip().encode("ascii", "ignore").lower()
