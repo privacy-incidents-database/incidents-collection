@@ -43,11 +43,11 @@ else:
 '''
 {
   "hashed_url": {
-    "url": "http://www.wired.com/2012/02/google-safari-browser-cookie/", 
+    "url": "http://www.wired.com/2012/02/google-safari-browser-cookie/",
     "type": 0
-  }, 
+  },
   "ac578aabe6a13294d98d5862562956e4aa1c8ece": {
-    "url": "http://www.latimes.com/business/la-fi-mugshots-lawsuit-20140121-story.html#axzz2sCXHQMCZ", 
+    "url": "http://www.latimes.com/business/la-fi-mugshots-lawsuit-20140121-story.html#axzz2sCXHQMCZ",
     "type": 0
   }
 }
@@ -55,7 +55,15 @@ else:
 
 
 '''
-#Type is defined through ###TODO###
+#Type is defined through
+'''
+Privacy Incidents - 0
+Computer Security - 1
+General Security - 2
+Random Articles - 3
+Privacy Articles but not incidents - 4
+Test Articles - TBD
+'''
 
 def read_urls(file):
     with open(file) as input_data:
@@ -78,16 +86,23 @@ def read_urls(file):
             except Exception, e:
                 print "Empty file or wrong json format for file dic", e.message
                 old_file_dic = {}
+
+
         for file_entry in input_json:
             # Continue when the url(hashed) already exists
             if file_entry in old_file_dic:
                 print "this file is already in json."
                 continue
+
             url = input_json[file_entry]["url"]
-            #TODO# for nytimes need to handle that using the json field instead of text mining to get more accurate result
+
+            ## Approach 1 (Currently Unused)
+            ## for nytimes need to handle that using the json field instead of text mining to get more accurate result
             if "nytimeeees" in url:
                 handle_ny_times(url)
                 break
+
+            ## Approach 2 use text mining (Currently used)
             else:
                 name, result_dic = handle_others(url, file_entry)
                 if len(result_dic) == 0:
@@ -96,6 +111,7 @@ def read_urls(file):
                 new_file_dic[name] = {}
                 new_file_dic[name]["type"] = input_json[file_entry]["type"]
                 new_file_dic[name]["keywords"] = result_dic[name]
+
         # If new data has been added through this file, will update the keywords and file_entry file to store this result.
         if len(new_keyword_dic) > 0:
             for key in new_keyword_dic:

@@ -1,0 +1,41 @@
+Privacy watchdog attacks snooper's charter over encryption | Technology | The Guardian
+Privacy watchdog attacks snooper's charter over encryption
+Information commissioner warns encryption is vital for personal security, and attempts to weaken it should not be in new investigatory powers bill
+WhatsApp, an encrypted messaging service, on an iPhone.
+The information commissioners office has heavily criticised the draft Investigatory Powers bill for attacking individuals privacy, particularly in relation to the apparent requirement on communication providers to weaken or break their data encryption at the governments request.
+The privacy watchdog also told the parliamentary committee responsible for scrutinising the bill that little justification was given for one of the most controversial aspects of the proposed legislation: a new requirement on communications providers to store comms data for 12 months.
+Weighing in on the long-running debate over security services desire to render encrypted communications amenable to interception, it said encryption is vital to help ensure the security of personal data generally.
+The effect of the IP bill, also known as the snoopers charter, on encryption has been muddled since it was first proposed. In October, government sources said that despite David Camerons public statements to the contrary, the bill would not seek to ban encryption. Theresa May, the home secretary, told the BBC shortly before the contents bill was revealed that encryption is important for people to be able to keep themselves safe when they are dealing with these modern communications in the digital age.
+But she added that the bill reinforced the governments position, which enabled the authorities with proper authorisation to issue warrants requiring companies to break encryption to provide them with the contents of the encrypted communications.
+For the most secure types of communication, known as end to end encryption, the communications provider cannot read encrypted messages even if they are served with a government warrant. Messaging providers including Apple, Facebook and Telegram all use this sort of encryption, but the draft IP bill suggests they could be forced by a government warrant to change to a weaker standard.
+Apple has already called on the UK government to scale back the bill, writing: The creation of backdoors and intercept capabilities would weaken the protections built into Apple products and endanger all our customers. A key left under the doormat would not just be there for the good guys. The bad guys would find it too.
+The ICO has expressed similar concerns. The clause allowing the government to mandate removal of encryption could, it warns, have detrimental consequences to the security of data and safeguards which are essential to the publics continued confidence in the handling and use of their personal information.
+The bill talks only about the removal of electronic safeguards, barely mentioning encryption, but the ICO warns that if those clauses do include the weakening or circumvention of encryption then this is matter of real concern.
+The information commissioner has stressed the importance of encryption to guard against the compromise of personal information, it adds. Weakening encryption can have significant consequences for individuals. The constant stream of security breaches only serves to highlight how important encryption is towards safeguarding personal information. Weakened encryption safeguards could be exploited by hackers and nation states intent on harming the UKs interests.
+The British government is not alone in moving against consumer use of encryption, however. In early January, an amendment was introduced into the French national assembly which sought to enforce similar requirements on equipment manufacturers to ensure that any information can be given to the police with a judicial warrant.
+Encryption, the amendment says, is good at protecting personal data, but leads to a disadvantage when faced with the needs of state security. France must take the lead by requiring equipment manufacturers to consider the need of police access, it adds. The amendment was supported by 18 assembly members.
+And China introduced its own snoopers charter in December, with a bill requiring tech companies to decrypt messages at the governments request.
+or create your Guardian account to join the discussion.
+Were doing some maintenance right now. You can still read comments, but please come back later to add your own.
+Commenting has been disabled for this account (why?)
+The snoopers charter is flying through parliament. Dont think its irrelevant to you
+While the Apple v FBI row makes world headlines, people in the UK are disregarding a bill that permits hacking and gagging
+The snoopers charter is flying through parliament. Dont think its irrelevant to you
+Apple and Google among firms calling for changes to snooper's charter
+Companies join forces with Facebook, Microsoft, Twitter and Yahoo to tell UK government that important amendments to bill are required
+Apple and Google among firms calling for changes to snooper's charter
+Home Office to publish revised draft of snooper's charter
+Majority of parliaments 129 concerns have been addressed, says Home Office
+Home Office to publish revised draft of snooper's charter
+UK plans to track all internet connections could cost 1bn, campaigners warn
+Home Office is told its plans in the snoopers charter to retain web browsing history of all British citizens for 12 months would cost in excess of 1bn
+UK plans to track all internet connections could cost 1bn, campaigners warn
+The snoopers charter: one misspelled Google search for bong-making and youll be in an orange jumpsuit
+The snoopers charter: one misspelled Google search for bong-making and youll be in an orange jumpsuit
+Snooper's charter would set bad example to the world, says SNP
+Snooper's charter would set bad example to the world, says SNP
+Minister has not fully made case for snooper's charter, says committee
+Minister has not fully made case for snooper's charter, says committee
+The snoopers charter shows the governments total contempt for privacy
+The snoopers charter shows the governments total contempt for privacy
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.

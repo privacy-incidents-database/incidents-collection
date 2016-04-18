@@ -1,0 +1,27 @@
+EU states agree framework for pan-European data privacy rules | Technology | The Guardian
+EU states agree framework for pan-European data privacy rules
+European data privacy reform takes one step forward to a single digital union as talks head to trilogue stage
+Employees leave the Google Inc. European headquarters in Barrow Street, Dublin, Ireland.
+All 28 member states of the Council of the European Union have to agreed to new European data protection laws that could see tough new regulations unified across the whole of the EU.
+The changes would allow for a pan-European framework for privacy and the handling of European citizens data, instead of the current scenario where data privacy is regulated by watchdogs in the country of operation within Europe such as Ireland.
+The changes were put forward by the European commission three years ago and form a crucial step towards a single digital union. The European parliament filed its agreement in principle over a year ago, but the Council of the European Union, where each countrys government has representation, has struggled to come to agreement.
+Latvias minister for justice, Dzintars Rasnas, said: Today we have moved a great step closer to modernised and harmonised data protection framework for the European Union.
+The agreement comes in the last week of Latvias presidency of Council of the European Union. The negotiations going forward will be the responsibility of Luxembourg as it takes over the presidency of the council.
+Monique Goyens, director general of the European Consumer Organisation said: EU laws are now lagging behind the pace of technologies and business practices. Our personal data is collected, then used and transferred in ways which most consumers are oblivious to. An appropriate update must put control of personal data back in the hands of European consumers.
+This new regulation is the opportunity to close gaps, ensure robust standards and stipulate that EU laws apply to all businesses operating here.
+While some welcome clearer and more unified rules and regulations, lobbying, which has delayed proceedings, has shown that some aspects of the proposal have companies worried.
+Of particular contention is a clause that would allow users to sue companies who process data, such as cloud storage providers, as well as those that own it or collect it. Companies including Amazon and IBM have warned that it could kill off Europes cloud computing industry.
+Many US technology companies have based their European operations in Ireland, including Facebook and Google. Current laws mean that if one data protection authority clears a companys actions and regulates compliance with local laws, informed by European law, that company can then operate in any European member state without the need to clear its actions in each country.
+The EC put forward new regulation that would toughen European law, which would in turn toughen data privacy laws in European nation states. But the proposal could also see the formation of a single nominated authority that could rule on large or politically contentious data protection issues.
+Facebook and Google are subject to both legal and regulatory challenges over data privacy. The latest action is a lawsuit from the Belgian privacy commission which deemed that because Facebook operated an office within its country could answer to its regulation not just Irelands data protection authority where it is headquartered.
+I am very content that after more than three years of negotiations we have finally found a compromise on the text. The new data protection regulation, adapted to the needs of the digital age, will strengthen individual rights of our citizens and ensure a high standard of protection, said Rasnas.
+The agreement will lead to a trilogue beginning next week between the EC, the European parliament and the Council of the European Union on each of their amendments to the ECs proposal.
+Deputy commissioner from the Information commissioners office David Smith said: It is encouraging that these discussions are scheduled to start next week, though it is likely to be well into next year before they are completed. We can then expect a further two years before any law is implemented, to give people time to prepare for the changes.
+How tough the new laws and regulation becomes will be up for debate. The idea of a single data regulator - a one-stop-shop - for large issues has been popular in theory. What form that would take will be crucial for companies such as Facebook and Google operating in Europe.
+Under scrutiny are proposals regarding: unambiguous consent for any data collection, such as tracking for adverts; limits to the ability to use data for purposes other than those for which it was collected, such as profiling; and a strengthened right to be forgotten.
+The Council of the European Union has agreed new fines for breaches of EU privacy and data protection law could be up to 1m or 2% of the companys global annual turnover. The European parliament would have them as high as 100m or 5% of turnover.
+ Belgium takes Facebook to court over privacy breaches and user tracking
+or create your Guardian account to join the discussion.
+Were doing some maintenance right now. You can still read comments, but please come back later to add your own.
+Commenting has been disabled for this account (why?)
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.
