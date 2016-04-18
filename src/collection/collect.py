@@ -111,8 +111,8 @@ def fetch_url(url):
         html = response.read()
         return html
     except Exception, e:
-        print e
-        print "Not successful url", url
+        # print e
+        # print "Not successful url", url
         return -1
 
 

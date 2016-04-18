@@ -1,6 +1,7 @@
 import json
 import math
 import csv
+import sys
 
 TEST = "test.csv"
 TRAINING = "training.csv"
@@ -46,7 +47,15 @@ def convert_json(keyword, keyword_file):
         keyword_list.append(key)
     out_test.writerow(title)
     out_training.writerow(title)
+
+    file_cnt = 0
+    total_articles = len(filename_file)
+
     for entry in filename_file:
+        file_cnt += 1
+        sys.stdout.write("\rGenerating tfidf csv : " + str(
+            int((float(file_cnt) / float(total_articles)) * 100)) + "% Complete")
+
         val = [0] * (len(keyword_list))
         # Recalculate the value using the actual appearance in the article times tfidf value of the word
         for word in filename_file[entry]["keywords"]:
@@ -67,5 +76,3 @@ def convert_json(keyword, keyword_file):
 
 # if __name__ == "__main__":
 #     convert_json("../keyword.json", "../keyword_in_file.json")
-
-

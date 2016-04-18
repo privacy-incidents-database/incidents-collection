@@ -4,14 +4,15 @@ from utils.common import remove_non_ascii as rm_ascii
 from utils.output import convert_json
 from collection.collect import clean, fetch_url, write_to_folder
 import json
+import sys
 import os.path
 
 # NLP Module Init#
 SPACY_FLAG = False  # Use Spacy if set as true
 
-#File used to store the previous keywords
+# File used to store the previous keywords
 KEYWORD = "keyword.json"
-#File used to store the existing news/file/url
+# File used to store the existing news/file/url
 KEYWORD_FILE = "keyword_in_file.json"
 
 # Load only when necessary
@@ -35,8 +36,6 @@ else:
     pstemmer = PorterStemmer()
 
 
-
-
 # Read urls from input file
 # Accept file input as
 
@@ -55,7 +54,7 @@ else:
 
 
 '''
-#Type is defined through
+# Type is defined through
 '''
 Privacy Incidents - 0
 Computer Security - 1
@@ -65,10 +64,12 @@ Privacy Articles but not incidents - 4
 Test Articles - TBD
 '''
 
+
 def read_urls(file):
     with open(file) as input_data:
         input_json = json.load(input_data)
-        # new_key_word_dic is used to store the keywords generated this time only
+        # new_key_word_dic is used to store the keywords generated this time
+        # only
         new_keyword_dic = {}
         # new_file_dic is used to store the filename this time only
         new_file_dic = {}
@@ -78,31 +79,38 @@ def read_urls(file):
             try:
                 old_keyword_dic = json.load(old_keyword_f)
             except Exception, e:
-                print "Empty file or wrong json format for keyword dic", e.message
+                # print "Empty file or wrong json format for keyword dic", e.message
                 old_keyword_dic = {}
         with open(KEYWORD_FILE, mode) as old_filename_f:
             try:
                 old_file_dic = json.load(old_filename_f)
             except Exception, e:
-                print "Empty file or wrong json format for file dic", e.message
+                # print "Empty file or wrong json format for file dic", e.message
                 old_file_dic = {}
 
+        file_cnt = 0
+        total_articles = len(input_json)
 
         for file_entry in input_json:
+            file_cnt += 1
+            sys.stdout.write("\rFetching new Articles : " + str(
+                int((float(file_cnt) / float(total_articles)) * 100)) + "% Complete")
+            sys.stdout.flush()
             # Continue when the url(hashed) already exists
             if file_entry in old_file_dic:
-                print "this file is already in json."
+                # print "this file is already in json."
                 continue
 
             url = input_json[file_entry]["url"]
 
-            ## Approach 1 (Currently Unused)
-            ## for nytimes need to handle that using the json field instead of text mining to get more accurate result
+            # Approach 1 (Currently Unused)
+            # for nytimes need to handle that using the json field instead of
+            # text mining to get more accurate result
             if "nytimeeees" in url:
                 handle_ny_times(url)
                 break
 
-            ## Approach 2 use text mining (Currently used)
+            # Approach 2 use text mining (Currently used)
             else:
                 name, result_dic = handle_others(url, file_entry)
                 if len(result_dic) == 0:
@@ -112,7 +120,8 @@ def read_urls(file):
                 new_file_dic[name]["type"] = input_json[file_entry]["type"]
                 new_file_dic[name]["keywords"] = result_dic[name]
 
-        # If new data has been added through this file, will update the keywords and file_entry file to store this result.
+        # If new data has been added through this file, will update the
+        # keywords and file_entry file to store this result.
         if len(new_keyword_dic) > 0:
             for key in new_keyword_dic:
                 keyword_dic = new_keyword_dic[key]
@@ -129,12 +138,14 @@ def read_urls(file):
             old_file_dic.update(new_file_dic)
             with open(KEYWORD, 'w') as new_keyword_f:
                 try:
-                    json.dump(old_keyword_dic, new_keyword_f, indent=2, sort_keys=True)
+                    json.dump(old_keyword_dic, new_keyword_f,
+                              indent=2, sort_keys=True)
                 except Exception, e:
                     print "Error writing to file for keyword dic", e.message
             with open(KEYWORD_FILE, 'w') as new_filename_f:
                 try:
-                    json.dump(old_file_dic, new_filename_f, indent=2, sort_keys=True)
+                    json.dump(old_file_dic, new_filename_f,
+                              indent=2, sort_keys=True)
                 except Exception, e:
                     print "Error writing to file for filename dic", e.message
             # generate the csv for weka.
@@ -143,14 +154,20 @@ def read_urls(file):
         else:
             print "No new file added"
 
-# Call the functions to generate the attribute which can be got from NYtimes Api
+# Call the functions to generate the attribute which can be got from
+# NYtimes Api
+
+
 def handle_ny_times(url):
     prefix = "new-ny"
     create_json(url, None)
-    gen_csv_ny('../../dat/NYnegative/json', '../../dat/NYpositive/json', '../../dat/undecided/json')
+    gen_csv_ny('../../dat/NYnegative/json',
+               '../../dat/NYpositive/json', '../../dat/undecided/json')
     print "Use Weka to classify and then move the file to the right folder"
 
 # Call text mining(NLP) module to get the keywords dic and filename
+
+
 def handle_others(url, filename):
     dic = {}
     html = fetch_url(url)
