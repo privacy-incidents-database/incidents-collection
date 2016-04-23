@@ -54,6 +54,6 @@ There are 3 sources of input which need to be translated to a format the main sc
 2. The output is stored in training.csv and test.csv files in the src folder
 3. This output is the input for the classifier
 
-For more information check the automation part in Principedia.pdf 
+For more information check the automation part in [Principedia.pdf](https://github.ncsu.edu/Privacy-database-incidents/incidents-collection/blob/master/Principedia.pdf) 
 
 
