@@ -37,14 +37,14 @@ def convert_json(keyword, keyword_file):
     out_training = csv.writer(training_file)
     tfidf_log = {}
     title = ['filename', 'isPrivacy']
-    keyword_list = []
-    ### TODO Improve performance... It is really slow when the keyword.json is 50MBs...
-    # Calculate the tfidf value for each given key and store in the array tfidf_log
+    keyword_map = {}
+    count = 0
     for key in dat:
         key_len = len(dat.keys())
         tfidf_log[key] = float(math.log10(key_len/dat[key]["total"]))
         title.append(key)
-        keyword_list.append(key)
+        keyword_map[key] = count
+        count+=1
     out_test.writerow(title)
     out_training.writerow(title)
 
@@ -56,10 +56,10 @@ def convert_json(keyword, keyword_file):
         sys.stdout.write("\rGenerating tfidf csv : " + str(
             int((float(file_cnt) / float(total_articles)) * 100)) + "% Complete")
 
-        val = [0] * (len(keyword_list))
+        val = [0] * (len(keyword_map))
         # Recalculate the value using the actual appearance in the article times tfidf value of the word
         for word in filename_file[entry]["keywords"]:
-            idx = keyword_list.index(word)
+            idx = keyword_map[word]
             file_idx = dat[word]["files"].index(entry)
             val[idx] = float(dat[word]["value"][file_idx]*tfidf_log[word])
         if filename_file[entry]["type"] == "TBD":
