@@ -54,6 +54,14 @@ There are 3 sources of input which need to be translated to a format the main sc
 2. The output is stored in training.csv and test.csv files in the src folder
 3. This output is the input for the classifier
 
+### Future work
+
+- Web interface for user to input the url via REST API
+- Instead of storing the keywords and files in json, considering put them into a NoSQL db like MongoDB, the performance will improve... Now it is taking time for the script to generate the csvs as the data grows...
+- More intelligent choose via two different ways(NYtimes and merely text mining)... We can use text mining as the main decision however using the NYtimes json(more attribute) to revise the decision to get a more accurate result.
+- Machine Learning techniques.
+- Try with different NLP words. we are now using all words(trimmed). Later we can try with using only nouns, verbs, etc...
+
 For more information check the automation part in [Principedia.pdf](https://github.ncsu.edu/Privacy-database-incidents/incidents-collection/blob/master/Principedia.pdf) 
 
 
