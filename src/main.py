@@ -150,9 +150,9 @@ def read_urls(file):
                     print "Error writing to file for filename dic", e.message
             # generate the csv for weka.
             convert_json(KEYWORD, KEYWORD_FILE)
-            print "Finished"
+            print "\nFinished"
         else:
-            print "No new file added"
+            print "\nNo new file added"
 
 # Call the functions to generate the attribute which can be got from
 # NYtimes Api
