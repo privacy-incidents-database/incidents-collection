@@ -31,7 +31,7 @@ def get_keywords():
                 keywordstr += "+"
             cnt += 1
 
-    return keywordstr
+    return keywordstr.lower()
 
 
 API_KEY = os.environ.get("NY_TIMES_API_KEY")
@@ -86,10 +86,10 @@ def get_articles(hits):
                         if not keywordstr:
                             info["type"] = 3
 
-                        if keywordstr == "Security":
+                        if keywordstr == "security":
                             info["type"] = 2
 
-                        elif keywordstr == "Computer+Security":
+                        elif keywordstr == "computer+security":
                             info["type"] = 1
 
                         info["url"] = d["web_url"]
@@ -98,10 +98,10 @@ def get_articles(hits):
                 if not keywordstr:
                     fname = "input/random.json"
 
-                if keywordstr == "Security":
+                if keywordstr == "security":
                     fname = "input/security.json"
 
-                if keywordstr == "Computer+Security":
+                if keywordstr == "computer+security":
                     fname = "input/CompSec.json"
 
                 json.dumps(dict)

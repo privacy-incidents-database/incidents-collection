@@ -25,7 +25,7 @@ def getjson():
             dict[hashlib.sha1(info["url"]).hexdigest()] = info
 
             json.dumps(dict)
-            fp = open("input/guardian.json", 'w')
+            fp = open("input/csvinput.json", 'w')
             json.dump(dict, fp, indent = 2)
     # print dict
 
