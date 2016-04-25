@@ -29,9 +29,9 @@
 There are 3 sources of input which need to be translated to a format the main script uses as input.
 
 1. Input from database
-- http://www.eos.ncsu.edu/lockers/portal
-- SELECT `Descr`,`link` FROM `Privacy incidents`
-- Export to Json File..
+  - http://www.eos.ncsu.edu/lockers/portal
+  - SELECT `Descr`,`link` FROM `Privacy incidents`
+  - Export to Json File..
 2. Input from a csv file
 3. Input from NY Times
 
