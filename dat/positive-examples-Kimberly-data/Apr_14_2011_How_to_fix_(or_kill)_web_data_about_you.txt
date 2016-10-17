@@ -1,0 +1,29 @@
+If you’re daunted by this research job, there are companies willing to do the work for you. The privacy software start-up Abine charges $99 a year for quarterly reports detailing the information available about you online.
+
+Abine found that all six major people databases — 123people.com, MyLife.com, Spokeo, US Search, WhitePages and PeopleFinder.com — have dossiers on me. All have my home address, which doesn’t thrill me, and three list some of my relatives. Abine also dug up a funny privacy rant I posted on a technical help forum a few years ago. Otherwise, there wasn’t much of interest. Apparently, I have displayed excellent control of my online image and am very well liked, said Sarah Paradisi, the Abine employee who compiled my report. Nice to know.
+
+Photo
+
+The harder part is masking the information. It’s often possible to remove information yourself, though it will probably be a time consuming ordeal.
+
+First, delete anything too valuable on social networks like Facebook. A full birth date or home address can be used to steal your identity. Personal details can be cloaked using privacy settings that make them available only to friends. Also remove or deactivate social networking accounts you no longer use.
+
+If someone else posted information you want removed, you’ll have to reach out to that person. A friend on Facebook may agree to delete an unflattering photo of you. But getting an online publisher or a data broker — a company that buys data from other companies and then sells it to companies that collect it — to remove content, especially if it’s truthful and legal, can be tricky. Mr. Beal says asking nicely and explaining why often works.
+
+Many data brokers will let you opt out of their databases, though you will have to contact each one individually. “You may have to wait as long as 30 days for information to come down. And they don’t guarantee it will come down forever,” warns Amber N. Yoo, a spokeswoman for the Privacy Rights Clearinghouse, which has a list of 140 brokers. “It’s a messy and complicated problem.”
+
+Advertisement Continue reading the main story
+
+Information that is taken down should drop out of the search engines within a few weeks. If it doesn’t, submit a request for it to be removed. Google provides instructions, but without action from the site owner, Google rarely removes content that’s not illegal.
+
+All this can be a headache. A friend who faced a stalker last summer spent two weeks trying to get her home address removed from four Web sites and search engines. The sites cooperated, but, she said, “there is still a ghost presence on Google,” even though she sent it multiple removal requests. Google said its search engine reflected content that was available on the Web.
+
+Indeed, it appears her address was not entirely purged from one of the sites. She finally gave up after finding her entire address history on a people search site that was charging $2 to see it. It was clear “this whole effort on my part was futile,” she said. Many sites, including Google and news outlets, are in the information business and may be unwilling to remove it, especially if it’s truthful. If they won’t act, experts suggest creating more good content about yourself, like starting a LinkedIn profile and a personal blog, to push down the bad to the third or fourth search results screen where few people bother to look. If the content is defamatory — both false and damaging — or otherwise illegal, Mr. Beal recommends hiring a lawyer.
+
+Pros can help consumers cope. The best known is Reputation.com, which charges $99 a year for its MyPrivacy service to identify, remove and keep your information off the Web and out of commercial databases. It also offers technology to stop tracking and data collection using cookies, which can help prevent more data from getting out.
+
+Abine, which also makes the free anticookie software Taco, sells an à la carte service called DeleteMe for removing specific pieces of content. Removing customer information from 16 of the top online databases costs $75, for instance, while removing specific search-engine results, YouTube videos and Web content is $10 to $50 an entry.
+
+“Very few people would bother” jumping through such hoops on their own, said Eugene Kuznetsov, chairman of Abine. “It’s purposely made difficult for a person with a full-time job and other things to do.”
+
+Which is exactly what the snoops are counting on.
