@@ -1,0 +1,21 @@
+Heartland Payment Systems, a major payment processing company, disclosed a data breach on Monday that potentially exposed tens of millions of credit and debit cardholders to the risk of fraud in what could quickly become one of the country’s biggest data compromises.
+
+Robert H. B. Baldwin Jr., Heartland’s president and chief financial officer, said that his company believed the card numbers, expiration dates, and in some cases cardholder names were exposed after attacks on its computer systems at the one point where data had been unencrypted.
+
+Once consumers swiped their cards, so-called sniffer software captured that data as Heartland sought authorization from the major payment companies and banks. Customers of Visa, MasterCard, American Express and Discover Financial were all vulnerable.
+
+“We have industry-leading encryption, but the data has to be unencrypted to request the information,” Mr. Baldwin said. “The sniffer was able to grab that authorization data at that point.”
+
+Data thieves introduced the software as early as May, but Heartland did not detect the breach until it was alerted to the activity in late fall. The personal data of 600 million or more cardholders was vulnerable, but data security experts suggested data from far fewer accounts had been extracted. Other confidential information, like personal security codes, is not believed to have been compromised. That might limit damages.
+
+Advertisement Continue reading the main story
+
+Even so, the Heartland breach could wind up rivaling some of the largest data thefts. In January 2007, the discount retail chain TJX revealed that data on more than 45 million customers had been compromised. And 40 million cardholder accounts were exposed in the 2005 data compromise at a tiny payment processor, CardSystem Solutions.
+
+Avivah Litan, a data security analyst, said that the Heartland breach could result in hundreds of millions in losses and other expenses. “If you add it all up, including legal costs, it could be as much as half a billion dollars in losses — or twice as big as TJX,” she said.
+
+Mr. Baldwin said that Secret Service officials investigating the breach suggested that the thieves involved in the attack might be part of an “international ring of hackers that are introducing breaches at a number of financial institutions.”
+
+The Heartland breach also showed that in spite of the adoption of more stringent standards and tougher oversight by banks and credit card companies, consumers are still vulnerable. All this is happening after credit card companies and merchants spent over $2 billion on establishing the Payment Card Industry standards, Ms. Litan said. “And yet the breaches continue and they get more serious.”
+
+Heartland, based in Princeton, N.J., works with about 175,000 small merchants and processes about 100 million transactions a month. It has created a Web site, 2008breach.com, to provide information about the incident. Cardholders are not responsible for unauthorized fraudulent charges.

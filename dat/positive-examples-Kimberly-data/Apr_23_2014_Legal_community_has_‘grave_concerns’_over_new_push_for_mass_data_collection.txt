@@ -1,0 +1,47 @@
+The Law Council of Australia says there are “grave concerns” within Australia’s legal community about a renewed push by police and intelligence agencies to require telecommunications companies to store their customer’s private data for two years or more.
+
+
+
+Phillip Boulten from the Law Council’s national criminal law committee said on Wednesday that law enforcement and Australia’s peak intelligence organisation Asio had sought significant extensions to domestic surveillance powers over the past decade, and further reforms should be rebuffed unless they were “necessary and proportionate”.
+
+Boulten said some lawyers feared that the privacy of ordinary citizens could be breached in a mass storage exercise.
+
+“There’s great concern in the legal profession about that proposal,” Boulten told a Senate inquiry into Australia’s telecommunications interception regime. “There are grave concerns that holding that sort of data for, say, two years will seriously jeopardise privacy concerns, and lead to extraordinary costs for internet service providers.”
+
+He also pointed to a recent decision by Europe’s highest court to strike down the data retention regime in the EU on the basis it breached human rights law. The European regime operated much like the current proposal being sought by Australian agencies – that phone companies be required to store private data on their customers for two years, whether or not people are persons of interest.
+
+Boulten said the court had acted in Europe specifically because of the “risk of abuse”.
+
+He also raised practical issues about the storage of data, querying how the proposed regime would be enforced in Australia if key information was stored by telcos in “clouds” outside the country.
+
+Law enforcement and intelligence agencies are using the current senate inquiry, triggered by disclosures by the former National Security Agency contractor-turned-whistleblower Edward Snowden, to press for mandatory data retention. “Without it we will be fighting organised crime not with one arm tied behind our backs but with two,” the acting chief executive of the Australian Crime Commission, Paul Jevtovic, told the inquiry on Tuesday.
+
+Jevtovic’s point was criminals are using developments in technology to remain ahead of detection efforts by law enforcement, and the current Australian interception regime is not keeping pace with the requirements of agencies to both access and share data in cooperative investigations into terrorism and organised crime.
+
+The Abbott government is yet to signal whether it will give agencies what they are seeking on mandatory data retention, but the opposition signalled recently it was willing to revive the proposal which was shelved under the Gillard government before the September election because it was too controversial.
+
+But the Law Council was one of several groups who used Wednesday’s hearing to raise concerns about data retention. The Internet Society of Australia president Narelle Clark told the hearing two to five years was “too long to retain this type of data.”
+
+Clark said before there was any move to mandatory data retention, there needed to be a clear discussion about technology standards and effective oversight. “None of that is in evidence at this point in time.”
+
+The Commonwealth Ombudsman used Wednesday’s hearing to argue it should have greater scope to monitor “metadata” requests by agencies. Metadata is the information we all generate whenever we use technology, from the date and time of a phone call to the location from which an email is sent.
+
+Metadata can provide investigators with a substantial map of a person’s movements, relationships and interactions. But the Ombudsman told the inquiry it had no scope to monitor metadata activity by law enforcement because it was a warrantless regime.
+
+The intelligence watchdog, the Inspector-General of Intelligence and Security (IGIS), also appeared at Wednesday’s hearing. Vivienne Thom told the committee that the Australian Security Intelligence Organisation (Asio) maintained high standards and tight procedures.
+
+She said there were occasions where telecommunications companies had given Asio the wrong data during investigations – but she quantified this as fewer than 10 times annually. She said Asio always made efforts to quarantine the wrongly obtained information and prevent officers accessing it. “The procedures are very good in my opinion,” Thom told the inquiry.
+
+Asio does not disclose publicly how many warrants it issues as part of its investigations, so it is not possible to contextualise the information Thom gave the committee. Jake Blight from the IGIS declined to give specifics, but he told the committee that data requests and warrant requests by Asio had been roughly stable over the past three years.
+
+Blight also told the committee the IGIS provided oversight of all the intelligence agencies, not just Asio. He was asked by Green senator Scott Ludlam about “seamless” intelligence cooperation between Australia and its 5-Eyes partners – the US, Britain, Canada, New Zealand.
+
+Ludlam wanted to know whether foreign agencies could circumvent Australian privacy protections through intelligence sharing. He said the Snowden disclosures had raised issues of concern.
+
+Guardian Australia reported last December the Australian Signals Directorate (ASD) offered in 2008 to share information collected about ordinary Australian citizens with its major intelligence partners. Legal experts suggested that action, if followed through, would see ASD operating outside its legal mandate.
+
+Blight responded with a hypothetical, telling Ludlam if the ASD asked a foreign agency to get material about Australian citizens it could not access under Australian law, the IGIS would know about it and flag it in its annual report. “We would regard that as a breach of our legislation and report accordingly.”
+
+“The data sharing about Australian persons is tightly regulated. It is subject to quite strict oversight. The privacy rules apply to ASD no matter where it operates,” Blight said.
+
+Thom also urged caution about any changes to the warrants regime that would limit oversight of Asio.

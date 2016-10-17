@@ -1,0 +1,57 @@
+Photo
+
+BERLIN — A German privacy regulator fined Google €145,000 on Monday for the systematic, illegal collection of personal data while it was creating the Street View mapping service, and called on European lawmakers to significantly raise fines for violations of data protection laws.
+
+Johannes Caspar, the data protection supervisor in Hamburg, said the fine, which was close to the maximum of €150,000, or $195,000, that he could legally impose, was woefully inadequate to stop the collection practices of companies as large as Google.
+
+The fine levied by Mr. Caspar, the largest assessed so far by European regulators over privacy concerns, amounts to roughly 0.002 percent of Google’s $10.7 billion in net profit last year.
+
+“As long as violations of data protection law are penalized with such insignificant sums, the ability of existing laws to protect personal privacy in the digital world, with its high potential for abuse, is barely possible,” Mr. Caspar said.
+
+In 2010, Mr. Caspar’s agency became the first to uncover Google’s collection of data from Wi-Fi routers in Germany, and the company acknowledged that it had also collected data in a similar fashion for Street View around the world, prompting an uproar from Washington to Hong Kong.
+
+Advertisement Continue reading the main story
+
+Google characterized the collection as inadvertent and the result of a programmer’s error. Fragments of personal e-mails, photographs and other unencrypted digital data were collected by Google’s fleet of Street View automobiles as they compiled panoramic maps covering about five million miles, or eight million kilometers, of roadway in 49 countries.
+
+Peter Fleischer, Google’s global privacy counsel, reiterated the company’s regrets, and said it had taken internal steps to make sure the violations were not repeated.
+
+“We work hard to get privacy right at Google,” Mr. Fleischer said in a statement. “But in this case we didn’t, which is why we quickly tightened up our systems to address the issue.”
+
+The Google project leaders had inadvertently collected the data, he said. “We never wanted this data, and didn’t use it or even look at it,” Mr. Fleischer said, adding that the company had “cooperated fully” with Hamburg data protection officials on the investigation.
+
+Google said it would not appeal the fine.
+
+Anna Fielder, a trustee at Privacy International, a group based in London that supports strong data protection laws, said the existing legal regimes in Europe and much of the world were ill equipped to meet the challenges of protecting personal information.
+
+“Germany has the strongest data protection laws in Europe, and this is all they could do,” Ms. Fielder said. “Most businesses are not complying with data protection laws because the costs of noncompliance — I mean these tiny penalties — are so low.”
+
+Google’s disclosure that it had collected the private information set off a series of investigations by regulators around the world, the majority of which were settled by Google with a simple apology or with fines that were considered trivial for the world’s biggest Internet search company.
+
+In March, Google agreed to pay a fine of $7 million and to aggressively police its own employees on privacy issues to settle a lawsuit brought by 38 U.S. states. In Europe, Ireland and Britain dropped their inquiries and did not impose fines after Google agreed to delete data illegally collected in their countries.
+
+Advertisement Continue reading the main story
+
+The French regulator, the National Commission on Computing and Liberty, fined Google €100,000 in 2011. The lone criminal investigation to result from the incident, initiated by the state prosecutor in Hamburg, was closed without charges being brought last year.
+
+Privacy law is enforced at the national level in the European Union. The top E.U. privacy body, the Article 29 working group, is an advisory committee to the European Commission and does not have the legal power to levy fines.
+
+Mr. Caspar, the Hamburg privacy regulator, called on European lawmakers who are considering revisions to the main data protection law for the Union to allow for fines of up to 2 percent of a company’s annual sales. Based on Google’s revenue last year, the maximum fine would have been $1 billion.
+
+Mr. Caspar described the proposed 2 percent penalty for data protection violations as “economically significant.” European lawmakers are not expected to complete their deliberations on the privacy revisions until next year at the earliest.
+
+The European Parliament’s lead committee considering the legislation, the Civil Liberties, Justice and Home Affairs Committee, is to vote on the bill in late May but may be forced to postpone action. Lawmakers have proposed more than 3,000 amendments, many of which would weaken or eliminate its main provisions.
+
+“I have never seen this magnitude of lobbying before on an issue before the Parliament,” said Ms. Fielder, the Privacy International official who is following the legislation for her organization.
+
+The support of the Union’s 27 nations, which are represented on the Council of Ministers, a second Brussels body that functions as an upper house in the legislative process, will also be key to passage of new data protection legislation.
+
+But in the upper chamber, too, lobbying against the measure has been intense. The British government, whose administration favors a light-touch regulatory regime, attempted during the council’s early discussions this year to downgrade the data protection revisions to a voluntary recommendation.
+
+Advertisement Continue reading the main story
+
+But the British were rebuffed by German, French and other Continental governments favoring stricter controls, according to a copy of meeting protocols obtained by the International Herald Tribune. The British government has continued to lobby, Ms. Fielder said, to limit the scope of the legislation.
+
+European Parliament lawmakers face re-election next May, and if they do not pass revisions before then, backers of the legislation will probably have to return to the drawing board, Ms. Fielder said.
+
+“That could set back the entire issue for years,” she said.

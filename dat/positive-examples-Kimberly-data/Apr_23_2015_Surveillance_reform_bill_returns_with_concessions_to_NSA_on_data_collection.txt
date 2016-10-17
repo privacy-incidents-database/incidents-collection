@@ -1,0 +1,33 @@
+Modifications made on behalf of the National Security Agency have paved the way for the return of a major piece of surveillance reform legislation, the Guardian has learned.
+
+Related: Weakened surveillance reform bill is 'yesterday's news', civil libertarians say
+
+According to congressional sources, the architects of the USA Freedom Act, a bill that seeks to stop the NSA’s bulk collection of Americans’ phone records, have agreed to grant the surveillance giant temporary abilities to continue monitoring foreign targets who enter the US while agents seek domestic warrants; and to permit the agency to do the same for domestic targets for whom it has a probable-cause warrant who subsequently travel overseas.
+
+Both additions, discussed for weeks but intensified in the past several days, were described as measures to gain support from pro-surveillance legislators on the House intelligence committee. Another such gesture included in the bill, unrelated to surveillance, would increase the maximum penalty for people lending material support to terrorism from 15 years to 20. The concessions were said to have come on behalf of the NSA, rather than from the NSA itself.
+
+Advocates of the much-delayed USA Freedom Act now expect the bill to be reintroduced on Thursday ahead of a short congressional recess, the culmination of nine weeks of backroom negotiations.
+
+“We’re really, really close,” one said, on condition of anonymity to discuss a deal that was not final.
+
+After passing the House in May 2014 only to fail in the Senate six months later, the USA Freedom Act reappears barely a month before the legal authority undergirding the bulk phone records collection as well as other warrantless FBI investigative tools, the Patriot Act’s Section 215, expires.
+
+Related: Senate Republicans block USA Freedom Act surveillance reform bill
+
+The bill would trade the end of bulk domestic phone data collection for the retention of the rest of Section 215 through 2019. It is a controversial swap. Several privacy groups prefer a straight expiration, while the Senate majority leader, Mitch McConnell, a Kentucky Republican, has introduced his own straight reauthorization of the provision, including the retention of the phone records program that was exposed by the Guardian thanks to whistleblower Edward Snowden.
+
+The House of Representatives’ version of the USA Freedom Act lost significant support from privacy groups after the intelligence agencies and their congressional supporters, with the support of the Obama administration, watered down its prohibitions on bulk collection and its transparency requirements.
+
+Supporters believe the 2015 version is stronger than what the House passed last year and is the only surveillance reform with a chance of passage. They argue the latest model is closer to a version in the Senate, sponsored by Vermont Democrat Patrick Leahy, that civil libertarians preferred. But the Guardian has not seen the final text, including its definition of the root “specific selection term” that the government can collect, something that privacy groups last year considered overly broad.
+
+The expected return of the USA Freedom Act comes as the Obama administration is attempting to publicly rebrand its surveillance to make it more palatable to the public and, critically, tech-sector companies alienated by the Snowden revelations.
+
+On Wednesday, as McConnell introduced his attempted 215 reauthorization, the director of national intelligence, James Clapper, declassified statistics that seemed to indicate a slight decline in the use of key surveillance powers. In 2014 an estimated 227 Americans were the subject of searches of business records permitted under Section 215, down from an estimated 248 in 2013, though the collection of those records often affects many more.
+
+The defense secretary, Ashton Carter, who presides over the NSA and US Cyber Command, will deliver an address to Stanford University on Thursday that is described as an effort to mend ties with Silicon Valley, even as defense officials conceded the NSA played a large role in crafting the cybersecurity strategy that Carter will discuss.
+
+Yet significant divides remain on surveillance between the administration and the privacy and tech communities, many of whose members consider a cybersecurity bill passed on Wednesday by the House with tentative administration support to be little more than a surveillance bill under another name.
+
+The Mozilla Foundation’s privacy chief, Chris Riley, denounced McConnell’s effort to retain bulk surveillance within his Section 215 reauthorization proposal.
+
+“Our call records are more than just numbers and metadata, they are intimate portraits into our lives, and should be kept private. Mozilla and thousands of internet users urge Congress to pass real surveillance reform,” Riley said in a statement.

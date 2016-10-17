@@ -1,0 +1,23 @@
+News
+
+Microsoft Reworks Privacy Policy To Include Enterprise Products
+
+Microsoft recently published a new set of privacy policies for organizations using Microsoft's enterprise products, including online services and servers.
+
+The new "Enterprise Products" section in Microsoft's privacy policy took effect on Aug. 2, according to an account by The Register. With regard to Microsoft's online services, account administrators will get offers from Microsoft about "other products and services" under this policy. Account administrator contact information could get shared with Microsoft's partners. Microsoft may also send third-party nonpromotional communications to administrators, per the online services policy:
+
+We may also contact you regarding third-party inquiries we receive regarding use of the Online Services, as described in your agreement. You will not be able to unsubscribe from these non-promotional communications.
+
+On the server products side, Microsoft's Enterprise Products privacy policy states that Microsoft mostly will collect "usage data," including server performance data, as well as device data "to learn about your operating environment to improve security features." Microsoft also collects crash data if an organization opts to send it.
+
+The Enterprise Products policy could conflict with an agreement between Microsoft and an organization. In such cases, "the terms of those agreement(s) will control," the policy stated. However, the policy adds that "some Enterprise Products have their own, separate privacy statements."
+
+And that's kind of an understatement. For instance, Windows 10 features, such as Cortana, have their own separate privacy policy statements to review that will change over time. For instance, in July, Microsoft updated its Cortana privacy policy to describe "data sharing with third-party services."
+
+The privacy policy also was updated in July to explain that Cortana can have access to user browsing history, and that "enabling that feature will allow us to collect your Microsoft Edge search queries and full browsing history associated with your user ID to personalize your experience."
+
+Another privacy policy update of note in July was a description of data transfers from European Union countries. Microsoft has been signaling its intent to back the current "Privacy Shield" legal framework for U.S. and EU data transfers. European agencies, such as one in France, have been proactive about addressing potential privacy issues.
+
+The change history for Microsoft's privacy policies can be found at this page.
+
+IT pros likely may not spend much time thinking about organizational privacy compliance issues. However, now it's in writing and in several places to check if organizations are using Microsoft's enterprise products and services.

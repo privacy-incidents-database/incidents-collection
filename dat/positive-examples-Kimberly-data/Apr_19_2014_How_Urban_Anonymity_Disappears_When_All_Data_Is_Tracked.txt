@@ -1,0 +1,35 @@
+Photo
+
+Cities are our paradises of anonymity, a place for both self-erasure and self-reinvention. But soon, cities may fall first in the disappearance, or at least a radical remaking, of privacy.
+
+Information about our innocuous public acts is denser in urban areas, and can now be cheaply aggregated. Cameras and sensors, increasingly common in the urban landscape, pick up all sorts of behaviors. These are stored and categorized to draw personal conclusions — all of it, thanks to cheap electronics and cloud computing, for affordable sums.
+
+“People in cities have anonymity from their neighbor, but not from an entity collecting data about them,” said Deirdre Mulligan, a professor at the iSchool at the University of California, Berkeley. “These are far more prevalent in cities.”
+
+On Friday, a company called LocoMobi announced it had acquired Nautical Technologies, the license plate recognition technology of a Canadian company called Apps Network Appliances. This gear sits at the entrance of a parking lot, identifying the license plates of incoming cars. That data goes to the cloud computing infrastructure of Amazon Web Services. When a car pulls out of the lot, the camera takes another picture, computers calculate how long a car was parked, and a charge is applied.
+
+The company’s co-founder foresees tying the system to a car’s navigation system, enabling drivers to find and reserve nearby parking spots without wasteful driving. A license plate is certainly public information, and this all seems like a boon for drivers.
+
+Eventually, however, something else happens, too.
+
+“We can have so much fun with this,” the co-founder of LocoMobi, Barney Pell, who is also its chairman, said. “Imagine knowing that people who park here also park there – you’ve found the nearby stores, their affinities. You could advertise to them, offer personalized services, provide ‘passive loyalty’ points that welcome them back to an area.”
+
+At that point public data has become personal information. It’s a little like the way a company called Euclid Analytics uses the pings when a smartphone looks for a Wi-Fi antenna (something that phones do as a matter of course) to track people moving through a crowded mall.
+
+Euclid says it does not collect personally identifying information, though it could figure out a lot by examining those movements. In London, a software engineer inferred a significant amount of personal information by looking at public data about bicycle rentals.
+
+The more recording devices we put in the world, the more once-evanescent things take on lasting life. Our speech is increasingly recorded and given new meaning when it is analyzed. This week, it emerged that Google has filed a patent to take its Google Glass recording technology (already responsible for a few urban scuffles) onto contact lenses.
+
+Many of the technologists involved in data aggregation see a benefit to civil society. “So many of our urban problems have to do with people breaking rules and cheating systems, then disappearing,” Mr. Pell said. He noted behaviors like parking in handicapped spaces with illegitimate tags, or running red lights. “If compliance is information rich, our lives won’t have this death of 1,000 little cuts.”
+
+“What happens when every secret, from who really did the work in the office, to sex, to who said what, is that we get a more truthful society,” said David Friedberg, founder and chief executive of Climate Corporation, a big data analysis company that Monsanto bought last year. “Technology is the empowerment of more truth, and fewer things taken on faith.” Public awareness of now hidden behaviors, he said, “is a conversation that will happen.”
+
+That sense of where tech will take us is its own faith, Ms. Mulligan of Berkeley said. “There is an idea here that data is truth, and that’s not always true,” she said. “You may know who is running a red light, but you don’t know if there is a sick kid in the back seat, and they are racing to the hospital.”
+
+More important, she said, that deferral to data comes at the expense of people making real choices about how to behave. “If you want people to act morally, you don’t tell them what they can and can’t do. We all need to think about the effect on others, what should be done,” she said.
+
+Certainly, all these hacks on traditional privacy will not just be urban questions. With the coming of low-cost satellite systems, all of the Earth will be held to a mirror, in near real time, at an increasing granularity of visual, infrared and other kinds of data. And while companies may collect our public information, the Federal Trade Commission in the United States, along with regulators in other countries, is increasingly interested in how this data is used.
+
+On the other side, it isn’t clear how much we care about our privacy; also this week, Google updated its terms of service, purposely highlighting the fact that it automatically scans our content, including emails. So far this has not resulted in a drastic drop in how much people use Google.
+
+What we have at this moment is an exceptional awareness of where we are going: It is a little bit as if, circa 1880, we’d been able to say “soon we’ll banish night, because our cities will have electric light.” The only real loss would not be thinking through the implications.
