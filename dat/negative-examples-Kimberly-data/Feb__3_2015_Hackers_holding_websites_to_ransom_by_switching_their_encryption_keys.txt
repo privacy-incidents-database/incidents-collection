@@ -1,0 +1,35 @@
+Ransomware – hacking and locking a computer and demanding money to let users back in – has moved to the web following a spate of attacks that cripple websites by changing the encryption keys needed to keep a website running.
+
+
+
+The new attacks, called “RansomWeb”, as documented by security company High-Tech Bridge, see hackers break into a website, take control of a site’s encryption system used for securing or backing up data, and change the keys.
+
+The attackers are analogous to burglars who break into a house, change all the locks and make it impossible for the owner to get back in.
+
+Once the encryption key is changed the website or a web app, is rendered inoperable by stopping it from accessing essential information or code.
+
+‘The era of web blackmailing, racket and chantage is about to start’
+
+Ilia Kolochenko, chief executive of High-Tech Bridge said: “We are probably facing a new emerging threat for websites that may outshine defacements and DDoS attacks. RansomWeb attacks may cause unrepairable damage, they are very easy to cause and pretty difficult to prevent.”
+
+Related: Sony Pictures hack: how much damage can North Korea's cyber army do?
+
+In December a company was reportedly held to ransom after a critical web app was taken offline through the attack. The hackers had broken into the servers that ran the web app six months prior, but waited until some critical data had been encrypted and the security key stored on a protected remote server.
+
+They then removed the key from the web server, breaking the app, and sending a ransom demand to the company to decrypt the crucial data and restore service.
+
+“The days when hackers were attacking websites for glory or fun are over, now financial profit drives them. The era of web blackmailing, racket and chantage is about to start,” said Kolochenko.
+
+‘A great opportunity to make money exploiting negligent website administrators’
+
+The attacks are difficult to prevent, due to the complexity of most web apps and their constant changing state. Kolochenko explained that the only way to detect such attempts would be to constantly monitor for file changes within the web app code and databases.
+
+Marsel Nizamutdinov, High-Tech Bridge chief research officer said: “There are tens of millions of vulnerable web applications with critical data. Hackers will definitely not miss such a great opportunity to make money exploiting negligent website administrators.”
+
+Related: Cryptolocker: what you need to know
+
+Ransomware attacks are nothing new. Cybercriminals have been targeting people and businesses for years, often using emails as a way to carry out the attack. The National Crime Agency (NCA) put out an alert in 2013 when a series of emails claiming to come from banks and financial institutions contained malware that would encrypt a user’s hard drive and hold it for a ransom of around £540.
+
+Cryptolocker then hit the headlines in June 2014, where the managed to take control of a cybercriminal gang’s control system giving people hit with the ransomware a two-week window to clean the malware from their systems.
+
+The move from ransomware to ransom attacks on the web is not unexpected by security analysts, who believed it was only a matter of time as more and more crucial corporate data is stored off site in the cloud.

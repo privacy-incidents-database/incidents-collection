@@ -1,0 +1,47 @@
+Brian Dolan, editor of MobiHealthNews, an online publication, said the way for fitness data aggregators to differentiate themselves “is to win on the software’s user experience.”
+
+He explained, “I may just like the look and feel of one particular user interface.”
+
+But bringing in fitness data to one location to make it easily accessible is just the beginning. Once the data is available, the next step would be to make connections between, for example, your sleep history and what you ate the night before. Then, if processing is sophisticated enough, the app would analyze the connections and make suggestions for improving your life, or even predict the possibility of a coming disease.
+
+The technology for such analysis is not quite there yet, except for some fledgling efforts. Several additional services, though, say they hope to be able to offer that kind of analysis in the coming months.
+
+“It’s very important to do analytics,” said Cédric Hutchings, chief executive of Withings. “We are developing services that will understand the data and provide coaching advice and services.”
+
+If you want to get started using an aggregator, a few that get high marks from the fitness industry are CarePass, RunKeeper, Argus and Tictrac.
+
+CarePass, developed by the health insurer Aetna, is free. It enables users to connect with more than 20 fitness data providers, including Fitbit, FitSync, iTriage, RunKeeper and Withings. Users set goals, and Aetna offers some templates, like “Fit into my favorite jeans” or “Kickstart my weight loss.”
+
+Photo
+
+Or you can create your own goal, name it anything you wish and set your own parameters, like a pledge to cycle 30 minutes each day.
+
+Advertisement Continue reading the main story
+
+Using Aetna’s iTriage app, users can investigate the likely cause of symptoms, find doctors, make appointments and upload medical information.
+
+“We are not the best at manufacturing tools,” said Martha Wofford, an Aetna vice president and head of its CarePass initiative. “CarePass lets you set a goal and then have a third-party app power that goal.”
+
+In the coming months, CarePass hopes to add partners that track medication adherence, stress, smoking cessation and metabolic syndrome.
+
+CarePass said it was working on ways to analyze the data collected. As Ms. Wofford put it, the service “will use the data to personalize the user’s experience.”
+
+“There is a need to communicate with the user, to recommend things that will work for them,” she said.
+
+RunKeeper, the popular running monitor, integrates scores of apps on its site and mobile app, monitoring activities like sleep, nutrition and strength building.
+
+The data allows users to make educated guesses as to possible correlations between activities and outcomes, or one particular app may call out certain data to the user (“you’ve just gained 10 pounds”). But RunKeeper itself does not currently suggest any connections between activities and outcomes.
+
+Advertisement Continue reading the main story
+
+Argus, from Azumio and available in the Apple app store, uses many of its own apps and a few from third parties to allow a user to track nutrition and exercise, and even add pictures of the foods eaten to share with friends. Holding down one of the honeycomb data cells on its iPhone app expands the information so the user can see not just overall steps for the day, for instance, but steps taken hour by hour, as well as distance traveled and calories burned.
+
+Tictrac, a London start-up, is worth watching because it offers some data analysis in addition to linking data from 300 partner apps into its free portal. Through the analysis, Tictrac suggests actions to improve a user’s well-being.
+
+Users organize their goals into preformatted “projects” like “time management,” “lose 10 pounds” or “run a marathon.” Users can also create custom plans. Each one asks the user to link to the accounts of the tracking devices and apps that pertain to the goals of that project.
+
+For example, the time-management project looks at how many e-mails one has sent and received from Gmail, the time they were sent and the senders’ names, the number of meetings as listed on Google’s calendar, how much television has been watched, stress levels and other data. The fitness project analyzes what one has eaten, calories and nutritional data, and exercises performed.
+
+With this micro-information, users can pinpoint what changes they need to make in their daily routines to improve their health and well-being.
+
+Tictrac also licenses algorithms to other apps that look at various data and offer suggestions on how to improve performance. For example, runners may be told that they run faster when it’s raining, or even while listening to a certain type of music. That functionality will soon be available directly on the Tictrac platform.

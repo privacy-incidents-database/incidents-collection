@@ -1,0 +1,15 @@
+Tableau today released Tableau 10, the newest iteration of the company’s data analytics and visualization software.
+
+Tableau 10 brings about a host of new features, including updated designs, analytical functions, new mobile capabilities, and additional enterprise tools for IT managers.
+
+“The new design makes data the hero,” Tableau co-founder Chris Stolte said in a statement. “Data integration helps maximize time spent on analysis. Data analytics innovations like the drag and drop clusters, help people do more advanced analysis of their data without needing to program. And enterprise advancements continue to up the standard for delivering a governed, trusted self-service environment.”
+
+The update, labeled as one of Tableau’s “most significant releases,” signals a shift for the company as it focuses more on IT and enterprise tools. It also comes as Tableau tries to get its stock price back to pre-2016 levels.
+
+In the fourth quarter of 2015, the company posted a record $203 million in revenue, but took a $41 million loss. As a result, its stock lost about half its value and has yet to fully recover. The company’s stock fell again the following quarter and has dropped nearly 50 percent in the past year, now trading at $54.25.
+
+Tableau is facing increased competition in the data analytics industry from companies like Microsoft, which launched its PowerBI tool this past summer.
+
+Earlier this year, Tableau CEO Christian Chabot said that more of the company’s business is “leading to cloud analytics” via its cloud product Tableau Online.
+
+Tableau, which scaled back hiring plans by 50 percent earlier this year, beat revenue expectations for the most recent quarter. However, it missed on earnings estimates, which sent its stock down another five percent. During Q2, Tableau added 3,900 new customers, its most ever for a single quarter, bringing its customer base to more than 46,000 across the globe.

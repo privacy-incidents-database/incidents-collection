@@ -1,0 +1,96 @@
+It seemed like just another ordinary day for staff at vehicle hire company MNH Platinum. Little did they know that the simple click of an email link was about to threaten their entire business.
+
+
+
+It was early last year when the Blackburn-based firm was the victim of a virus which encrypted over 12,000 files on its company network. A ransom demand followed – the criminals would decrypt the company’s files in exchange for more than £3,000.
+
+
+
+With the virus proving impossible to remove without the loss of crucial company data, the firm had no choice but to pay up.
+
+
+
+“We were completely unprepared for a cyber breach simply due to a lack of awareness of the magnitude an attack of this type could have through mistakenly clicking a link in an email,” says managing director Mark Hindle. “I am thankful that we had a lucky escape, in that I was able to retrieve the documents that are crucial to the running of the business, albeit at a price.”
+
+
+
+Related: Hackers are ahead in the cyberwar – businesses need to wake up
+
+The company’s case is not an isolated one, and experts are warning that not only are small businesses now firmly in the crosshairs of cyber-criminals, they are fast becoming their favoured target – and are often woefully unprepared.
+
+
+
+“SMEs have not historically been the target of cybercrime but in 2015 something drastically changed,” says Toni Allen, UK head of client propositions at the British Standards Institute (BSI).
+
+
+
+“The latest Government Security Breaches Survey found that nearly three-quarters (74%) of small organisations reported a security breach in the last year; an increase on the 2013 and 2014 survey. SMEs are now being pinpointed by digital attackers.”
+
+
+
+According to the latest statistics released by cyber security firm Symantec, more than half (52.4%) of spear phishing attacks, carried out using fake emails – carried out in December last year were against SMEs, with November showing a massive spike.
+
+The issue of cyber security for small businesses is made even more pressing by new European regulations aimed at protecting customer data. The EU’s new General Data Protection Regulation will come into force in 2018 and could result in companies being fined up to €20m or 4% of their annual turnover, whichever is greater, for allowing any security breaches to compromise their customer data.
+
+
+
+Sarah Green, a cyber security expert and business manager for Cyber Security at Training 2000, says that one of the most dangerous phrases used by small businesses is: “It’ll never happen to us.”
+
+
+
+“Small businesses may feel that they aren’t likely to be a target due to their size and that hackers couldn’t possibly be interested in what they do – but in reality the exact opposite is true,” Green adds.
+
+
+
+“Hackers prey on the knowledge that small businesses tend to have lower defences than larger organisations, usually due to lack of financial and human resources. By their very nature, thriving small businesses are innovative and niche, which again is very attractive to the bad guys who may be interested in customer data and intellectual property and know exactly how to pick out the weak targets.”
+
+
+
+Stephen Ridley, acting head of technology, cyber and data for insurance company Hiscox UK and Ireland and a member of the Cyber Streetwise Forum, claims many SMEs still have much to do in order to protect themselves.
+
+
+
+“Many small businesses are starting to appreciate the potential severity of cyber-attacks. But many still have a long way to go in implementing good risk management,” he says.
+
+
+
+“SMEs are being viewed as a softer target by criminals, and are often a route to a ‘bigger prize’ if they are contracting with larger organisations, who may be harder to penetrate directly.”
+
+According to Ridley, firms can follow several simple steps to reduce cyber-risks. He suggests using secure passwords such as three random words, installing antivirus and malware software on all company devices, instigating regular software updates that contain vital security upgrades and educating staff on cyber-risks. Another way of helping to improve security is to subscribe to the government-backed Cyber Essentials scheme.
+
+Duncan Sutcliffe, who runs insurance firm Sutcliffe & Co in Worcester, has recently taken part in the programme.
+
+“I was aware of the increasing threat to both our clients and our business from hackers and cybercrime, but I’m not a techie, so I didn’t really know what to do about it. I found out that around 80% of cyber breaches could be stopped by adopting some of the basics,” he says.
+
+
+
+Alex Fenton, a digital business expert and lecturer at Salford University, says there is no excuse for leaving your systems vulnerable. “We have seen some high-profile examples where companies have cut corners to save time and money.
+
+
+
+“Burying your head in the sand may save money in the short term, but the cost of hacking could range from minor inconvenience, reputation damage, loss of customer data, fines and ultimately company closure.”
+
+
+
+According to the Cyber Streetwise campaign, a cross-government initiative run by the Home Office, major cyber threats to SMEs include:
+
+
+
+• Ransomware – where a piece of malicious software, typically received via a phishing email, encrypts all of the data on the company’s network, with the perpetrators requesting a ransom (typically £500–£1,000) in order to provide the decryption key.
+
+
+
+• Hack attack – where a hacker manages to gain access to the company’s network, typically by exploiting an unpatched vulnerability within the software, allowing them access to the company data. The target will generally be personally identifiable information (PII) on a company’s customers, especially credit card information
+
+
+
+• Denial of Service attack – when a company’s website is overwhelmed by a volume of data pushed to its servers in a malicious manner. These attacks are increasingly easy and cheap to carry out, with some online tools costing as little as £25 per hour.
+
+
+
+• Human error – people are generally the weakest link in any security chain, and a vast number of data breaches are the result of information being lost, or distributed to the wrong person. Even the seemingly mundane can have far reaching consequences, particularly where sensitive PII is involved.
+
+
+
+• CEO fraud – where a criminal poses as a senior person within the firm, either by hacking or “spoofing” their email account, and convinces someone with financial authority to make a payment
+

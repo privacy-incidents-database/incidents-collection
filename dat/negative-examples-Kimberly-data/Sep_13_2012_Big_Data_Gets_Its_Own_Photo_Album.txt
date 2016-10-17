@@ -1,0 +1,39 @@
+Rick Smolan, the photographer and impresario of media projects, has tackled all sorts of big subjects over the years, from countries (“A Day in the Life of Australia” in 1981) to drinking water (“Blue Planet Run” in 2007). He typically recruits about 100 photographers for each, and their work is crafted into classy coffee-table books of striking photographs and short essays.
+
+But Mr. Smolan concedes that his current venture has been “by far the most challenging project we’ve done.”
+
+Small wonder, given his target: Big Data.
+
+Jason Grow/The Human Face of Big Data
+
+Massive rivers of digital information are a snooze, visually. Yet that is the narrow, literal-minded view. Mr. Smolan’s new project, “The Human Face of Big Data,” which is being formally announced on Thursday, focuses on how data, smart software, sensors and computing are opening the door to all sorts of new uses in science, business, health, energy and water conservation. And the pictures are mostly of the people doing that work or those being affected.
+
+In these digital times, the book is only one part of the Big Data project. Later this month, on Sept. 25, a software application for iPhones and Android phones will be released. The idea is to get as many people from around the world as possible to use the application.
+
+The program will be able to collect data on travel and movement (through the smartphone’s GPS and accelerometer), food (take a picture and shortly after the program identifies the food, including estimates of calories and fat content) and attitudes (the user answers questions posed by the app). The data will be fed into a “Measure Our World” database, and people can see how their habits and attitudes compare with others by, say, where a person lives, gender and age.
+
+Later, on Nov. 8, a Big Data-related program for students, in collaboration with TEDYouth, will get under way. When the book is released on Nov. 20, some 10,000 copies will be delivered by Federal Express to influential people around the world, Mr. Smolan said. It’s an eclectic group, including President Obama; Carmelita Jeter, the Olympic sprinter; Anna Wintour, editor of Vogue; Sonia Gandhi, president of the Indian National Congress; and Jiang Jiemin, chairman of PetroChina. For the less influential who are not getting free copies, the price will be $50, with a portion of the proceeds going to charity.
+
+An iPad application, based on the book but including interactive features, will come soon after. And a documentary film, scheduled for next year, is planned.
+
+Mr. Smolan said he got interested in doing a Big Data project because friends in Silicon Valley were talking about the growing abundance of Internet-era data and its potential. At first, he said, such conversations struck him as “hot air and buzzwords.” But the more he listened, the more he became convinced something significant was happening. “It reminded me of the early days of the Internet,” Mr. Smolan said. “Cyberspace was the buzzword then. But soon you started to see that things were taking off.”
+
+Big Data technology, Mr. Smolan said, makes it possible to measure things as never before in real time. The result, he said, could someday be a “planetary nervous system.” And guesswork and projections will give way to knowledge, and better decisions and policy-making. Low-cost sensors, real-time data collection, high-speed processing and data-visualization tools, he said, might mean “people could not deny global warming because you could see it happening right in front of you on the screen.”
+
+Peter Menzel/The Human Face of Big Data
+
+Mr. Smolan visited recently to offer a glimpse of what will be in “The Human Face of Big Data” and the imaginative photo composition involved in bringing technical subjects to life. One photograph shows Shwetak Patel, an assistant professor at the University of Washington, who has developed technology that measures energy and water use in homes; with wireless sensors and clever software to determine what appliances and gadgets in a home use the most electricity and water, the software suggests ways to conserve — information delivered graphically on an iPad. The photo shows young Mr. Patel in the backyard of his cousin’s house in Hayward, Calif., with his cousin’s family, surrounded by what looks to be every single appliance, digital device, faucet and toilet in the household.
+
+Another photo illustrates software technology that captures previously discarded data from heart-monitoring electrocardiogram machines. The software program sifts the data, looking for subtle heart abnormalities that identify patients that are at high risk of suffering a second heart attack within a year. The photo shows two M.I.T. scientists, John Guttag and Collin Stultz, who developed the technology, standing in a small mountain of paper, which is 10 hours of printout data from an E.K.G. machine.
+
+Michael Cogliantry/The Human Face of Big Data
+
+Still another photo accompanies an essay by A.J. Jacobs, an author and journalist, who enlisted all kinds of sensors, including Fitbit for movement and Zeo Sleep Manager, in pursuit of a healthier lifestyle. “I crave maximum data about myself,” Mr. Jacobs writes. “I am a quantification fiend.” Mr. Jacobs has already written a book on his quest, “Drop Dead Healthy,” published earlier this year. His picture, which also appears on the inside cover his book, shows Mr. Jacobs sporting his devices and other visual props, holding a barbell in one hand and a head of broccoli in the other.
+
+EMC, the data storage giant, is the main sponsor of “The Human Face of Big Data.” Jeremy Burton, EMC’s chief marketing officer, first met Mr. Smolan more than a year ago. The introduction came from an EMC board member, and Mr. Burton agreed to meet Mr. Smolan for coffee for a half-hour in Burlingame, Calif. Mr. Burton figured the obligatory meeting would soon be over, but it lasted two and a half hours — “the longest cup of coffee I’ve ever had,” he said.
+
+EMC is in the business of Big Data. And Mr. Smolan’s approach seemed original and appealing to Mr. Burton. “Let’s face it, most of the discussion of Big Data is a geekfest — people talking about Hadoop and other technical tools,” Mr. Burton said. “Rick Smolan wanted to focus on how Big Data is affecting humanity.”
+
+Typically, Mr. Smolan tries to line up a handful of sponsors for his projects. But Mr. Burton decided that EMC would be almost the sole backer of the project (FedEx is contributing the delivery of the 10,000 books on the publication day).
+
+EMC, Mr. Burton said, had no editorial control and the cost was “a big chunk of change,” a multimillion-dollar expenditure. “It is a risk, but the elements of the project from the book to the iPad application seem really cool,” he said. “And we’ll get the halo effect.”

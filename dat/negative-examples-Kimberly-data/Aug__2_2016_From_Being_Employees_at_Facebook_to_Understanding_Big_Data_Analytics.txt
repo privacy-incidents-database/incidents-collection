@@ -1,0 +1,33 @@
+Big data has found its place in a multiple number of industries today. From e-commerce, marketing tools, fashion and hiring portals and IoT sectors its presence is felt in all corners of the business domains. But is that all it is capable of?
+
+Not really!
+
+Qubole – is a Big Data Service start-up, headquartered out of Mountain View, California with their Engineering Team in Bangalore, India. Qubole was founded by Joydeep Sen Sarma along with his IIT-Delhi batchmate Ashish Thusoo, with the aim of deploying data analytics architecture quickly and saving costs by taking analytics directly to the cloud where all their data is being stored.
+
+Qubole simplifies the provisioning, management and scaling of big data analytics workloads leveraging data stored on Amazon Web Services, Google Compute, or Microsoft Azure infrastructure. With Qubole connected to your choice of cloud provider, once IT sets policies, any number of data analysts can be set free to collaboratively “click to query” with the power of Hive, Spark, Presto and many others in a growing list of data processing engines.
+
+From Facebook Executives to Entrepreneurs
+
+Joydeep Sen Sarma and Ashish Thusoo were part of building and leading the original Facebook Data Service Team from 2007-2011 during which they authored many prominent data industry tools including the Apache Hive Project.
+
+While making valuable contacts and money at their job, both of them saw an emerging opportunity, which they wanted to seize. According to Joydeep, many companies were struggling to solve problems that they had been solving at Facebook.
+
+“One of our core takeaways was that software are becoming more and more commoditized today and the problem had moved to that of helping businesses keep their open-sourced software to achieve some business objectives,” he said.
+
+At Facebook the duo also realized the value of making technology accessible to users. Joydeep believes that there are a lot of cool technologies out there, but there was also a huge challenge in getting the large companies, housing data scientists, business analysts and data miners to use them.
+
+Apart from learning and helping the company develop new technology; both Ashish and Joydeep also learnt the nuances of work culture at Facebook. Fast moving work atmosphere, easy hierarchy, giving more freedom to co-workers, taking on more responsibility and customer –focussed growth are few things that got ingrained in the DNA of these two founders.
+
+Potential of Big Data in the Indian Market
+
+Talking about the potential in this space, Joydeep said that apart from catering into home-borne e-commerce, IoT and taxi industries, the company also sees product development opportunities in the MNCs that are based out of India. “If you look at Bangalore and Hyderabad, MNCs are often building analytics which is another customer segment we can capture here,” he explained.
+
+Adding to this, Ashish also noted that data crunching companies, data analytics for online fashion portals and messenger apps are other emerging industries where Qubole sees immense potential.
+
+Bullish on Enterprise tech companies in India
+
+In January 2016, Qubole closed a $30m Series C funding round led by IVP, bringing its total funding to $50m. Some of its marquee clients in India include Ola Cabs, Saavn and Capillary Technologies while internationally its clients include Pinterest, Quora and Comcast.
+
+Apart from Qubole, investors and institutes like NASSCOM have shown immense amount of interest in the B2B space this year. Joydeep said he is very “bullish” on enterprise tech in India.
+
+He claims that lack of a good market for B2B tech and skilled product engineers left this sector dry all these days. However, the emergence of good B2B companies and the first generation of startups are now acting as kernels for the next generation of enterprise tech companies.

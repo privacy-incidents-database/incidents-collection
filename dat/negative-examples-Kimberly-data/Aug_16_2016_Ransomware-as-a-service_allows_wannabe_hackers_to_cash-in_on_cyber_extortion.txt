@@ -1,0 +1,33 @@
+Image: Check Point
+
+A ransomware-as-as-service scheme is enabling even the most technically illiterate cybercriminal to extort payments from victims infected with data-encrypting malware -- with the developers of the service taking a significant chunk of the ill-gotten gains.
+
+Cerber is one of the largest active ransomware rings operating today, with data collected by cybersecurity researchers at Check Point claiming 150,000 Microsoft Windows users were infected in July alone. One of the key reasons it's so widespread is because its original creators are selling Cerber on the dark web, allowing other criminals to use the code in return for receiving 40 percent of each ransom paid.
+
+With an average ransom payment of one Bitcoin, overall profit from Cerber during July is thought to be around $195,000, with the authors receiving around $78,000 in that month alone.
+
+In exchange for giving up some of the profits, wannabe cyber fraudsters are provided with everything they need in order to successfully make money through extortion of victims of the malware -- it's essentially "ransomware for dummies" in an all-in-one kit, says Maya Horowitz, group manager of intelligence operations at Check Point.
+
+"Our assumption is the affiliates wouldn't be able to create their own ransomware or malware, so they'd be willing to pay as much as the creator wants because, to them, it's either that or nothing. They get a very user-friendly panel to manage the Cerber ransomware campaign, detailing how many infections there are on a daily basis, how many people pay, the income they're generating. It's very much ransomware for dummies." she told ZDNet.
+
+The availability of Cerber to anyone who wants to pay for it differentiates it from another of the most successful ransomware families, Locky.
+
+"Locky is only being sent by one threat actor -- they use it on their own and don't share or sell it. Cerber acts as ransomware-as-a-service -- those who created it are now leasing it for anyone to use," says Horowitz.
+
+That arguably makes Cerber more dangerous than Locky because each affiliate user can infect victims using a variety of different attack methods, although the two most common involve the victim unknowingly executing a malicious program disguised as a legitimate file, delivered in a phishing email, or the victim is infected browsing a compromised website.
+
+Researchers believe there are currently over 150 active Cerber campaigns targeting users in 201 countries, with victims in South Korea, the US, and Taiwan accounting for over half of ransom payments. Perhaps significantly, however, Cerber doesn't infect targets in Armenia, Azerbaijan, Belarus, Georgia, Kyrgyzstan, Kazakhstan, Moldova, Russia, Turkmenistan, Tajikistan, Ukraine, or Uzbekistan. They're all former Soviet states, suggesting that Cerber is potentially developed in Russia.
+
+"It's pretty much everywhere except for Russian-speaking countries. Encoded in the ransomware is an instruction that if it finds a machine configured for Russian language, then it will not run. That makes us assume the writers are of Russian origin," says Horowitz.
+
+While the malware authors could just sit back and wait for the profits to roll in -- the original Cerber was spotted early this year -- they're craftier than that. Indeed, researchers discovered that a new version of the ransomware, Cerber 2, was released in July, advertising improvements to the malware.
+
+Image: Check Point
+
+Affiliates are encouraged to become part of the Cerber programme via banners and marketing on dark web forums, with claims that up to three percent of victims will pay the ransom. In reality, Check Point says only 0.3 percent of victims pay the ransom to regain access to their files.
+
+While that number seems low, the sheer amount of Cerber infections means its creators are thought to make almost $1m a year using the affiliate scheme alone. The money made is effectively laundered by passing it through a maze of Bitcoin accounts in order to evade detection.
+
+In order to combat Cerber, Check Point has released a free Cerber decryption tool, allowing victims to decrypt their locked files without being forced to pay a ransom.
+
+READ MORE ON CYBERCRIME

@@ -1,0 +1,95 @@
+loud computing and GIS platforms are a match made in heaven for the modern
+enterprise. Perhaps even a better match than your favorite cloud based CRM,
+HR/Finance system, or social media platform. Why? because even Facebook started
+small and grew, one college campus at a time. But for a global corporation, the
+fundamental data set covers most of the Earth, which occupies an area of 197
+million square miles! Today’s maps contain the vastness of our environment,
+resources, property, and populations. We have maps of all types with enough
+precision to support navigation systems. Satellite images are taken from miles
+up to achieve resolutions of a few dozen centimeters. Birdseye views are taken
+by circling planes to give us pictures from several perspectives. Planes and
+drones take lidar images using lasers to create high precision 3Dmodels of
+buildings and objects. Maps track mountain tops and ocean depths, rural areas,
+and cities. We track properties, points of interest, the locations of phone
+towers, their signal coverage, and the wires, and gas pipes under our streets.
+And all of these have metadata to track how things are used, owned, proposed,
+and what they’re contained within. Containership leads to databases’s of virtual
+boundaries for continents, countries, regions, states, counties, zip codes, and
+parcels. There are databases containing the location of every significant point
+on the planet and algorithms to interpolate between them togeocode andadd new
+locations. Andamazingly much of this information is changing all of the time! On
+top of this, with the advent of IoT, we’re poised to generate more data than has
+ever been seen before as devices provide constant streams of data about where
+they are and what they’re doing at any given moment. The cloud offers ways to
+store and analyze this vast amount of data and we have access to it from the
+devices in our lives and the apps we use throughout our enterprises. But it
+wasn’t always so. In the early days of GIS technology, the tools were relatively
+niche and required skills akin to specialized engineering disciplines. Not
+surprisingly folks with such skills often learned them in the military or the
+federal government. The military applications for GIS are obvious and one can
+imagine the amount of work required to manage the country’s various resources.
+At that time, GIS software was expensive, proprietary, and had limited
+scalability. Mapping applications were fat client tools which required large
+file shares of data and images-something very difficult to extend across a WAN
+for example, which often caused mapping departments to be fairly centralized.
+Adding GIS features to an order processing system to embed a map or to geocode
+an address was often difficult and required complex low level code. The software
+itself was only part of the problem. The bigger complexity was data. Not just
+the amount but the logistics of coordinating disparate sources: Local and
+federal governments, 3rd party, in house -often overlapping, inconsistently
+tagged, and released at varying schedules. Mapping vendors bundled datasets to
+hide much of this but their data often required being supplemented with
+additional data–such as higher quality images. Coordinating the data sources was
+critical for any application so there was a huge need for careful release
+management, often requiring an entire team. Fast forwarding to today’s cloud
+apps, the accessibility problems of GIS technology is solved by web tools, thin
+client apps, and centralized systems that can be configured once and shared by
+many. The challenge of consolidating data still exists but the cloud vendors
+hide this from us. Pan along Google or Bing maps and you see the faint logos of
+various data providers in the corner along with version information. And on top
+of that it’s all changing all the time. The land under our feet seems stable
+enough but the data about it is far from fixed and is constantly being improved.
+Cloud beautifully solves problems of immense data sets requiring massive storage
+and infrastructure, data distribution problems, high velocity updates, and setup
+costs. And when you consolidate data for one customer, you can leverage it for
+many customers while economies of scale make it cost effective to provide the
+best data possible. There will always be premium data, but thanks to cloud the
+benefits are entirely on the side of the consumer. Yesterday’s premium data is
+practically free. Today’s premium data, such as 3D virtual building models, will
+be cheaper tomorrow. What started for Microsoft and Google as a way to add
+location based servicesto their search productswas considered fairly limited
+compared to the more mature features of ESRI.But Microsoft and Google gradually
+started to address this–as did the aftermarket and open source community.But
+vendors like ESRIwere watching and started to adjust their offerings to be
+complimentary rather than competitive with Google and Microsoft. One could
+access Bing or Google’s webservices in MapInfo or ESRI’s desktop tools and no
+longer need a massive trove of images stored on the network.  But not stopping
+there, ESRI adapted their server tools to be cloud friendly. So one could
+provision a full ArcGIS Server instance on the cloud provider or your choice and
+leverage immense data sets, choose additional premium data, setup gateways to
+your own data, and still use the high end desktop tools in a subscription model.
+So all in all, this is the absolute best and most exciting time for companies to
+adopt advanced GIS tools and move beyond the basics of out of the box Google and
+Bing. Like other Cloud tools, you can start small and grow to any size. And
+technologies like IoT will create datasets, the likes of which we’ve never even
+seen that could only be wrangled using cloud tools like Hadoop. We’re certainly
+seeing huge growth in several areas: the high end premium mapping tools are
+easier to get into the hands of end users thanks to subscription models. And
+premium tools are adding new features and data enabling our users to create
+sophisticated interactive visualizations and analytics. With the use of web apps
+and subscription models, these sophisticated data aggregation and presentation
+tools no longer require a heavy load on our desktop hardware. This also gives
+our revenue producers the flexibility to use and present with the device of
+their choice, which is key to keeping our sales professionals from outselling.
+Due to the proliferation of easy to use web services, it’s never been easier to
+embed maps and spatial functions to LOB applications–even legacy ones. For brand
+new apps, we’re often adding mapping front and center to the interfaces, where
+everything is oriented around location. We’re also seeing amazing integrations
+of GIS features in our various 3rd party apps. However the most significant area
+of growth we’re seeing, thanks to both cloud BI and GIS tools, is the growth of
+end user self-service solutions. This is aided by many of the younger members of
+our workforce coming in comfortable with the tools to create mashups and data
+integrations on their own. We’re at a tipping point for a next generation GIS
+technology, where users will have access to so much location based data, and
+analytical tools that can handle it, the insights possible will provide
+significant advantages to those who’ve made the investment.
