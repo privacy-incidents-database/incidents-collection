@@ -1,0 +1,55 @@
+Photo
+
+WASHINGTON — The Foreign Intelligence Surveillance Court ruled late Monday that the National Security Agency may temporarily resume its once-secret program that systematically collects records of Americans’ domestic phone calls in bulk.
+
+But the American Civil Liberties Union said Tuesday that it would ask the United States Court of Appeals for the Second Circuit, which had ruled that the surveillance program was illegal, to issue an injunction to halt the program, setting up a potential conflict between the two courts.
+
+The program lapsed on June 1, when a law on which it was based, Section 215 of the USA Patriot Act, expired. Congress revived that provision on June 2 with a bill called the USA Freedom Act, which said the provision could not be used for bulk collection after six months.
+
+The six-month period was intended to give intelligence agencies time to move to a new system in which the phone records — which include information like phone numbers and the duration of calls but not the contents of conversations — would stay in the hands of phone companies. Under those rules, the agency would still be able to gain access to the records to analyze links between callers and suspected terrorists.
+
+But, complicating matters, in May the Court of Appeals for the Second Circuit, in New York, ruled in a lawsuit brought by the A.C.L.U. that Section 215 of the Patriot Act could not legitimately be interpreted as permitting bulk collection at all.
+
+Advertisement Continue reading the main story
+
+Congress did not include language in the Freedom Act contradicting the Second Circuit ruling or authorizing bulk collection even for the six-month transition. As a result, it was unclear whether the program had a lawful basis to resume in the interim.
+
+After President Obama signed the Freedom Act on June 2, his administration applied to restart the program for six months. But a conservative and libertarian advocacy group, FreedomWorks, filed a motion in the surveillance court saying it had no legal authority to permit the program to resume, even for the interim period.
+
+In a 26-page opinion made public on Tuesday, Judge Michael W. Mosman of the surveillance court rejected the challenge by FreedomWorks, which was represented by a former Virginia attorney general, Ken Cuccinelli, a Republican. And Judge Mosman said the Second Circuit was wrong, too.
+
+“Second Circuit rulings are not binding” on the surveillance court, he wrote, “and this court respectfully disagrees with that court’s analysis, especially in view of the intervening enactment of the USA Freedom Act.”
+
+When the Second Circuit issued its ruling that the program was illegal, it did not issue any injunction ordering the program halted, saying it would be prudent to see what Congress did as Section 215 neared its June 1 expiration. Jameel Jaffer, an A.C.L.U. lawyer, said on Tuesday that the group would now ask for one.
+
+“Neither the statute nor the Constitution permits the government to subject millions of innocent people to this kind of intrusive surveillance,” Mr. Jaffer said. “We intend to ask the court to prohibit the surveillance and to order the N.S.A. to purge the records it’s already collected.”
+
+The bulk phone records program traces back to October 2001, when the Bush administration secretly authorized the N.S.A. to collect records of Americans’ domestic phone calls in bulk as part of a broader set of post-Sept. 11 counterterrorism efforts.
+
+The program began on the basis of presidential power alone. In 2006, the Bush administration persuaded the surveillance court to begin blessing it under of Section 215 of the Patriot Act, which says the government may collect records that are “relevant” to a national security investigation.
+
+Advertisement Continue reading the main story
+
+The program was declassified in June 2013 after its existence was disclosed by the former intelligence contractor Edward J. Snowden.
+
+It remains unclear whether the Second Circuit still considers the surveillance program to be illegal during this six-month transition period. The basis for its ruling in May was that Congress had never intended for Section 215 to authorize bulk collection.
+
+In his ruling, Judge Mosman said that because Congress knew how the surveillance court was interpreting Section 215 when it passed the Freedom Act, lawmakers implicitly authorized bulk collection to resume for the transition period.
+
+“Congress could have prohibited bulk data collection” effective immediately, he wrote. “Instead, after lengthy public debate, and with crystal-clear knowledge of the fact of ongoing bulk collection of call detail records,” it chose to allow a 180-day transitional period during which such collection could continue, he wrote.
+
+The surveillance court is subject to review by its own appeals panel, the Foreign Intelligence Surveillance Court of Review. Both the Second Circuit and the surveillance review court are in turn subject to the Supreme Court, which resolves conflicts between appeals courts.
+
+Wyn Hornbuckle, a Justice Department spokesman, said in a written statement that the Obama administration agreed with Judge Mosman.
+
+Since the program was made public, plaintiffs have filed several lawsuits before regular courts, which hear arguments from each side before issuing rulings, unlike the surveillance court’s usual practice, which is to hear only from the government. Judge Mosman’s disagreement with the Second Circuit is the second time that the surveillance court has rejected a contrary ruling about the program by a judge in the regular court system.
+
+In a lawsuit challenging the program that was brought by the conservative legal advocate Larry Klayman, Judge Richard J. Leon of Federal District Court in the District of Columbia ruled in December 2013 that the program most likely violated the Fourth Amendment, which prohibits unreasonable searches and seizures.
+
+Advertisement Continue reading the main story
+
+But in March 2014, Judge Rosemary M. Collyer, a Federal District Court judge who also sits on the secret surveillance court, rejected Judge Leon’s reasoning and permitted the program to keep going. The Obama administration has appealed Judge Leon’s decision to the Court of Appeals for the District of Columbia.
+
+The Freedom Act also contains a provision saying that whenever the surveillance court addresses a novel and significant legal issue, it must either appoint an outside “friend of the court” who can offer arguments contrary to what the government is saying, or explain why appointing one is not appropriate.
+
+The first test of that reform came last month when another judge on the court, F. Dennis Saylor IV, addressed a separate issue raised by the passage of the Freedom Act. Judge Saylor acknowledged that it was novel and significant, but declined to appoint an outside advocate, saying the answer to the legal question was “sufficiently clear” to him without hearing from one.

@@ -1,0 +1,25 @@
+Photo
+
+There is a lot to praise in the powerful ruling issued by a three-judge federal appeals panel in New York on Thursday, which held that the government’s vast, continuing and, until recently, secret sweep of Americans’ phone records is illegal.
+
+But perhaps the most important message the unanimous decision sends is a simple one: Congress could not have intended to approve a program whose true scope almost no one outside the National Security Agency fully comprehended — that is, until Edward Snowden leaked its details to the world.
+
+In the nearly two years since those revelations shocked America and started a heated debate on the proper balance of privacy and national security, the N.S.A., which conducts the data sweeps, has defended its actions by contending that Congress knew exactly what it was doing when it reauthorized the Patriot Act in 2010 and 2011, after the collection program had begun.
+
+At issue before the appeals panel was Section 215 of the act, which permits the government to collect information that is “relevant” to terrorism investigations. But the Foreign Intelligence Surveillance Court, at the urging of the N.S.A., has interpreted “relevant” so broadly that it gives the government essentially unlimited power to collect all phone and other types of data.
+
+In fighting this lawsuit, brought by the American Civil Liberties Union immediately after the Snowden leaks, the government argued that Congress was apparently fine with this alarmingly broad interpretation.
+
+Advertisement Continue reading the main story
+
+The problem, as Judge Gerard Lynch of the Second Circuit Court of Appeals rightly pointed out in his 97-page opinion, is that “it is a far stretch to say that Congress was aware” of what the intelligence court was doing. To the contrary, Judge Lynch wrote, “knowledge of the program was intentionally kept to a minimum, both within Congress and among the public,” and there was “no opportunity for broad discussion” about whether the court’s interpretation was correct. Allowing the government to define “relevant” so loosely, he said, “would be an unprecedented contraction of the privacy expectations of all Americans.”
+
+It is particularly galling that the government cannot even point to evidence that any terrorist attack has been thwarted by the collection of all this data. But even if it could, the panel said, “we would expect such a momentous decision to be preceded by substantial debate, and expressed in unmistakable language.”
+
+For too long that debate did not happen, nor could it, since the intelligence court operated in near-total secrecy. Now, thanks to Mr. Snowden (who still lives in exile in Russia), the debate is well underway, and not a moment too soon, since Congress is debating reauthorization of Section 215, which is scheduled to expire on June 1.
+
+Bipartisan bills in both houses would amend the law to cut back on domestic phone-data sweeps, but they do not address bulk collection of overseas calls, which could include information about Americans, and they do not establish an advocate to represent the public’s interest before the intelligence court.
+
+Without such an advocate, Judge Robert Sack wrote in a concurring opinion, the court “may be subject to the understandable suspicion that, hearing only from the government, it is likely to be strongly inclined to rule for the government.”
+
+Unfortunately, even modest reforms face resistance from top Republicans, including the Senate majority leader, Mitch McConnell, who on Thursday called for the law to be renewed without change. In doing so, they ignored a ruling that is the most important rebuke yet of the government’s abuses under that law.

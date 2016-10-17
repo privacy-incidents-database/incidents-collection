@@ -1,0 +1,53 @@
+SAN FRANCISCO — When Google first revealed in 2010 that cars it was using to map streets were also sweeping up sensitive personal information from wireless home networks, it called the data collection a mistake. On Saturday, federal regulators charged that Google had “deliberately impeded and delayed” an investigation into the data collection and ordered a $25,000 fine on the search giant.
+
+The finding, by the Federal Communications Commission, and the exasperated tone of the report were in marked contrast to the resolution of a separate inquiry two years ago. That investigation, by the Federal Trade Commission, accepted Google’s explanation that it was “mortified by what happened” while collecting information for its Street View project, and its promise to impose internal controls.
+
+But since then, the F.C.C. said, Google repeatedly failed to respond to requests for e-mails and other information and refused to identify the employees involved.
+
+“Although a world leader in digital search capability, Google took the position that searching its employees’ e-mail ‘would be a time-consuming and burdensome task,’ ” the report said. The commission also noted that Google stymied its efforts to learn more about the data collection because its main architect, an engineer who was not identified, had invoked his Fifth Amendment right against self-incrimination.
+
+When the commission asked Google to identify those responsible for the program, Google “unilaterally determined that to do so would ‘serve no useful purpose,’ ” according to the F.C.C. report.
+
+Advertisement Continue reading the main story
+
+The data collection, which took place over three years, was legal because the information was not encrypted, the F.C.C. ultimately determined.
+
+A Google spokeswoman said Saturday that “we worked in good faith to answer the F.C.C.’s questions throughout the inquiry, and we’re pleased that they have concluded that we complied with the law.”
+
+Google still has the data, which it said it has never looked at and has never used in its products or services. It said it intended to delete the information once regulators gave it permission. A spokeswoman did not immediately return an e-mail inquiry about whether the engineer on the project still worked for the company.
+
+While Google’s original intentions and actions with the project are still unclear, the commission’s report and fine are likely to energize an ongoing debate about Internet privacy.
+
+The more companies like Google and Facebook know about their users, the more attractive they are to advertisers, which drive the vast majority of their income. Google’s introduction last month of a new privacy policy — one that allows more comprehensive tracking of its users’ actions — provoked a firestorm of criticism.
+
+Photo
+
+That was only the latest privacy imbroglio the company found itself in the middle of. Some politicians are becoming skeptical. Senator Al Franken, a Democrat of Minnesota who is in charge of a subcommittee on privacy, said in a recent speech that companies like Google and Facebook accumulated data on users because “it’s their whole business model.”
+
+“And you are not their client; you are their product,” he added.
+
+Earlier controversies generally focused on information that users willingly provided. With its Street View project, Google was taking data from people who did not even know that the company was literally outside the door, peering in.
+
+European and Canadian regulators who have examined the data Google collected in the project in their own countries found that it included complete e-mail messages, instant messages, chat sessions, conversations between lovers, and Web addresses revealing sexual orientation, information that could be linked to specific street addresses.
+
+Advertisement Continue reading the main story
+
+When Google was repeatedly asked if it had searched for all responsive documents and provided complete and accurate answers to all the F.C.C.’s questions, it declined to respond, Michele Ellison, chief of the F.C.C.’s Enforcement Bureau, said in an interview.
+
+Google ultimately provided the information requested under threat of subpoena.
+
+The F.C.C. orders fines on companies for impeding investigations about once a year. The commission found that Google had violated provisions of the Communications Act of 1934. Of the $25,000 penalty, Ms. Ellison said, “It’s an appropriate fine based on evidence that the investigation was deliberately impeded and our precedent.” Google, which for the last year has been run by Larry Page, one of its founders, reported net income of $2.89 billion in the first quarter of 2012.
+
+Scrutiny of Google’s privacy policies is more intense in Europe, where the Street View issue first emerged, than it is in the United States. Last year, for example, France fined the company 100,000 euros, or about $140,000 at the time, for Street View privacy violations.
+
+What Google was gathering as its cars drove up and down many thousands of streets is technically called payload data, which simply means the content of Internet communications, including e-mail. On April 27, 2010, responding to rumors about its Street View project, Google said it “does not collect or store payload data.”
+
+Two weeks later it acknowledged that was “incorrect,” saying, “It’s now clear we have been mistakenly collecting samples of payload data.” In October 2010, it acknowledged that the data was more than fragments.
+
+Google’s response to the inquiry puzzled some experts.
+
+“If it really was a mistake, you would expect the company to do everything possible to cooperate with the investigation,” said Danny Sullivan of the blog Search Engine Land. “On the upside, it’s reassuring that the F.C.C. itself believes Google had no plans to use the information.”
+
+The F.C.C. did not examine the actual data that Google collected, but its report quotes the investigation by the Commission Nationale de l’Informatique et des Libertes, the French data privacy regulator, as finding, for example, e-mails between married individuals seeking to have an affair. First names, e-mail addresses and physical addresses could all be discerned.
+
+After reviewing all the information it could get from Google, the F.C.C. said it could not find a clear precedent to take enforcement action on the data collection. But then, it said, it still had “significant factual questions” about what really happened with the data and why it was collected in the first place.

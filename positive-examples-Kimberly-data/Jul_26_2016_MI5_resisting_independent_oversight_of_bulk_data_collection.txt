@@ -1,0 +1,37 @@
+The security service MI5 has been repeatedly resisting independent oversight of its decision to collect communications data from tens of thousands of individuals, previously secret documents have shown.
+
+Four letters over the course of 2015 from the head of MI5, Andrew Parker, to the then home secretary, Theresa May, complain that the non-statutory requirement recommended by both the intelligence and security committee and the independent reviewer of terrorism legislation, David Anderson, is bureaucratic and risks hampering the agency’s response to security threats.
+
+The letters were released as part of a four-day hearing of the investigatory powers tribunal brought by Privacy International against the bulk data collection by the intelligence agencies.
+
+Privacy International said that Parker’s letters to May suggest repeated foot-dragging from MI5 and a reluctance to comply with the requirement.
+
+Other previously secret documents released to the tribunal on Tuesday show that MI5 was repeatedly warned by the Interception of Communications Commissioner’s Office [IOCCO] that it was breaching a code of practice on data collection that requires the agency to appoint a designated person independent of an investigation to authorise data collection.
+
+The IOCCO found that MI5 had implemented independent oversight of data collection from people such as doctors and lawyers in professions with access to privileged or confidential information.
+
+But in the majority of cases it found that “line managers are not independent from the operations for which they are granting authorisation or giving notices”. In December 2014, it urged MI5 to review its oversight measures. A year later it found that no progress had been made and reminded MI5 that the home secretary had said it was “imperative” that such independent oversight was achieved.
+
+In Parker’s first letter to May, dated 19 March 2015, he said independent oversight of data collection would “cause significant disruption” and “reduce our effectiveness … It would increase the processing time for [data] requests because those taking the decisions would not be familiar with the relevant investigative context”.
+
+He went on to suggest there was no public clamour for the change. “There does not appear to be a pressing litigation or reputational requirement to commit to make these changes now and we can therefore see no obvious gain in doing so,” Parker wrote. A month later Parker warned May that MI5 “will not hit your deadline” after she asked it to “strengthen the independence of authorisation for communications data”.
+
+
+
+In the next letter, sent on 30 June, Parker reported progress in the oversight of communications data checks on persons in sensitive professions. But warned that making the change for all data requests would require more staff – the exact number is redacted. “We think there are significant risks from implementing independence for all CD [communications data] authorisations at this point,” he said.
+
+In the last letter, dated 18 December 2015, Parker says he still has “strong reservations about agreeing now to more widespread changes for targeted CD requests”.
+
+“We submitted a total of more than 100,000 individual requests for communications data in 2014 through 40,000 applications,” Parker wrote. “If we were to switch to an arrangement where each of these has to be authorised by someone within MI5 who is unfamiliar with the case and who has to be sufficiently briefed to be able to make a considered decision, we would be adding a non-trivial amount of administrative burden into our system, at the same time as we work to increase assurance levels against a very high tempo of threat.”
+
+In another set of letters released to the tribunal, MI5 said the IOCCO had agreed that it did not need to have independent approval for data requests in ongoing operations. The IOCCO wrote back pointing out that the code of practice on communications intercepts required it to be informed by MI5 if it could not appoint an independent person, and that it had not done so.
+
+Millie Graham Wood, a legal officer for Privacy International, said the documents showed “there has been a lack of oversight, which is still not on a statutory basis, and a wilful avoidance of internal safeguards”.
+
+She said they pointed to a “worrying practice” as they showed “the lack of a clear line of separation with the security service between investigative teams who request approval for a particular activity and those in the service who authorise”.
+
+In a skeleton argument to the hearing, lawyers for the intelligence services defended the use of bulk communications data [BCD]. It quoted a security service witness saying: “The use of BCD has stopped terrorist attacks and has saved lives many times.”
+
+A witness for GCHQ is quoted, saying: “Exploitation of BCD is an essential tool that is used on a daily basis ... without it, the intelligence services would be significantly less effective in protecting the UK against threats such as terrorism, cyber threats, or espionage.”
+
+The hearing continues.

@@ -1,0 +1,61 @@
+Hackers have demanded a ransom of €30,000 (£24,000) from Domino's Pizza after stealing personal data on more than 600,000 of its French and Belgian customers.
+
+The data was allegedly stolen during a break-in last week, acknowledged by Domino’s France, which saw 592,000 French and 58,000 Belgian customer records exposed.
+
+
+
+A posting by the hackers on text-hosting site Pastebin claims that the stolen data includes customers' full names, addresses, phone numbers, email addresses, passwords, delivery instructions and even favourite pizza toppings.
+
+"Domino's Pizza uses an encryption system for data. However, we suffered a hack by seasoned professionals and it is likely that they could decode the encryption system including passwords," admitted the official Twitter account for Domino’s France.
+
+“This is why we recommend that you change your password for security reasons. We strongly regret this situation and take illegal access very seriously."
+
+'Domino's Pizza has until Monday at 8PM CET to pay us'
+
+The hackers, a group calling themselves Rex Mundi, posted a sample of the stolen user data along with a demand for €30,000 to not publish the full set.
+
+“If you're a @dominos_pizzafr customer, u may want to know that we have offered Domino's not to publish your data in exchange for €30,000,” Rex Mundi posted on Twitter before its account was suspended.
+
+“Domino's Pizza has until Monday at 8PM CET to pay us. If they do not do so, we will post the entirety of the data in our possession on the internet,” the hackers said.
+
+Domino’s Netherlands spokesperson Andre ten Wolde told De Standaard that the company would not be paying the ransom and that financial data had not been stolen.
+
+'Theft of personal information is bad news'
+
+A Domino’s UK spokesperson said that Domino’s France and Belgium are not part of the same franchise group as Domino’s Pizza in the UK, which is operated by Domino’s Pizza Enterprises, which holds the “master franchise” for Domino’s Pizza in Australia, New Zealand, France, Belgium, the Netherlands and Monaco.
+
+It is currently unknown whether user data from Australia, New Zealand, the Netherlands and Monaco was also compromised.
+
+Domino’s Pizza Group owns and operates the Domino’s Pizza franchises in the UK and Ireland as well as Germany, Switzerland, Liechtenstein and Luxembourg.
+
+“The data hacking is isolated to the Domino’s franchise in France and Belgium, and no customer credit card or financial information was compromised," said a Domino’s Pizza Group PLC spokesperson in a statement emailed to the Guardian. "Domino’s customers in the UK and Republic of Ireland are not affected by this incident. The security of customer information is very important to us. We regularly test our UK website for penetration as part of the ongoing rigorous checks and continual routine maintenance of our online operations.”
+
+“Once again we have an example of how customer data, if not adequately secured, can fall into the wrong hands,” said David Emm, senior security researcher at Kaspersky Lab. “The fact that credit card details and other financial data weren’t stolen in this case is good, but the theft of personal information is bad news for customers too.”
+
+The Domino’s Pizza break-in is the latest attempt by the hacker group Rex Mundi to extort money from global companies by stealing user data. In 2012, the group stole and published online loan-applicant details from thousands of users from US payday loan company AmeriCash Advance.
+
+Belgian internet hosting company Alfa Hosting became another of Rex Mundi’s victims suffering a break-in this year leading to the names of 12,000 customers being published online.
+
+“One of the possibly more concerning things is that in a copy of the original notice the hacker group published, the passwords appear to be in plain text," said Jon French, security analyst at AppRiver. "It’s possible they cracked or used rainbow tables to get the passwords, but if the passwords were actually stored in plain text, that’s a big no-no on Dominos part."
+
+
+
+'Path of least resistance'
+
+“Cybercriminals are after the money and will follow the path of least resistance to get to it. Usually this means stealing personal data which is often unencrypted and selling it on the black market, or in this case using it for cyber blackmail,” Jason Hart, vice president of Cloud Solutions at SafeNet.
+
+“The latest breach continues to raise public awareness of the need for encryption – not just of financial data, but also wider customer information. Breaches will happen and you can’t stop them. The issue is – are you able to protect your sensitive data when a breach happens?” explained Hart.
+
+Feedly, Evernote and many other sites and online services have recently been targets for extortion, with hackers demanding money to avoid being taken offline by distributed denial of service attacks, which overload the servers of the website or service, preventing users from access it.
+
+“This is slightly different to what we saw last week, when Feedly and Evernote were targeted by DDoS extortion attacks,” explained George Anderson, director of security firm Webroot.
+
+“Usually, organisations that give in and pay are spared being DDoSed – but only because following through with a DDoS attack requires slightly more effort on the hackers’ side, than publishing the data that has already been downloaded.”
+
+“Companies that fall victim to money extortion attacks should under no circumstances agree to play by hackers’ terms,” Anderson said.
+
+• TweetDeck bug could have made millions of users vulnerable
+
+
+
+• This article was updated at 1505 to include a statement from Domino's Pizza Group PLC.
