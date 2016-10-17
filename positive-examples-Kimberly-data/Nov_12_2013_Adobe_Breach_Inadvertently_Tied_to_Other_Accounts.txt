@@ -1,0 +1,35 @@
+Photo
+
+This week, Ammon Bartram, a software engineer and co-founder of SocialCam, was talking to a friend about a recent security breach at Adobe in which hackers were able to gain access to tens of millions of encrypted passwords and email addresses.
+
+The friend, Mr. Bartram said, did not think anyone would be able to find out his pass code from the stolen data. “I’ll bet you $10 you can’t figure it out,” the friend said confidently.
+
+Mr. Bartram went to a file-sharing website, downloaded a nearly 9-gigabyte file the Adobe hackers had posted online that is said to contain 150 million emails and encrypted passwords for Adobe user accounts, and began searching.
+
+Soon after, Mr. Bartram said in a phone interview, he informed his friend: “Your password is ‘dinosaur.'”
+
+While he took glee in winning the $10 bet, Mr. Bartram was shocked by what he found during his search.
+
+“I’ve been able to break roughly one out of every six passwords I attack. That’s something like 25 million broken passwords, with associated emails,” he said. “This is a big deal. Due to password reuse, these passwords will give access to all sorts of accounts.”
+
+While Adobe “hashed” its passwords — which involves mashing up users’ passwords with a mathematical algorithm — the company did not apply this level of security to people’s e-mail addresses or the hints they use when they forget their passwords.
+
+So Mr. Bartram was able to search for his friend’s email address, then copy the “hashed” version of the password and search for other people who used that same string of letters and numbers. He found 500 people with the same password as his friend, and then searched the nonencrypted hints that people had written if they forgot their password on the Adobe website.
+
+Adobe did not respond to a request for comment.
+
+Even more disturbing, he said, was the number of people who used the same password for their bank accounts, email, Facebook and home garage door codes as a password on the Adobe website. Some even used their Social Security numbers as passwords.
+
+In tens of thousands of instances people write a hint to themselves that says “same as my Facebook password” or “same as my bank password.”
+
+Mr. Bartram said this could all have been much more difficult if Adobe had “salted” the data it stored on its users, meaning it would have appended random digits to the end of each hashed password to make it harder, but not impossible, for hackers to crack.
+
+Brian Krebs, an investigative reporter and security researcher with Krebs on Security who initially discovered the Adobe breach last month, said in a phone interview that Adobe did not put enough effort into securing its users’ information.
+
+“This is a perennial problem for most organizations, even the largest ones, which should know better, but they are still relying on approaches from a long time ago to protect people’s passwords,” Mr. Krebs said.
+
+And while Adobe appears not to have done well in protecting data, the problem is compounded by users who write password hints that tie back to their banks, home addresses and Social Security numbers.
+
+“The best advice is for people not to recycle the same password in multiple places,” Mr. Krebs said. “It’s prohibitively complex for hackers to crack passwords that are over 13 characters long; people have to think pass phrases instead of passwords.”
+
+Mr. Bartram said he found a number of email addresses tied to government institutions, including senate.gov. “All of this happened because Adobe did not follow best practices for password storage,” he said.
