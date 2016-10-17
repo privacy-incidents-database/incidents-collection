@@ -1,0 +1,88 @@
+An independent board has declared a set of National Security Agency data collection programs both "legal and effective in protecting national security", despite expressing concern about "intrusions" into individuals' privacy.
+
+As the NSA's troves of ostensibly foreign emails and Americans' international communications come under heavy scrutiny, the Privacy and Civil Liberties Oversight Board dealt the NSA a victory on Tuesday night by calling the information reaped "valuable". It pointedly rejected similar claims for the bulk collection of US call data in a January report.
+
+Under the so-called "702 program" – named after section 702 of the Fisa Amendments Act of 2008 – the NSA can harvest large amounts of ostensibly foreign digital information, including Americans' international communications.
+
+But the board did question the NSA's intrusion into Americans' data and recommended limits to the government's ability to access large amounts of American communications data that the NSA inevitably collects and searches through without a warrant.
+
+More than 25% of NSA's terrorism reporting is based on information taken under 702, the PCLOB found. The section also allows it to collect data from telecommunications and internet providers, known as Prism, and, less frequently, data in transit "upstream" across the internet itself.
+
+
+
+"It has played a key role in discovering and disrupting specific terrorist plots aimed at the United States and other countries," the PCLOB found in a 200-page report released in draft form late on Tuesday, endorsing a central NSA claim since Edward Snowden leaked information revealing the scope of the surveillance agency's powers.
+
+
+
+Yet the board stopped short of endorsing the NSA's claim last year that information gleaned under section 702 led to the disruption of 54 terrorist plots. In "approximately 30 cases," 702 information was the "catalyst" for such disruption, and in another 20, such information aided an existing investigation. Most plots, as the NSA has itself said, occurred overseas; and the PCLOB said the successful disruptions began with "narrowly focused surveillance of a specific individual."
+
+
+
+In another vindication for the NSA, the PCLOB assessed that the NSA's massive amounts of data collected under section 702 is not "bulk" collection, describing itself as "impressed with the rigor" of government surveillance targeting.
+
+
+
+The NSA defends its Prism and "upstream" communications troves long after it has accepted divestiture of US phone records. Representatives from the intelligence agencies and the Obama administration sternly defend both the legality and the wisdom of retaining those content and metadata databases as a measure to defend the US against terrorism, espionage and even crime.
+
+
+
+But the PCLOB also found elements of the mass communications collection "push the program close to the line of constitutional reasonableness".
+
+
+
+Those privacy concerns centre overwhelmingly on the rules by which the NSA and its partner agencies, the Central Intelligence Agency and the Federal Bureau of Investigation, can search through the NSA communications data troves for Americans' email addresses and references to Americans, as well as the sheer volume of US person data "incidentally" caught in the NSA's massive data troves.
+
+
+
+The PCLOB found that when the NSA takes data directly in transit from the internet, its technical filters permit the capture of "as many as tens of thousands" of "purely domestic communications," although the scale of the Internet collection renders such harvesting a microfraction. Still, the NSA appears not to have solved the technical problem nearly three years after a judge blasted the agency for it, revised the NSA's rules "minimising" its dissemination or use of such data and prompted what the PCLOB called "the purging of several years of prior collection."
+
+
+
+While wary, the PCLOB largely considered legitimate the NSA's broad leeway in collecting a huge amount of foreigners' data – a single order in 2013 from a surveillance court resulted in collection of internet communications from 89,138 "targets" – despite widespread global outrage over the scope of NSA surveillance and entreaties from US internet businesses who consider it an economic liability. It will, however, review presidential procedures aimed at limiting foreigners' vulnerability to the surveillance dragnets.
+
+
+
+The PCLOB has yet to formally adopt the report and will vote on doing so at a hearing Wednesday morning in Washington.
+
+
+
+While Congress granted the NSA broad powers to collect data in the 2008 law, it barred the agency from intentionally targeting Americans under false pretenses, called "reverse targeting". Yet civil libertarians have long considered the inevitable collection of US data within NSA's foreign-focused dragnets to render the reverse-targeting ban quaint.
+
+
+
+Senator Ron Wyden, an Oregon Democrat, often points to NSA's ability to search through the troves for Americans' information without a warrant as a "backdoor search" around constitutional privacy protections. In August, thanks to leaks from Snowden, the Guardian identified the secret provision permitting such searches.
+
+
+
+A previously secret 2011 opinion of a judge on the Fisa Court found widespread overcollection of Americans' emails. The PCLOB report found that the secret court has limited independent visibility into how the NSA actually implements its Prism and upstream data collection. It also noted that neither the NSA nor the FBI has fulsomely declassified their targeting procedures, but the PCLOB panelists also vouched for the NSA taking affirmative steps to determine in murky cases that a target is a non-American abroad.
+
+
+
+While obscured by the NSA's bulk collection of US call records, an issue that has consumed most of the legislative and media oxygen owing to its reach into the privacy of US citizens, the PCLOB report points to the new scrutiny that the mass collection of ostensibly foreign emails, calls, texts and other communications content has received in recent weeks – albeit largely owing to NSA's abilities to siphon and search through Americans' international communication inside that enormous trove.
+
+
+
+In late June, the House of Representatives unexpectedly passed a measure to defund the government's ability to warrantlessly search through those communications content troves for Americans' information. It was a legislative route around a major surveillance reform bill, belatedly championed by the White House and NSA, that excluded a prohibition on the so-called "backdoor search" – an exclusion that helped cement the administration's support.
+
+
+
+Significantly, the PCLOB's recommendations stop far short of the House's action. Instead of banning the warrantless querying of Americans' data, it says such queries should only occur "based upon a statement of facts showing that the query is reasonably likely to return foreign intelligence information", a determination it pointedly does not recommend a judge making.
+
+
+
+Not only did the PCLOB find that the public law authorising the mass communications collection, section 702, "publicly outlines the basic structure of the program", it blessed the NSA's controversial practice of collecting emails and calls that reference a surveillance target, even though such so-called "about" collection does not necessarily come from surveillance targets themselves. It did, however, recommend a "periodic" assessment of the NSA's "filtration" techniques to prevent overcollection.
+
+
+
+On Monday, Wyden released a letter from the office of the director of national intelligence specifying that the NSA had performed searches within those databases in 2013 alone for 198 "identifiers" of Americans, such as an email address or a phone number, and another 9,500 queries for associated metadata. No such searches were conducted pursuant to a warrant.
+
+The PCLOB did not limit its scrutiny of section 702 data collection to the NSA. The CIA and FBI come in for, in some cases, greater privacy criticisms than does the widely-vilified NSA.
+
+
+
+Both the FBI and CIA conduct their own searches through the troves – and can even access the raw Prism data on their own, the PCLOB confirmed, although they do not have direct access to "upstream" data. Additionally, the PCLOB confirmed that while the NSA purges Prism and upstream data if it determines communications involving Americans do not provide foreign intelligence, neither the FBI nor the CIA has any such requirement.
+
+
+
+Indeed, the board found that the FBI can disseminate US person information acquired under section 702 "that reasonably appears to be foreign intelligence information" or even data deemed "necessary to understand foreign intelligence information."
+

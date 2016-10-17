@@ -1,0 +1,27 @@
+SPRINGFIELD, Ill. — A new Illinois law limits how police can use devices that cast a wide net in gathering cellphone data and are at the center of a lawsuit against the Chicago Police Department.
+
+Gov. Bruce Rauner signed the legislation into law on Friday and drew immediate praise from civil libertarians.
+
+The technology, a cell site simulator, is perhaps best known by the brand name Stingray. It gathers phone-usage data on targets of criminal investigations, but it also gathers data on other cellphones — hundreds or even thousands of them — in the area.
+
+The new law requires police to delete the phone information of anyone who wasn't an investigation target within 24 hours. It also prohibits police from accessing data for use in an investigation not authorized by a judge.
+
+A dozen other states have adopted such regulations, and Congress is considering legislation that would strengthen federal guidelines already in place.
+
+Advertisement Continue reading the main story
+
+"Cell site simulator technology too powerful to remain unregulated," Khadine Bennett, who is associate legislative director for the American Civil Liberties Union of Illinois, said in an emailed statement in which the group thanked the governor and Legislature for the new law. "The federal government has adopted modest guidelines similar to those enacted today. If the restrictions are good enough for the FBI, they should be workable for local law enforcement in Illinois."
+
+The Illinois State Police has taken a neutral position on the law and the Chicago Police Department did not take a position.
+
+Chicago police are being sued by plaintiffs who are trying to force it to release records about how it uses this technology.
+
+Privacy advocates worry that without limits on how much data can be gathered or how long it can be stored, law enforcement could use the technology to build databases that track the behavior and movement of people who are not part of criminal investigations.
+
+Authorities, though, have argued that cellphone tracking can be useful. Homeland Security Assistant Secretary Seth M. Stodder testified before a congressional committee last year that Stingray technology led authorities to a 6-year-old girl who had been kidnapped in Arizona.
+
+___
+
+The bill is SB2343
+
+Online: https://www.ilga.gov

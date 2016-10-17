@@ -1,0 +1,47 @@
+Photo
+
+WASHINGTON — The federal government has been secretly collecting information on foreigners overseas for nearly six years from the nation’s largest Internet companies like Google, Facebook and, most recently, Apple, in search of national security threats, the director of national intelligence confirmed Thursday night.
+
+The confirmation of the classified program came just hours after government officials acknowledged a separate seven-year effort to sweep up records of telephone calls inside the United States. Together, the unfolding revelations opened a window into the growth of government surveillance that began under the Bush administration after the terrorist attacks of Sept. 11, 2001, and has clearly been embraced and even expanded under the Obama administration.
+
+Government officials defended the two surveillance initiatives as authorized under law, known to Congress and necessary to guard the country against terrorist threats. But an array of civil liberties advocates and libertarian conservatives said the disclosures provided the most detailed confirmation yet of what has been long suspected about what the critics call an alarming and ever-widening surveillance state.
+
+The Internet surveillance program collects data from online providers including e-mail, chat services, videos, photos, stored data, file transfers, video conferencing and log-ins, according to classified documents obtained and posted by The Washington Post and then The Guardian on Thursday afternoon.
+
+In confirming its existence, officials said that the program, called Prism, is authorized under a foreign intelligence law that was recently renewed by Congress, and maintained that it minimizes the collection and retention of information “incidentally acquired” about Americans and permanent residents. Several of the Internet companies said they did not allow the government open-ended access to their servers but complied with specific lawful requests for information.
+
+Advertisement Continue reading the main story
+
+“It cannot be used to intentionally target any U.S. citizen, any other U.S. person, or anyone located within the United States,” James Clapper, the director of national intelligence, said in a statement, describing the law underlying the program. “Information collected under this program is among the most important and valuable intelligence information we collect, and is used to protect our nation from a wide variety of threats.”
+
+The Prism program grew out of the National Security Agency’s desire several years ago to begin addressing the agency’s need to keep up with the explosive growth of social media, according to people familiar with the matter.
+
+The dual revelations, in rapid succession, also suggested that someone with access to high-level intelligence secrets had decided to unveil them in the midst of furor over leak investigations. Both were reported by The Guardian, while The Post, relying upon the same presentation, almost simultaneously reported the Internet company tapping. The Post said a disenchanted intelligence official provided it with the documents to expose government overreach.
+
+Before the disclosure of the Internet company surveillance program on Thursday, the White House and Congressional leaders defended the phone program, saying it was legal and necessary to protect national security.
+
+Josh Earnest, a White House spokesman, told reporters aboard Air Force One that the kind of surveillance at issue “has been a critical tool in protecting the nation from terror threats as it allows counterterrorism personnel to discover whether known or suspected terrorists have been in contact with other persons who may be engaged in terrorist activities, particularly people located inside the United States.” He added: “The president welcomes a discussion of the trade-offs between security and civil liberties.”
+
+The Guardian and The Post posted several slides from the 41-page presentation about the Internet program, listing the companies involved — which included Yahoo, Microsoft, Paltalk, AOL, Skype and YouTube — and the dates they joined the program, as well as listing the types of information collected under the program.
+
+The reports came as President Obama was traveling to meet President Xi Jinping of China at an estate in Southern California, a meeting intended to address among other things complaints about Chinese cyberattacks and spying. Now that conversation will take place amid discussion of America’s own vast surveillance operations.
+
+But while the administration and lawmakers who supported the telephone records program emphasized that all three branches of government had signed off on it, Anthony Romero of the American Civil Liberties Union denounced the surveillance as an infringement of fundamental individual liberties, no matter how many parts of the government approved of it.
+
+Advertisement Continue reading the main story
+
+“A pox on all the three houses of government,” Mr. Romero said. “On Congress, for legislating such powers, on the FISA court for being such a paper tiger and rubber stamp, and on the Obama administration for not being true to its values.”
+
+Others raised concerns about whether the telephone program was effective.
+
+Word of the program emerged when The Guardian posted an April order from the secret foreign intelligence court directing a subsidiary of Verizon Communications to give the N.S.A. “on an ongoing daily basis” until July logs of communications “between the United States and abroad” or “wholly within the United States, including local telephone calls.”
+
+Photo
+
+On Thursday, Senators Dianne Feinstein of California and Saxby Chambliss of Georgia, the top Democrat and top Republican on the Intelligence Committee, said the court order appeared to be a routine reauthorization as part of a broader program that lawmakers have long known about and supported.
+
+“As far as I know, this is an exact three-month renewal of what has been the case for the past seven years,” Ms. Feinstein said, adding that it was carried out by the Foreign Intelligence Surveillance Court “under the business records section of the Patriot Act.”
+
+“Therefore, it is lawful,” she said. “It has been briefed to Congress.”
+
+While refusing to confirm or to directly comment on the reported court order, Verizon, in an internal e-mail to employees, defended its release of calling information to the N.S.A. Randy Milch, an executive vice president and general counsel, wrote that “the law authorizes the federal courts to order a company to provide information in certain circumstances, and if Verizon were to receive such an order, we would be required to comply.”

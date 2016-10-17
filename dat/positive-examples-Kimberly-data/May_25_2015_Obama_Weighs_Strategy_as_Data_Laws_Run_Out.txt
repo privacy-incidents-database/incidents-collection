@@ -1,0 +1,41 @@
+WASHINGTON — The Obama administration is weighing what the looming expiration of three counterterrorism laws — including the provision that has been cited to allow the National Security Agency to vacuum up logs of Americans’ phone calls — would mean for future operations, even as officials say the “wind-down process” for the bulk calling data program has already begun.
+
+A senior American intelligence official said Sunday that the administration had begun assessing what the rules would be for analysts to retrieve five years of Americans’ calling data previously acquired under the bulk phone logs program, if Congress fails to act by June 1 and the ability to collect newly created records is lost.
+
+Separately, officials are examining whether to invoke a so-called grandfather clause for the three laws that would permit the expiring legal authority to continue after next Monday for investigations already underway.
+
+The three laws let the government collect business records for a counterterrorism investigation, continue wiretapping suspected terrorists as they shift from phone to phone in an effort to evade detection and tap “lone wolf” suspects who are not part of a broader terrorism group.
+
+Divided by disagreements over whether to keep the bulk phone records program or replace it with something else, the Senate adjourned on Saturday for a week without passing legislation addressing the expiration.
+
+Advertisement Continue reading the main story
+
+The Senate majority leader, Mitch McConnell, Republican of Kentucky, has said that he will reconvene the Senate on Sunday, one day before the deadline.
+
+But it is not clear how the impasse will end, given the need to secure 60 votes in the 100-member chamber to defeat a filibuster.
+
+As things stand, there are neither 60 votes to extend the existing bulk phone records program, nor 60 to enact legislation known as the USA Freedom Act, which would replace it with one in which the bulk records stay in the phone companies’ hands.
+
+The Foreign Intelligence Surveillance Court had given the government a deadline of last Friday to file a new application to extend the bulk phone records program for 90 days. Given the disarray in the Senate and the looming deadline, the Justice Department did not file, the official said, speaking on condition of anonymity to discuss intelligence-related matters.
+
+Obama administration officials said Saturday that the government was starting to take steps to shut down the bulk phone records program by the deadline. However, it was not clear what preliminary steps are necessary, since the program simply involves phone companies’ handing over billing records each day. Pressed to explain what the government meant by taking such steps, multiple officials declined to answer.
+
+The administration is holding to its decision not to invoke the grandfather clause to keep collecting bulk phone records past next Monday, the official said. But the government has not ruled out invoking such a clause for using the business records provision — as well as the other two powers that are expiring — to gather specific records for more routine investigations.
+
+“We will not use the grandfather clause in the Patriot Act to continue the bulk metadata collection program; it would not be tenable for us to do so,” the senior official said.
+
+“Thus, because of the pending sunset of the current authority, we have not filed an application with the FISA court to continue collection,” the official said, referring to the Foreign Intelligence Surveillance Act court, also known as FISC.
+
+Advertisement Continue reading the main story
+
+The official added, “We will consider, in light of our national security needs and the status of our authorities, whether to make an appropriate filing with the FISC about accessing previously collected metadata.”
+
+While the fate of the bulk phone logs program has received the greatest attention, the Justice Department separately used the expiring Patriot Act business records provision more than 160 times last year to obtain other types of business records for investigations, including Internet activity logs.
+
+It rarely uses the expiring “lone wolf” wiretapping authority, but has apparently made greater use of the expiring power to get wiretaps for suspects who shift from phone to phone.
+
+The administration is hoping to avoid any need to go to the court for permission to query already-acquired bulk phone data, which would raise additional legal complications.
+
+A federal appeals court recently ruled that the phone program was illegal because Congress did not intend the statute to permit such sweeping collections of information.
+
+Since then, the government has not asked the surveillance court to issue any rulings — like extending the program, or querying a new suspicious number — avoiding, for now, a confrontation over the conflicting legal interpretations.

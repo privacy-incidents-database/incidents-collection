@@ -1,0 +1,70 @@
+TalkTalk says it has received a ransom demand from an individual or group claiming responsibility for a cyber-attack that has potentially compromised the credit card and bank details of millions of customers.
+
+Related: TalkTalk system failure: complex IT needs experienced staff | Letters
+
+The telecommunications and media firm has said it does not know how many of its 4 million customers have been affected by what it called a “significant and sustained” attack on its systems.
+
+A TalkTalk spokeswoman said: “We can confirm we were contacted by someone claiming to be responsible and seeking payment.”
+
+
+
+The spokeswoman declined to elaborate on the demand, saying “everything else is a matter for the police”.
+
+
+
+TalkTalk’s chief executive, Dido Harding, told the BBC on Friday: “Yes, we have been contacted by – I don’t know whether it’s an individual or a group – purporting to be the hacker.
+
+
+
+Facebook Twitter Pinterest TalkTalk chief executive Dido Harding has apologised to customers for the third cyber-attack. Photograph: Bloomberg/Getty Images
+
+“I personally received a contact from someone purporting – as I say, I don’t know whether they are or are not – to be the hacker, looking for money.”
+
+
+
+TalkTalk shares had tumbled by more than 10% at 4pm on Friday, as investors worried about the financial impact of the cyber-attack.
+
+Harding previously said the company had assumed a worst-case scenario that all the personal data relating to its customers was compromised until TalkTalk could confirm exactly what was taken.
+
+She apologised to customers for the third cyber-attack affecting the telecommunications firm in the past 12 months, but said the breaches were “completely unrelated”.
+
+Harding told the BBC “the awful truth is I don’t know” whether all the data was encrypted, adding: “With the benefit of hindsight, were we doing enough? Well, you’ve got to say that we weren’t and obviously we will be looking back and reviewing that extremely seriously.”
+
+Related: TalkTalk breach: what to do if you're a customer
+
+Harding said Wednesday’s attack on TalkTalk’s systems should be treated as a crime. “Whether it is the US government, Apple, a host of companies, cybercrime is something we all need to get better at defending ourselves against,” she said.
+
+The Metropolitan police cybercrime unit has launched an investigation into the breach amid speculation that the attackers could be Islamic extremists or extortionists.
+
+Adrian Culley, a former detective at the unit, said the hack appeared to be the work of Islamic militants after a group claimed responsibility for the attack in the name of Allah. He told BBC Radio 4’s Today programme: “It appears at face value to be Islamic cyberterrorism.”
+
+The claim could not be verified, but Culley pointed out that a group calling itself “TalkTalk Hackers” published what it claimed was a sample of dozens of email addresses and national security numbers as proof of the attack.
+
+The group posted the message on the site Pastebin, which is often used by hackers for publishing large amounts of information. The message used the rhetoric of Islamist militants to justify the hack. It said: “We will teach our children to use the web for Allah … your hands will be covered in blood … judgment day is soon.”
+
+Culley said the attack was a matter of national security. “By the very nature of who TalkTalk are, they are [a] communications service provider, they are also part of the UK’s critical national infrastructure, so this is a concern not just for the police but the security services,” he said.
+
+Prof Peter Sommer, from De Montfort University’s cybersecurity unit, told the Today programme: “It seems to me the suggestion that these are Islamic terrorists who are perpetrating it is unlikely, not impossible.
+
+
+
+“One has to look at what is probably the most likely outcome. One of them is an extortion attempt; since they have gone public I suspect that’s not going to work. The other one is just to get hold of the credit card information, get hold of the personal information.”
+
+Scotland Yard confirmed it was investigating the breach but said there have been no arrests. In a statement, it added: “We are aware of speculation regarding alleged perpetrators. This investigation remains at an early stage. A full assessment of the alleged data theft is ongoing.”
+
+TalkTalk said it was continuing to work with leading cybercrime specialists and the Met to establish exactly what happened and the extent of any information accessed. “Unfortunately there is a chance that some of the following data has been compromised: names, addresses, date of birth, phone numbers, email addresses, TalkTalk account information, credit card details and/or bank details.”
+
+The firm admitted in its website FAQs section that some of the data was not encrypted but said it believed its systems were as secure as they could be. In a letter to customers, TalkTalk’s managing director, Tristia Harrison, said the company took “any threat to the security of our customers’ data very seriously”.
+
+She said the company had contacted major banks, which will monitor any suspicious activity from customers’ accounts, as well as the Information Commissioner’s Office.
+
+But the information commissioner, Christopher Graham, said TalkTalk should have notified the personal data watchdog sooner about the attacks. He told BBC Radio 4’s World at One: “I wish we had heard a little bit earlier and we could have been more ‘out there’ giving advice to consumers about what they need to protect their personal information.”
+
+The ICO is already investigating TalkTalk over two previous data breaches, Graham added – one in December 2014 and one in August. “The job of the Metropolitan police in this case is to investigate the theft, the job of the Information Commissioner’s Office is to investigate why the thieves were able to get away with it,” he said.
+
+The ICO can impose monetary penalties for data breaches, capped at £500,000, as well as enforcement notices. Graham indicated that if the information on TalkTalk’s systems was not secure it could lead to a bigger penalty from the watchdog.
+
+“There isn’t an off-the-peg solution that renders everything secure and in some cases encrypting everything would probably be excessive,” he said. “But the big civil monetary penalty we imposed on the Sony Corporation for the PlayStation incident was involving the lack of encryption of customer data – and that cost them £200,000. People have got to take this seriously.”
+
+
+

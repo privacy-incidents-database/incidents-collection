@@ -1,0 +1,43 @@
+SEATTLE — Technology companies have spent months denying they know anything about broad government spying on people who use their Internet services.
+
+But a legal case filed this week against a former Microsoft employee shows the power these companies themselves have to snoop on their customers whenever they want to.
+
+Microsoft accused the former employee of stealing company trade secrets in the form of software code for the Windows operating system, and leaking the software to a blogger. In an investigation, the company figured out who revealed the information by reading the emails and instant messages of the blogger on his Microsoft-operated Hotmail and message accounts.
+
+While Microsoft’s actions appear to have been legal and within the scope of its own policies, its reading of the private online accounts of a customer without a court order was highly unusual and raises questions about its protections for customer data, privacy lawyers say.
+
+“What blogger will use that service now?” said Jennifer Granick, an attorney and director of civil liberties at the Stanford Center for Internet and Society.
+
+Advertisement Continue reading the main story
+
+Ms. Granick said it appeared that Microsoft’s actions were within the boundaries of the Electronic Communications Privacy Act, which allows service providers to read and disclose customers’ communications if it is necessary to protect the rights or property of the service provider. Still, she called the move by Microsoft “stupid” and said it should raise concerns among bloggers and journalists about using Microsoft Internet services to communicate with their sources.
+
+Microsoft said it had done nothing wrong, but seemed to acknowledge the unusual nature of its actions — as well as a brewing outcry over its methods of investigating the former employee — by saying it would take several new steps to reassure customers that their communications will be private.
+
+In a statement, John E. Frank, a Microsoft vice president and deputy general counsel, said that in the future, if the company had evidence of a crime against Microsoft, it would submit that evidence to an outside lawyer who is a former judge, and that it would conduct a search of private communications only if the judge concluded there was enough evidence to meet the standards for a court order. Companies do not need to obtain court orders to search their own services, Mr. Frank said.
+
+He said the company would also state the number of searches of customer accounts that it conducted itself as part of a broader transparent report it publishes periodically on government and court orders.
+
+“The privacy of our customers is incredibly important to us, and while we believe our actions in this particular case were appropriate given the specific circumstances, we want to be clear about how we will handle similar situations going forward,” Mr. Frank said.
+
+Criticism of Microsoft began mounting on Thursday after a report on a news site, Seattlepi.com, about the case. The details were especially troubling for people who saw potential implications for journalists.
+
+“I have never seen a case like this,” said Edward Wasserman, the dean of the Graduate School of Journalism at University of California, Berkeley. “Microsoft essentially decided that whatever privacy expectation that its own customers supposedly had was basically a dead letter. It simply decided that in its own corporate interest, it can intrude on a person’s email.”
+
+In the case, filed in federal court earlier this week in Seattle, Microsoft accused Alex Kibkalo, the former employee, of leaking the Windows code to a French blogger in 2012. As part of an internal Microsoft investigation at the time, Microsoft examined the blogger’s private Microsoft email and instant messaging accounts and discovered evidence that the blogger had received confidential information and Windows software code from Mr. Kibkalo, who worked as a software architect for Microsoft in Lebanon.
+
+Advertisement Continue reading the main story
+
+The blogger is not identified in the complaint, but the person is described as specializing in publishing leaked screenshots and other information about Microsoft products on the web. Much of the details in the complaint, which was filed by an agent for the F.B.I., were based on Microsoft’s own inquiry.
+
+Mr. Kibkalo, a Russian national, was arrested in Seattle this week. Russell Leonard, a public defender assigned to represent him, did not respond to requests for comment.
+
+The picture that Microsoft’s investigation of the blogger paints is not a flattering one.
+
+The complaint says a Microsoft investigative team interviewed the blogger, during which the person admitted to receiving confidential information and software from Mr. Kibkalo. The blogger also admitted to selling activation keys for Windows Server software on eBay, the complaint said.
+
+Microsoft reached a confidentiality agreement with the blogger, which is why he is not identified in the complaint, according to a person briefed on the matter, who spoke only on condition of anonymity.
+
+Nate Cardozo, a staff lawyer with the Electronic Frontier Foundation, a privacy rights group, said that a number of companies had broad terms of service, but that it was extremely rare that any actually follow through and sift through a customer’s personal email.
+
+“To see Microsoft using this right to essentially look through a blogger’s email account for evidence of wrongdoing and then turn it over on a silver platter for law enforcement, it is extremely undesirable,” Mr. Cardozo said.

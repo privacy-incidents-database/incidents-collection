@@ -1,0 +1,23 @@
+Microsoft said on Monday that it would change its new disclosure policy to tell consumers explicitly that it would not use personal information it collects from users of some Microsoft products to produce or promote targeted online advertising.
+
+The action followed a letter by Representative Edward J. Markey, a Massachusetts Democrat who is co-chairman of the Congressional Bipartisan Privacy Caucus, to Steven A. Ballmer, Microsoft’s chief executive, expressing concern about the policy, which went into effect on Friday.
+
+In raising questions about Microsoft’s new policy, Mr. Markey cited an Oct. 20 article in The New York Times, which reported that the new Microsoft Services Agreement gave the company broad leeway to collect and use personal information gleaned from consumers of its free, Web-based products like e-mail, search and instant messaging.
+
+The policy allowed Microsoft to use the personal data in targeted advertising, although Microsoft pledged in its blog posts and e-mails to customers that it would not do so. The products affected by the Service Agreement include the company’s Web-based Hotmail and Outlook.com e-mail services, but not the Outlook program that is bought and loaded directly onto a personal computer’s hard drive.
+
+Microsoft said it wanted to make its intentions clear in light of the Times article and the letter from Mr. Markey. “One thing we don’t do is use the content of our customers’ private communications and documents to target advertising,” Microsoft said in a statement released on Monday afternoon.
+
+Advertisement Continue reading the main story
+
+“We could have been clearer about this when we rolled out our updated Services Agreement,” the statement said. “We appreciate the feedback we’ve received, and as a result, we will update the agreement as soon as possible to make that point absolutely clear.”
+
+The Times article reported that privacy advocates were concerned about the new policy, given that no single authority regulates the data-collection practices of Internet companies.
+
+The Microsoft policy appeared to give the company the same rights as Google, which scans the content of e-mails sent through its Gmail system, focusing on keywords to generate advertising that it thinks will interest the user. Google attracted widespread criticism when it revised its privacy policy to allow it to share that information across its product lines.
+
+In his letter to Microsoft, Mr. Markey said he was “concerned about the privacy and security implications of Microsoft’s policy of aggregating information about consumers across a suite of Microsoft services, stitching together detailed, in-depth consumer profiles.”
+
+He urged Microsoft to consider an opt-in standard that would allow the collection of personal information from users who specifically indicated that they wanted the company to collect that information.
+
+Microsoft’s policy did not apply its Internet Explorer Web browser. But it has said that just such an opt-in standard, known as a “do not track” option, will be the default setting on the coming release of Internet Explorer 10, the latest version of the browser.

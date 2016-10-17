@@ -1,0 +1,39 @@
+Juan Zarate, a White House and Treasury official under President George W. Bush, said that unlike telecommunications information, there has generally been less sensitivity about the collection of financial data, in part because the government already collects information on large transactions under the Bank Secrecy Act.
+
+“There is a longstanding legal baseline for the U.S. government to collect financial information,” said Mr. Zarate, who is also the author of “Treasury’s War,” about the crackdown on terrorist financing. He did not acknowledge the C.I.A. program.
+
+Orders for business records from the surveillance court generally prohibit recipients from talking about them. A spokeswoman for one large company that handles money transfers abroad, Western Union, did not directly address a question about whether it had been ordered to turn over records in bulk, but said that the company complies with legal requirements to provide information.
+
+“We collect consumer information to comply with the Bank Secrecy Act and other laws,” said the spokeswoman, Luella Chavez D’Angelo. “In doing so, we also protect our consumers’ privacy.”
+
+In recent months, there have been hints in congressional testimony, declassified documents and litigation that the N.S.A. program — which was disclosed by Edward J. Snowden, a former N.S.A. contractor — is not unique in collecting records involving Americans.
+
+For example, the American Civil Liberties Union is fighting a Freedom of Information Act lawsuit for documents related to Section 215 of the Patriot Act, the provision that allows the government to compel companies to turn over business records for counterterrorism purposes. After the government declassified the N.S.A. phone records program, it has released many documents about it in response to the suit.
+
+Advertisement Continue reading the main story
+
+But the government has notified the A.C.L.U. that it is withholding two Foreign Intelligence Surveillance Court rulings invoking Section 215 — one dated Aug. 20, 2008, and the other Nov. 23, 2010 — because they discuss matters that remain classified, according to Alexander Abdo, an A.C.L.U. lawyer. “It suggests very strongly that there are other programs of surveillance that the public has a right to know about,” Mr. Abdo said.
+
+In addition, a Justice Department “white paper” on the N.S.A.’s call records program, released in August, said that communications logs are “a context” in which the “collection of a large volume of data” is necessary for investigators to be able to analyze links between terrorism suspects and their associates. It did not say that call records are the only context that meets the criteria for bulk gathering.
+
+In hearings on Capitol Hill, government officials have repeatedly avoided saying that phone logs — which include date, duration and numbers of phone calls, but not their content — are the only type of data that would qualify for bulk collection under the Patriot Act provision. In a little-noticed exchange late in an Oct. 3 hearing before the Senate Judiciary Committee, Gen. Keith B. Alexander, the N.S.A. director, appeared to go further.
+
+At the hearing, Senator Mazie K. Hirono, Democrat of Hawaii, asked General Alexander and James R. Clapper Jr., the director of national intelligence, a sweeping question: “So what are all of the programs run by the N.S.A. or other federal agencies” that used either Section 215 of the Patriot Act or another surveillance law that allows warrantless wiretapping of phone and emails?
+
+General Alexander responded by describing, once again, the N.S.A.’s call records program, adding, “None of that is hid from you.” Mr. Clapper said nothing.
+
+Then, moments later, General Alexander interjected that he was talking only about what the N.S.A. is doing under the Patriot Act provision and appearing to let slip that other agencies are operating their own programs.
+
+“You know, that’s of course a global thing that others use as well, but for ours, it’s just that way,” General Alexander said.
+
+In September, the Obama administration declassified and released a lengthy opinion by Judge Claire Eagan of the surveillance court, written a month earlier and explaining why the panel had given legal blessing to the call log program. A largely overlooked passage of her ruling suggested that the court has also issued orders for at least two other types of bulk data collection.
+
+Advertisement Continue reading the main story
+
+Specifically, Judge Eagan noted that the court had previously examined the issue of what records are relevant to an investigation for the purpose of “bulk collections,” plural. There followed more than six lines that were censored in the publicly released version of her opinion.
+
+Lawmakers on the House and Senate Judiciary Committees have been trying to gain more information about other bulk collection programs.
+
+In September, Representative Jim Sensenbrenner, Republican of Wisconsin and an author of the original Patriot Act, sent a letter to Attorney General Eric H. Holder Jr. asking if the administration was collecting bulk records aside from the phone data. An aide said he had yet to get a response. Even lawmakers on the Intelligence Committees have indicated that they are not sure they understand the entire landscape of what the government is doing in terms of bulk collection.
+
+Senators Dianne Feinstein of California and Saxby Chambliss of Georgia, the top Democrat and Republican on the Senate Intelligence Committee, recently sent a classified letter to Mr. Clapper asking for a full accounting of every other national security program that involves bulk collection of data at home or abroad, according to government officials.
