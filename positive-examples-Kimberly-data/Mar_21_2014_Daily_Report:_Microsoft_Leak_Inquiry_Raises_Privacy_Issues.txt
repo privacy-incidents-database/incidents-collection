@@ -1,9 +1,0 @@
-Photo
-
-Technology companies have spent months denying they know anything about broad government spying on people who use their Internet services.
-
-But a case filed this week against a former Microsoft employee shows the power these companies themselves have to snoop on their customers whenever they want to, Nick Wingfield and Nick Bilton report.
-
-Microsoft accused the former employee of stealing company trade secrets in the form of software code for the Windows operating system, and leaking the software to a blogger. In an investigation, the company figured out who revealed the information by reading the emails and instant messages of the blogger on his Microsoft-operated Hotmail and message accounts.
-
-While Microsoft’s actions appear to have been legal and within the scope of its own policies, its reading of the private online accounts of a customer without a court order was highly unusual and raises questions about its protections for customer data, privacy lawyers say. Read more »
