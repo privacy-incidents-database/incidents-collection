@@ -1,0 +1,10 @@
+Thieves Break Into a Personal 'Data Vault' Company - The New York Times
+A company that describes itself as a vault for personal data has suffered an embarrassing heist: intruders penetrated its computer system and looted its customers names, addresses and in some cases, dates of birth and login passwords.
+The company, Reputation.com, based in Redwood City, Calif., told customers in an e-mail sent around 5 p.m. Pacific time Tuesday that it had detected a breach into its system and immediately reset customer passwords. It does not believe credit card information was taken.
+Passwords are especially coveted items because many people reuse them across multiple Web sites, and cyberthieves have in turn developed new automated ways to try and reuse them to ferret out more valuable data from different Web sites.
+LivingSocial and Evernote experienced similar breaches in recent months.
+In its e-mail to users, Reputation said it had identified, interrupted and swiftly shut down an external attack on our secure network. The company said it had encrypted user passwords, which could theoretically still protect them, but has not yet said what algorithm it used to protect customer data. Reputation has not yet responded to a request for comment, except to point to the e-mail it sent to customers.
+Reputations co-founder, Michael Fertik, has described the company as a data vault, or a bank for other peoples data.
+Its services include identifying Web sites that sell personal data, removing personal data from some sites and blocking online tracking.
+Todays Scuttlebot: Facebook Beheadings and Privacy Champions
+Visit the Technology section for complete coverage of the industry. 

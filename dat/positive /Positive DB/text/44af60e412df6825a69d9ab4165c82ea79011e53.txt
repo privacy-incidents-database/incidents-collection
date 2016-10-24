@@ -1,0 +1,21 @@
+In Cybersecurity, Sometimes the Weakest Link Is a Family Member - The New York Times
+In Cybersecurity, Sometimes the Weakest Link Is a Family Member
+In Cybersecurity, Sometimes the Weakest Link Is a Family Member
+Since I started writing about cybersecurity, Ive developed something of a
+I set up complex passwords for every website, enable two-step authentication whenever I can, sign up for credit monitoring (thanks to Target) and regularly use secure mobile apps to speak with sensitive sources.
+I also cover my computers web camera with a masking tape, and one night  during some paranoia-fraught weeks reporting on Chinese hacking  I even went so far as to move my television out of my bedroom just in case somebody was lurking in my cable box. (In my defense, Id just covered a case of Chinese hackers lurking in athermostat and an office printer.)
+In short, I have become completely obsessive about protecting my personal data.
+So imagine my reaction the other week when my own father sent a text message containing my Social Security number, drivers license number, birth date, account number, phone number, email address and full name  essentially everything one would need to steal my identity  to people in his address book.
+Suffice to say, I was not exactly calm, cool and collected. (Full disclosure: I ran this post by my dad who suggested I insert several random nonalphabetic characters to indicate prolific cursing here.)
+It was an honest mistake, of course, but it was infuriating. In his fatherly way, my dad had carefully documented all my most pertinent data in his address book so he could access it for life insurance purposes, then mistakenly sent it to his other contacts.
+Ive taken companies to task for storing personal data and chastised perfect strangers for not setting up password PINs on their phones. But security experts like to say security is only as strong as the weakest link. And in this case, the weakest link  Im sorry to say  was my dad.
+The fact is that we all do similar things every day. Allit takes is one person clicking on a malicious link, one vendor with a weak password, or one visit to a Chinese takeout restaurants website for a hacker to gain a foothold into corporate networks. In fact, 91 percent of breaches are attributable to an employee clicking on a link, according to Proofpoint, a computer security company.
+But the situation for individuals feels helpless. Good password hygiene can only do so much when so much of my most sacred data is being held by insurers, marketers, retailers, banks, and  apparently  my dad.
+Last year, 13.1 million consumers suffered identity fraud  the second-highest level on record  according to Javelin Strategy & Research.And credit monitoring only provides so much recourse, when your information is lost.Last year, an investigation found that an underground identity theft service, run by a 24-year-old Vietnamese national, had bought its data from an unlikely suspect.
+As it turned out, Hieu Minh Ngo, who would later be indicted for fraud and identity theft, had bought the data from Experian, one of the three major credit bureaus in the United States, and, perhaps most tragic of all,the very service Target enlisted to offer customers  including yours truly  free credit monitoring.
+Mr. Ngo pleaded guilty to wire fraud in March and could face as many as 45 years in jail.
+But to think, he could have saved the trouble and just buddied up to my dad.
+Computer Security, Experian Group Ltd, Javelin Strategy & Research, Proofpoint Inc, Target Corporation, United States
+Daily Report: Microsoft Expands Its Tablets Screen, With Work in Mind
+Google S.E.C. Filing Says It Wants Ads In Your Thermostat and Car
+Visit the Technology section for complete coverage of the industry. 

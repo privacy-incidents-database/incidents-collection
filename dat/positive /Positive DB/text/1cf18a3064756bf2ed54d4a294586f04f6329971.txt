@@ -1,0 +1,25 @@
+Privacy Commissioner investigating iiNet data breach
+Privacy Commissioner investigating iiNet data breach
+Sign up now to get free exclusive access to reports, research and invitation only events.
+Privacy Commissioner investigating iiNet data breach
+Breach allegedly occurred after hacker compromised a database
+Australian Privacy Commissioner Timothy Pilgrim has opened an investigation into an alleged data breach involving iiNet subsidiary Westnet.The data breach allegedly occurred earlier this monthafter a hacker compromised a database containing the personal information of some Westnet customers and offered the information for sale online.iiNet is cooperating with the OAICs enquiries. The OAIC will publish a further statement at the conclusion of its investigation, an OAIC statement said.At the time, iiNet CIO Matthew Toohey said that the company was investigating the matter and that the incident had been reported to law enforcement agencies.iiNet is aware of an incident that may have resulted in unauthorised access to old customer information stored on a legacy Westnet system. Customer username, address, telephone and, in some cases, password information may have been accessed, however, no payment details were stored on the server. The system is now offline and at no further risk, he said.
+iiNet has been contacted for comment.Follow Hamish Barwick on Twitter: @HamishBarwickFollow Computerworld Australia on Twitter: @ComputerworldAU, or take part in the Computerworld conversation on LinkedIn: Computerworld Australia
+Southern Phone Company breaches customer privacy, ACMA finds
+Pilgrim appointed acting Australian Information Commissioner
+Tags Timothy Pilgrimwestnetprivacy commissionerprivacy
+NBN: Return to fibre-to-the-home rollout seems increasingly unlikely
+NBNs fibre to the most economic point a global trend, local Nokia boss argues
+Fujitsu wins $15.3m Tasmanian emergency dispatch system contract
+The Importance of Cyber Threat Intelligence to a Strong Security Posture
+Please enable JavaScript to view the comments powered by Disqus.
+Competition concerns over Telstra role in NBN HFC rollout
+Cause of Telstras mobile outages common to all networks, telco says
+The week in security: IoT threat can be managed; FBI becomes iPhone ...
+In Pictures: Ultimate guide to Raspberry Pi operating systems, part 1
+Edge browser edges Chrome in early adoption sweepstakes
+CSO Live Webcast: Hear from KuppingerCole Analysts and ForgeRock on User-Managed Access. Register now
+REGISTER NOW! The TCS Global Insights Knowledge Sharing Program is up and running. Feb-May. Sydney.
+APJ businesses think they will be breached: Here's why: Read the article NOW
+INSIGHTS: The State of Cloud Storage & Collaboration 2016 - Take this 5 min survey and you could WIN a $500 Visa gift card : START SURVEY NOW
+Copyright 2016 IDG Communications. ABN 14 001 592 650. All rights reserved. Reproduction in whole or in part in any form or medium without express written permission of IDG Communications is prohibited.

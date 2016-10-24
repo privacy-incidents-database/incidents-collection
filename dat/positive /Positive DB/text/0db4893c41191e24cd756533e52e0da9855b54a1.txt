@@ -1,0 +1,17 @@
+Appeals Court Overturns Conviction of AT&T Hacker Known as 'Weev' - The New York Times
+Appeals Court Overturns Conviction of AT&T Hacker Known as Weev
+Appeals Court Overturns Conviction of AT&T Hacker Known as Weev
+A federal appeals court on Friday reversed the conviction of Andrew Weev Auernheimer, a hacker and self-described Internet troll, who was accused of stealing the personal data of 114,000 Apple iPad users in 2010.
+At the time, Mr. Auernheimer and Daniel Spitler, operating as part of a group calledGoatse Security, gained national attention when they discovered a security loophole on AT&Ts website that allowed them to gain access to the addresses of the carriers customers and their corresponding iPad identification numbers.
+PhotoAndrew Auernheimer, known online as "Weev."Credit co.washington.ar.us
+Mr. Auernheimerwas sentenced to 41 months in prison for the breach. Mr. Spitler, who pleaded guilty to one count of conspiracy to gain unauthorized access to computers and one count of identity theft, received probation.
+In its decision, the United States Court of Appeals for the Third Circuit said that the conviction of Mr. Auernheimer by a jury in Newark, N.J., and the subsequent prison sentence could not stand because the case did not belong in that state.
+Prosecutors had argued at the time that the case should be tried in New Jersey because AT&Ts servers were housed there. But an appeals court judge, writing in the unanimous three-person opinion on Friday, noted that evidence at Mr. Auernheimers trial showed that the servers that had been entered were in Texas and Georgia.
+Although this appeal raises a number of complex andnovel issues that are of great public importance in ourincreasingly interconnected age, we find it necessary to reachonly one that has been fundamental since our countrysfounding: venue, Judge Michael A. Chagares wrote. As discussed, neither Auernheimer nor Spitler accessed acomputer in New Jersey.
+Judge Chagares said Mr. Auernheimer had been denied his substantial right to be tried in the place where his alleged crime was committed.
+The case became publicized in 2010 and 2011 for the high-profile nature of the intrusions. Stolen email addresses included those of members of the Senate and the House of Representatives, and employees of the Justice Department, NASA and the Department of Homeland Security. There were also a number of celebrities on the list, and theinformation was passed alongto the gossip blog Gawker.
+In court, Mr. Spitler told prosecutors that he had tried to notify AT&T about the security hole on the companys website, but the company did not respond. He said he had not sold the emails or posted them online.
+AT&T; Inc, Auernheimer, Andrew, Computer Security, Cyberattacks and Hackers, Goatse Security, New Jersey, Spitler, Daniel
+Google Glass Available to Anyone in U.S.  for One Day Only
+Samsung Calls on Google Executive to Defend Innovation
+Visit the Technology section for complete coverage of the industry. 

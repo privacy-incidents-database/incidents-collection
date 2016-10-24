@@ -1,0 +1,16 @@
+Facebook opens data hose to journalists with Signal | ZDNet
+This web site uses cookies to improve your experience. By viewing our content, you are accepting the use of cookies. To find out more and change your cookie settings, please view our cookie policy.
+Facebook opens data hose to journalists with Signal
+Signal is pegged as a curation tool for journalists, but it also hints at how Facebook's data eventually could be used at broader scale.
+Facebook on Thursday released Signal, a dashboard where journalists can monitor trending topics and source content as part of their writing process.
+Signal pulls from both Facebook and Instagram, and allows journalists the opportunity to "monitor which topics are trending and then quickly display related content that has been shared publicly -- unranked and in chronological order -- from both people and Pages for deeper context on those trends," according to a blog post from Andy Mitchell, director of media partnerships at Facebook.
+A problem-solving approach IT workers should learn from robotics engineers
+Sometimes the most profound solution is to change the entire problem.
+The service leverages a combination of technology from CrowdTangled, Storyful, and Facebook's own Media Solutions APIs. Signal's APIs are embeddable, which means they could also be used for content feeds
+or as a way to display coverage of an event. In terms of strategy, Signal marks yet another Facebook product that courts the news industry. Last week the social network rolled out the Mentions app to all of its verified profiles, giving public figures the ability to broadcast live video feeds or post directly to their followers.Earlier this year the company launched Instant Articles, giving news junkies natively hosted articles so they can spend more time on Facebook, and started displaying trending topics on a sidebar.But looking beyond Facebook's fascination with becoming a media hub, the launch of Signal shows that the social network is finding more ways to use its data on a broader scale. Twitter has long tapped into the power of its data -- the platform is already a major asset for journalists, politicians and financial traders.Facebook, on the other hand, is not yet synonymous with its data, despite the obscene amount that it generates each day from its millions of users. A tool like Signal could be just a starting point for Facebook to springboard data products for use in various industries.
+Twitter shakes up board members in push for diversity
+Facebook Messenger rolls out Codes, Links and Usernames
+Disconnect between Americans' online attitudes and actions in a post-Snowden world
+You have been successfully signed up. To sign up for more newsletters or to manage your account, visit the Newsletter Subscription Center.
+ 2016 CBS Interactive. All rights reserved. Privacy Policy | Cookies | Ad Choice |
+Select SiteCBS CaresCBS FilmsCBS RadioCBS.comCBSInteractiveCBSNews.comCBSSports.comChowhoundCNETCollege NetworksGameSpotLast.fmMaxPrepsMetacritic.comMoneywatchmySimonRadio.comSearch.comShopper.comShowtimeSmartPlanetTechRepublicThe InsiderTV.comUrbanBaby.comZDNet

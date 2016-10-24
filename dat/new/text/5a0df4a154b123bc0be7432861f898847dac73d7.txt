@@ -1,0 +1,213 @@
+On April 10, 1990, Lotus Development Corporation proudly announced its
+plans to release the Lotus MarketPlace: Households.
+trade press, MarketPlace was expected to revolutionize the list
+industry by making names, addresses, demographic and prior purchase
+The product was a joint venture between Equifax, one of the country's
+largest credit bureaus, and Lotus, a major player in the computer
+Marketing Database while Lotus developed the software for the Macintosh
+desktop computer. A second version of MarketPlace for the IBM PC was on
+the drawing board. On January 23, 1991, Equifax and Lotus issued a
+joint press release stating that they were canceling the project.
+statement indicated that the decision resulted from consumer concerns
+and "the substantial, unexpected additional costs required to fully
+lessons of the Lotus MarketPlace can provide some important insights
+for everyone who is concerned about consumer privacy issues in the
+Two features of the Lotus MarketPlace were responsible for mobilizing
+the opposition which led to its cancellation: the contents of the
+database and the desktop technology platform. First and foremost,
+consumers objected to the secondary use of identifiable personal
+the Privacy Times, Equifax initially took the position that it had no
+plans to notify consumers that personal data from their credit reports
+would be used in a new direct marketing product, MarketPlace (1).
+result, a fundamental privacy principle, that personal information
+collected for one purpose should not be used for other purposes without
+cornerstone of the 1973 "Code of Fair Information Practices" which
+Second, as a distributed desktop application, MarketPlace lacked many
+of the controls currently in place for a centralized database stored on
+a mainframe computer and managed by a mailing list broker.
+brokers screen requests to rent their lists and often request a sample
+list with decoy names prior to its release in order to monitor how the
+Similar controls were not feasible for MarketPlace because the end-
+user actually owned the database and therefore controlled its use.
+example, the end-user could build lists using any combination of the
+to export names and addresses from the lists they built to a separate
+file for unrestricted future use.It was therefore unlikely that
+MarketPlace use could be reliably monitored using decoy names.
+advocates viewed the upcoming release of MarketPlace as opening the
+They expressed concern that each new lookalike product
+would of necessity provide access to more detailed personal information
+than the last in order to compete successfully with MarketPlace for
+Against this backdrop, what lessons can we learn from the Lotus
+In retrospect, I believe that at least three distinct
+perspectives, the perspectives of the consumer, the corporation, and
+the "electronic lobbyist," are necessary to understand what happened
+these three perspectives, the paper will develop some conclusions
+regarding the need for a new partnership between consumers and
+companies which balances their respective interests.
+The Consumer Perspective: "How Did They Get My Name?"
+One important lesson from the Lotus MarketPlace is that consumers
+clearly want to control who has the right to access their personal
+personal data clearly surprised and shocked most consumers when they
+learned about MarketPlace, resulting in a storm of complaints.
+given the opportunity to have their names removed from the database,
+more than 30,000 individuals exercised the option to "opt out."
+strength and the tenor of the opposition clearly caught both Lotus and
+In its public statements, Lotus continued to argue that the MarketPlace
+was only providing small businesses with a means to access the same
+information that was already available to larger firms. In fact, lists
+based on personal data have been widely available for sometime.
+Target Marketing Services, Polk and its subsidiary National
+Demographics and Lifestyles (NDL), Acxiom Integrated Marketing Systems
+or any of a host of other companies in the list industry could each
+have replaced Equifax as the data supplier for MarketPlace.
+The results of The Equifax Report on Consumers in the Information Age,
+a national opinion survey released in early summer 1990, include the
+finding that the majority of consumers do not object to their names
+being used on mailing lists if those that oppose this practice could
+have their names excluded. Preference services which allow consumers to
+have their names removed from various lists are currently offered by
+the Direct Marketing Association, Equifax, American Express, the
+majority of large mail-order catalog firms and others.
+availability of these services is not common knowledge, and their
+effectiveness has never been put to a systematic test.
+found that people, in fact, believe it is difficult for individuals to
+further found that the majority of consumers (and direct marketing
+professionals) believe that individuals have lost all control over how
+personal information about them is circulated and used by companies.
+The second lesson of the Lotus MarketPlace, then, is that consumers do
+not understand the scope of the mailing list business in the United
+States, the extent to which personal information is currently
+collected, merged, sold or exchanged, and the mechanisms that exist for
+published recently in the RISKS computer conference reinforces this
+point and is an important message to everyone in the list industry:
+"I would venture to say that the uproar is due to the fact that people
+heard about the Lotus product, whereas they didn't hear about the
+others. I would be interested to hear about other ways of getting the
+same information; if we object to Lotus putting together the product,
+then we should object to other companies doing the same."
+Lobbying in the Information Age: "It's a Brand New Ballgame"
+Both conventional wisdom (and a substantial body of academic research)
+suggest that successful public opinion campaigns involve issues which
+are clearly framed, and are either coupled with a champion or a
+powerful interest group, or driven by major external events.
+Traditionally, these lobbying campaigns have been conducted by mail or
+The targeted organizations develop a response based on
+their ability to identify the group(s) behind the mail and their
+subsequent assessment of the clout of these groups. Consumer opposition
+to the Lotus MarketPlace largely defied this conventional wisdom on
+interesting lesson of the Lotus MarketPlace is that we have entered the
+Much of the opposition to MarketPlace was mobilized, individual by
+individual, on "the net"--public computer networks, bulletin boards and
+The public became widely aware of the existence of the
+Lotus MarketPlace after the Wall Street Journal published John Wilke's
+internal computer conferences at two large firms in the computer
+industry as a routine news clip. At least one such posting was then
+firm, the same article was circulated with comments appended urging
+people to write their members of Congress recommending that steps be
+For the next two months, individuals continued to circulate these
+comments, appending their own thoughts, and urging anyone receiving the
+benefitted from the wide name recognition of Lotus in the computer
+community and the fact that Lotus executives were accessible through
+the public networks--Equifax received a fraction of the complaints that
+effectively mobilize a national constituency independent of any of the
+traditional "big money" special interest groups should not be
+In his introduction to the Equifax survey, Alan Westin articulates his
+belief that a proper information agreement does not currently exist
+individual's name, address and personal characteristics in a computer
+database without the individual's knowledge or consent, the individual
+perceives that a portion of his/her uniqueness has been appropriated.
+A marketing colleague suggests that this perception is comparable to
+learning that you are being secretly filmed in the shower.
+Westin calls for a new partnership between list compilers and record
+subjects. The lessons of the Lotus MarketPlace provide support for his
+One clear lesson of the Lotus MarketPlace is that individuals who speak
+out can effect change. Consumers need to continue to voice their
+concerns about practices they find objectionable and to vote with their
+wallets. Patronizing firms which have good privacy practices and
+challenge requests for personal information which they believe are
+inappropriate or unnecessary, or ask specific questions about a firm's
+recordkeeping practices, they also send a clear message that they want
+The Direct Marketing Association (DMA) works with its members in the
+list industry to develop voluntary privacy protection programs.
+addition to its mail and telephone preference services, the DMA has
+developed a set of voluntary guidelines for Personal Information
+Protection which are consistent with the Code of Fair Information
+Consumers should exercise their rights as records subjects
+under these programs and guidelines, and should report any exceptions
+For organizations which sell or use lists, another lesson of the Lotus
+MarketPlace is that responsible firms need to do a better job of
+educating the public. All organizations should inform their data
+subjects about their recordkeeping practices, provide individuals with
+a range of options about the subsequent use of personal information,
+and finally allow each individual to make an informed choice based on
+educating the public about the use of new technologies poses a
+Increased public concern about privacy provides an opportunity for
+firms to gain competitive advantage from their privacy policies.
+privacy is primarily an ethical issue. Socially responsible
+organizations do not manufacture defective or dangerous products, cheat
+their customers, or pollute the environment. Consumer privacy should be
+no more than 25% of executives in privacy-intensive industries want to
+be a pioneer in adopting company policies that provide new privacy
+Even many public interest organizations which lobby
+vigorously for human and civil rights are reluctant to openly disclose
+their list practices to their supporters for fear of jeopardizing the
+revenues they receive from selling or exchanging their mailing lists.
+National Demographics and Lifestyles recently analyzed the demographics
+of two groups of consumers who returned product warranty cards.
+group had chosen to "opt out"of the NDL database while the other had
+not exercised this option. Unlike many organizations, NDL offers
+consumers the opportunity to "opt out" through a check-off on the
+who chose to "opt out" did not fit the NDL profile of consumers who are
+financial benefits of current practices where the "opt out" notice is
+buried in the small print (or not given at all) accrue to the firms
+which make money from the rental of these non-responsive names to other
+Rising postal costs may also strike an unintended blow
+for privacy by finally making it cheaper to remove a name from a list
+than to mail to prospects who have no interest in the products or
+Finally, we learned from the Lotus MarketPlace that market forces can
+work. The product was withdrawn without litigation, legislation or even
+the United States is characterized by a sectoral approach.
+majority of private sector records are not covered by legislation. When
+laws are enacted, it is usually in response to a specific problem. It
+is not clear to what extent new privacy legislation will serve the
+public interest if companies are not committed to privacy as a matter
+of principle. For example, while the sale of mailing lists based on
+summarized data from individual credit reports by TRW and Equifax does
+not violate the letter of the Fair Credit Reporting Act, it clearly
+categorize movie rentals based on a large number of very specific
+categories and to sell lists based on these categories clearly violated
+the intent of the Video Privacy Protection Act of 1988 and was even
+described by DM News, an industry publication, as "skirting" the law.
+According to Direct Marketing magazine, the mailing list business in
+the United States is a $1.23 billion industry. Secondary markets for
+personal information continue to expand, as detailed knowledge about
+consumer preferences is increasingly valuable to decision makers in the
+systems, relational databases, artificial intelligence, automatic
+number identification (ANI) and other technologies will continue to
+result in enhanced capabilities for surveillance, storage, retrieval,
+analysis and communication of personal information.
+corporations and privacy advocates will need to communicate openly with
+one another to ensure that these new applications fairly balance the
+lesson of the Lotus MarketPlace is our newly-found optimism that the
+end of the Lotus MarketPlace marks the beginning of such a dialogue.
+(1) It should be noted that Equifax had been selling mailing lists
+based, in part, on individual credit records prior to its involvement
+in the MarketPlace project. [ed. This is no longer the case. Equifax
+announced on 8 August 1991 that it would stop using credit data for
+(2) Director, Ethics & Consumer Affairs, Direct Marketing Association,
+1101 Seventeenth Street NW, Suite 900, Washington, D.C. 20036- 4704.
+Copyright, 1991, Jim Warren & Computer Professionals for Social Responsibility
+All rights to copy the materials contained herein are reserved, except as
+hereafter explicitly licensed and permitted for anyone:
+Anyone may receive, store and distribute copies of this ASCII-format
+computer textfile in purely magnetic or electronic form, including on
+computer networks, computer bulletin board systems, computer conferencing
+systems, free computer diskettes, and host and personal computers, provided
+this file, including this notice, is not altered in any manner, and
+no profit or payment of any kind is charged for its distribution, other
+than normal online connect-time fees or the cost of the magnetic media, and
+it is not reproduced nor distributed in printed or paper form, nor on
+CD ROM, nor in any form other than the electronic forms described above
+without prior written permission from the copyright holder.
+> Elections Project> Public Sphere Project> Liberating Voices! Pattern Language Project
+In these times, this is the kind of organization that technology professionals should be a part of.

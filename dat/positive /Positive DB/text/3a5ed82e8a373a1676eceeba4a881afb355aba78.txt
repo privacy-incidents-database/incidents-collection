@@ -1,0 +1,12 @@
+I like to transfer files between machines with a portable USB drive. Is there a way to protect this drive with a password in case I ever lose it?
+If you want to add a password to your USB drive to keep your traveling files secure, you can lock the drives contents with encryption software. These programs, some of which are free, can be found around the Web, but make sure to get one that is compatible with your computers operating system.
+Some of these drive-encryption programs include TrueCrypt (it works on Windows, Mac OS X and Linux systems) and FreeOTFE for Windows (short for on the fly encryption).
+Commercial programs include USB Secure ($30 for the full Windows version). Your computers operating system may have some useful tools for putting a lock on external drives, like the Bitlocker to Go feature of Windows 7 or the Mac OS X Disk Utility program.
+The next time you buy a USB drive, consider one that has its own encryption software built in. Some portable drives, aimed at professionals and those who may be toting around corporate secrets, offer military-grade encryption. IronKey makes several types of security-minded USB drives, as does Verbatim.
+Gadgetwise is a blog about everything related to buying and using tech products. From figuring out which gadget to buy and how to get the best deal on it to configuring it once its out of the box, Gadgetwise offers a mix of information, analysis and opinion to help you get the most out of your personal tech.
+All the regular features on the Gadgetwise blog can now be found on the Personal Tech section front. Thank you for reading.Readmore
+FX-Sport VR1 Programmable Personal Trainer Headphones are a smart concept  a pair of headphones with a built-in coach, or virtual competitor. Readmore
+Online file storage services like Dropbox let you share files with people who do not have an account with the company.Readmore
+Q&A: Revealing Your Location (or Not) to Mobile Apps
+Mobile apps may have useful reasons for requesting your location information, while others just want to show you local advertising.Readmore
+Amazons store for Android apps has a Test Drive feature that lets you see an app in action before you buy or download it.Readmore

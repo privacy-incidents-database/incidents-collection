@@ -1,0 +1,19 @@
+Security Experts Say Police Arrested Wrong Hacker - The New York Times
+YouTube screenshot An Anonymous spokesman is believed to be Topiary of Lulz Security.
+The British police said Wednesday that they had arrested a 19-year-old hacker who goes by the online name Topiary, and is believed to be the spokesman for the hacker group Lulz Security. But on Thursday, the Web was abuzz with speculation about the events, with many asking if the police had been duped by hackers into arresting the wrong man.
+Hackers and security experts who have been tracking LulzSec for months say that the police had in fact arrestedsomeonewho uses the name Topiary online. But a trail of evidence in the form ofInternet Relay Chats, or IRC, and online videos posted on YouTube, led many to think that the real Topiary was still on the run.
+A group calling themselves the Web Ninjas, who publish a blog calledLulzSec Exposed, posted evidence that the real Topiary is most likely a 23-year-old man from Sweden. The Web Ninjas have said this in the past when they posted a series of documents exposing who they think is Topiary and other members of LulzSec. The Web Ninjas also cite evidence of a video interview with Topiary that was posted on YouTube when he belonged to the hacker group Anonymous.
+As we have written in the past, hackers use the term dox, as in documented, when they expose a persons true identity online. Members of LulzSec were apparently doxed months ago, although most LulzSec members denied the accuracy of the documents.
+The British police did not respond to a request for comment about Wednesdays arrests.
+Another hacker who goes by the name The Jester online and has been actively tracking LulzSec and Anonymous members, posted a private chat log that took place between Topiary and anotherunknownhacker. In a portion of the chat, which can be seen below, Topiary admits that he has stolen his online alias from another person, whom he refers to as a troll and who lives in the north of England, the same area where police made an arrest on Wednesday.
+Topiary: I cant at this point, I need to just straight up deny it 100% and flaunt it everywhere
+Topiary: if I go hide then people will assume the dox are right
+[removed]: True that  so you need to make a big show of disproving them
+Topiary: (as you know I stole this nickname from a troll last December, didnt work out so well)
+Topiary: Ill just keep denying it until they try to go after the troll
+Topiary: then theyll think thats me and harass him
+Topiary: yeah but if I deny my real dox enough, people will go looking for other dox
+Topiary is believed to be the main spokesman for LulzSec, often communicating with the public via the LulzSec Twitter feed and Web site. He is known for his sly writing and sarcastic yet playful language.
+Although Topiary has announced several times in the past that he plans to retire from LulzSec and public hacking, he often re-enters the spotlight days later.
+anonymous, hackers, Hacking, Lulz Security, LulzSec
+Visit the Technology section for complete coverage of the industry. 

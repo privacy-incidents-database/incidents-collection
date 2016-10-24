@@ -1,0 +1,14 @@
+F.B.I. Investigates Breach of AT and T - Web Log - NYTimes.com
+campaign: nyt2016_bar1_digihd_BAU_mtr_msg_64RWJ -- 283467, creative: bar1_digihd_BAU_mtr_64RWJ_64RWL_64RXF_64RXJ -- 413062, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
+Want both newspaper deliveryand free, unlimited digital access?50% OFF FOR 12 WEEKS
+Want unlimited access to NYTimes.com and our apps?99 FOR 4 WEEKSSee All SubscriptionsSubscribe
+The Federal Bureau of Investigation said Thursday that it was investigating a security breach on AT&T;'s Web site that allowed a security group to obtain the e-mail addresses of 114,000 iPad 3G owners.
+The group also obtained the identification numbers known as ICC-IDs that those iPads use to communicate over AT&T;'s network.
+''The F.B.I. is aware of these possible computer intrusions and has opened an investigation to address the potential cyberthreat,'' said Jason Pack, a supervisory special agent with the F.B.I.'s news media office.
+The iPad owners who were affected included some prominent corporate executives and senior officials from several government agencies including the Justice Department, the Department of Homeland Security and the White House.
+AT&T; said it was made aware of the breach on Monday and closed the security loophole as of Tuesday afternoon. Although the company said it was still looking into the matter, it said it did not believe ''that any other customer information was shared.''
+Apple has not responded to requests for comment about the security breach.
+This is a more complete version of the story than the one that appeared in print.
+Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
+New York Citys top public schools must become more diverse.
+campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_personalized_isEDU_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Inv1

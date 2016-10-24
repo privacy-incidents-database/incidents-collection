@@ -1,0 +1,22 @@
+Free Software to Protect Your Bank Account - The New York Times
+Hackers and crooks are scheming to crack Internet banking links and steal your money and personal data.
+So some banks are urging you to add an extra layer of protection, by using software with the somewhat tongue-twisting name Trusteer Rapport.
+Bank of America began promoting Rapport to its 29 million online banking customers this week. But the bank has been quietly offering the software on its public Web site since February to anyone who wants it  free  whether theyre a bank customer or not.
+The big bank joins other institutions, like Zions Bank and ING Direct, which already offer free Rapport downloads on their Web sites.
+Bank of America sees a benefit in protecting as many online users as possible, Keith Gordon, the banks senior vice president of online security, told me this week.
+We know from talking with other banks that this is not just a Bank of America issue, he said. Its an industry issue. And were trying to be better in collaborating with other institutions.
+Mickey Boodaei, chief executive of the Web security firm Trusteer, maker of Rapport, said the software focused on guarding your browser, which links you to your bank. The program was designed in response to the emergence of financial malware programs, which sneak onto your computer while youre surfing the Web and then pilfer information sent through your browser. Fraudsters are becoming more sophisticated, he said.
+Heres one example of the danger: When you type your user name and password, so-called key-logging malware records your keystrokes and sends them to an attacker, who can log into your account and transfer money. Rapport encrypts your keystrokes so they cant be identified. It also verifies that you are connected to the banks actual Web site, and not a fraudulent copy.
+Boodaei says the latest financial malware programs are believed to be emerging from criminals based in Eastern Europe and Russia. Financial malware acts very quickly, he said. If you get infected today, the malware will try to transfer money today.
+Once users download Rapport, he said, they can instruct it to protect their browser at any Web site where they disclose sensitive information, like credit card sites or online shopping sites.
+Using the Rapport software isnt mandatory for Bank of America customers, Mr. Gordon said, in part because the bank already protects account holders from losses if their account is compromised.
+But it is advisable, he said, because malicious software programs can also steal sensitive nonfinancial information, which can be used in identity theft. One of the goals of malware is to go gather information, he said.
+Its still important, Mr. Gordon said, to use antivirus software and to maintain strong passwords and other security features to protect electronic information. (Bank of America offers McAfee antivirus software to its customers free for the first year and at a discount thereafter). The idea, he said, is to create multiple layers of security, to make breaches as difficult as possible. No one piece of technology, or particular part of the process, blocks everything.
+Do you think online banking is safe? What sorts of security measures do you take to safeguard your financial information online?
+Personal finance features and news coverage from can now be found on the Your Money page.Readmore
+Friday Reading: What Parents Mean by Part-Time Work
+What parents mean by part-time work, why the future of your Nook books is uncertain, free theater in the park (and parking lot) and other consumer-focused news from The New York Times.Readmore
+How faith can affect mental health therapy, freshening up a kitchen for a home sale, creating your own personal weather station and other consumer-focused news from The New York Times.Readmore
+Travel warnings are issued on Egypt, the Ford F-250 is now thieves favorite target, regulators crack down on abusive debt collection and other consumer-focused news from The New York Times.Readmore
+Computer Snag Limits Insurance Penalties on Smokers
+A software glitch involving the new health care law may mean that some smokers wont bear the full brunt of tobacco-user penalties that could have made their premiums much higher, at least for the first year.Readmore

@@ -1,0 +1,46 @@
+WhatsApps Privacy Cred Just Took a Big Hit | WIRED
+Subscribe now to get 6 months for $5 - plus a FREE Portable Phone Charger.
+ Harlequin Shrimp are the Bonnie and Clyde of the sea bit.ly/2eo34Vm snpy.tv/2eycTRh
+WhatsApp founders Brian Acton (L) and Jan Koum (R).Michael Friberg for WIRED
+WhatsApp founders Brian Acton (L) and Jan Koum (R).Michael Friberg for WIRED
+For the first time since even before Facebook acquired it in a whopping $19 billion acquisition two years ago, WhatsApp has changed its terms of service. This time, youll want to read them very closely.
+Under the new user agreement, WhatsApp will share the phone numbers of people using the service with Facebook, along with analytics such as what devices and operating systems are being used. Previously, no information passed between the two, a stance more in line with WhatsApps original sales pitch as a privacy oasis.
+We have not, we do not, and we will not ever sell your personal information to anyone. Period. End of story, wrote WhatsApp CEO Jan Koum in 2009. In the wake of the 2014 Facebook acquisition, Koum reiterated his stance, promising to maintain the status quo. Heres what will change for you, the users: nothing, Koum wrote at the time. WhatsApp will remain an autonomous company and will operate independently.
+Much of that remains true in letter, if not in spirit. While the phone numbers themselves will not be sold to advertisers, linking the information will help Facebook identify WhatsApp users and serve them more accurately targeted advertisements. Facebook says the move will also allow for better user accounting across its platforms, identifying overlap to give it a better sense of how many individuals it actually services.
+The move prompted a stern response from privacy advocates. These guys never stop, says Jeff Chester, executive director of the Center for Digital Democracy. It just shows you that despite its lip service to privacy, Facebooks goal is to grab more of its users data.
+Those with a WhatsApp account but not a Facebook account wont be as affected by the change. They will see some differences, though; the terms of service update will allow WhatsApp to explore ways for you to communicate with businesses that matter to you too, according to a post announcing the changes. Notifications that you currently receive via SMS, like flight delays from airlines, could potentially find their way into WhatsApp.
+Another aspect of the privacy rollback likely to rankle users is that not only will the phone number and analytics sharing be activated by default, WhatsApp users will only have a month in which to opt out. For the next 30 days, weve even given you the option to opt out of having your WhatsApp information used for things like friend suggestions and other features on Facebook, Koum wrote in a Facebook post meant to soothe WhatsApp users. But Chester argues that what Koum frames as generous is in fact grossly inadequate.
+They are being totally disingenuous, Chester says. They know very few people ever opt out, theyre not explaining how that data is really being integrated into the commercial marketing system, and 30 days is an insufficient period.
+Facebook says the reason for the limited opt-out period is that once it starts offering friend suggestions and targeted ads based on phone-number linking, it cant later take back those suggestions. It views the 30 day window as a grace period for all accounts before the synergy kicks in. That makes sense for Facebook, but its hard to see how such a short time period benefits users.
+There are also broader concerns behind the information-sharing. WhatsApp is prized by those in need of secrecy, both for its previously hands-off approach to data and its mega-scale implementation of end-to-end encryption. Undermining the privacy of those who value it most could have serious consequences.
+In terms of political surveillance and concerns about intrusive governmental practices, thats a legitimate and real concern, Chester says. Companies like Google and Facebook are placing the lives of advocates who work in countries with totalitarian governments at risk. You want to minimize data collection, not maximize it. Facebook received over 46,000 requests from governments for account data in the second half of last year alone. The company says it only responds to valid requests relating to criminal cases. The analytics that WhatsApp will share also presents a concern.
+Sharing metadata with Facebook still exposes users to significant risks, says Claire Gartland, consumer protection counsel for the Electronic Privacy Information Center. Facebook will have data indicating who WhatsApp users communicate with and how frequently, and connecting WhatsApp users with their social media accounts and broader online activity, associations, political affiliations, and more.
+Chester also questions whether the move violates Facebooks 20-year consent decree, an settlement it reached with the Federal Trade Commission in 2011 after accusations that it had deceived its customers by surreptitiously changing privacy policies. Under that agreement, Facebook promised to obtain affirmative express consent before overriding existing privacy preferences, and to protect the privacy and confidentiality of its users information.
+Unfortunately, the FTC has a very poor track record of enforcing their consent orders, says Gartland. Both EPIC and CDD plan to file complaints with the FTC over Facebooks actions. The FTC did not immediately respond to an inquiry from WIRED.
+Your individual messages on WhatsApp are still safe; that end-to-end encryption isnt going anywhere. But this change introduces a more insidious kind of privacy erosion, of the very sort people flocked to WhatsApp to escape.
+This story has been updated with comments from Claire Gartland of EPIC.
+Inside the Cyberattack That Shocked the US Government
+Inside the Cyberattack That Shocked the US Government
+Teslas Self-Driving Car Plan Seems Insane, But It Just Might Work
+Teslas Self-Driving Car Plan Seems Insane, But It Just Might Work
+What We Know About Fridays Massive East Coast Internet Outage
+What We Know About Fridays Massive East Coast Internet Outage
+Elegant Physics (and Some Down and Dirty Linux Tricks) Threaten Android Phones
+Elegant Physics (and Some Down and Dirty Linux Tricks) Threaten Android Phones
+AT&T Is Buying Time Warner Because the Future is Google
+AT&T Is Buying Time Warner Because the Future is Google
+Cantina Talk: The Start of Star Wars: Episode VIII Revealed (Maybe)
+Cantina Talk: The Start of Star Wars: Episode VIII Revealed (Maybe)
+Go Inside Chinas Bizarre Theme Park in the Egyptian Desert
+Go Inside Chinas Bizarre Theme Park in the Egyptian Desert
+Elegant Physics (and Some Down and Dirty Linux Tricks) Threaten Android Phones
+Inside the Cyberattack That Shocked the US Government
+Hacker Lexicon: A Guide to Ransomware, the Scary Hack Thats on the Rise
+What We Know About Fridays Massive East Coast Internet Outage
+Anonymous Most Notorious Hacker Is Back, and Hes Gone Legit
+Its Time to Think About Flowers Like We Do About Produce
+Subscribe now to get 6 months for $5 - plus a FREE Portable Phone Charger.
+ Harlequin Shrimp are the Bonnie and Clyde of the sea bit.ly/2eo34Vm snpy.tv/2eycTRh
+ Harlequin Shrimp are the Bonnie and Clyde of the sea bit.ly/2eo34Vm snpy.tv/2eycTRh
+We get it: Ads arent what youre here for. But ads help us keep the lights on. So, add us to your ad blockers whitelist or pay $1 per week for an ad-free version of WIRED. Either way, you are supporting our journalism. Wed really appreciate it.
+Use of this site constitutes acceptance of our user agreement (effective 3/21/12) and privacy policy (effective 3/21/12). Affiliate link policy. Your California privacy rights. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond Nast.

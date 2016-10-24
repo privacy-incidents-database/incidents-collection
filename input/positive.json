@@ -1,10 +1,22 @@
 {
+  "da787957785a80ba819200cef83de98e99772d6e": {
+    "url": "https://www.theguardian.com/technology/2013/feb/16/facebook-hacked", 
+    "type": 0
+  }, 
   "f39e461a01dfc1029106954ed3c99182548aa271": {
     "url": "http://www.wired.com/2012/02/google-safari-browser-cookie/", 
     "type": 0
   }, 
   "ac578aabe6a13294d98d5862562956e4aa1c8ece": {
     "url": "http://www.latimes.com/business/la-fi-mugshots-lawsuit-20140121-story.html#axzz2sCXHQMCZ", 
+    "type": 0
+  }, 
+  "d5904e53ddf2e44eb7017051f0fb811a87c63d82": {
+    "url": "http://www.mediapost.com/publications/article/275835/jerkcom-duped-users-appeals-court-rules.html", 
+    "type": 0
+  }, 
+  "631ba416ffd0163ad68cadbaaa6d07248a17855e": {
+    "url": "http://www.pcworld.com/article/140182/article.html", 
     "type": 0
   }, 
   "5da7b978ffc8d030d99255be7815217cccc19bb1": {
@@ -19,8 +31,16 @@
     "url": "http://www.theverge.com/2012/2/14/2798008/ios-apps-and-the-address-book-what-you-need-to-know", 
     "type": 0
   }, 
+  "4a52f19e97a529aeee67619c2c6eef620acf072f": {
+    "url": "https://www.theguardian.com/world/2014/apr/08/edwards-snowden-us-government-spied-human-rights-workers", 
+    "type": 0
+  }, 
   "8478a2ea6b7029b26ea60d2b8f0ce75596dbd1f8": {
     "url": "http://www.wdrb.com/story/29650818/hillview-man-arrested-for-shooting-down-drone-cites-right-to-privacy", 
+    "type": 0
+  }, 
+  "bbdd6b6e1a11aa527de936cdc7df9480ff594ad7": {
+    "url": "http://www.forbes.com/sites/kashmirhill/2014/10/03/god-view-uber-allegedly-stalked-users-for-party-goers-viewing-pleasure/#3b50803a3f84", 
     "type": 0
   }, 
   "a1d00b46c95a40be5dbf592c3c1e74b95bade0f2": {
@@ -29,6 +49,10 @@
   }, 
   "d547d1aaf42c292076cb1c70be3b04f0eb842cc3": {
     "url": "http://www.wsj.com/news/articles/SB10001424052748704513104575256701215465596", 
+    "type": 0
+  }, 
+  "d9254654d594c2d192762404765ed17aa4a07d63": {
+    "url": "https://www.ftc.gov/news-events/press-releases/2013/12/android-flashlight-app-developer-settles-ftc-charges-it-deceived", 
     "type": 0
   }, 
   "c83e9bc3d96c68cbdb39f2ea39606b23bc882703": {
@@ -55,6 +79,10 @@
     "url": "http://www.nytimes.com/2010/04/09/world/europe/09spain.html", 
     "type": 0
   }, 
+  "f8f6318abf9eed9dbbf59b2f6a0d8fdaca58bd72": {
+    "url": "https://www.wired.com/2016/08/whatsapp-privacy-facebook/", 
+    "type": 0
+  }, 
   "3f2ff969874f5b6e506c2dbc6485e83d373bd9fa": {
     "url": "http://www.adweek.com/socialtimes/google-play-shares-private-customer-data-with-developers-in-australia-report/184110", 
     "type": 0
@@ -67,8 +95,8 @@
     "url": "https://www.eff.org/deeplinks/2012/10/privacy-ubuntu-1210-amazon-ads-and-data-leaks", 
     "type": 0
   }, 
-  "4d1e2322291dbbc332934528db4324575563aa3a": {
-    "url": "www.scmagazine.com/touchstone-medical-imaging-patient-data-accessible-online/article/375949/", 
+  "fdc23f5161e223035f2737281a78762d762f5898": {
+    "url": "http://www.zdnet.com/article/facebook-opens-data-hose-to-journalists-with-signal/", 
     "type": 0
   }, 
   "733532721a02500f427ce36cea7ff7c2eed713eb": {
@@ -79,8 +107,20 @@
     "url": "http://www.nytimes.com/2013/10/13/business/in-a-mood-call-center-agents-can-tell.html?_r=0", 
     "type": 0
   }, 
+  "38e3f153d5e7599e76c7cf4919d03900aa1e4656": {
+    "url": "http://www.nytimes.com/2009/03/29/technology/29spy.html?_r=0", 
+    "type": 0
+  }, 
   "3fe8bba40b9f71e8ccb21a6d005b6b0734bdacdc": {
     "url": "http://techcrunch.com/2013/12/12/twitter-says-new-policy-which-allows-blocked-users-to-follow-interact-with-tweets-is-to-prevent-retaliation/", 
+    "type": 0
+  }, 
+  "9c56ceeec22a794f5d5f4e80519a5405513327b4": {
+    "url": "http://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html", 
+    "type": 0
+  }, 
+  "be65e6422b7970e6181c34487512519819854d77": {
+    "url": "http://www.cnet.com/news/samsung-changes-smarttv-privacy-policy-in-wake-of-spying-fears/", 
     "type": 0
   }, 
   "4d517265a2c636a083fd450ddc6b4a3c98d725d6": {
@@ -91,12 +131,20 @@
     "url": "http://www.nytimes.com/2010/09/21/technology/21cookie.html", 
     "type": 0
   }, 
+  "8c5efdf0c9bf84944d7c150fa1f03ad95b67f437": {
+    "url": "http://money.cnn.com/2014/05/19/technology/sprint-do-not-call/", 
+    "type": 0
+  }, 
   "05113b982233627940bfde5f44a1d67a597b4431": {
     "url": "http://www.nytimes.com/2010/07/25/magazine/25privacy-t2.html", 
     "type": 0
   }, 
   "fd7cfcb0d8147ec962cf47044c606d8fa90b15f1": {
     "url": "https://en.wikipedia.org/wiki/Suicide_of_Tyler_Clementi", 
+    "type": 0
+  }, 
+  "aa44c6643d3e6e8f62d1f747bda92d5361297cf4": {
+    "url": "http://mobile.reuters.com/article/idUSKCN1241YT", 
     "type": 0
   }, 
   "b4a93094671ffe60560a5f5795f81bbd9b6277f7": {
@@ -111,32 +159,68 @@
     "url": "http://www.nytimes.com/2011/04/28/technology/28apple.html?_r=2", 
     "type": 0
   }, 
+  "9b17ee916b55118bd8750132fdd8c52c3e41cfe5": {
+    "url": "http://www.nytimes.com/2011/03/10/nyregion/10computers.html", 
+    "type": 0
+  }, 
   "b128c56f98a6c061a8c5670f54cf6bcc79c290bf": {
     "url": "http://www.itproportal.com/2015/09/04/uber-share-your-eta-feature-posts-passenger-details-publicly-online/", 
+    "type": 0
+  }, 
+  "bfa42c688c3c6b3f65c69ea41ada1d38dc1404c8": {
+    "url": "http://www.pbs.org/newshour/rundown/privacy-advocates-seek-protection-consumers-feds-healthcare-site/", 
     "type": 0
   }, 
   "70ac0a8b3f2c6221e718fd261a9ba4b554437e06": {
     "url": "http://techcrunch.com/2012/08/14/after-privacy-uproar-quora-backpedals-and-will-no-longer-show-data-on-what-other-users-have-viewed/", 
     "type": 0
   }, 
+  "8f1c0170c53b02fad2c20359a92bafcd7e9c67c8": {
+    "url": "http://www.nytimes.com/2003/09/20/business/20PRIV.html", 
+    "type": 0
+  }, 
   "34caaf169a14e9e63406b647bf4d611e967c4a17": {
     "url": "https://www.ftc.gov/news-events/press-releases/2002/01/eli-lilly-settles-ftc-charges-concerning-security-breach", 
+    "type": 0
+  }, 
+  "5a090cfe6fc0eb84226f8717bdf0f0cd2ef76cb9": {
+    "url": "http://money.cnn.com/2014/11/25/technology/uber-prostitutes/", 
     "type": 0
   }, 
   "dc9ccb465565d838e62342e67d173d2dc4628f7c": {
     "url": "http://www.people.com/article/facebook-reunion-third-grade-class-photo-crush", 
     "type": 0
   }, 
+  "831a51d02fc88f6db5e2db3cf33aeef5e3f62d92": {
+    "url": "http://mashable.com/2006/09/08/facebook-gets-egg-on-its-face-changes-news-feed-feature/#cvcxUxvjdaq4", 
+    "type": 0
+  }, 
   "8d0f87baca5b9aaf49ba5bb35174c7c233c090fb": {
     "url": "http://www.zhihu.com/question/37185593", 
+    "type": 0
+  }, 
+  "d528283c8703c832adf7c185af0f811bf659ac2e": {
+    "url": "http://www.forbes.com/sites/amitchowdhry/2014/12/29/facebook-year-in-review-apology/#3314147d3cb0", 
+    "type": 0
+  }, 
+  "022cc27cd84878a75ff4c818a6b522039b0d5e99": {
+    "url": "http://www.scmagazine.com/touchstone-medical-imaging-patient-data-accessible-online/article/375949/", 
     "type": 0
   }, 
   "ce36b27969467b6cb2934f25465c8f71258d3ede": {
     "url": "http://www.memorialhermann.org/news/memorial-hermann-notifies-patients-of-privacy-incident/", 
     "type": 0
   }, 
+  "5bf9dc5f052be78f5ce34afec9fc96c2bdefcfac": {
+    "url": "http://spectrum.ieee.org/tech-talk/computing/networks/philips-creates-store-shopping-assistant-with-leds-and-smart-phone", 
+    "type": 0
+  }, 
   "f26e66b0e3ce424749f6e9e594740b071471f2be": {
     "url": "http://www.theguardian.com/technology/2014/jan/07/google-hangouts-faces-criticism-after-outing-trans-woman", 
+    "type": 0
+  }, 
+  "a6dffb87a4290c497cd26b075b70859ae4d21631": {
+    "url": "https://www.ftc.gov/news-events/press-releases/2014/09/yelp-tinyco-settle-ftc-charges-their-apps-improperly-collected", 
     "type": 0
   }, 
   "9dea8e0264b5580986b2443f93455e8a6446df79": {
@@ -147,10 +231,6 @@
     "url": "http://www.zdnet.com/article/facebook-cookie-tracking-issue-is-limited-fix-coming-today/", 
     "type": 0
   }, 
-  "fdc23f5161e223035f2737281a78762d762f5898": {
-    "url": "http://www.zdnet.com/article/facebook-opens-data-hose-to-journalists-with-signal/", 
-    "type": 0
-  }, 
   "5c84db9ef864159f7e6913ca4a10884fbb835c38": {
     "url": "http://www.oaic.gov.au/news-and-events/media-releases/privacy-media-releases/privacy-breach-245-000-australian-online-dating-profiles-hacked", 
     "type": 0
@@ -159,8 +239,16 @@
     "url": "http://articles.latimes.com/1999/dec/05/news/mn-40632", 
     "type": 0
   }, 
+  "9dabe3ed60e097cb4a8694d00a56f308ea700e88": {
+    "url": "https://transition.fcc.gov/eb/News_Releases/DOC-330722A1.html", 
+    "type": 0
+  }, 
   "f444dbffe9c2f69bcba9f9fe81ee93def052777d": {
     "url": "http://www.cnet.com/news/amazon-drones-stir-up-privacy-concerns-among-lawmakers/", 
+    "type": 0
+  }, 
+  "1303144930814851f3dc0a13b584f218c63ca932": {
+    "url": "http://www.theguardian.com/technology/2015/aug/13/windows-10-sends-identifiable-data-microsoft-despite-privacy-settings", 
     "type": 0
   }, 
   "511ab20a44407a70a0f681b84bcb85da43425e70": {
@@ -203,6 +291,14 @@
     "url": "http://www.nytimes.com/2010/11/07/us/07breach.html", 
     "type": 0
   }, 
+  "8cd4b70934ead65be89c70e5fb5ca10f55d00cc6": {
+    "url": "http://gawker.com/5637234/gcreep-google-engineer-stalked-teens-spied-on-chats", 
+    "type": 0
+  }, 
+  "232791104e821e5db761d79df146182f7db95346": {
+    "url": "https://www.washingtonpost.com/news/worldviews/wp/2013/02/19/chinese-hackers-outed-themselves-by-logging-into-their-personal-facebook-accounts/", 
+    "type": 0
+  }, 
   "0f1e473dc67c382809ff5dfacb51529b1a1af8b8": {
     "url": "http://www.jdsupra.com/legalnews/carefirst-bluecross-blueshield-sued-for-94169/", 
     "type": 0
@@ -227,8 +323,16 @@
     "url": "http://www.theguardian.com/society/2015/sep/25/nhs-accredited-health-apps-putting-users-privacy-at-risk-study-finds", 
     "type": 0
   }, 
+  "cd648e0fd008aa3d0cd8001efcfa35d3ef8160fb": {
+    "url": "https://www.theguardian.com/technology/2015/jun/05/us-government-opm-hack-data-collection-powers", 
+    "type": 0
+  }, 
   "18e8ae8cc070537f22f9f9d8c582cfd9c0b9f725": {
     "url": "http://www.wsj.com/news/articles/SB10001424052748703904304575497903523187146", 
+    "type": 0
+  }, 
+  "c098089fa4a3a4b2a3ec4aa158263a4e8aa28a5e": {
+    "url": "http://www.nytimes.com/2010/04/22/us/22dna.html?pagewanted=all", 
     "type": 0
   }, 
   "1c86981c78523d9c3124535ed5349e74a9acff3d": {
@@ -237,6 +341,14 @@
   }, 
   "c9cdd3540fd4b3424c35e493ae15d1ab1f174eda": {
     "url": "https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach", 
+    "type": 0
+  }, 
+  "acc3d1363c27fed8a78a6f9fc24fc6f4602d2e2e": {
+    "url": "http://www.theguardian.com/technology/2015/oct/20/apple-pulls-250-privacy-infringing-apps-from-store", 
+    "type": 0
+  }, 
+  "f448a1f0f8bcf8c7d73e0c06e02ac65b6fec3cc8": {
+    "url": "http://www.theguardian.com/australia-news/2016/jan/03/jamie-briggs-slammed-for-violating-privacy-by-sending-out-staffers-photo", 
     "type": 0
   }, 
   "6dd36385b8084a7ad47b540d61716c1e03ba1e32": {
@@ -263,12 +375,20 @@
     "url": "http://www.nytimes.com/2010/05/06/technology/internet/06facebook.html", 
     "type": 0
   }, 
+  "7387053c0804898c529ebaefd5f5fb977bc4eac1": {
+    "url": "http://www.newyorker.com/news/amy-davidson/the-n-s-a-s-spying-on-muslim-americans", 
+    "type": 0
+  }, 
   "d88a5ff8122c6fa7657fa5bf6f50341941e6313e": {
     "url": "http://www.nytimes.com/2011/11/13/business/face-recognition-moves-from-sci-fi-to-social-media.html", 
     "type": 0
   }, 
   "1e0aae51e3bccfd0a45745d6e5244d0216425dac": {
     "url": "http://www.nbcnews.com/business/consumer/most-presidential-campaign-websites-fail-privacy-test-survey-finds-n435081", 
+    "type": 0
+  }, 
+  "e3711fbe687ca3563138f425e1a4a1aa31ffbd75": {
+    "url": "https://www.theguardian.com/technology/2015/jul/15/confidential-personal-data-release-accident-councils-nhs-police-government", 
     "type": 0
   }, 
   "978638a9a3ab9bee363fc063906f72dff69908bd": {
@@ -283,12 +403,20 @@
     "url": "http://www.wisbar.org/NewsPublications/Pages/General-Article.aspx?ArticleID=24335", 
     "type": 0
   }, 
+  "5e137b04ca75a0fc0a988d54578a5e9f5f589bf5": {
+    "url": "https://www.theguardian.com/technology/2014/aug/07/facebook-profile-colour-scam", 
+    "type": 0
+  }, 
   "be45316ff142156112faf64bbf188d78bc01ca9b": {
     "url": "http://www.nydailynews.com/news/national/message-mix-up-google-users-experiencing-chat-related-glitch-article-1.1468155", 
     "type": 0
   }, 
   "aa04f23049adf39054f66fba6692e0692600f8b7": {
     "url": "https://en.wikipedia.org/wiki/Suicide_of_Audrie_Pott", 
+    "type": 0
+  }, 
+  "bfa6dd9210c43e4f2d9f0a1b466a5c265574df6c": {
+    "url": "https://www.ftc.gov/news-events/press-releases/2011/06/consumer-reporting-agency-pay-18-million-fair-credit-reporting", 
     "type": 0
   }, 
   "dc6a2d5a0a53728bdf42907b1f45878518228106": {
@@ -307,6 +435,10 @@
     "url": "http://www.ecns.cn/cns-wire/2015/10-30/186502.shtml", 
     "type": 0
   }, 
+  "b7791ee81e6662c064e16ebbcdbdd73eb031d9a5": {
+    "url": "http://www.washingtontimes.com/news/2014/jul/31/cia-admits-improperly-hacking-senate-computers-sea/", 
+    "type": 0
+  }, 
   "85759d204c71264688ca19a99f17b30abcf817cf": {
     "url": "https://www.fcc.gov/document/att-pay-25m-settle-investigation-three-data-breaches-0", 
     "type": 0
@@ -315,8 +447,16 @@
     "url": "http://www.centralmaine.com/2015/09/02/facebook-site-that-posted-nude-underage-girls-has-been-taken-down/", 
     "type": 0
   }, 
+  "8bc3a8a0d62282ad531fb4e4a405abd19fe21703": {
+    "url": "http://www.nytimes.com/2016/09/24/technology/yahoo-hack-verizon.html?_r=0", 
+    "type": 0
+  }, 
   "49a6c66fcc44cad5842dd37301a9a26340cf9591": {
     "url": "http://www.scmagazine.com/four-mclean-hospital-backup-data-tapes-go-missing-thousands-affected/article/429420/ \n", 
+    "type": 0
+  }, 
+  "77b65959cf3fb00dd79da9bb49edc5adfa8568cc": {
+    "url": "http://techscience.org/a/2015092903/", 
     "type": 0
   }, 
   "dbf74b835a5b30d0786c7ed00b609c2e388fe8e6": {
@@ -327,6 +467,10 @@
     "url": "http://www.dailyfinance.com/2011/05/13/disney-owned-company-fined-3-million-for-childrens-privacy-vio/", 
     "type": 0
   }, 
+  "486fd3e1ae665504f89b36a28126a0cbb354b74d": {
+    "url": "http://www.thecrimson.com/article/2014/11/5/bol-photograph-courses-hilt/", 
+    "type": 0
+  }, 
   "5faba08c44ad9033865a8e7e464c26b1ef624e2c": {
     "url": "http://www.slate.com/blogs/xx_factor/2012/07/23/savannah_dietrich_outs_her_rapists_on_twitter_and_facebook.html", 
     "type": 0
@@ -335,12 +479,28 @@
     "url": "http://www.nytimes.com/2013/03/12/education/harvard-search-e-mail-accounts.html", 
     "type": 0
   }, 
+  "e4d950ec9d511f3c2a5504c6e9b7c84dfac99745": {
+    "url": "http://arstechnica.com/tech-policy/2016/04/google-and-oracle-both-swear-they-wont-google-jurors-in-upcoming-trial/", 
+    "type": 0
+  }, 
   "d4e6127489e64dccc958a655342aa65e9853502c": {
     "url": "http://www.cbc.ca/news/canada/new-brunswick/vitalit%C3%A9-health-refers-doctor-privacy-breach-to-rcmp-1.2775290", 
     "type": 0
   }, 
+  "3bc2d1afcb709d6463caf6c1ba72381839aed364": {
+    "url": "http://fusion.net/story/339018/facebook-psychiatrist-privacy-problems/", 
+    "type": 0
+  }, 
+  "31213c8e618b7c00fb46b66f6b01a32a99e44de4": {
+    "url": "https://www.washingtonpost.com/news/the-switch/wp/2014/10/24/with-a-10-million-fine-the-fcc-is-leaping-into-data-security-for-the-first-time/,2014-10-01", 
+    "type": 0
+  }, 
   "362be276edec5c254a040be70a39d3538d49458a": {
     "url": "http://www.nytimes.com/2011/06/13/us/13fbi.html", 
+    "type": 0
+  }, 
+  "c6f5e413b46407bcf36efeb3ff039b55a60bd8ab": {
+    "url": "http://www.wired.com/2013/01/your-genome-could-reveal-your-identity/", 
     "type": 0
   }, 
   "7a550fd3273ff0b256cbe61d48ee1d03d9e0322a": {
@@ -349,6 +509,10 @@
   }, 
   "203be5cf45af516c62b40a7e81e3096e4922bd36": {
     "url": "http://query.nytimes.com/gst/fullpage.html?res=9B01E6DF133BF932A25755C0A9669D8B63", 
+    "type": 0
+  }, 
+  "f8b1040487c94011ea4d1b8262a49c445ecf1336": {
+    "url": "http://myfox8.com/2012/02/09/five-alamance-co-teens-arrested-in-cyberbullying-cases/", 
     "type": 0
   }, 
   "f3b8060d9486c25846dc6227e57130013dac6a4a": {
@@ -375,6 +539,14 @@
     "url": "https://nakedsecurity.sophos.com/2010/12/17/facebook-friendships-get-creepier/", 
     "type": 0
   }, 
+  "5edc953ebc31a4169af2baf7effb904a0d3232c5": {
+    "url": "http://gizmodo.com/5901430/these-breasts-nailed-anonymous-hacker-in-fbi-case", 
+    "type": 0
+  }, 
+  "723ef1e123894d1f561fe5871f92e648f2066775": {
+    "url": "https://www.theguardian.com/uk-news/2015/jun/22/gchq-surveillance-two-human-rights-groups-illegal-tribunal", 
+    "type": 0
+  }, 
   "38595efa2455201609b7d80b1f676af75d081061": {
     "url": "http://www.nytimes.com/2011/10/21/education/21privacy.html", 
     "type": 0
@@ -391,12 +563,24 @@
     "url": "http://mashable.com/2011/07/25/google-plus-common-names/", 
     "type": 0
   }, 
+  "cdd0ddc93030b8ce24683254a49b0f5dd0e7ad91": {
+    "url": "http://www.nytimes.com/2011/02/15/us/politics/15terror.html?_r=0", 
+    "type": 0
+  }, 
   "26270ea048d79fb121ce87eec2775355e11e567c": {
     "url": "http://www.nbcnews.com/technology/shock-dark-flashlight-app-tracks-your-location-1B7991120", 
     "type": 0
   }, 
   "1cf18a3064756bf2ed54d4a294586f04f6329971": {
     "url": "http://www.computerworld.com.au/article/578433/privacy-commissioner-investigating-iinet-data-breach/", 
+    "type": 0
+  }, 
+  "86d43a8bdd8d870aca56204bd1353e25aa591581": {
+    "url": "https://www.theguardian.com/world/2014/mar/23/silicon-valley-whisper-secret-gossip-ambition-rivalry", 
+    "type": 0
+  }, 
+  "a1b0950310783d2c9be53240879049088f6319af": {
+    "url": "http://www.nytimes.com/2006/08/09/technology/09aol.html?_r=0", 
     "type": 0
   }, 
   "e1b84103f8f43d004b764d0c0e8fe2dcb3853311": {
@@ -431,12 +615,24 @@
     "url": "http://www.computing.co.uk/ctg/news/2424278/ico-investigating-health-clinic-for-disclosing-details-of-780-hiv-patients-in-mass-email", 
     "type": 0
   }, 
+  "f2888f878832ee3f9df1d770a282059ee2dc156a": {
+    "url": "https://www.justsecurity.org/13031/data-retention-investigatory-powers-act-2014-sticking-plaster-solution/", 
+    "type": 0
+  }, 
   "6f975a26f82931923e7c383b59c1f948af43e0e2": {
     "url": "http://www.seattletimes.com/business/microsoft-overhauls-policy-after-it-read-bloggerrsquos-email/", 
     "type": 0
   }, 
+  "4287b9891180287fd2284b347ef2b7cb110c660f": {
+    "url": "https://news.stanford.edu/2016/05/16/stanford-computer-scientists-show-telephone-metadata-can-reveal-surprisingly-sensitive-personal-information/", 
+    "type": 0
+  }, 
   "e8c35ee12440ab0ab4b90b7e9ae2af5c1dab46a7": {
     "url": "http://www.nytimes.com/2010/05/27/technology/27data.html", 
+    "type": 0
+  }, 
+  "0b8e7827ab933197ac8117f033f8d19d8aa17c1f": {
+    "url": "http://krebsonsecurity.com/2015/05/mspy-denies-breach-even-as-customers-confirm-it/", 
     "type": 0
   }, 
   "6456b684d6cd77b4bdfe3382327d312bda19aaf0": {
@@ -459,12 +655,32 @@
     "url": "http://www.csoonline.com/article/2130877/data-protection/data-protection-the-15-worst-data-security-breaches-of-the-21st-century.html", 
     "type": 0
   }, 
+  "c0de22d3d940cacc5d3eaebc002d9ac4b4ac743c": {
+    "url": "http://www.cnet.com/news/googles-web-mail-no-joke/", 
+    "type": 0
+  }, 
+  "d26476d46a3f29de12cae755966702f471f919d1": {
+    "url": "https://www.grahamcluley.com/2016/07/privacy-warning-pokemon-app/", 
+    "type": 0
+  }, 
+  "5a0df4a154b123bc0be7432861f898847dac73d7": {
+    "url": "http://cpsr.org/prevsite/conferences/cfp91/culnan.html/", 
+    "type": 0
+  }, 
+  "0eac7b7186a27328c1850177ced7e791c559283b": {
+    "url": "http://www.theguardian.com/technology/2015/sep/18/facebooks-opt-out-tracking-ads-not-enough-privacy-expert", 
+    "type": 0
+  }, 
   "07efce07fa4c44a6b4f2829d780770ed96f7a493": {
     "url": "http://www.rawstory.com/2015/09/no-patient-privacy-texas-health-workers-turn-in-undocumented-woman-during-gynecology-appointment/", 
     "type": 0
   }, 
   "51343d5ed7c34af87c24743e7b7051b064c3b2a8": {
     "url": "http://www.computerworld.com.au/article/528254/hackers_steal_information_2_9_million_adobe_customers/", 
+    "type": 0
+  }, 
+  "de3f22fbf3aa467c3b9ba0f75353f962ec33fa88": {
+    "url": "https://www.theguardian.com/world/2014/sep/08/human-rights-commission-warning-on-counter-terrorism-proposals", 
     "type": 0
   }, 
   "5a841c30ee0a23c16aedac4c388db3a1c3cfcf99": {
@@ -477,6 +693,10 @@
   }, 
   "d36d55fdbf6f1a2f92d12e930948b8327bfe5bf5": {
     "url": "http://www.nytimes.com/2011/11/11/technology/twitter-ordered-to-yield-data-in-wikileaks-case.html", 
+    "type": 0
+  }, 
+  "4eefe7d4294a1633e6fbc88ab5c96e9331706faf": {
+    "url": "https://www.theguardian.com/technology/2014/dec/03/privacy-advocates-unmask-twitter-troll", 
     "type": 0
   }, 
   "5560a6a5cef9791811f5ac357344740dd747ecf1": {
@@ -511,6 +731,10 @@
     "url": "http://www.huffingtonpost.com/2010/06/08/google-privacy-slammed-ov_n_604084.html", 
     "type": 0
   }, 
+  "cf62422aebae0ba2df4caffd5ae780f9e213c1c5": {
+    "url": "http://www.androidauthority.com/runkeeper-user-location-tracking-data-advertisers-692346/", 
+    "type": 0
+  }, 
   "b243ffd53035c9467069abcc17c6736e10331547": {
     "url": "http://www.dailymail.co.uk/debate/article-2418040/A-sordid-orgy-Max-Mosley-allowed-erase-history.html", 
     "type": 0
@@ -529,6 +753,10 @@
   }, 
   "e17a4cf739e4c54044ca38503390d6ffe19b1f74": {
     "url": "http://www.nytimes.com/2010/08/23/health/policy/23privacy.html", 
+    "type": 0
+  }, 
+  "3adfe7ca287d4e115e2a6630a84e745f5e9f3bbb": {
+    "url": "https://www.ftc.gov/news-events/press-releases/2012/10/ftc-settlements-require-equifax-forfeit-money-made-allegedly", 
     "type": 0
   }, 
   "2353a480c328be476d3f07e3d2e44430af2c4d79": {
@@ -571,6 +799,10 @@
     "url": "http://arstechnica.com/security/2013/05/think-your-skype-messages-get-end-to-end-encryption-think-again/", 
     "type": 0
   }, 
+  "a9c6e75f5d2eda2a6e5cf5c677c13af0126eb3c4": {
+    "url": "http://mashable.com/2014/01/21/kiev-protesters-text-message/#KPKsRsP0sSqM", 
+    "type": 0
+  }, 
   "dc5e15324f336bdc427ffbaddec3a9fb4f667655": {
     "url": "http://www.nytimes.com/2013/05/11/business/media/privacy-breach-on-bloombergs-data-terminals.html?_r=0", 
     "type": 0
@@ -595,8 +827,16 @@
     "url": "http://www.nytimes.com/2010/01/21/us/21fbi.html", 
     "type": 0
   }, 
+  "ff8b3abc98177f9870dc802b325018dee7dfb9eb": {
+    "url": "http://gizmodo.com/there-are-some-super-shady-things-in-oculus-rifts-terms-1768678169", 
+    "type": 0
+  }, 
   "7a6a76bd1c36f98126969f079a8a4378d53eafbb": {
     "url": "https://www.washingtonpost.com/news/the-switch/wp/2015/03/11/privacy-advocates-try-to-keep-creepy-eavesdropping-hello-barbie-from-hitting-shelves/", 
+    "type": 0
+  }, 
+  "ab3ba8b7fe258d76c914675158a7e5ab91434e6b": {
+    "url": "https://www.theguardian.com/football/2013/apr/08/ken-bates-fa-disrepute-charge-leeds", 
     "type": 0
   }, 
   "de7124186299d602459c46e8c742beb1499d17dd": {
@@ -639,6 +879,10 @@
     "url": "http://www.dallasnews.com/business/retail/20140123-neiman-marcus-breach-affected-up-to-1.1-million-cards.ece", 
     "type": 0
   }, 
+  "b17385c5547b0c79d32021f07013015a8b6cdbef": {
+    "url": "http://www.nytimes.com/2016/04/05/world/panama-papers-explainer.html?_r=0", 
+    "type": 0
+  }, 
   "b58fbc4c7d10a384c9ae23e52ae66cea5df3398f": {
     "url": "http://www.usnews.com/opinion/articles/2012/12/28/is-facebooks-privacy-policy-too-confusing", 
     "type": 0
@@ -653,6 +897,10 @@
   }, 
   "1a8edfe9edeb2ceb0473a78f9f727b012ddf746c": {
     "url": "http://techcrunch.com/2011/03/18/opt-out-cookie-error-earns-chitika-a-whopping-55-cents-and-an-ftc-inquiry/", 
+    "type": 0
+  }, 
+  "1ccbc88ebbf9a0c9bdb4d67cff24873843d12f62": {
+    "url": "http://venturebeat.com/2014/12/03/ftc-issues-slap-on-the-wrist-for-atlanta-medical-billing-company-that-misled-patients/", 
     "type": 0
   }, 
   "01a6205051ecfaf64616209cc3118d54fdc043aa": {
@@ -671,8 +919,16 @@
     "url": "http://www.abajournal.com/magazine/article/victims_are_taking_on_revenge_porn_websites_for_posting_photos_they_didnt_c/", 
     "type": 0
   }, 
+  "0004a5a3fe2e166a6da35205f5ef8b4bdad047c9": {
+    "url": "http://www.dailydot.com/crime/tor-harvard-bomb-suspect/", 
+    "type": 0
+  }, 
   "7bb0f3962602f25cc512fde3144d3dfba8ffd184": {
     "url": "http://www.nytimes.com/2015/11/15/technology/the-war-on-campus-sexual-assault-goes-digital.html?_r=0", 
+    "type": 0
+  }, 
+  "4a90672f41f90c1a425b859492c0613f0939c7ed": {
+    "url": "http://www.businessinsider.com/how-fbi-caught-paula-broadwell-2012-11", 
     "type": 0
   }, 
   "033c33235725cd1faf962896028437bf8a751390": {
@@ -683,8 +939,16 @@
     "url": "http://www.nytimes.com/2010/11/24/business/24drug.html", 
     "type": 0
   }, 
+  "b968efb9eada06e4555f95a5a948068944f03b8e": {
+    "url": "https://www.washingtonpost.com/news/morning-mix/wp/2014/10/07/dea-created-a-fake-facebook-profile-in-this-womans-name-using-seized-pics-then-impersonated-her/", 
+    "type": 0
+  }, 
   "3379db146a6e061f5a5b73719b1879005e7d7812": {
     "url": "http://www.nytimes.com/2012/10/28/us/politics/tracking-clicks-online-to-try-to-sway-voters.html?_r=0", 
+    "type": 0
+  }, 
+  "766a424ec6ee778140b149fd239806e171c6e227": {
+    "url": "http://www.nydailynews.com/life-style/gaydar-project-mit-attempts-predict-sexuality-based-facebook-profiles-article-1.404453", 
     "type": 0
   }, 
   "8a61808bac37ef4e61e9bfcef301c6e5548c8c1d": {
@@ -699,12 +963,32 @@
     "url": "http://www.theguardian.com/technology/gamesblog/2011/apr/27/playstation-network-hack-sony", 
     "type": 0
   }, 
+  "fd851f6cf8f53b759f61a569337e74bf47fa6182": {
+    "url": "https://www.theguardian.com/commentisfree/2015/jun/14/pictures-problems-image-conscious-public", 
+    "type": 0
+  }, 
+  "05cf10b4a5a97c92dff4b41c9755fe2c34647497": {
+    "url": "http://healthaffairs.org/blog/2012/08/10/the-debate-over-re-identification-of-health-information-what-do-we-risk/", 
+    "type": 0
+  }, 
   "6d09b56d5d8fdc0c4fb11d1ff29c2a61fd8d3aeb": {
     "url": "http://www.theguardian.com/money/2013/sep/30/insurance-query-higher-premiums", 
     "type": 0
   }, 
+  "65a3e5652ec2461ddc182afedfebe77dda4a5a24": {
+    "url": "https://www.ftc.gov/news-events/press-releases/2015/04/retail-tracking-firm-settles-ftc-charges-it-misled-consumers", 
+    "type": 0
+  }, 
+  "58530069e1d693a5fa19ed407624e4bda7e08f8d": {
+    "url": "http://time.com/3264479/verizon-fcc-privacy/", 
+    "type": 0
+  }, 
   "76ba43ad5a9ee196ae9c0766ad91db6bfd72148b": {
     "url": "http://techcrunch.com/2015/09/03/privacy-concerns-raised-over-kids-apps-and-websites/#.m2iuat:HJQk", 
+    "type": 0
+  }, 
+  "aee1da00300c68fb2ed67029793377b7babb63e0": {
+    "url": "http://mobile.nytimes.com/2016/06/15/us/politics/russian-hackers-dnc-trump.html?_r=1&referer=http://www.vanityfair.com/news/2016/08/how-the-clinton-campaign-is-foiling-the-kremlin", 
     "type": 0
   }, 
   "f47f1f3f46d0d4c915602057bb347094270dfd40": {
@@ -727,8 +1011,24 @@
     "url": "http://www.nytimes.com/2010/01/16/us/politics/16scotus.html", 
     "type": 0
   }, 
+  "735f746ec1da530f8b54c08216a495f0d4c8c093": {
+    "url": "https://www.propublica.org/article/meet-the-online-tracking-device-that-is-virtually-impossible-to-block", 
+    "type": 0
+  }, 
   "bfa4a6fd28b238311e3f7f5bf3645e13a12606d9": {
     "url": "https://www.ftc.gov/news-events/press-releases/2014/05/snapchat-settles-ftc-charges-promises-disappearing-messages-were", 
+    "type": 0
+  }, 
+  "5f1512fb6ed11e35fc9e9efc123242d16e06f096": {
+    "url": "https://www.theguardian.com/technology/appsblog/2013/jul/08/jay-z-android-app-privacy", 
+    "type": 0
+  }, 
+  "ba5751a80f0497e0149907b5340a0dabe3077021": {
+    "url": "http://www.nytimes.com/2016/02/29/business/media/see-that-billboard-it-may-see-you-too.html", 
+    "type": 0
+  }, 
+  "251927c60cb3de6dd2b3b6595579d5f6a50d43d8": {
+    "url": " http://www.wral.com/apex-woman-charged-under-new-revenge-porn-law/15619397/?comment_order=forward", 
     "type": 0
   }, 
   "343f5d56efb2cde06fdcae5a70f3d42b92ae360d": {
@@ -739,8 +1039,16 @@
     "url": "http://wwlp.com/2015/04/30/partners-phishing-attack-created-privacy-issue-for-3300-patients/", 
     "type": 0
   }, 
+  "11df8487946ddd36ff75481f43e4b91b93d2c35f": {
+    "url": "https://www.theguardian.com/law/2016/may/19/supreme-court-upholds-celebrity-threesome-injunction", 
+    "type": 0
+  }, 
   "360a1fbfeae9ad57451445a7db66287a29cbec0b": {
     "url": "https://www.ftc.gov/news-events/press-releases/2000/07/ftc-sues-failed-website-toysmartcom-deceptively-offering-sale", 
+    "type": 0
+  }, 
+  "a13260369c1905219755e8cfa3d2f81e811fc501": {
+    "url": "http://www.nytimes.com/2016/05/24/us/armed-with-data-chicago-police-try-to-predict-who-may-shoot-or-be-shot.html?_r=0", 
     "type": 0
   }, 
   "2c64a49cb69ed5ca43d66aab8ff6d5fa0d154bf6": {
@@ -757,6 +1065,14 @@
   }, 
   "98e366b668076bbb6ce2af00b97c3cb37f13a099": {
     "url": "http://chronicle.com/article/Harvards-Privacy-Meltdown/128166/", 
+    "type": 0
+  }, 
+  "ce17389480352a2de21ed5bf4ac3b163256c84ad": {
+    "url": "https://www.theguardian.com/technology/2015/jul/28/amazon-autonomous-drones-only-airspace-package-delivery", 
+    "type": 0
+  }, 
+  "2bde89e6fd7a7b736d826e1f27a4d415f8233b0e": {
+    "url": "http://www.theguardian.com/technology/2016/jan/14/stolen-the-app-which-lets-you-trade-people-is-a-privacy-minefield", 
     "type": 0
   }, 
   "96e824e0d76d8a1b213b23ac68409c110ee7b547": {

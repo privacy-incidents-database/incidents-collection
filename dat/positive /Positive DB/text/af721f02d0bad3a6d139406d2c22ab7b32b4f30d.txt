@@ -1,0 +1,55 @@
+White Hat Uses Foursquare Privacy Hole to Capture 875K Check-Ins | WIRED
+White Hat Uses Foursquare Privacy Hole to Capture 875K Check-Ins
+Subscribe now to get 6 months for $5 - plus a FREE Portable Phone Charger.
+FYI, a new 'Game of Thrones' trailer dropped this morning: bit.ly/1oRsdcr
+White Hat Uses Foursquare Privacy Hole to Capture 875K Check-Ins
+If you have checked in with Foursquare in San Francisco in the last three weeks, Jesper Andersen probably knows where and when  even if youve set your check-ins to be published to friends only.
+Andersen, a coder who recently built a service called Avoidr that helps you avoid social network friends you dont really like, figured out that Foursquare had a privacy leak because of how it published user check-ins on web pages for each location.
+On pages like the one for San Franciscos Ferry Building, Foursquare shows a random grid of 50 pictures of users who most-recently checked in at that location  no matter what their privacy settings. When a new check-in occurs, the site includes that persons photo somewhere in the grid. So Andersen built a custom scraper that loaded the Foursquare web page for each location in San Francisco, looked for the differences and logged the changes.
+Even though he was using an old computer running through the slow but anonymous Tor network, Andersen estimates he logged about 70 percent of all check-ins in San Francisco over the last three weeks.
+Foursquare is one of the most popular of a growing number of services that let people quickly report to friends, family or the entire world where they are  and is part of a growing trend of making public more information that used to be private. Foursquares popularity is tied to its game-like ecosystem, where users can win badges for certain actions or become the mayor of locations by checking in there more than any other users.
+Andersen reported the privacy breach to Foursquare two Sundays ago  and the company admitted the bug existed. They asked for a week or so to fix the bug, and now, according to an e-mail sent to Alexander, the company is modifying its privacy settings to let users opt out of being listed on locations web pages. The site previously allowed users to opt out of being listed in the Whos here now function, but until Tuesday that button didnt apply to listing Whos checked in there.
+Im trying to be white-hat, Andersen said. It definitely felt icky at times.
+Andersen confirmed the validity of his scripts findings by checking the results with people he knew. And even though his groups of friends live in a data mining culture, the findings didnt sit well with all of them.
+Some were grossed out by it, and a couple of people stopped using Foursquare, Andersen said.
+Foursquare declined to respond to two e-mail requests for comment, but in an e-mail to Andersen, Foursquare programmer Jon Hoffman thanked Alexander for bringing the issue to the companys attention.
+The privacy leak on the venue page was something that was overlooked when we added privacy-protection features to the whos here now section of the venue page on the mobile clients (the data thats exposed via the API), Hoffman wrote Tuesday morning. There already is a privacy toggle on the /settings page to control privacy for that feature, but it did not extend to the whos been here section of the venue page on the website.
+Weve recently locked down the whos been here section so that it respects the Whos here privacy toggle.
+While Jesper praised the company for its speed in handling the privacy leak report, hes less enthusiastic about the solution.
+Its not clear that users will really understand that, Jesper said, referring to the new check box. I certainly havent seen a drop-off in check-in collections.
+By default, Foursquare users are included in both the lists of who is currently at a location and who has visited it, and the company did not tell its users Tuesday of the privacy leak or the changes.
+Jesper acknowledges that breach isnt particularly useful for spying on any one person, but thinks the data is useful in aggregate and that the company wasnt abiding by the privacy promises it had made.
+That sentiment is echoed by Philip Flip Kromer, who is the president of InfoChimps  a start-up that is making a market for people to buy and sell large datasets. For instance, the company has mined billions of Tweets to create a dataset that presents a word cloud for each Twitter account, letting people see how often a given Twitter user uses each word, or lets companies find out who has been talking about them and what else they tend to talk about.
+If you had access to the core Foursquare corpus, including everyone who has checked in, you would have a similarity network that you could use to build a Yelp-like service  that would be a Yelp that could tell vegetarians not to go to the best-rated restaurant in town because it is a steakhouse, Kromer said.
+In fact, according to Kromer, data sets like the one Andersen scraped are so full of meaning that you can simply use existing algorithms, like the one Google uses to rank web pages or Amazon uses to make product recommendations, and expose deep patterns.
+But the breach should be viewed with perspective and an eye towards learning from the mistake, according to Kromer.
+Its a screw-up and the fix should now be adopted as best practice for all sites, Kromer said.
+This will be one of many, but people should articulate a concrete threat scenario before getting angry.
+For those more interested in stalking than amassing a giant dataset, Alexander also found that Foursquares practice of awarding badges to users for certain check-ins can also be monitored in near real-time by constantly reloading a particular users page. That could let a determined, tech-savvy stalker to find out exactly where someone is at a given time.
+Foursquare admitted to Jesper it knows about this bug, describing it as a known issue, but has yet to come up with a fix.
+Well continue to evaluate privacy concerns as we develop the product, Hoffman wrote. We want to carefully balance user engagement with privacy.
+UPDATE: On Wednesday at 5:40 PM Pacific time, nine days after being notified of the privacy breach, Foursquare published a notice to users about the leak.
+Inside Foursquare: Checking In Before the Party Started (Part I)
+Inside Foursquare: Checking In Before the Party Started (Part II)
+Foursquare On The Verge of a VC Cash Infusion: WSJ.com
+Yelp Takes On Foursquare in Latest iPhone App Upgrade
+Titanfall 2 Trailer Features a Jungle and a Big-Ass Sword
+Titanfall 2 Trailer Features a Jungle and a Big-Ass Sword
+Jon Snow Is Still Dead in New Game of Thrones Trailer
+Jon Snow Is Still Dead in New Game of Thrones Trailer
+Absurd Creatures: The Botfly Wants a Hug. Just Kidding, It Wants to Mess You Up
+Absurd Creatures: The Botfly Wants a Hug. Just Kidding, It Wants to Mess You Up
+Cap Kicks Butt with Scarlet Witch and Falcon in New Civil War Clip
+Cap Kicks Butt with Scarlet Witch and Falcon in New Civil War Clip
+This New Suicide Squad Trailer Isnt Joker-ing Around
+This New Suicide Squad Trailer Isnt Joker-ing Around
+How to Prove You're Bitcoin Creator Satoshi Nakamoto
+Security This Week: The Panama Papers Law Firm Had Seriously Shoddy Security
+Hacker Lexicon: A Guide to Ransomware, the Scary Hack That's on the Rise
+The Senates Draft Encryption Bill Is Ludicrous, Dangerous, Technically Illiterate'
+Facebook's Plan to Stop People From Livestreaming Sex? You.
+Subscribe now to get 6 months for $5 - plus a FREE Portable Phone Charger.
+FYI, a new 'Game of Thrones' trailer dropped this morning: bit.ly/1oRsdcr
+FYI, a new 'Game of Thrones' trailer dropped this morning: bit.ly/1oRsdcr
+We get it: Ads arent what youre here for. But ads help us keep the lights on. So, add us to your ad blockers whitelist or pay $1 per week for an ad-free version of WIRED. Either way, you are supporting our journalism. Wed really appreciate it.
+Use of this site constitutes acceptance of our user agreement (effective 3/21/12) and privacy policy (effective 3/21/12). Affiliate link policy. Your California privacy rights. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond Nast.

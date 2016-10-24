@@ -1,0 +1,24 @@
+HomeAbout Education LabContactLike some free financial planning?Mobile AppsNewslettersNewsroom staffProfilePulitzersQuestions?Readers Lens terms and conditionsRSS FeedsSearchShoppingSubmit photosSubscribeSubscribeSunday Home DeliverySurvey ConfirmationThank You
+HomeAbout Education LabContactLike some free financial planning?Mobile AppsNewslettersNewsroom staffProfilePulitzersQuestions?Readers Lens terms and conditionsRSS FeedsSearchShoppingSubmit photosSubscribeSubscribeSunday Home DeliverySurvey ConfirmationThank You
+Microsoft took a lot of criticism last week after it was revealed that the company looked at the email content of a customer in the course of tracking down someone suspected of stealing trade secrets from the company.
+The company said then that its own terms of service allow it to carry out such an examination under exceptional circumstances.
+Now Microsoft is changing its policy, saying that, in such circumstances, it will call in law enforcement to inspect a customers content, rather than doing so itself.
+Brad Smith, Microsofts general counsel, wrote in a blog post Friday: Effective immediately, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property from Microsoft, we will not inspect a customers private content ourselves. Instead, we will refer the matter to law enforcement if further action is required.
+Most Read StoriesBody parts found in Seattle home recycling binHands, heads and robots work in sync at Amazon warehousesSeattle worried about clashing KeyArena reports, then delayed oneWhen it comes to loyalty, Mariners fans sorely lackingDenver's trade of Ryan Clady takes one more potential left tackle option away from SeahawksThis week, save 90% on digital access.The change will also be incorporated into Microsofts terms of service in the coming months, Smith wrote.
+The policy change stems from a case in which former Microsoft employee Alex Kibkalo was accused of stealing trade secrets.
+Kibkalo, a former Microsoft software architect who worked for the company in Lebanon, was arrested March 19
+in Bellevue. He is charged with stealing trade secrets related to pre-release software updates for Windows 8 and Microsofts Activation Server Software Development Kit, and giving that information to an unidentified tech blogger in France.
+Microsoft found out about Kibkalo after searching the bloggers Hotmail account.
+The blogger, who had previously posted comments about internal Microsoft build specifications for unreleased software, was someone Microsoft had been tracking even before the Kibkalo leak, according to the complaint filed by federal prosecutors.
+That blogger had apparently contacted an outside source using Hotmail and sent the source the proprietary Microsoft code, according to the complaint, which goes on to say that the outside source then contacted Microsoft.
+Microsofts Office of Legal Compliance then approved content pulls of the bloggers Hotmail account.
+Microsoft said last week that a court order was not needed to do so and, in any case, it wouldnt have been able to get one because courts do not issue orders authorizing someone to search themselves, according to a blog post from John Frank, Microsofts deputy general counsel.
+The company did, however, put into place some new policies, including proceeding with such searches only after an outside attorney who is a former federal judge deems theres sufficient evidence to justify a court order.
+policy change goes further in that Microsoft says it now will not conduct such searches itself. Instead, it will refer such cases to law enforcement  something that digital civil-rights organizations such as Electronic Frontier Foundation had advocated.
+After the revelations from whistle-blower Edward Snowden about the U.S. governments national-surveillance programs and tech companies involvement, Microsoft and other companies have been pushing the U.S. government for more transparency and reliance on legal processes to conduct its searches.
+Weve advocated that governments should rely on formal legal processes and the rule of law for surveillance activities,
+Smith said. While our own search was clearly within our legal rights, it seems apparent that we should apply a similar principle and rely on formal legal processes for our own investigations involving people who we suspect are stealing from us.
+Janet I. Tu: 206-464-2272 or jtu@seattletimes.com On Twitter @janettu
+Custom-curated news highlights, delivered weekday mornings.
+No personal attacks or insults, no hate speech, no profanity. Please keep the conversation civil and help us moderate this thread by reporting any abuse. See our Commenting FAQ.
+The opinions expressed in reader comments are those of the author only, and do not reflect the opinions of The Seattle Times.

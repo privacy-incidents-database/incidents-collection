@@ -1,0 +1,12 @@
+NASA told its staff this week that a laptop containing sensitive personal information for a large number of employees and contractors was stolen two weeks ago from a locked vehicle.
+Although the laptop was password protected, the information had not been encrypted, which could give skilled hackers full access to the contents.
+In its notice to employees on Tuesday, the agency said:
+On Oct. 31, 2012, a NASA laptop and official NASA documents issued to a headquarters employee were stolen from the employees locked vehicle. The laptop contained records of sensitive personally identifiable information for a large number of NASA employees, contractors and others. Although the laptop was password protected, it did not have whole disk encryption software, which means the information on the laptop could be accessible to unauthorized individuals. We are thoroughly assessing and investigating the incident and taking every possible action to mitigate the risk of harm or inconvenience to affected employees.
+This is not the first time NASA has suffered a serious breach. The agency has long been a target for cybercriminals looking to pilfer sensitive research. In 2004, computers at several NASA sites, including its Jet Propulsion Laboratory in Pasadena, Calif., were breached. And as recently as March, the company reported a breach that was also caused by a stolen laptop.
+Given its history, it is unclear why the agency has not stepped up its security practices.Beth Dickey, a NASA spokeswoman, said that in this most recent case, the employees laptop had been for a security upgrade.
+The laptop was scheduled to receive encryption, as part of an ongoing, agency-wide effort to encrypt whole disks of all NASA computers, Ms. Dickey said. This one just hadnt been done yet.
+NASA has said it plans to have all of its laptops running whole-disk encryption software by Dec. 21.
+The message was first posted by SpaceRef, a trade publication focused on space systems.
+In Israeli Attack on Hamas: Shock, Awe and Social Media
+Governments Worldwide Asking Google to Hand Over More Data
+Visit the Technology section for complete coverage of the industry. 

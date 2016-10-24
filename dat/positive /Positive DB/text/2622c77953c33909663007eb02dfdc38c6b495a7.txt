@@ -1,0 +1,9 @@
+Daily Report: Simple Flaw Allowed JPMorgan Computer Breach - The New York Times
+Daily Report: Simple Flaw Allowed JPMorgan Computer Breach
+Daily Report: Simple Flaw Allowed JPMorgan Computer Breach
+The computer breach at JPMorgan Chase this summer  the largest intrusion of an American bank to date  might have been thwarted if the bank had installed a simple security fix to an overlooked server in its vast network, said people who have been briefed on internal and outside investigations into the attack, Matthew Goldstein, Nicole Perlroth and Michael Corkery report.
+Big corporations like JPMorgan spend millions  $250 million in the banks case  on computer security every year to guard against increasingly sophisticated attacks like the one on Sony Pictures. But the weak spot at JPMorgan appears to have been a basic one, the people said. They did not want to be identified publicly because the investigation into the attack is incomplete.
+The attack against the bank began last spring, after hackers stole the login credentials for a JPMorgan employee, these people said. Still, the attack could have been stopped there.
+Most big banks use a double authentication scheme, known as two-factor authentication, which requires a second one-time password to gain access to a protected system. But JPMorgans security team had apparently neglected to upgrade one of its network servers with the dual password scheme, the people briefed on the matter said. That left the bank vulnerable to intrusion. Read more 
+TripAdvisor Fined $610,000 in Italy for Failing to Prevent Fake Reviews
+Visit the Technology section for complete coverage of the industry. 

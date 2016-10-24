@@ -1,0 +1,36 @@
+Chinese hackers outed themselves by logging into their personal Facebook accounts - The Washington Post
+It looks like you've previously blocked notifications. Please update your browser permissions to allow them.
+stories from PowerPost. Sign up to follow, and well e-mail you free updates as theyre published.
+Youll receive free e-mail news updates each time a new story is published.
+Chinese hackers outed themselves by logging into their personal Facebook accounts
+stories from PowerPost. Sign up to follow, and well e-mail you free updates as theyre published.
+Youll receive free e-mail news updates each time a new story is published.
+Mandiant's report alleges that this Shanghai complex is the home of a Chinese military-led hacking group that extensively targeted U.S. companies. (PETER PARKS/AFP/Getty Images)
+Mandiant, the U.S. firm contracted to investigate cyberattacks against U.S. corporations, says it was able to track an extensive hacking campaign back to the Chinese military in part by exploiting China's own Web restrictions. China's "Great Firewall" blocks Web access to, among other things, Facebook and Twitter. People in China can get around the firewall, and very Web-savvy Chinese often do, by using something called VPNs, or Virtual Private Networks. But Chinese hackers already have access to what is presumably an extremely sophisticated VPN: the very servers they use for their foreign hacking. This where the hackers may have gotten themselves into trouble. To be totally safe, a Chinese hacker would log out of the servers used for cyber-espionage (and allegedly sponsored by the Chinese military) before logging into a separate, more low-key VPN that he or she could use to access U.S.-based social media sites such as Facebook and Twitter. Instead of following that procedure, according to Mandiant, some of the hackers got lazy. "The easiest way for them to log into Facebook and Twitter is directly from their attack infrastructure," the company's report explains. "Once noticed, this is an effective way to discover their real identities." When the hacker uses the "attack" servers to log in to Twitter or Facebook, he or she unintentionally links the espionage servers with specific Facebook and Twitter accounts -- in other words, with specific human beings. Mandiant traced two hackers, who used the handles DOTA and UglyGorilla, all across the Web using data points like this. The investigation also looked at, among other things, a cellphone number that one of the hackers used to register a Google e-mail account (yes, he used two-step verification for extra security) and that provided data on the hacker's location. National Journal's Brian Fung makes a great point. He writes, "Its no small irony the everyday shortcuts users take, and which subsequently open them up to hackers like DOTA and UglyGorilla, are the same traps that the two hackers fell into." It really is the Wild West out there.
+worldviews Get 2016 Olympics updates by email Our best news and analysis from Rio, delivered to your inbox. post_newsletter333 magnet-olympics2016 false endOfArticle false
+worldviews Dallas shooting updates News and analysis on the deadliest day for police since 9/11. post_newsletter353 follow-dallas false endOfArticle false
+SuperFan Badge SuperFan badge holders consistently post smart, timely comments about Washington area sports and teams. More about badges | Request a badge
+Culture Connoisseur Badge Culture Connoisseurs consistently offer thought-provoking, timely comments on the arts, lifestyle and entertainment. More about badges | Request a badge
+Fact Checker Badge Fact Checkers contribute questions, information and facts to The Fact Checker. More about badges | Request a badge
+Washingtologist Badge Washingtologists consistently post thought-provoking, timely comments on events, communities, and trends in the Washington area. More about badges | Request a badge
+Post Writer Badge This commenter is a Washington Post editor, reporter or producer.
+Post Forum Badge Post Forum members consistently offer thought-provoking, timely comments on politics, national and international affairs. More about badges | Request a badge
+Weather Watcher Badge Weather Watchers consistently offer thought-provoking, timely comments on climates and forecasts. More about badges | Request a badge
+World Watcher Badge World Watchers consistently offer thought-provoking, timely comments on international affairs. More about badges | Request a badge
+Post Contributor Badge This commenter is a Washington Post contributor. Post contributors arent staff, but may write articles or columns. In some cases, contributors are sources or experts quoted in a story. More about badges | Request a badge
+Post Recommended Washington Post reporters or editors recommend this comment or reader post.
+You must be logged in to report a comment. Sign in here
+You must be logged in to recommend a comment. Sign in here
+Comments our editors find particularly useful or relevant are displayed in Top Comments, as are comments by users with these badges: . Replies to those posts appear here, as well as posts by staff writers.All comments are posted in the All Comments tab. More about badgesGet a badge
+To pause and restart automatic updates, click "Live" or "Paused". If paused, you'll be notified of the number of additional comments that have come in.
+Comments our editors find particularly useful or relevant are displayed in Top Comments, as are comments by users with these badges: . Replies to those posts appear here, as well as posts by staff writers.
+Among the criteria for featured comments: likes by users, replies by users, previous history of valuable commenting, and selection by moderators.
+Sign up for email updates from the "Confronting the Caliphate" series.
+You have signed up for the "Confronting the Caliphate" series.
+ Thank you for signing up You'll receive e-mail when new stories are published in this series.
+The ugly history of Lgenpresse, a Nazi slur shouted at a Trump rally
+Iceland, a land of Vikings, braces for a Pirate Party takeover
+Chinas plan to organize its society relies on big data to rate everyone
+The Pentagon demanded money back from National Guard soldiers. Its still reviewing what to do next.
+France buses 1,600 migrants out of notorious Jungle camp in Calais
+washingtonpost.com  1996-2016 The Washington Post  Help and Contact Us Terms of Service Privacy Policy Print Products Terms of Sale Digital Products Terms of Sale Submissions and Discussion Policy RSS Terms of Service Ad Choices

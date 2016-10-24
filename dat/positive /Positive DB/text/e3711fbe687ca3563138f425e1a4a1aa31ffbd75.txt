@@ -1,0 +1,28 @@
+Public bodies are releasing confidential personal data by accident, activists say | Technology | The Guardian
+Public bodies are releasing confidential personal data by accident, activists say
+Authorities including councils, government departments and the police breach data security  with many repeat offenders, says freedom of information group
+Computer data. Public bodies are unintentionally publishing confidential information, research shows.
+Public bodies are unintentionally releasing confidential personal information on a regular basis, research reveals.
+Freedom of information website WhatDoTheyKnow.com, which automates FOI requests and publishes responses, says it has recorded 154 accidental data leaks made by councils, government departments, police, the NHS and other public bodies since 2009. This amounts to confidential data being wrongly released on average once every fortnight.
+Public authorities operate under a code of conduct that requires personal information to be removed or anonymised before data is released.
+The website decided to publicly raise concerns after Northamptonshire county council accidentally published data on more than 1,400 children earlier this year, including names, addresses, religion and special educational needs status.
+The data was removed within a few hours of publication and the incident has been reported to the information commissioners office (ICO).
+Councils are the worst offenders, with a third of mistakes coming from local government. In many instances, there are repeat offenders: twice the Home Office released confidential data  as did the courts service in response to FOI requests.
+These instances have been picked up by the sites volunteers, who comb through the material to categorise the results of FOIs. When confidential information is found, they remove it and contact the authority in question. Where the breach is serious, the site will report this to the ICO.
+NHS details released against patients' wishes, admits data body
+In February, Greater Manchester police released names, ranks and internal details of police officers who had been the subject of complaints between January 2010 and March 2012. More than 3,500 rows of data were released before volunteers could act.
+WhatDoTheyKnow.com says it has been monitoring the errors for years but has become increasingly concerned that lessons are not being learned.
+It points out a large data breach occurred in 2012 when Islington council mistakenly released an FOI response containing personal details, including sexuality and names, relating to 2,376 individuals or families who had applied for council housing or were council tenants. Islington has had five troubling data breaches since 2009.
+Volunteers working on the website have been recording their experiences on personal blogs. One, who uses the pseudonym FOImonkey, pointed out a case where a council accidentally included licence plate information belonging to 31,378 people who had been given parking tickets in a PDF file.
+In another instance, a mental health trust accidentally included information in a spreadsheet that could have led to the identification of 1,260 patients deemed at risk of suicide.
+There was also an occasion where a police force included names and offence details of 188 individuals arrested for indecent assault in a spreadsheet.
+The website, part of the not-for-profit social enterprise MySociety, which runs democracy and transparency internet services, says such incidents are likely to represent only the tip of the iceberg.
+Myfanwy Nixon, a spokeswoman, said: On the basis of this evidence, the charity is issuing an urgent call for public authorities everywhere to tighten up their procedures.
+Data protection concerns 72% of Britons in post-Snowden world, research shows
+One concern is that officials do not understand how spreadsheets work and data which is in hidden tabs, or pivot tables, can be revealed by anyone who has basic understanding of the software packages, with just a couple of clicks.
+The Data Protection Act, which governs the release of sensitive information, states that appropriate technical and organisational measures shall be taken against unauthorised or unlawful processing of personal data and against accidental loss or destruction of, or damage to, personal data.
+In 2012, Torbay care trust published personal details of more than 1,000 NHS staff online, leaving them open to identity theft  and was fined 175,000 for the data security breach.
+Nixon said: Information officers need to be given more robust training that focuses on ways to prevent data breaches. Before this can happen, public authorities are going to need to fully understand the importance of the kind of data they are routinely releasing  the incidences of repeat offenders would indicate that thats not always the case.
+A spokesman for the Local Government Association said: Councils take the handling of confidential data extremely seriously and staff are given rigorous training. On the rare occasions breaches occur, robust investigations and reviews are immediately undertaken to ensure processes are tightened.
+Ian Redhead, of the National Police Chiefs Council, said: The protection of sensitive information is one of the core areas of police business as we seek to keep communities safe and maintain the trust and confidence of the public. Members of the police service should rigorously adhere to legislation and guidance, and complaints would be investigated, he added.
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.

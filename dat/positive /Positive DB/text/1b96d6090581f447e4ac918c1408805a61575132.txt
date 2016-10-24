@@ -1,0 +1,10 @@
+The Twitter Hack Attack That Wasn't - The New York Times
+screenshot via TwitterA number of the Twitter accounts leaked by Anonymous were already suspended or were duplicates.
+Hackers claiming to be part of the Anonymous group released what at first glance appeared to be usernames and passwords for 55,000 hacked Twitter accounts on Pastebin on Tuesday. But a closer look revealed that nearly half those accounts were duplicates and that the vast majority belonged to accounts that had been suspended by Twitter in the past.
+The breach was first reported on the blog, Air Demon, which aggregates news on hacking.
+According to Twitter, it appears that of the accounts that were supposedly hacked and pasted online, more than 20,000 were duplicate usernames. A majority of the accounts that were not duplicates appear to be suspended spam Twitter accounts.
+Carolyn Penner, a Twitter spokeswoman, said in an e-mail: We are currently looking into the situation. In the meantime, we have pushed out password resets to accounts that may have been affected. For those who are concerned that their account may have been compromised, we suggest resetting your passwords and more in our Help Center.
+Many of the accounts that do have accurate usernames, have incorrect passwords, the company said.
+As a majority of the usernames that are listed in the Anonymous attack seem to be associated with Spam accounts, the files could have been released in retaliation for Twitter shutting down these accounts.
+Twitter is still taking the breach seriously though. High-profile accounts have been hacked several times in the past. The company said it is still investigating the situation.
+Visit the Technology section for complete coverage of the industry. 

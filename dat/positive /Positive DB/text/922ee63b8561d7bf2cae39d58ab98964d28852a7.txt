@@ -1,0 +1,17 @@
+Hackers Breach Sites of Foreign Policy and Human Rights Groups
+Hackers Breach Sites of Foreign Policy and Human Rights Groups
+Hackers Breach Sites of Foreign Policy and Human Rights Groups
+Chip Chipman/Bloomberg NewsThe hackers exploited vulnerabilities in Adobe Flash and Java software.
+In recent weeks, hackers have breached Web sites belonging to several foreign policy and human rights groups, including Amnesty International and the International Institute for Counter-Terrorism, a nonprofit organization based in Israel that researches terrorism issues.
+Hackers infiltrated the sites using two well-known security vulnerabilities, one in Adobe Flash and another in Java software, according to a blog post by security researchers at the Shadowserver Foundation, a nonprofit group that tracks cyber threats. The Flash loophole was used predominantly against Windows users and the Java vulnerability against Macintosh users.
+Both vulnerabilities were recently patched. The the incidents, however, show how quickly hackers work to exploit the time between the discovery of a security hole and the creation of a patch by programmers and its installation by users.
+Shadowservers security researchers discovered that the Adobe Flash loophole had been used to attack visitors to the Web sites of Amnesty International Hong Kong and the Center for Defense Information, a research group in Washington. Oracles Java vulnerability was used against visitors to the International Institute for Counter-Terrorism. The Web site of the Cambodian Ministry of Foreign Affairs was attacked through both loopholes.
+In each case, infected sites can drop malware onto visitors computers, which opens a back door between the attackers command center and the victims computers. Once computers are infected, the attackers can move from infected computers into other computers in the victims networks, or organizations.
+The security researchers noted that, as of Monday, the Web sites of Amnesty International Hong Kong, the Center for Defense Information and the Cambodian Ministry of Foreign Affairs were stillinfected and serving up malware to visitors computers.
+Visiting these Web sites can initiate a chain reaction in which malicious code is loaded from multiple Web sites and results in a system compromise for vulnerable systems without other mitigating factors, wrote Steven Adair and Ned Moran, two Shadowserver security researchers, in a blog post.
+The researchers did not attribute the attacks to a particular group but described the infections as an A.P.T.  or advanced persistent threat  security jargon for an intelligence-seeking attack made by a foreign government.
+Shadowserver recommends that users run their computers software updates as frequently as possible to avoid becoming infected,.
+These attackers are not spreading malware through strategically compromised Web sites to make friends, the researchers wrote. They are aiming to expand their access and steal data.
+Communications (primarily e-mail), research and development (R&D), intellectual property (IP), and business intelligence (contracts, negotiations, etc.) are frequently targeted and stolen, they continued. Take the cyber espionage threat seriously and not as just something you read about occasionally. The problem is vastly understated.
+Todays Scuttlebot: Inside Anonymous and Inside Flickr
+Visit the Technology section for complete coverage of the industry. 

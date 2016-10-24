@@ -1,0 +1,18 @@
+Gawker Passwords Hacked: What Users Should Do - The New York Times
+A notice from Gawker Media, alerting users to the fact that 1.3 million accounts were hacked.
+On Sunday, Gawker Media, parent company of popular sites like Gawker, Gizmodo, Lifehacker and Jezebel, announced that its user database had been compromised and that 1.3 million usernames and passwords were now in the hands of hackers, although not all of that information had been decrypted (read the related Times article here).
+Some people may be asking: Why would people have a Gawker account? While anyone can go to any Gawker Media site and read its content, the company does require users to register with the site in order to post comments (lots of sites, including this one, have a similar policy).
+If you ever set up an account with a Gawker site, the company is suggesting that you change your password, as it may have been compromised (instructions on how to do that are here). The group responsible for the breach, calling itself Gnosis, has released some of the usernames and passwords they were able to read.
+If you want to see if your account is among those released, you can go to Slates handy account checker. Just remember that you are not checking the full list  just a portion of the list thats been released. Its still a good idea to change your password if you have an account.
+The big problem here, of course, is not that peoples Gawker accounts were hacked. Thats an inconvenience, but little more than that. Whats more disturbing is that, by gaining access to peoples Gawker password, hackers may then have access to other accounts that use the same e-mail/password combination. That could mean bank accounts, e-mail, etc.
+So, a couple of things about that: You really need to use more than one password. Its annoying, yes, but necessary. Have one password that you use for really sensitive accounts (like things that deal with money) and another for basic things like this site and others. That way, a hacker who breaks into, say, flowerlovers.com (which is likely to have more lax security than bignationalbank.com), will only know your password to other low-security sites.
+As for the password itself, it should be something good. An analysis of the published passwords taken from Gawkers database shows a surprising number of obvious choices. (Who knew starwars was so popular?)
+Want to know how to increase your account security? Heres a post on developing a good password (quick version: make it not a real word, and long, with an unusual combination of letters and numbers).
+Frustrated with all the passwords that modern life requires? Check out this Gadgetwise post about password-management software.
+Gadgetwise is a blog about everything related to buying and using tech products. From figuring out which gadget to buy and how to get the best deal on it to configuring it once its out of the box, Gadgetwise offers a mix of information, analysis and opinion to help you get the most out of your personal tech.
+All the regular features on the Gadgetwise blog can now be found on the Personal Tech section front. Thank you for reading.Readmore
+FX-Sport VR1 Programmable Personal Trainer Headphones are a smart concept  a pair of headphones with a built-in coach, or virtual competitor. Readmore
+Online file storage services like Dropbox let you share files with people who do not have an account with the company.Readmore
+Q&A: Revealing Your Location (or Not) to Mobile Apps
+Mobile apps may have useful reasons for requesting your location information, while others just want to show you local advertising.Readmore
+Amazons store for Android apps has a Test Drive feature that lets you see an app in action before you buy or download it.Readmore

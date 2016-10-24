@@ -1,0 +1,8 @@
+Google Warns Users in Iran About Security Issue - The New York Times
+Google took the unusual step of warning Gmail users in Iran to secure their accounts,
+a week after an unidentified hacker generated fake Web site verification certificates that may have allowed the Iranian state to monitor communications by its citizens, including dissidents.
+On Googles security blog late Thursday, Eric Grosse, vice president for security engineering, said the company was directly contacting possibly affected users. He noted that users of the Google Chrome browser were unaffected by the malicious attack but urged all users in Iran to take concrete steps to secure their accounts.
+The company spelled out five separate steps, beginning with changing passwords and verifying account recovery options to ensure that alternate e-mail addresses and phone numbers are updated. It went on to advise users to make sure unfamiliar apps and Web sites did not have access to their accounts and that e-mails were not being automatically forwarded to suspicious, unknown addresses.
+Google was not the only site to be affected by the attack. The hacker produced fake certificates for other communications sites, including Skype and Facebook. The
+certificates could be used by a third party with control of an Internet service provider. That third party could in turn eavesdrop on supposedly secure online conversations.
+Visit the Technology section for complete coverage of the industry. 

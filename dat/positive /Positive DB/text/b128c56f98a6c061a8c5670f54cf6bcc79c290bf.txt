@@ -1,0 +1,15 @@
+Uber Share Your ETA feature posts passenger details publicly online | ITProPortal.com
+Get the latest business IT research and intelligence.
+Search for over 9,000 jobs from more than 700 companies
+Uber Share Your ETA feature posts passenger details publicly online
+Uber has come under fire from privacy advocates over the amount of information shared online about passengers and their routes.
+The taxi app introduced a Share Your ETA feature back in 2013, primarily so friends and family could know how far away passengerswere, but it seems that this information is also being shared with many others.
+Read more:Uber quadruples security staff to keep customers data safe
+Passengers that share their ride details publicly, such as through social media, will find that this information is now easily accessed by anybody through Google search results. Searching the site trip.uber.com provides journeyinformation, with each link detailingthe passengers name and a map of their route, as well as a photo of the driver, his name, license plate and car model.
+The source code also reveals the addresses for the pickup and drop off points of each trip, with accompanying times. Uber has been quick to point out that all the information has been willingly shared, but it is not clear if all passengers are aware of how much information they are making public.
+This is not a data leak. We have found that all these links have been deliberately shared publicly by riders, explained an Uber spokesperson to Business Insider. Protection of user data is critically important to us and we are always looking for ways to make it even more secure.
+On the Uber website, it explains that sharing your ETA is easily done. Users simply click on Share my ETA on their Android or iOS app and they will be sent a text message containing a link. Although Uber stresses that this link will only inform your friends of your ride details, by posting it publicly it is cached by Google and hence appears in its search results.
+Read more:London cabbies launch battle plan against Uber
+Ultimately, Uber may wish to amend its information regarding its Share Your ETA feature to avoid any misunderstanding. Similarly, passengers using the app should ensure that they only share their ride details with people they can trust.
+Topicsapppersonal informationprivacyShare your ETAtaxiuber
+Please enable JavaScript to view the comments powered by Disqus.

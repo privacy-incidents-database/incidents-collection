@@ -1,0 +1,26 @@
+WHSmith appears to have suffered a data privacy breach - Business Insider
+People are freaking out because WHSmith is accidentally emailing customer contact details to other customers
+On Wednesday morning many WHSmith customersstarted receiving hundreds of emails containing personal details forthe company's other customers. It appears that every time someone used WHSmith's contact form their message is then sent to its entire mailing list.
+Some of the early emails contained sensitive information like full names and telephone numbers.
+Anyone else getting dozens of emails via @WHSmith contact form ? Including phone numbers pic.twitter.com/960EZYNSSE  Lynn Schreiber
+Unfortunate that every time someone emails @WHSmith about magazine subscriptions it's going to *everyone* on the database. Details too.		 Jono Read
+Seriously @WHSmith - 18 emails containing other peoples details and still counting......		 Rob Weatherhead
+It appears that for a few hours WHSmith only hid the contact form, rather than removing it.
+props to @WHSmith for their quick incident response removing the broken form from thei... oh wait pic.twitter.com/AGrYNRkoE1  Alice Maz
+When people started to realise what was happening, they went to the company's contact form to make a complaint. But this meant that other customers received copies of those emails too.
+While some people were understandably worried that their personal information is being sent to the inboxes of hundreds of strangers, others used the bug to send very public messages tofriends, family, and WHSmith itself.
+Favourite #whsmith hack email so far  you have a great day too! pic.twitter.com/bpsvd3hXYy  Millie Bushell
+One even took advantage of the situation to ask the company for a job.
+Seems people didn't receive my email  tried to make the best out of a bad situation. WHSmith @WHSmith pic.twitter.com/u92EjlstUV  Emily Willson
+Some customers managed to get through to WHSmith, but continued to receive them emails.
+Just spoke to @WHSmith - they are aware of and sorry for data breach. I'm still receiving private details of strangers #whsmithfail.		 Ke Day
+WHSmith has now released a statement to the Guardian, which puts the huge breach down to a "bug" in the system used to processes its magazine subscriptions. The company says this process is managed by yet another company.
+The statement said: We have been alerted to a systems processing bug by I-subscribe, who manage our magazine subscriptions. It is a bug not a data breach. We believe that this has impacted fewer than 40 customers who left a message on the Contact Us page where this bug was identified, that has resulted in some customers receiving emails this morning that have been misdirected in error.
+I-subscribe have immediately taken down their Contact Us online form which contains the identified bug, while this is resolved. I-subscribe are contacting the customers concerned to apologise for this administrative processing error. We can confirm that this issue has not impacted or compromised any customer passwords or payment details and we apologise to the customers concerned.
+A WHSmith Magazines spokeswoman told Business Insider on Wednesday that the problem was down to a technical issue that the IT department was looking into, and hoped to resolve soon. The spokeswoman confirmed that customers that are on the company's mailing list for magazine subscriptions were being forwarded the emails from its online contact form.
+NOW WATCH: Here's what the US would look like if all the Earth's ice melted
+People are freaking out because WHSmith is accidentally emailing customer contact details to other customers
+People are freaking out because WHSmith is accidentally emailing customer contact details to other customers
+Neil deGrasse Tyson and Al Gore on the future of our planet  and everything else
+My husband and I are business partners who just had our first child  here's how we make it work
+* Copyright  2016 Business Insider Inc. All rights reserved. Registration on or use of this site constitutes acceptance of our
