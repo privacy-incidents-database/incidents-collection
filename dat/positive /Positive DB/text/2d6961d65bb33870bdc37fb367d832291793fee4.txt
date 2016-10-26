@@ -1,5 +1,5 @@
 Facebook: Cookie tracking issue is limited, fix coming today | ZDNet
-This web site uses cookies to improve your experience. By viewing our content, you are accepting the use of cookies. To find out more and change your cookie settings, please view our cookie policy.
+This web site uses cookies to improve your experience. By viewing our content, you are accepting the use of cookies. To find out more and change your cookie settings, please
 Facebook: Cookie tracking issue is limited, fix coming today
 Facebook has confirmed a tracking cookie bug and said it will fix it today. The company has also explained that the issue is limited in scope  only some third-party websites are affected.
 Soon after self-proclaimed hacker Nik Cubrilovic discovered Facebook is once again setting its datr cookie via the Like button and other social plugins, the company has made an attempt to clarify the findings. Facebook has confirmed this is indeed a bug, but says that it is limited in scope and that it will be fixed today.
@@ -12,9 +12,9 @@ It looks like another mystery has been solved, although something tells me this 
 Part of this will come from legal bodies. 10 privacy groups and US congressmen last week sent letters asking the Federal Trade Commission (FTC) to investigate Facebook for these and other practices. Furthermore, Ireland's Data Protection Commissioner has agreed to conduct a privacy audit of Facebook. Given that the social network's international headquarters is in Dublin, the latter is the more serious one as the larger majority of the site's users could be affected. Facebook has even had to defend itself in regards to a recent patent it filed, arguing that the document does not describe how to track logged-out users.
 Facebook tracking cookie returns, according to hacker
 Facebook denies patent is used for tracking logged-out users
-Twitter shakes up board members in push for diversity
-Facebook Messenger rolls out Codes, Links and Usernames
-Disconnect between Americans' online attitudes and actions in a post-Snowden world
+PayPal tightens integrations with Facebook Messenger
+NXT floats renaming Office of the Children's eSafety Commissioner
+Social winners and losers in the US Presidential debates
 You have been successfully signed up. To sign up for more newsletters or to manage your account, visit the Newsletter Subscription Center.
  2016 CBS Interactive. All rights reserved. Privacy Policy | Cookies | Ad Choice |
-Select SiteCBS CaresCBS FilmsCBS RadioCBS.comCBSInteractiveCBSNews.comCBSSports.comChowhoundCNETCollege NetworksGameSpotLast.fmMaxPrepsMetacritic.comMoneywatchmySimonRadio.comSearch.comShopper.comShowtimeSmartPlanetTechRepublicThe InsiderTV.comUrbanBaby.comZDNet
+Select SiteCBS CaresCBS FilmsCBS RadioCBS.comCBSInteractiveCBSNews.comCBSSports.comChowhoundCNETCollege NetworksGameSpotLast.fmMaxPrepsMetacritic.comMoneywatchmySimonRadio.comSearch.comShopper.comShowtimeTechRepublicThe InsiderTV.comUrbanBaby.comZDNet

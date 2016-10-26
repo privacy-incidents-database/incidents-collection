@@ -1,12 +1,10 @@
 CareFirst BlueCross BlueShield sued for hacking incident | Robinson+Cole Data Privacy + Security Insider - JDSupra
-[Hot!] Readers' Choice 2016: Meet Our Top Authors...
-[Video] The Panama Papers & The Tempo of International Corruption Cases
-HR Director Can Be Held Personally Liable Under FMLA
-State Data Security Breach Notification Laws: April 2016
-[Hot!] Readers' Choice 2016: Meet Our Top Authors...
-[Video] The Panama Papers & The Tempo of International Corruption Cases
-HR Director Can Be Held Personally Liable Under FMLA
-State Data Security Breach Notification Laws: April 2016
+5 Things to Keep in Mind when Shopping for Cybersecurity Insurance
+New York's New Cybersecurity Rules: What Is Required?
+[Webinar] How Law Firms Can Drive Business With Webinars - Oct 26
+5 Things to Keep in Mind when Shopping for Cybersecurity Insurance
+New York's New Cybersecurity Rules: What Is Required?
+[Webinar] How Law Firms Can Drive Business With Webinars - Oct 26
 CareFirst BlueCross BlueShield sued for hacking incident
 To embed, copy and paste the code into your website or blog:
 Not to be left out, plaintiffs filed suit against CareFirst BlueCross Blue Shield late last week for the hacking incident the insurer suffered in May, which resulted in unknown intruders gaining access to names, dates of birth, email addresses and subscriber identification numbers of approximately 1.1 million members. CareFirst has indicated that the incident did not include a compromise of members Social Security numbers or credit card information.
@@ -14,10 +12,9 @@ Despite this, plaintiffs allege in the complaint that they had a reasonable expe
 Further, the plaintiffs allege that their personal information can be used by identity thieves to perpetrate a variety of crimes that harm the victims, but the case does not explain how the information involved can actually be used or has been used against the named plaintiffs.
 This is another case we will be watching and reporting on as this area of the law develops, and class action lawsuits become the norm following data breaches.
 Shareholders sue mobile security firm for failing to disclose hacking incident before IPO
-Latest PostsFTC, ONC, OCR and FDA release online tool for mobile health app developers
-Google and Oracle agree not to research potential jurors social media accounts
-Get your student pilot certificate and commercial drone operator certificate sooner rather than later
-Panama law firm Mossack Fonseca faces leak of 11 million documents exposing thousands of clients
+Connecticut Governor appoints State Cybersecurity Czar
+St. Joseph Health Settles with OCR for $2.14 Million
+Privacy Tip #57  Do Those Chip Credit Cards Really Protect Me from Fraud?
 DISCLAIMER: Because of the generality of this update, the information provided herein may not be applicable in all situations and should not be acted upon without specific legal advice based on particular situations.
 "My best business intelligence, in one easy email"
 Your first step to building a free, personalized, morning email brief covering pertinent authors and topics on JD Supra:

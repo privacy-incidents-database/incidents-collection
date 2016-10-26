@@ -1,0 +1,28 @@
+Someone Sent a Mysterious Mass Text to Protesters in Kiev
+CompanyAbout UsLicensing & ReprintsArchiveMashable Careers
+Someone Sent a Mysterious Mass Text to Protesters in Kiev
+Ukrainian police officer looks through binoculars at opposition activists after violent clashes in central Kiev January 21, 2014.Image: Vasily Maximov/AFP/Getty Images
+By Lorenzo Franceschi-Bicchierai2014-01-21 22:02:28 UTC
+As mass riots continued on the streets of Kiev, protesters, as well as other people in the area, received a mysterious text message on Monday evening.
+"Dear subscriber, you are registered as a participant in a mass disturbance," the message read, as first reported by The New York Times.
+See also: Kiev Riots at Fever Pitch: The Fiery Scene in 30 Photos
+"Dear subscriber, you are registered as a participant in a riot @radiosvoboda saw it live as it came in last night pic.twitter.com/uyqRKhiC5f
+The text came from a number only identified as 111, but the Times suggests Ukrainian authorities were behind it. The country's Interior Ministry, however, denied sending the messages, as later reported by The Guardian. But regardless of who was responsible for the SMS messages, how did they do it? How did they pinpoint only certain cellphones in a specific area?
+It turns out, something like this wouldn't be that hard to carry out.
+"It is very easy to send messages out to everybody who was in one particular area, at one particular time," said Eva Galperin, an activist at the Electronic Frontier Foundation and an expert in surveillance technology.
+There are a few different ways the Ukrainian government could have done it, according to Ashkan Soltani, an independent privacy researcher. The easiest would have been for the government to ask Ukrainian cellphone providers to give them a list of numbers that were connected to a certain cellphone tower, or a few towers, in a certain interval of time. This is what is commonly referred to as "tower dumps."
+This would imply the collaboration of the cellphone companies, but all the major Ukrainian providers on Tuesday denied they had anything to do with this incident.
+"We declare our innocence," wrote MTS on its Facebook page according to a translation of the statement. "It was carried out by using equipment that does not belong to MTS."
+Another provider, Kyivstar, penned a similar denial. "Attackers are using illegal equipment for such mailings. We know of the existence of equipment (the so-called 'pirate base stations') that allows you to send SMS and make calls to mobile phones subscribers to any operators that are in a certain area," the company wrote on Facebook.
+Here's the catch: The equipment to which they refer actually exists, and with it authorities wouldn't need the providers' help to identify whoever was in downtown Kiev near the protests and send them the text messages.
+The easiest way would be to use a so-called "IMSI catcher," which is a portable device built to act as a cell tower and trick nearby cellphones into connecting to it, Soltani explained to Mashable.
+"They're essentially fake base stations," Soltani told Mashable.
+Once a cellphone is connected to one of these International Mobile Subscriber Number (IMSI) catchers, the device captures a deluge of information, including identifying details such as the IMSI and the Electronic Serial Number (ESM). Once the IMSI catcher is connected to a series of cellphones, it can broadcast text messages like the one the protesters received.
+Devices like these are normally employed by police departments to track suspected criminals, but their use has stirred controversy because they don't discriminate. Any cellphone in their range gets caught in their surveillance net, and these devices are also designed to intercept phone calls and messages.
+There are a lot of commercial IMSI catchers, costing anywhere from $20,000 to around $140,000, depending on their features and range. They are sometimes referred to as "Stingrays," from the most widely known of this devices, made by Harris Corporation. But hackers have been able to build similar machines with just $1,500.
+According to Costin Raiu, a security researcher at Kaspersky Lab, this is the most likely theory, assuming the cellphone providers did not cooperate.
+While it's still unclear who sent these messages in Kiev, it's clear why they did it.
+"You can scare people into thinking that they have been targeted much more narrowly by writing a message that implies essentially 'we caught you personally rioting,'" said Galperin.
+The protesters, however, were not scared away, as clashes continued after the message was broadcast.
+is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe.
+Reproduction without explicit permission is prohibited. All Rights Reserved.

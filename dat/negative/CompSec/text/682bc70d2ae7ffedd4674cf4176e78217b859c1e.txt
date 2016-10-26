@@ -1,0 +1,11 @@
+Google Toughens Its Privacy Controls - The New York Times
+NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+privacy controls after its mapping service mistakenly gathered e-mail messages and passwords from unsecured wireless networks.The company is also improving training for workers, including engineers, in areas like
+product management and legal affairs, and strengthening compliance procedures,
+Alma Whitten, Googles engineering leader on privacy, was named director of policy for engineering and product management.Google has faced investigations by
+and many other countries for the way it gathered data with its Street View service. The company first disclosed the security breach in May.These changes will significantly improve our internal practices (though no system can of course entirely eliminate human error), and we look forward to seeing the innovative new security and privacy features that Alma and her team develop, Alan Eustace,
+senior vice president, engineering and research, said.
+That said, well be constantly on the lookout for additional improvements to our procedures as Google grows, and as we branch out into new fields of computer science.
+A version of this article appears in print on October 23, 2010, on page B7 of the New York edition with the headline: Google Toughens Privacy Controls.
+Were interested in your feedback on this page. Tell us what you think.
+Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.

@@ -1,5 +1,0 @@
-Hartford: Computer Security Rules - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-Gov. M. Jodi Rell has ordered the states computer technology agency to come up with a security policy for state laptop computers after a Department of Revenue Services laptop containing information about more than 100,000 taxpayers was stolen. Officials have said the equipment was password protected. The governor said she wanted all state agencies to notify the Department of Information Technology when a laptop computer is missing and she wanted agencies to restrict sensitive data from being put on laptops and tighter security for state employees using the equipment at remote locations.
-A version of this brief appears in print on , on page B6 of the New York edition with the headline: Hartford: Computer Security Rules.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.

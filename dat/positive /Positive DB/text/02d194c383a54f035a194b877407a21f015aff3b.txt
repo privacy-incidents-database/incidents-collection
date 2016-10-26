@@ -2,7 +2,6 @@ PlayStation Network hack: why it took Sony seven days to tell the world | Techno
 PlayStation Network hack: why it took Sony seven days to tell the world
 Sony's company blog says forensic analysis of the PlayStation Network hack took 'several days' to complete and extent of intrusion wasn't understood until Tuesday
 Sony's PlayStation Network was hacked in one of the largest internet security break-ins ever. Photograph: Yuriko Nakao/Reuters
-Last modified on Wednesday 23 December 2015 11.52EST
 Sony has admitted that it shut down its PlayStation Network last week because it discovered a "non-gaming" intrusion into the system, but had not realised until late on Tuesday  following forensic security testing  that the breach had led to the theft of the data of the 77 million users.
 Security analysts said that the problem may mean that hackers have uncovered a fundamental flaw in Sony's networks which will be expensive and time-consuming to fix.
 The company has suggested that an "unauthorised person" carried out the attack against its servers, during which usernames, passwords, credit card details, security answers, purchase history and addresses are believed to have been stolen.
@@ -20,9 +19,6 @@ Sony sought to explain to PlayStation owners why it has taken seven days to reve
 It was necessary to conduct several days of forensic analysis, and it took our experts until yesterday to understand the scope of the breach. We then shared that information with our consumers and announced it publicly yesterday evening."
 Sony has also produced an FAQ to inform gamers about the security breach. It reiterates the huge extent of the intrusion: names, addresses, birthdates, PSN passwords and credit card numbers for any of the network's 77 million customers who provided such information may have been acquired.
 With thousands of gamers livid that their details have been compromised, the Sony FAQ does briefly address the question of refunds on subscriptions and purchases: "When the full services are restored and the length of the outage is known, we will assess the correct course of action."
-or create your Guardian account to join the discussion.
-Were doing some maintenance right now. You can still read comments, but please come back later to add your own.
-Commenting has been disabled for this account (why?)
 Anonymous says Sony accusations over PlayStation Network hack are lies
 Activist group denies link with theft of up to 100m personal and credit card details, saying its aims are political
 Anonymous says Sony accusations over PlayStation Network hack are lies

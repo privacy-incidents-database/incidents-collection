@@ -1,5 +1,0 @@
-campaign: inyt2015_bar1_digi_usd_4L9UF -- 277474, creative: inyt2015_bar1_digi_buttononly_usd_4L9UF -- 406560, page: www.nytimes.com/archive/article/nyregion, targetedPage: www.nytimes.com/archive/article/nyregion, position: Bar1
-The New Jersey National Guard has been pulled off its latest patrol at Newark Liberty International Airport, which began under heightened terrorism concerns at the start of the Iraq war. A spokeswoman for the governor's office said the state had also taken troops off duty at bridges and tunnels but would keep them at nuclear power plants and use them to increase vehicle inspections on highways.
-Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
-New York Citys top public schools must become more diverse.
-campaign: nyt2014_edu_propensity_cookie_dropper -- 256873, creative: nyt2015_edu_personalized_isEDU_cookie_dropper -- 401071, page: www.nytimes.com/archive/article/nyregion, targetedPage: www.nytimes.com/archive/article/nyregion, position: Inv1
