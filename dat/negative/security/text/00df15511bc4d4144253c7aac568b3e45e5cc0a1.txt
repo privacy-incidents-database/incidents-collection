@@ -1,5 +1,4 @@
-campaign: inyt2016_bar1_digi_oct_6F8YR -- 284627, creative: 1_inyt2016_bar1_digi_oct_6F8YR_launch -- 415060,
-page: www.nytimes.com/archive/article/realestate, targetedPage: www.nytimes.com/archive/article/realestate, position: Bar1
+Campaign ID: 277474 | Creative: bar1_button_inyt_usd_4L9UF -- 413757 | Page: www.nytimes.com/archive/article/realestate / Targeted Page: www.nytimes.com/archive/article/realestate | Position: Bar1
 floor and raped, can the building owner be held liable for damages? If a rental tenant or shareholder is burglarized because of lax building security, can the landlord or co-op corporation be held responsible?
 A decade ago, these questions were of minor concern because few such cases were ever brought. But today owners and operators of office buildings, rental-apartment buildings, hotels, co-ops and condominiums are increasingly having to face such possibilities as the cases pile up and the courts find in favor of the plaintiffs.
 ''It's something nobody can afford to ignore any more,'' said Joseph Kelner, former president of the American and New York State Trial Lawyers Associations. Not only are such cases becoming commonplace, he said, but awards against owners are also reaching into many thousands of dollars.

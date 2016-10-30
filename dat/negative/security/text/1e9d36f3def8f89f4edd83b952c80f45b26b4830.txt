@@ -1,5 +1,4 @@
-campaign: inyt2016_bar1_digi_oct_6F8YR -- 284627, creative: 1_inyt2016_bar1_digi_oct_6F8YR_launch -- 415060,
-page: www.nytimes.com/archive/article/sports, targetedPage: www.nytimes.com/archive/article/sports, position: Bar1
+Campaign ID: 277474 | Creative: bar1_button_inyt_usd_4L9UF -- 413757 | Page: www.nytimes.com/archive/article/sports / Targeted Page: www.nytimes.com/archive/article/sports | Position: Bar1
 BaseballN.F.L.College FootballN.B.A.College BasketballHockeySoccerGolfTennis
 SPORTS SECURITY; Athletes' Safety: Drawing the Line
 Steffi Graf said yesterday that she would play in the Citizen Cup tournament in Hamburg, Germany, today despite an anonymous threat to harm her.

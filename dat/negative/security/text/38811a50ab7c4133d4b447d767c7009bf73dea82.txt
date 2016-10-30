@@ -1,6 +1,8 @@
 NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
 News about National Security Agency, including commentary and archival articles published in The New York Times.
 News about the National Security Agency, including commentary and archival articles published in The New York Times.
+N.S.A. Appears to Have Missed Big Red Flags in Suspects Behavior
+Harold T. Martin III kept his security clearance despite a record that included drinking problems, unpaid tax bills and an episode in which he posed as a police officer.
 An unlocked garden shed stuffed with classified documents might be a symptom of a mental disorder, a suspects lawyer said.
 Case of Former N.S.A. Contractor Escalates as Espionage Act Charges Loom
 A new filing said prosecutors plan to charge Harold T. Martin III with committing felonies, crimes that could put him in prison for decades if he is convicted.
@@ -36,8 +38,8 @@ U.S. Wrestles With How to Fight Back Against Cyberattacks
 The hacking into Democratic campaign computer systems is forcing the White House to confront a new question: whether, and if so how, to retaliate.
 Snowden and WikiLeaks Clash Over How to Disclose Secrets
 It was wrong to release data without curation, Edward J. Snowden said on Twitter. WikiLeaks accused him of currying favor with Clinton.
-U.S. Privacy and Civil Liberty Watchdog Faces Limits in Congress
-Some in Congress want to restrain the work of the Privacy and Civil Liberties Oversight Board, which guards against government intrusion into Americans lives.
+N.S.A. Appears to Have Missed Big Red Flags in Suspects Behavior
+Harold T. Martin III kept his security clearance despite a record that included drinking problems, unpaid tax bills and an episode in which he posed as a police officer.
 An unlocked garden shed stuffed with classified documents might be a symptom of a mental disorder, a suspects lawyer said.
 Case of Former N.S.A. Contractor Escalates as Espionage Act Charges Loom
 A new filing said prosecutors plan to charge Harold T. Martin III with committing felonies, crimes that could put him in prison for decades if he is convicted.
@@ -73,6 +75,4 @@ U.S. Wrestles With How to Fight Back Against Cyberattacks
 The hacking into Democratic campaign computer systems is forcing the White House to confront a new question: whether, and if so how, to retaliate.
 Snowden and WikiLeaks Clash Over How to Disclose Secrets
 It was wrong to release data without curation, Edward J. Snowden said on Twitter. WikiLeaks accused him of currying favor with Clinton.
-U.S. Privacy and Civil Liberty Watchdog Faces Limits in Congress
-Some in Congress want to restrain the work of the Privacy and Civil Liberties Oversight Board, which guards against government intrusion into Americans lives.
 Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.

@@ -1,6 +1,5 @@
 A PLAYWRIGHT WHO TAKES COMEDY VERY, VERY SERIOUSLY - NYTimes.com
-campaign: inyt2016_bar1_digi_oct_6F8YR -- 284627, creative: 1_inyt2016_bar1_digi_oct_6F8YR_launch -- 415060,
-page: www.nytimes.com/archive/article/theater, targetedPage: www.nytimes.com/archive/article/theater, position: Bar1
+Campaign ID: 277474 | Creative: bar1_button_inyt_usd_4L9UF -- 413757 | Page: www.nytimes.com/archive/article/theater / Targeted Page: www.nytimes.com/archive/article/theater | Position: Bar1
 ''Comedy,'' says Andrew Bergman, ''is a very delicate thing. There's nothing harder. It requires an enormous commitment from the audience.
 They must absolutely believe in the reality of the situation - and then you have to take them past it. But if they don't believe the characters, if they say, 'That's not real,' no matter what you do after that, they won't laugh. George Burns once said to me, 'You know, I never used comedians when I did my series. They're not funny. I only used actors. They could be funny. People wouldn't believe comedians could be real people.'
 ''Laughter is such an impulsive, emotional thing. It is such a commitment, it is such a vote of yes if it's real. Comedy isn't considered high art, but the joke is that to me it's the highest art of all, the most enduring. Laughter is never dated. If it's funny, it's as fresh as life, it is so life-enhancing - that's why people will be watching someone like Chaplin 500 years from now.''

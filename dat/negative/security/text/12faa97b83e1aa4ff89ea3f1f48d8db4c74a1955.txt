@@ -1,20 +1,23 @@
-campaign: nyt2016_bar1_digi_cpb_67LXL -- 283987, creative: nyt2016_bar1_digi_cpb_67LXL -- 414213,
-page: www.nytimes.com/archive/article/archives, targetedPage: www.nytimes.com/archive/article, position: Bar1
+Campaign ID: 277474 | Creative: bar1_button_inyt_usd_4L9UF -- 413757 | Page: www.nytimes.com/archive/article/archives / Targeted Page: www.nytimes.com/archive/article | Position: Bar1
 The first paragraph is not available for this article.
 Subscribers* enjoy full access to TimesMachineview 129 years of New York Times journalism, as it originally appeared.
 Or, download a high-resolution PDF of the individual article.
 * Does not include NYT Now or Premium Crosswords subscribers.
 Already a subscriber? Log in to view this article 
-The 282 People, Places and Things Donald Trump Has Insulted on Twitter: A Complete List
-Kathleen Kane, Former Pennsylvania Attorney General, Is Sentenced to Prison
-The Run-Up: What Drives Donald Trump? Fear of Losing Status, Tapes Show
-CMV Is a Greater Threat to Infants Than Zika, but Far Less Often Discussed
-Public Sacrifice: Think Your Retirement Plan Is Bad? Talk to a Teacher
-The 282 People, Places and Things Donald Trump Has Insulted on Twitter: A Complete List
-Kathleen Kane, Former Pennsylvania Attorney General, Is Sentenced to Prison
-The Run-Up: What Drives Donald Trump? Fear of Losing Status, Tapes Show
-We Need to Clean This Up: Clinton Aides Newly Public Email Shows Concern
-On Campus: Struggling to Serve at the Nations Richest University
-For Republicans Abandoning Donald Trump, Obama Has a Message: Too Late
+Uncertain Harvest: Doubts About the Promised Bounty of Genetically Modified Crops
+No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault
+Op-Ed Columnist: 3 TVs and No Food: Growing Up Poor in America
+The Culture Issue: Why Pop Culture Just Cant Deal With Black Male Sexuality
+Your Money: The School of Wants and Needs  and Wood-Fired Showers
+Hillary Clinton Assails James Comey, Calling Email Decision Deeply Troubling
+Table for Three: Rachel Maddow and Doris Kearns Goodwin on a Presidential Race for the History Books
+Emails in Anthony Weiner Inquiry Jolt Hillary Clintons Campaign
+A Scandal Too Far? Huma Abedin, Hillary Clinton, and a Test of Loyalty
+Emails in Anthony Weiner Inquiry Jolt Hillary Clintons Campaign
+Hillary Clinton Assails James Comey, Calling Email Decision Deeply Troubling
+Latest Upshot Poll Shows Trump With a Lead in Florida
+This Changes Everything: Donald Trump Exults as Hillary Clintons Team Scrambles
+Justice Dept. Strongly Discouraged Comey on Move in Clinton Email Case
+Trumps Going to Bake an Inauguration Cake Out of This
 Room for Debate asks whether shorefront homeowners should have to open their land to all comers.
 New York Citys top public schools must become more diverse.
