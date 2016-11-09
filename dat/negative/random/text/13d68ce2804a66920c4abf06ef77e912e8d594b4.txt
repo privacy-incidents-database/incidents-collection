@@ -1,5 +1,5 @@
-Immigrants for Donald Trump? Some in New York Show Their Support - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Immigrants for Donald Trump? Some in New York Show Their Support - 
+
 N.Y. / Region|Immigrants for Donald Trump? Some in New York Show Their Support
 Immigrants for Donald Trump? Some in New York Show Their Support
 From left, A.D. Amar, Anand Ahuja and Davendra Makkar, the founders of Indian-Americans for Trump 2016, in the atrium of Trump Tower in Manhattan last month.
@@ -14,7 +14,7 @@ She and the groups other members believe that current American policy is too fri
 An earlier version of this article misstated the year that Isaak Shikhman came to the United States from the Soviet Union. It was in 1989, not 1995, which was when he became a citizen.
 An earlier version of this article misstated the focus of an F.B.I. inquiry. The F.B.I. is investigating local religious schools, not the school district.
 A version of this article appears in print on April 8, 2016, on page A22 of the New York edition with the headline: Immigrants for Trump? In New York, Its Personal.
-Were interested in your feedback on this page. Tell us what you think.
+
 The latest news and analysis of the candidates and issues shaping the presidential race.
 Black Voters on Donald Trump: Weve Heard It All Before
 We Need to Clean This Up: Clinton Aides Newly Public Email Shows Concern
@@ -28,4 +28,4 @@ Hillary Clintons MetroCard Adventure: Swipe. Wince. Repeat.
 Donald Trump, Despite Bashing Beijing, Is Not Without Fans in China
 Trumps Softened Stance on Visas Alarms Some Immigration Critics
 More Latinos Seek Citizenship to Vote Against Trump
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

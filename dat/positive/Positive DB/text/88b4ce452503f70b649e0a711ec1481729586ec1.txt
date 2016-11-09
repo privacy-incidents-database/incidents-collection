@@ -1,5 +1,5 @@
-Web Upgrade HTML 5 May Weaken Privacy - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Web Upgrade HTML 5 May Weaken Privacy - 
+
 Media|New Web Code Draws Concern Over Privacy Risks
 Worries over Internet privacy have spurred lawsuits, conspiracy theories and consumer anxiety as marketers and others invent new ways to track computer users on the Internet. But the alarmists have not seen anything yet.In the next few years, a powerful new suite of capabilities will become available to Web developers that could give marketers and advertisers access to many more details about computer users online activities. Nearly everyone who uses the Internet will face the privacy risks that come with those capabilities, which are an integral part of the Web language that will soon power the Internet: HTML 5.The new Web code, the fifth version of Hypertext Markup Language used to create Web pages, is already in limited use, and it promises to usher in a new era of Internet browsing within the next few years. It will make it easier for users to view multimedia content without downloading extra software; check e-mail offline; or find a favorite restaurant or shop on a smartphone.Most users will clearly welcome the additional features that come with the new Web language.Its going to change everything about the Internet and the way we use it today, said James Cox, 27, a freelance consultant and software developer at Smokeclouds, a New York City start-up company. Its not just HTML 5. Its the new Web. Continue reading the main story
 But others, while also enthusiastic about the changes, are more cautious.Most Web users are familiar with so-called cookies, which make it possible, for example, to log on to Web sites without having to retype user names and passwords, or to keep track of items placed in virtual shopping carts before they are bought.
@@ -13,5 +13,5 @@ should agree on one control for eliminating all tracking capabilities at once. T
 For example, he said Opera once tried to put more controls on certain types of cookies, but users in Russia complained that the controls prevented a popular social networking site from working properly.
 But software developers and the representatives of the World Wide Web argue that as technology advances, consumers have to balance its speed and features against their ability to control their privacy.You can do more, but you need to be aware of how your information might be used or misused, Mr. Jacobs said. Its the human questions.
 A version of this article appears in print on October 11, 2010, on page A1 of the New York edition with the headline: Web Code Offers New Ways To See What Users Do Online.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

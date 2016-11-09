@@ -1,4 +1,4 @@
-Morning Agenda: Making a Blind Bet on Uber - The New York Times
+Morning Agenda: Making a Blind Bet on Uber - 
 Wealthy clients of Morgan Stanley are piling into a special fund that gives them a chance to bet on Uber,
 Leslie Picker and Peter Eavis report in DealBook. The fund, New Riders L.P., shows just how much some investors are willing to give up to gain a piece of the hottest start-up.
 Investors are effectively handing over their money with their eyes closed. A person briefed on the terms said that institutional investors were getting financial disclosures on revenue and expense metrics and projects, but the offering document for the New Riders fund that The Times reviewed provides no financial details about Uber.
@@ -7,7 +7,7 @@ But this has not prevented wealthy investors from committing about $500 million 
 Morgan Stanley is not the only one offering such funds. Bank of America Merrill Lynch is pitching a similar fund that requires an investment of at least $1 million and a net worth of $100 million, according to people briefed on the terms.
 It seems that even as valuations decline and the public stock market stumbles, a sense of euphoria still surrounds this particular unicorn, that is, a private company with a valuation of more than $1 billion.
 Martin Shkrelis grilling by Congress was just the spectacle that many were anticipating. Lawyers excoriated him, he smirked and smiled, but refused to answer questions.
-Mr. Shkreli repeatedly exercised his Fifth Amendment right to avoid self-incrimination, Andrew Pollack and Emmarie Huetteman report in The New York Times. He is facing federal securities fraud charges.
+Mr. Shkreli repeatedly exercised his Fifth Amendment right to avoid self-incrimination, Andrew Pollack and Emmarie Huetteman report in . He is facing federal securities fraud charges.
 Members of the House Committee on Oversight and Government Reform were infuriated. I dont think Ive ever seen the committee treated with such contempt, Representative John L. Mica, a Florida Republican, said after Mr. Shkreli left the hearing.
 After leaving the room, Mr. Shkreli promptly called the lawmakers imbeciles on Twitter.
 There was little substantive discussion about drug price increases. Lawmakers from both parties took turns berating Mr. Shkreli, Turing and Valeant.
@@ -20,7 +20,7 @@ The discussions come as Mattel tries to revive the Barbie brand after losing mar
 This is not the first time the companies have considered merging. Mattel withdrew a $5.2 billion offer for Hasbro 20 years ago after its competitor used the media and politicians to fight the takeover.
 The Labor Department will publish figures on hiring and unemployment in January at 8:30 a.m.
 Chinas push to make its own microchips, a move that could bolster its military capabilities and its homegrown technology industry, is attracting attention and suspicion in Washington,
-Paul Mozur and Jane Perlez report in The New York Times.
+Paul Mozur and Jane Perlez report in .
 United States officials blocked the proposed purchase of a controlling stake in a unit of the Dutch electronics company Philips by Chinese investors mainly because of worries over Chinas ambitions, according to an expert and a person involved in the deal discussions.
 Philips cited concerns raised by the Committee on Foreign Investment in the United States, or Cfius, which reviews whether foreign investments in the country present a national security risk.
 The blocking of the deal, worth as much as $2.9 billion, illustrates the

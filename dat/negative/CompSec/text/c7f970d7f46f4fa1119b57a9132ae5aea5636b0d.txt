@@ -1,5 +1,5 @@
-Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight - 
+
 Technology|Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight
 Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight
 The Apple store at Grand Central Terminal in New York.
@@ -11,7 +11,7 @@ The Justice Department also offered a robust defense of the All Writs Act, which
 The Justice Department noted in a footnote Thursday that it was appealing the Brooklyn ruling and that the order carried no weight as precedent in the California case.In another footnote, the Justice Departments tone also turned more ominous, suggesting that it might seek access to Apples source code and private electronic signatures if the company does not cooperate. That would go beyond what the government has previously requested, which is the companys help in weakening the iPhones defenses rather than any direct access to the technology.In a rebuttal to the governments filing, Mr. Sewell of Apple said in a conference call that a number of the governments charges in its latest brief were unfounded.Mr. Sewell said it was the first time ever that Apple had seen the government assert that it made modifications to specifically block law enforcement officials access to its devices. More disturbingly, he said, federal prosecutors used unidentified sources to raise the specter that Apple has a different relationship with China than with other countries.He said such accusations showed that the Justice Department is so desperate at this point that it has thrown all decorum to the winds.Mr. Sewell likened the Justice Departments comments on China to Apple arguing that the F.B.I. cannot be trusted because there are rumors that the bureau was behind the assassination of John F. Kennedy and citing conspiracytheory.com as its source.Everyone should beware, Mr. Sewell said, because it seems that disagreeing with the Department of Justice means you must be evil and un-American.On the actual merits of the dispute, Apples lawyers reiterated that the governments interpretation of the All Writs Act was simply wrong and that the authority the government seeks is breathtaking, essentially arguing that courts can order any private citizens or companies to do what the authorities want so long as there is jurisdiction.Apple will have another chance to rebut the Justice Departments case before a hearing scheduled for March 22 before Magistrate Judge Pym. No matter how she rules, the closely watched case is almost certain to be appealed to the district court, the Ninth Circuit Court of Appeals, and perhaps even the Supreme Court.
 Eric Lichtblau reported from Washington and Katie Benner from San Francisco.
 A version of this article appears in print on March 11, 2016, on page B1 of the New York edition with the headline: Apples Fight With U.S. Turns Up the Volume.
-Were interested in your feedback on this page. Tell us what you think.
+
 With Finality, F.B.I. Opts Not to Share iPhone-Unlocking Method
 F.B.I. Director Suggests Bill for iPhone Hacking Topped $1.3 Million
 F.B.I. Says It Needs Hackers to Keep Up With Tech Companies
@@ -23,4 +23,4 @@ Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
 Justice Dept. Appeals Ruling in Apple iPhone Case in Brooklyn
 Supreme Court Declines to Hear Apples Appeal in E-Book Pricing Case
 Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

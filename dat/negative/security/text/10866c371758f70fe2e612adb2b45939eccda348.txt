@@ -1,6 +1,6 @@
-Transportation Security Administration - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-News about Transportation Security Administration, including commentary and archival articles published in The New York Times.
+Transportation Security Administration - 
+
+News about Transportation Security Administration, including commentary and archival articles published in .
 Brace Yourself for a Busy Holiday Season at Airports
 Capping a year of lower ticket prices and growing numbers of passengers, the holidays could make airports more crowded than ever. It pays to start planning ahead.
 Preclearance at Foreign Airports Seen as a Necessity to Fight Terrorism
@@ -53,4 +53,4 @@ Peter V. Neffenger, the agencys administrator, removed Kelly Hoggan as part of a
 Because of a rise in the number of airline passengers and a drop in the number of screeners, the flying public is waiting much longer in security lines.
 T.S.A. Offers New Measures Intended to Cut Airport Gridlock This Summer
 The government authorized more overtime for screeners, faster hiring and more bomb-sniffing dogs in preparation for a busy summer travel season.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

@@ -1,4 +1,4 @@
-LastPass, a Password Service, Warns of Possible Hacking Attack - The New York Times
+LastPass, a Password Service, Warns of Possible Hacking Attack - 
 Adding more background and information from interview with the companys chief executive.
 LastPass, a service for managing passwords, said late Wednesday that out of concern about a possible hacking attack, it would force its more than 1 million users to change their master passwords, which they use to retrieve passwords for other sites across the Web.
 The news comes in the wake of several recent high-profile hacks of computer-security companies, including another maker of technology designed to make access to Web sites more secure, RSA Security.

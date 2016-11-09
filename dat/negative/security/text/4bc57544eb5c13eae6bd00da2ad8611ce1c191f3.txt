@@ -1,5 +1,5 @@
-Brussels Attacks Underscore Vulnerability of an Open European Society - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Brussels Attacks Underscore Vulnerability of an Open European Society - 
+
 Europe|Brussels Attacks Underscore Vulnerability of an Open European Society
 Brussels Attacks Underscore Vulnerability of an Open European Society
 Emergency workers on Rue de la Loi in central Brussels on Tuesday after an explosion at the Maelbeek subway station.
@@ -19,7 +19,7 @@ Maps and diagrams show the extent of the damage at the airport and subway statio
 It was unclear whether Tuesdays bombings were a response to Mr. Abdeslams arrest, or long in the works. In either case, said Alain Juillet, who helped reorganize the French external intelligence service as a top official there, its not surprising.
 Thats the only thing one can say, he said. We can easily see that Belgium has become a hub.So that when you arrest someone, there will be a reaction, Mr. Juillet said, referring to Mr. Abdeslam.All of this is to say that the implantation of the network is more firm than we thought, Mr. Juillet added. The police were efficient  and yet this happened. So, there is a very strong implantation in Belgium.But the fatal paradox for Europe is that on a border-free Continent, such problems play out transnationally. One countrys failures are necessarily amplified.Now the problems in Belgium are threatening not only lives across Europe, but also the Continents experiment at integration. Whether the European Union, with its commitment to open borders, is strong enough to withstand the strains on top of years of economic crisis already is an ever more open question.It seems that the clear targets of the attacks  an international airport, a metro station close to E.U. institutions  indicate that this terrorist attack is not aimed solely against Belgium, Germanys interior minister, Thomas de Maizire, said at a news conference in Berlin. But against our freedom, freedom of movement, mobility and everyone in the E.U.
 A version of this article appears in print on March 23, 2016, on page A1 of the New York edition with the headline: Strikes Heighten Fear of Intelligence Failures.
-Were interested in your feedback on this page. Tell us what you think.
+
 2 Brussels Police Officers Are Stabbed in Potential Terrorist Attack
 Belgiums Interior Minister Visits New York Police to Discuss Terror Threats
 In Brussels, Art Museum Brings Hope to Muslim Neighborhood of Molenbeek
@@ -32,4 +32,4 @@ Porous Borders and Calcified Security Aid Islamic State in Europe
 The Arrest of Salah Abdeslam, a Paris Suspect, Ends Manhunt, Not Questions
 Belgian Police Name Man Suspected of Being Salah Abdeslams Accomplice
 In Suspects Brussels Neighborhood, a History of Petty Crimes and Missed Chances
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

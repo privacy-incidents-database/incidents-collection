@@ -1,4 +1,4 @@
-Readers Respond: Password Hygiene and Headaches - The New York Times
+Readers Respond: Password Hygiene and Headaches - 
 My article on Thursday about password hygiene prompted many e-mails from readers, some detailing their own struggles with online security, others ready with tips the experts missed.
 One reader, Sean Hulbert, e-mailed to say he had spent 20 years in the security industry and occasionally taunted hackers to crack his passwords. To this day, I have not been hacked, he wrote. His secret? The Alt key.
 In addition to the experts tip that a long passphrase such as a song lyric or movie quote  should be used instead of a password and using only the first letter or letters of each word in the phrase, Mr. Hulbert said he makes his password stronger by translating the result using the Alt key. For example, assuming the site allows passwords with special characters, he might take this line from the film The Princess Bride  Hello. My name is Inigo Montoya. You killed my father. Prepare to die. and convert it into the 15 character password: HmNiImYkMfPtDie. Holding down the Alt key (on a Mac) as you type would make that password: .

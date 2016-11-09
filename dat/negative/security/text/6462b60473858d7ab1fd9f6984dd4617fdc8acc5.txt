@@ -1,6 +1,6 @@
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-News about Security Council, including commentary and archival articles published in The New York Times.
-News about the United Nations Security Council, including commentary and archival articles published in The New York Times.
+
+News about Security Council, including commentary and archival articles published in .
+News about the United Nations Security Council, including commentary and archival articles published in .
 Inquiry Blames Syrian Military for Another Chlorine Gas Attack
 The finding of an international investigation sets the stage for a showdown between Russia and Western members of the Council over how to respond.
 A Senior Russian Envoys Take on Relations With the United States: Pretty Bad
@@ -73,4 +73,4 @@ U.S. Releases Rules for Airstrike Killings of Terror Suspects
 The disclosure of the playbook for drone strikes further lifts the secrecy cloaking a much disputed tactic for fighting terrorism outside conventional war zones.
 Saudi Inclusion in List of Childrens Rights Violators Resurfaces at U.N.
 Two months after the Saudis persuaded Secretary General Ban Ki-moon to temporarily remove them from the list, the issue remains explosive.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

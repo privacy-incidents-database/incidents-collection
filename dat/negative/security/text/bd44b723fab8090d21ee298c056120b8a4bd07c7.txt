@@ -1,5 +1,5 @@
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-News about Home Security, including commentary and archival articles published in The New York Times.
+
+News about Home Security, including commentary and archival articles published in .
 New home-monitoring systems promise of peace of mind, but at what cost to your privacy?
 Short of a moat and a dragon, ways to make your family safe at home.
 Devices that might ease the mind of those who own second homes.
@@ -36,4 +36,4 @@ I have lived in a rent-regulated apartment for 25 years. I initially paid two mo
 What recourse is available when a security camera points at a neighboring building?
 Can capital improvements in a condominium building be added to the rent of rent-stabilized tenants?
 Attention homeowners: For $1,300 (or more), you can set a robot loose on your lawn.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

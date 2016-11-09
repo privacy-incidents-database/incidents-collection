@@ -1,4 +1,4 @@
-Gawker Passwords Hacked: What Users Should Do - The New York Times
+Gawker Passwords Hacked: What Users Should Do - 
 A notice from Gawker Media, alerting users to the fact that 1.3 million accounts were hacked.
 On Sunday, Gawker Media, parent company of popular sites like Gawker, Gizmodo, Lifehacker and Jezebel, announced that its user database had been compromised and that 1.3 million usernames and passwords were now in the hands of hackers, although not all of that information had been decrypted (read the related Times article here).
 Some people may be asking: Why would people have a Gawker account? While anyone can go to any Gawker Media site and read its content, the company does require users to register with the site in order to post comments (lots of sites, including this one, have a similar policy).

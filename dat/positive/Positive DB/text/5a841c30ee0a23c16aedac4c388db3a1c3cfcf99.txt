@@ -1,5 +1,5 @@
-White House Seeks to Clarify F.B.I. Powers vis--vis E-Mail - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+White House Seeks to Clarify F.B.I. Powers vis--vis E-Mail - 
+
 U.S.|White House Seeks to Clarify F.B.I. Powers vis--vis E-Mail
 White House Seeks to Clarify F.B.I. Powers vis--vis E-Mail
 WASHINGTON  The Obama administration has asked Congress to give clear authority to the Federal Bureau of Investigation to obtain records related to the context of e-mails and other Internet-based communications without first obtaining a warrant from a judge.Some advocates of electronic privacy have raised alarms about the proposal, saying it could expand government eavesdropping on computer activity without court oversight. Senator Patrick J. Leahy, Democrat of Vermont and chairman of the Senate Judiciary Committee, said Thursday that the proposal raised serious privacy and civil liberties concerns.The administration portrays its proposal, first reported by The Washington Post, as a mere technical fix to clarify a confusingly written statute and says it would not grant the F.B.I. any new powers. It says that F.B.I. agents have been requesting such information for years and that most Internet service providers routinely provide it.The statute as written causes confusion and the potential for unnecessary litigation, said Dean Boyd, a Justice Department spokesman. This clarification will not allow the government to obtain or collect new categories of information, but it seeks to clarify what Congress intended when the statute was amended in 1993.Specifically, administration officials have asked Congress to include a provision in the 2011 intelligence authorization bill modifying the Electronic Communications Privacy Act, which forbids companies that handle electronic communications  including Internet service providers and Web-based companies like Google  to reveal customer information without a court warrant.
@@ -16,5 +16,5 @@ that most companies agree with that interpretation and have routinely turned ove
 records when requested.At least one company has balked,
 though, saying it feared a lawsuit for illegally turning over private information. The
 A version of this article appears in print on July 30, 2010, on page A15 of the New York edition with the headline: White House Seeks to Clarify F.B.I. Powers vis--vis E-Mail.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

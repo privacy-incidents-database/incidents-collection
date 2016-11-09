@@ -1,5 +1,5 @@
-U.A.E. Moves to Block BlackBerry Services - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+U.A.E. Moves to Block BlackBerry Services - 
+
 Global Business|Emirates to Cut Data Services of BlackBerry
 About 500,000 people in the United Arab Emirates use BlackBerrys, many of them in Dubai, a major business hub.
 The United Arab Emirates, citing security concerns, said Sunday that it would suspend BlackBerry mobile services like e-mail and text messaging beginning in October, the latest high-stakes clash between governments and communications providers over the flow of digital information.The Emirates have
@@ -17,5 +17,5 @@ was actually spyware.Independent sources have concluded that Etisalats Registrat
 An earlier version of this article misidentified Dubai as the capital of the United Arab Emirates.
 Reporting was contributed by Ian Austen, Landon Thomas Jr., Mona El-Naggar, Joseph Berger, Miguel Helft and Kareem Fahim.
 A version of this article appears in print on August 2, 2010, on page A1 of the New York edition with the headline: Emirates to Cut Data Services Of BlackBerry.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

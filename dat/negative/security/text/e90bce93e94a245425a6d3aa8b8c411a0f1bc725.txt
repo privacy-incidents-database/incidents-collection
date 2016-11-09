@@ -1,5 +1,5 @@
-Richer Retirement Accounts Aid Small Employers - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Richer Retirement Accounts Aid Small Employers - 
+
 Small Business|Richer Retirement Accounts Aid Small Employers
 COMBING through this years tax and pension laws, leading tax professionals have identified provisions and strategies that small businesses can use to their advantage.The Pension Protection Act of 2006 made permanent a number of enhancements to individual retirement accounts and defined-contribution retirement plans, including 401(k) and Simple plans, which are popular with small businesses. The enhancements, enacted in 2001, are scheduled to expire after 2010, leaving businesses reluctant to make changes that might be temporary.
 Since 2001, planning has been precarious at best, said Paul N. Gada, a lawyer and senior tax analyst at CCH, a publisher of books and software for tax professionals. Now that uncertainty has been removed, it should have a positive impact, encouraging businesses to set up and improve plans.Among the permanent enhancements cited by CCH are: Higher dollar limits for contributions. For I.R.A.s they will be $4,000 this year, $5,000 in 2008 and inflation-adjusted in future years. For 401(k)s they will be $15,000 this year,
@@ -13,5 +13,5 @@ The Tax Increase Prevention and Reconciliation Act, which President Bush signed 
 office work, he said, and most businesspeople want their children to learn their business, so the advantages go
 beyond taxes.Mr. Kess gave this example: Lets say youre in the 28 percent bracket. You hire your child and pay $9,150. You deduct the wages on Schedule C, saving $2,562 in income tax and $1,400 in self-employment tax, for a total tax savings of $3,962. The child takes the standard deduction of $5,150, so taxable income is $4,000, and the tax on that is $403, meaning the family tax savings is $3,559. Or the child can contribute $4,000 to a deductible I.R.A. and pay no tax.Unlike incorporated businesses, people with unincorporated businesses do not have to withhold Social Security and Medicare taxes when they hire their minor children.Despite all the changes, one important issue for small business remains uncertain  estate taxes. Something will be done before 2010, Mr. Gada said, but right now business owners do not know what it will be, and that makes planning
 A version of this article appears in print on , on page SPG4 of the New York edition with the headline: Richer Retirement Accounts Aid Small Employers.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

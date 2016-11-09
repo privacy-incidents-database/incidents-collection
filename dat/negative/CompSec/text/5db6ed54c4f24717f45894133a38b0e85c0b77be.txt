@@ -1,4 +1,4 @@
-Lion's Upgraded, Robust Security Features - The New York Times
+Lion's Upgraded, Robust Security Features - 
 New bells and whistles arent the only reason to upgrade to Lion. The new version of Apples operating system for the Mac also includes updated security features.
 Macs have long been safer than Windows PCs, because they are very rarely chosen for attacks, probably because of the Macs much smaller market share and to crooks extensive expertise in writing malware for Windows. But now, they are also more secure than PCs, thanks to several crucial security improvements in the operating system itself, Mac OS X 10.7 ($30 download from the Mac App store).
 So says Dino A. Dai Zovi, an independent security consultant. Those operating system features now put Lion ahead of Windows 7, the latest version Microsofts operating system, whose leadership was forged from the fire of relentless attacks by hackers and malware writers, he says.

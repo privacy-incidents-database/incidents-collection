@@ -1,5 +1,5 @@
-Competing Interests on Encryption Divide Top Obama Officials - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Competing Interests on Encryption Divide Top Obama Officials - 
+
 Politics|Competing Interests on Encryption Divide Top Obama Officials
 Competing Interests on Encryption Divide Top Obama Officials
 By MICHAEL D. SHEAR and DAVID E. SANGERMARCH 5, 2016
@@ -10,9 +10,9 @@ Less than a day later, Defense Secretary Ashton B. Carter, talking to technologi
 James B. Comey Jr., director of the F.B.I., which wants the ability to break into iPhones and other encrypted devices to assist in investigations.
 In a statement, the White House said on Friday that our policy on encryption is clear. But the policy it described delineated the differing positions rather than resolving them.The United States government firmly supports the development and robust adoption of strong encryption, which is a key tool to secure commerce and trade, safeguard private information, promote free expression and association, it said. At the same time, encryption poses a grave challenge for our national security and law enforcement professionals.But officials from the National Security Agency, the Department of Homeland Security and the Pentagon describe meetings in the White House Situation Room that go over the same territory, and in the end cannot find a middle ground.The arguments were touched off two and a half years ago, with the revelations by Edward J. Snowden, the N.S.A. contractor, that the agency had gone to some lengths to undercut encryption.There was evidence  none confirmed, or discussed by the Obama administration  that the N.S.A. had gained access to the unencrypted communications of servers around the world owned by Google and others to tap into foreign communications. There were suggestions that it had also tampered with the products of a foreign manufacturer of SIM cards, which go into every mobile telephone, to make it easier to intercept calls and emails.
 The issues were taken up by a presidential commission that included legal scholars and intelligence experts, like Michael J. Morell, the former deputy director of the C.I.A., and Richard A. Clarke, a former senior national security official in the Clinton and Bush administrations who now works in cybersecurity. Their conclusion was unambiguous in opposing the building of so-called back doors for encrypted devices.
-First Draft Political news and analysis from the staff of The New York Times.
+First Draft Political news and analysis from the staff of .
 Please verify you're not a robot by clicking the box.
-Receive occasional updates and special offers for The New York Times's products and services.
+Receive occasional updates and special offers for 's products and services.
 The commission told President Obama that the United States government should not in any way subvert, undermine, weaken or make vulnerable generally available commercial software, and it urged more companies to adapt such systems.Last month, Admiral Michael S. Rogers, commander of the United States Cyber Command  the Pentagons digital arm, which both protects the Defense Departments networks and conducts offensive action  as well as director of the N.S.A., echoed that view in remarks to the Atlantic Council.The view of Admiral Rogers, many experts say, may be affected by the fact that his agency has the best code-cracking capabilities in the world, and he does not need to make public what systems he is already inside. Because he cracks the codes of foreign adversaries (and more than a few allies), he does not need a warrant, as Mr. Comey does. And his agencys less publicized job is securing the governments most vital secrets.
 Breaking Down Apples iPhone Fight With the U.S. Government
 The technology company has been locked in a major legal battle against law enforcement officials over privacy and security.
@@ -20,7 +20,7 @@ With more and more government communications relying on mobile devices, includin
 Commerce Department officials have made the point that if Congress ultimately mandates that all encrypted products must be accessible to investigators, it will be a boon to foreign producers of encryption hardware and software. And there are a lot of them.Bruce Schneier, a cybersecurity expert, published a study recently that said there were at least 865 hardware or software products incorporating encryption from 55 different countries. After the United States, Germany tops the list with 112. Most products, Mr. Schneier said recently, are as good as what you would find in the United States.But so far users are not flocking to them in mass numbers for a simple reason: For novices, they can be hard to use.
 Apples design is of particular concern to the F.B.I. because the encryption is automatic; users do not have to do a thing to make it work. As a recent Harvard study about the problem of going dark  when law enforcement can no longer get access to evidence because of technological advances  pointed out, the more times users have to manipulate the programs, the greater the opportunity for error.Which is exactly what the F.B.I. is hoping for.
 A version of this article appears in print on March 6, 2016, on page A1 of the New York edition with the headline: Apple Battle Bares Fissure in U.S. Policy.
-Were interested in your feedback on this page. Tell us what you think.
+
 U.N. Rights Chief Says Unlocking Gunmans iPhone Could Open Pandoras Box
 At RSA Conference, Unlikely Allies Address Value of Digital Security
 Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
@@ -30,4 +30,4 @@ Model in Gucci Ad Is Deemed Unhealthily Thin by British Regulator
 U.N. Rights Chief Says Unlocking Gunmans iPhone Could Open Pandoras Box
 At RSA Conference, Unlikely Allies Address Value of Digital Security
 Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

@@ -1,5 +1,5 @@
-Apple Goes to Court, and F.B.I. Presses Congress to Settle iPhone Privacy Fight - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Apple Goes to Court, and F.B.I. Presses Congress to Settle iPhone Privacy Fight - 
+
 Technology|Apple Goes to Court, and F.B.I. Presses Congress to Settle iPhone Privacy Fight
 Apple Goes to Court, and F.B.I. Presses Congress to Settle iPhone Privacy Fight
 By KATIE BENNER, ERIC LICHTBLAU and NICK WINGFIELDFEB. 25, 2016
@@ -15,7 +15,7 @@ Even as Apple was preparing to formally respond to the court, other technology c
 The leading computing device from that era is right in front of me, he said.Press officials from Google, Facebook and Twitter confirmed that the tech companies would be filing a joint brief supporting Apple. Yahoo said it also would file a brief.Last week, Googles chief executive, Sundar Pichai, wrote on Twitter that law enforcement demands to hack customer devices and data could be a troubling precedent. Jack Dorsey, Twitters chief executive, also wrote on Twitter in support of Apple. This week, Facebooks chief executive, Mark Zuckerberg, also said he supported Apple.I dont think building back doors is the way to go, so were pretty sympathetic to Tim and Apple, Mr. Zuckerberg said.It is unlikely that a divided, gridlocked Congress will offer clear answers to questions about security and privacy anytime soon. Several lawmakers who questioned Mr. Comey on Thursday said that they werent sure where to draw the line between consumer privacy and the needs of law enforcement.Obama administration officials had drafted legislation in 2011 that sought to address the privacy issues now being raised, but the proposals were effectively shelved after the former government contractor Edward J. Snowden leaked information about the governments mass surveillance programs.Next Tuesday, the House Judiciary Committee will hold a hearing titled The Encryption Tightrope: Balancing Americans Security and Privacy. Those set to testify include Bruce Sewell, Apples general counsel, along with Mr. Comey and the Manhattan district attorney, Cyrus R. Vance Jr.
 Katie Benner and Nick Wingfield reported from San Francisco and Eric Lichtblau from Washington. Cecilia Kang, Vindu Goel and Conor Dougherty contributed.
 A version of this article appears in print on February 26, 2016, on page B1 of the New York edition with the headline: Apple Goes to Court, and the F.B.I. Presses Congress to Settle iPhone Privacy Fight.
-Were interested in your feedback on this page. Tell us what you think.
+
 Apple Is Said to Be Trying to Make It Harder to Hack iPhones
 Apple Is Said to Be Trying to Make It Harder to Hack iPhones
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

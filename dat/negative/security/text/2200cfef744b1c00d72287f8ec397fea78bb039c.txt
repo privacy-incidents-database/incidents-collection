@@ -1,6 +1,6 @@
-Social Security Administration - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-News about Social Security Administration, including commentary and archival articles published in The New York Times.
+Social Security Administration - 
+
+News about Social Security Administration, including commentary and archival articles published in .
 Social Security Retreats From Cellphone-Based Online Security
 The change means users can log on to their online mySocialSecurity accounts as before, with just a username and password.
 Social Security Now Requires Cellphone to Use Online Services
@@ -73,4 +73,4 @@ Student Loan Debt Burdens More Than Just Young People
 About two million Americans age 60 and older are in debt from unpaid student loans, according to data from the Federal Reserve Bank of New York.
 Ex-Police Officer Pleads Guilty to Playing Role in a Disability Fraud Scheme
 Prosecutors said Joseph Esposito was one of four men who helped scores of police officers, firefighters and other New York City workers bilk the government out of more than $27 million.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

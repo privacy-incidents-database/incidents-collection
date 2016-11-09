@@ -1,5 +1,5 @@
-Strikes Claimed by ISIS Shut Brussels and Shake European Security - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Strikes Claimed by ISIS Shut Brussels and Shake European Security - 
+
 Europe|Strikes Claimed by ISIS Shut Brussels and Shake European Security
 Strikes Claimed by ISIS Shut Brussels and Shake European Security
 By ALISSA J. RUBIN, AURELIEN BREEDEN and ANITA RAGHAVANMARCH 22, 2016
@@ -21,7 +21,7 @@ Few countries have been more vulnerable than Belgium. Among European countries, 
 Mr. Carroll said he had remained on the ground for one or two minutes, then got up, pried open a door of the subway car with his hands and fled.I thought to myself, Ive got to get out of here, he said. I headed toward an exit. There was smoke and soot everywhere. There was glass everywhere. It was like running through a cloud of dust. I saw the exit of the station was destroyed. I ran out of the station; I ran as far as I could.
 Reporting was contributed by Dan Bilefsky and James Kanter from Brussels; Prashant Rao from London; Lilia Blaise, Nicola Clark, Benot Morenne and Milan Schreuer from Paris; Rukmini Callimachi and Rick Gladstone from New York; and Julie Hirschfeld Davis from Havana.
 A version of this article appears in print on March 23, 2016, on page A1 of the New York edition with the headline: Brussels Attacks Shake European Security.
-Were interested in your feedback on this page. Tell us what you think.
+
 2 Brussels Police Officers Are Stabbed in Potential Terrorist Attack
 Belgiums Interior Minister Visits New York Police to Discuss Terror Threats
 In Brussels, Art Museum Brings Hope to Muslim Neighborhood of Molenbeek
@@ -30,4 +30,4 @@ Brothers Among 3 Brussels Suicide Attackers; Another Assailant Is Sought
 Brussels Attacks Underscore Vulnerability of an Open European Society
 Brothers Among 3 Brussels Suicide Attackers; Another Assailant Is Sought
 Brussels Attacks Underscore Vulnerability of an Open European Society
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

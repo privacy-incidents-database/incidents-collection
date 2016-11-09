@@ -1,5 +1,5 @@
-Brussels Attacks Rekindle Debate Over Airport Security - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Brussels Attacks Rekindle Debate Over Airport Security - 
+
 Europe|Brussels Attacks Rekindle Debate Over Airport Security
 Brussels Attacks Rekindle Debate Over Airport Security
 Passengers at a checkpoint at Hartsfield-Jackson Atlanta International Airport. The federal and local authorities share the task of securing public areas of airports.
@@ -13,12 +13,12 @@ Maps and diagrams show the extent of the damage at the airport and subway statio
 There are countries where people have to present their passport and ticket at the airport entrance, Mr. Shanks said. That is designed to keep out non-travelers, but it wont keep out a bomber, because bombers can still buy tickets.Such an approach also assumes that the employees charged with performing those checks are appropriately trained to spot a potential threat.Sadly, at many airports where I have seen screening on entry, the staff performing this havent actually been very efficient or effective, Mr. Shanks said. If you are a potential bomber, you can monitor how well people are doing their job and exploit those weaknesses.Others warned that adding security choke points outside airport terminals, rather than diminishing the threat, might simply move it to another area.If you look at the areas of the world that have experience with suicide bombers, they often tend to blow themselves up at security checkpoints, where there are lots of people standing densely packed together, said Philip Baum, managing director of Green Light, an aviation security consulting firm in London. If we start creating more queues of people to go through more checks, we just create new targets.Security experts have long argued that the most effective way to diminish threats to airports and other large public spaces involves a combination of tools, including greater use of surveillance cameras, bomb-sniffing dogs and, in particular, training more security personnel in the use of behavior-monitoring techniques.At the moment most airport security check points are about identifying prohibited items, Mr. Baum said. So much time is spent taking liquids and aerosols and gels off of people who pose absolutely no threat, rather than differentiating between people and recognizing that different people pose different threats.
 Todays Headlines: European Morning Get news and analysis from Europe and around the world delivered to your inbox every day in the European morning.
 Please verify you're not a robot by clicking the box.
-Receive occasional updates and special offers for The New York Times's products and services.
+Receive occasional updates and special offers for 's products and services.
 Mr. Kasprisin, the former T.S.A. official, said officials should increase the number of bomb-sniffing dogs and the use plainclothes or uniformed officers who monitor crowds for suspicious behavior. He said airports should also invest in technologies that can, among other things, detect changes in the behavior of people in crowds.
 This doesnt mean that you are going to stop them all, but you can have an impact, Mr. Kasprisin said.But the use of behavior analysis remains controversial in many countries. Civil rights groups argued that the approach is too subjective and risks exposing some travelers to unwarranted profiling based on their race or ethnicity.Mr. Shanks, the former Heathrow security chief, argued that closer analysis of the suspects in the Brussels attacks as they entered the departure hall could have raised suspicions for a properly trained security officer.Images from the airports closed-circuit television cameras, Mr. Shanks noted, showed that two of the three suspects wore single black gloves on their left hands, and that none of them appeared to have any hand luggage in addition to the bags they had loaded onto airport trolleys.Someone who is trained in behavioral analysis would have found that unusual and probably would have flagged the men for additional screening, Mr. Shanks said.Ultimately, analysts said, the debate over how or whether to further enhance airport security forms part of the broader political discussion in Europe and elsewhere about how to strike the appropriate balance between safety and liberty.It is certainly possible to implement security to such a point that your free society grinds to a halt, said Simon A. Bennett, director of the civil safety and security unit of the University of Leicester in England.In theory, we could decide to have people queuing up outside the terminals, Mr. Bennett continued. We could strip and cavity-search every flier. But who wants to be cavity-searched just to be able to travel where we want?
 Nicola Clark reported from Paris, and Ron Nixon from Washington.
 A version of this article appears in print on March 24, 2016, on page A12 of the New York edition with the headline: Assaults Fuel Debate Over Benefits and Limits of Airport Security.
-Were interested in your feedback on this page. Tell us what you think.
+
 2 Brussels Police Officers Are Stabbed in Potential Terrorist Attack
 Belgiums Interior Minister Visits New York Police to Discuss Terror Threats
 In Brussels, Art Museum Brings Hope to Muslim Neighborhood of Molenbeek
@@ -33,4 +33,4 @@ Strikes Claimed by ISIS Shut Brussels and Shake European Security
 As Siblings Again Unite to Unleash Terror, Experts Ask What Drives Them
 A Quandary for Europe: Fighting a War on ISIS Within Its Borders
 Brussels Attacks Underscore Vulnerability of an Open European Society
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

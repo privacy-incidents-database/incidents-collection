@@ -1,5 +1,5 @@
-How Tim Cook, in iPhone Battle, Became a Bulwark for Digital Privacy - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+How Tim Cook, in iPhone Battle, Became a Bulwark for Digital Privacy - 
+
 Technology|How Tim Cook, in iPhone Battle, Became a Bulwark for Digital Privacy
 How Tim Cook, in iPhone Battle, Became a Bulwark for Digital Privacy
 Timothy D. Cook, Apples chief, testifying before Congress in 2013. We feel we must speak up in the face of what we see as an overreach by the U.S. government, he wrote in an open letter published this week.
@@ -12,7 +12,7 @@ Mr. Cooks views on privacy hardened over time as customers globally began entrus
 For officials at the worlds law enforcement agencies, the new software was a clear signal that Apple was growing defiant. A month after iOS8s release, James Comey, the director of the F.B.I., told an audience at the Brookings Institution that Apple had gone too far with the expanded encryption, arguing that the operating system effectively sealed off any chance of tracking kidnappers, terrorists and criminals.Government agencies began to press Apple and other tech companies for so-called back doors that could bypass strong security measures. With tensions rising, some form of technical compromise  whether in the form of a chip, a back door or a key  was off the table by 2015.At Apple, Mr. Cook and others continued to work with investigators to the extent the company could and complied with court orders. Last October, a federal judge in New York said the government was overstepping its boundaries by using a centuries-old law, the All Writs Act, as the basis for its request that Apple open an iPhone for a drug investigation. Apples lawyer sided with the judge in the case. The matter has not been resolved.After Decembers San Bernardino attack, Apple worked with the F.B.I. to gather data that had been backed up to the cloud from a work iPhone issued to one of the assailants, according to court filings. When investigators also wanted unspecified information on the phone that had not been backed up, the judge this week granted the order requiring Apple to create a special tool to help investigators more easily crack the phones passcode and get into the device.Apple had asked the F.B.I. to issue its application for the tool under seal. But the government made it public, prompting Mr. Cook to go into bunker mode to draft a response, according to people privy to the discussions, who spoke on condition of anonymity. The result was the letter that Mr. Cook signed on Tuesday, where he argued that it set a dangerous precedent for a company to be forced to build tools for the government that weaken security.Compromising the security of our personal information can ultimately put our personal safety at risk, he wrote. That is why encryption has become so important to all of us.Far from backing down from the fight, Mr. Cook has told colleagues that he still stands by the companys longstanding plans to encrypt everything stored on Apples myriad devices, services and in the cloud, where the bulk of data is still stored unencrypted.If you place any value on civil liberties, you dont do what law enforcement is asking, Mr. Cook has said.
 An earlier version of this article misstated the service Apple provided to law enforcement authorities. It extracted data from iPhones; it did not unlock them.
 A version of this article appears in print on February 19, 2016, on page A1 of the New York edition with the headline: For Apples C.E.O., a Journeyto Bulwark for Digital Privacy.
-Were interested in your feedback on this page. Tell us what you think.
+
 With Finality, F.B.I. Opts Not to Share iPhone-Unlocking Method
 F.B.I. Director Suggests Bill for iPhone Hacking Topped $1.3 Million
 F.B.I. Says It Needs Hackers to Keep Up With Tech Companies
@@ -26,4 +26,4 @@ Apples Line in the Sand Was Over a Year in the Making
 Apples Stance Highlights a More Confrontational Tech Industry
 Apple Fights Order to Unlock San Bernardino Gunmans iPhone
 Why Apple Is Right to Challenge an Order to Help the F.B.I.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

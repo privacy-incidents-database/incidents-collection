@@ -1,4 +1,4 @@
-A Loophole Big Enough for a Cookie to Fit Through - The New York Times
+A Loophole Big Enough for a Cookie to Fit Through - 
 If you rely on Microsofts Internet Explorers privacy settings to control cookies on your computer, you may want to rethink that strategy.
 Large numbers of Web sites, including giants like Facebook, appear to be using a loophole that circumvents I.E.s ability to block cookies, according to researchers at CyLab at the Carnegie Mellon University School of Engineering.
 A technicalpaper (note: clicking on the link will initiate a download of a pdf) published by the researchers says that a third of the more than 33,000 sites they studied have technical errors that cause I.E. to allow cookies to install, even if the browser has been set to reject them. Of the 100 most visited destinations on the Internet, 21 sites had the errors, including Facebook, several of Microsofts own sites, Amazon, IMDB, AOL, Mapquest, GoDaddy and Hulu.

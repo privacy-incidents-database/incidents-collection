@@ -1,5 +1,5 @@
-Why Airline Hijackings Became Relatively Rare - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Why Airline Hijackings Became Relatively Rare - 
+
 Middle East|Why Airline Hijackings Became Relatively Rare
 An artists rendering of the hijacker known as D. B. Cooper was made from the recollections of passengers and crew members on an airplane hijacked between Portland, Ore., and Seattle in 1971.
 Federal Bureau of Investigation, via Associated Press
@@ -13,7 +13,7 @@ That weakness was exploited on Sept. 11, 2001, when four domestic United States 
 The Sept. 11 attacks prompted a new wave of tighter precautions. Airport security and screening in the United States were centralized under the new Department of Homeland Security. Airlines trained their crews to be more vigilant about violent or unruly passengers and to deal with them more effectively. Cockpit doors were reinforced and kept locked in flight.Those steps and others have made hijacking a higher-risk proposition over the past 15 years, said Philip Baum, the managing director of Green Light, an aviation security consulting firm in London, and the author of a recently published history of aircraft hijackings and bombings.There has definitely been a change of mind-set, Mr. Baum said. Since Sept. 11, they now can expect that the response from aircrew and passengers might be far more aggressive.Hijackings still occur, however  and the hijackers are not always passengers. In 2000, a Saudi Arabian Airlines flight to London from Jidda was hijacked by two airport guards, both Saudi citizens, who forced the pilots to divert the plane to Baghdad. In 2014, the co-pilot of an Ethiopian Airlines jet locked the captain out of the cockpit during a flight to Rome from Addis Ababa and diverted the plane to Geneva, where he requested asylum.Analysts say that enough doubt remains about the thoroughness of security at some airports that aircrews cannot confidently call a would-be hijackers bluff about having a weapon.Today you can hijack an aircraft with just words, said Mr. Shanks, the former Heathrow security manager. All it takes is that uncertainty.
 An earlier version of this article referred incorrectly to the DC-3 airliner Mira Slovak flew to Frankfurt in 1953. It was a propeller-driven plane, not a jet.
 A version of this article appears in print on March 30, 2016, on page A7 of the New York edition with the headline: Why Security Breaches Have Become Relatively Rare .
-Were interested in your feedback on this page. Tell us what you think.
+
 No One Hurt as EgyptAir Flight Is Forced to Cyprus in a Hijacking From the Heart
 Understand the world better with our primers and pointers about the news.
 What New Rules on Retirement Savings Mean for Investors
@@ -21,4 +21,4 @@ Interview With a Fed Dissident: The Sole Vote to Raise Interest Rates
 If Cruz Keeps This Pace, Trump Wont Get a Majority of Delegates
 Morning Agenda: Pfizer Said to Call Off Merger With Allergan
 No One Hurt as EgyptAir Flight Is Forced to Cyprus in a Hijacking From the Heart
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

@@ -1,4 +1,4 @@
-Apple Strengthens iCloud Security With 2-Step Authentication - The New York Times
+Apple Strengthens iCloud Security With 2-Step Authentication - 
 Apple Strengthens iCloud Security With 2-Step Authentication
 Apple Strengthens iCloud Security With 2-Step Authentication
 Apple on Thursday rolled out a tool that strengthens password security for Apple accounts: two-step verification, a feature widely available for many Web services.

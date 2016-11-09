@@ -1,5 +1,5 @@
-Judge Tells Apple to Help Unlock iPhone Used by San Bernardino Gunman - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Judge Tells Apple to Help Unlock iPhone Used by San Bernardino Gunman - 
+
 U.S.|Judge Tells Apple to Help Unlock iPhone Used by San Bernardino Gunman
 Judge Tells Apple to Help Unlock iPhone Used by San Bernardino Gunman
 Timothy D. Cook, the chief executive of Apple, released a letter to customers several hours after a California judge ordered the company to unlock an iPhone used by one of the shooters in a recent attack that killed 14 people in San Bernardino.
@@ -10,7 +10,7 @@ For many years, we have used encryption to protect our customers personal data b
 Prosecutors have made a solemn commitment to the victims and their families that we will leave no stone unturned as we gather as much information and evidence as possible, Ms. Decker said.James B. Comey, the F.B.I. director, has been at odds with Apple and other technology companies for months over whether they should provide de-encryption technology for their products. Without it, he has argued, the bureau is at risk of going dark in its investigations. The Democratic presidential candidate Hillary Clinton and most of the Republican hopefuls support Mr. Comeys stance.Apple and other technology companies say that creating an opening in their products for government investigators would also create a vulnerability that Chinese, Iranian, Russian or North Korean hackers could exploit.Apple, arguing in December against a British proposal that could force it to provide the government with a way into iPhone communications, said the dispute should not be seen as an all-or-nothing proposition for law enforcement.Nothing could be further from the truth, Apple argued. Law enforcement today has access to more data  data which they can use to prevent terrorist attacks, solve crimes and help bring perpetrators to justice  than ever before in the history of our world.
 Apple said that we believe it would be wrong to weaken security for hundreds of millions of law-abiding customers so that it will also be weaker for the very few who pose a threat.
 A version of this article appears in print on February 17, 2016, on page A16 of the New York edition with the headline: Judge Tells Apple to Help Unlock Gunmans iPhone.
-Were interested in your feedback on this page. Tell us what you think.
+
 After a Massacre, San Bernardino Police Stare Down Crippling Cuts
 Enrique Marquez Pleads Not Guilty in San Bernardino Massacre Case
 Help Sought to Close 18-Minute Gap in San Bernardino Inquiry
@@ -21,4 +21,4 @@ Enrique Marquez Pleads Not Guilty in San Bernardino Massacre Case
 Help Sought to Close 18-Minute Gap in San Bernardino Inquiry
 Visa Form Adds Details on How San Bernardino Attacker Met Wife
 San Bernardino Shooting Kills at Least 14; Two Suspects Are Dead
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

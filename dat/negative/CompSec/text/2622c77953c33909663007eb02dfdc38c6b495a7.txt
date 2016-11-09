@@ -1,4 +1,4 @@
-Daily Report: Simple Flaw Allowed JPMorgan Computer Breach - The New York Times
+Daily Report: Simple Flaw Allowed JPMorgan Computer Breach - 
 Daily Report: Simple Flaw Allowed JPMorgan Computer Breach
 Daily Report: Simple Flaw Allowed JPMorgan Computer Breach
 The computer breach at JPMorgan Chase this summer  the largest intrusion of an American bank to date  might have been thwarted if the bank had installed a simple security fix to an overlooked server in its vast network, said people who have been briefed on internal and outside investigations into the attack, Matthew Goldstein, Nicole Perlroth and Michael Corkery report.

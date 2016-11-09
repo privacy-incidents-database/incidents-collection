@@ -1,5 +1,5 @@
-To Find the Danger, This Software Poses as the Bad Guys - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+To Find the Danger, This Software Poses as the Bad Guys - 
+
 Your Money|To Find the Danger, This Software Poses as the Bad Guys
 To Find the Danger, This Software Poses as the Bad Guys
 FOR all our dependence on computer software, the truth is, it isnt very safe. Recent data breaches involving tens of millions of confidential company files have made this all too clear.Why is software potentially so dangerous to the health of a business? There are scores of reasons. The big one is that software systems are so complex that it is next to impossible to find all the holes.That can lead to trouble: hackers stealing trade secrets, for example, or customer information. Company servers can also be infiltrated and used to send spam, or data can inadvertently be exposed to anyone with access to a search engine.The rise of the Web, which encourages companies to connect their programs to those of other companies, creates the potential for even more software problems
@@ -18,5 +18,5 @@ Mr. Howard says that more improvements will always be needed
 because data thieves will always find new ways to get into systems (some of which, like sweet-talking employees out of passwords, can foil the best software). It is, he says, part of the cost of doing business in the digital age.
 Michael Fitzgerald is a Boston-area writer on business, technology and culture. E-mail: mfitz@nytimes.com.
 A version of this article appears in print on , on page BU3 of the New York edition with the headline: To Find the Danger, This Software Poses as the Bad Guys.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

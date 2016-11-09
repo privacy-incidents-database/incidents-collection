@@ -1,5 +1,5 @@
-Microsoft Plans Piracy Crackdown - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Microsoft Plans Piracy Crackdown - 
+
 SEATTLE, Oct. 4 (AP)  In its forthcoming Windows Vista product, Microsoft
 will take much harsher steps to curtail piracy than in previous versions of its operating system, including crippling the usefulness of computers found to be running unlicensed copies of the new software.Microsoft, the worlds largest software maker, said Wednesday that people running a version of Windows Vista that it thought was pirated would initially be denied access to some
 Vista features. That includes Windows Aero, an improved graphics technology.If a legitimate copy is not purchased within 30 days, the system will curtail functionality much further by restricting users to just the Web browser for an hour at a time, said Thomas Lindeman, Microsoft senior product manager.In that situation, a person could use the browser to surf the Web, gain access to documents on the hard drive or log onto Web-based e-mail. But the user would not be able to
@@ -7,5 +7,5 @@ open documents directly from the computer desktop or run other programs like Out
 said it had added more sophisticated technology for monitoring whether a system is pirated.
 Microsoft plans to take similar tough measures with the forthcoming version of its Windows server software, called Longhorn, and to incorporate it into other products.
 A version of this article appears in print on , on page C4 of the New York edition with the headline: Microsoft Plans Piracy Crackdown.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

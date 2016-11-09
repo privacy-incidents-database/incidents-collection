@@ -1,4 +1,4 @@
-Elusive FinSpy Spyware Pops Up in 10 Countries - The New York Times
+Elusive FinSpy Spyware Pops Up in 10 Countries - 
 Gamma GroupGamma Group markets its FinFisher surveillance product to governments, but researchers say it may be used more broadly.
 It is one of the more elusive commercial cyberespionage tools available. It is marketed as a way for governments to spy on criminals. And for over a year, virus hunters unsuccessfully tried to track it down. Now it is popping up across the globe, from Qatar to an Amazon server in the United States.
 FinFisher is a spyware product manufactured by the Gamma Group, a British company that sells surveillance technology. It says its spyware offers world-class offensive techniques for information gathering. According to FinFishers promotional materials, the spyware can be used to access target systems, giving full access to stored information with the ability to take control of the target systems functions to the point of capturing encrypted data and communications.

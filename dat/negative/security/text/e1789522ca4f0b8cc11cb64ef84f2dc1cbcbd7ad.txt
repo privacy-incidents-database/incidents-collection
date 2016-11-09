@@ -1,5 +1,5 @@
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-News about Security and Warning Systems, including commentary and archival articles published in The New York Times.
+
+News about Security and Warning Systems, including commentary and archival articles published in .
 If you cannot remember when, or if, you installed the most recent security patch for your Android device, theres an easy way to find out.
 France Agonizes Over Whether Truck Rampage Could Have Been Stopped
 Many people in Nice and around the world are asking how a lone driver could so easily flout traffic rules and then race unimpeded through throngs of people.
@@ -68,4 +68,4 @@ ADT in $6.9 Billion Deal to Sell Itself to Apollo Buyout Firm
 In the biggest leveraged buyout of the year so far, Apollo Global plans to merge the security company ADT Corporation with two other security firms.
 Officials Offer Reassurances on Security at Super Bowl
 Security, always a concern at the Super Bowl, has received greater focus this year after the attacks in Paris in November, when terrorists struck several venues, including Stade de France.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

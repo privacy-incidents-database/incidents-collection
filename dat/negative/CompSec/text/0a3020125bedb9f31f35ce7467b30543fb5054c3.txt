@@ -1,4 +1,4 @@
-Thieves Break Into a Personal 'Data Vault' Company - The New York Times
+Thieves Break Into a Personal 'Data Vault' Company - 
 A company that describes itself as a vault for personal data has suffered an embarrassing heist: intruders penetrated its computer system and looted its customers names, addresses and in some cases, dates of birth and login passwords.
 The company, Reputation.com, based in Redwood City, Calif., told customers in an e-mail sent around 5 p.m. Pacific time Tuesday that it had detected a breach into its system and immediately reset customer passwords. It does not believe credit card information was taken.
 Passwords are especially coveted items because many people reuse them across multiple Web sites, and cyberthieves have in turn developed new automated ways to try and reuse them to ferret out more valuable data from different Web sites.

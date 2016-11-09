@@ -1,4 +1,4 @@
-Q&A: Fighting a Clickjack Attack - The New York Times
+Q&A: Fighting a Clickjack Attack - 
 I often see links posted on my friends Facebook pages that I know are some sort of virus, even though it says my friend liked the page. Can I get infected myself if one of these links shows up on my Facebook News Feed or Wall?
 Many of those links promising a look at outrageous videos or photos are part of what is called a clickjacking scam. In this situation, the user is typically tricked into clicking on a provocative link, but hidden code within the page posts a copy of the tainted link to the profiles of all the users friends.
 According to a post on a Facebook security page, if you or your friends have been clickjacked, you should be able to remove poison posts on your Facebook Wall and News Feed by moving the mouse cursor to the top-right corner of the unwanted item and clicking the X button to get the Remove and Unlike option.

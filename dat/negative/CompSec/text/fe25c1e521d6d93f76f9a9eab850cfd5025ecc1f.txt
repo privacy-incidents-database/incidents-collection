@@ -1,5 +1,5 @@
-American Tech Giants Face Fight in Europe Over Encrypted Data - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+American Tech Giants Face Fight in Europe Over Encrypted Data - 
+
 Technology|American Tech Giants Face Fight in Europe Over Encrypted Data
 American Tech Giants Face Fight in Europe Over Encrypted Data
 A man taking pictures on the Champs-lyses in Paris. Recent terrorist attacks have pushed many Europeans to favor greater powers for law enforcement over digital privacy.
@@ -13,7 +13,7 @@ And to show that the company is trying to be cooperative, Apples executives have
 But for Apple and other Silicon Valley companies, the proposal also includes new powers that can permit the British government to demand that companies remove encryption protections where reasonably practicable to gain access to digital communications.The British government stresses that such rules would not undermine companies services because they may not apply to so-called end-to-end encryption, technology used by the likes of Apples iMessage and FaceTime services, as well as Facebooks WhatsApp Internet messenger.But in a series of appeals to the British Parliament, several American tech giants, including Microsoft, Twitter and Yahoo, have complained that the proposals could force them to create backdoor access for the countrys spies, or face falling afoul of the new national security rules.A key left under the doormat would not just be there for the good guys, Apple wrote in its recent statement to British lawmakers. The bad guys would find it, too.Such concerns, security experts say, could be compounded if other national governments  either in Europe or farther afield  followed Britains lead by passing similar legislation.If these encryption plans go through, then whos to stop France or other countries asking for the same thing? said Ross Anderson, a professor of security engineering at the University of Cambridge who wrote a paper with other experts last year that criticized the American and British governments plans to weaken encryption. When you give one country backdoor access, where do you stop?
 Hannah Olivennes contributed reporting from London.
 A version of this article appears in print on March 28, 2016, on page B1 of the New York edition with the headline: Tech Faces Encryption as an Issue in Europe.
-Were interested in your feedback on this page. Tell us what you think.
+
 With Finality, F.B.I. Opts Not to Share iPhone-Unlocking Method
 F.B.I. Director Suggests Bill for iPhone Hacking Topped $1.3 Million
 F.B.I. Says It Needs Hackers to Keep Up With Tech Companies
@@ -25,4 +25,4 @@ U.S. Says It May Not Need Apples Help to Unlock iPhone
 F.B.I. Clash With Apple Loosed a Torrent of Possible Ways to Hack an iPhone
 Apple Policy on Bugs May Explain Why Hackers Would Help F.B.I.
 U.S. Says It May Not Need Apples Help to Unlock iPhone
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

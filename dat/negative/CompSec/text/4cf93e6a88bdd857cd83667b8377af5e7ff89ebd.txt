@@ -1,4 +1,4 @@
-Apple Issues Fix to Combat Malware - The New York Times
+Apple Issues Fix to Combat Malware - 
 Apple issued a security update on Tuesday to address persistent attacks that are taking aim at Mac users with a fake antivirus program.
 The update removes known versions of the scareware program, which is known as MacDefender. The update also adds detection capabilities to Apple s built-in malware monitoring feature to try to stop users from downloading the fake program in the first place. If the updated software sees an attack, it will cause a pop-up warning with a big red stop sign and white exclamation point.
 The update is available for only the most recent 10.6 versions of the Mac OS X computer and server operating systems. Users can get the update immediately by clicking on the Apple icon on the top left of their screen and selecting Software Update.

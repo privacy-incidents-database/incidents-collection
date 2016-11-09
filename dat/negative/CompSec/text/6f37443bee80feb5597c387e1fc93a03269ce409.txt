@@ -1,4 +1,4 @@
-How to Make Your Google Account More Secure - The New York Times
+How to Make Your Google Account More Secure - 
 We all know there are risks to storing personal information online, yet few of us take even the most basic precautions, like choosing unique and hard-to-guess passwords.
 On Thursday, Google will introduce a tool, known as two-step verification, that will make Google accounts more secure and less vulnerable to hackers and phishing scams.
 Google users who choose to use the tool will still enter their passwords to get to Google accounts like Gmail, Picasa and Google Docs. But they will also need to enter a second verification code, generated on the spot for one-time use and sent to their cellphone through a text message, phone call or app.

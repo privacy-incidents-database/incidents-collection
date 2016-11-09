@@ -1,5 +1,5 @@
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-News about National Security Council, including commentary and archival articles published in The New York Times.
+
+News about National Security Council, including commentary and archival articles published in .
 U.S. Releases Rules for Airstrike Killings of Terror Suspects
 The disclosure of the playbook for drone strikes further lifts the secrecy cloaking a much disputed tactic for fighting terrorism outside conventional war zones.
 For Hillary Clinton and John Kerry, Divergent Paths to Iran Nuclear Talks
@@ -64,4 +64,4 @@ Stumbles in the handling of the Ebola crisis and the Islamic State have fueled s
 U.S. Is Investigating Report That Islamic State Used Chlorine Gas
 American officials said they were examining a report that 11 police officers were sickened after a bomb dispersed chlorine gas last month near Balad, north of Baghdad.
 President Obama has assured the public that the governments response was adequate. But he has also quietly faulted the handling as not tight.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

@@ -1,5 +1,5 @@
-Service Members Face New Threat: Identity Theft - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Service Members Face New Threat: Identity Theft - 
+
 Technology|Service Members Face New Threat: Identity Theft
 The government warns Americans to closely guard their Social Security numbers. But it has done a poor job of protecting those same numbers for millions of people: the nations soldiers, sailors, airmen and Marines.At bases and outposts at home and around the world, military personnel continue to use their Social Security numbers as personal identifiers in dozens of everyday settings, from filling out health forms to checking out basketballs at the gym. Thousands of soldiers in Iraq
 even stencil the last four digits onto their laundry bags.All of this is putting members of the military at heightened risk for identity theft.That is the conclusion of a scathing new report written by an Army
@@ -28,5 +28,5 @@ tracks military affairs.Gary Tallman, a spokesman for the Army, said Colonel Con
 adding that the use of Social Security numbers was second nature to us.But he also said the onus falls in large part on the Defense Department to lead the changes, because it uses the numbers for so many things.The Defense Department is carrying out its own review, saying in its statement that it planned to tell its staff that they would need to justify every use of the numbers and eliminate unnecessary ones. But it added
 that it was exceedingly difficult to determine the extent to which use of the numbers within the agency had led to identity theft.For his part, Colonel Conti said he was particularly troubled by something he saw while he was deployed in Iraq.For heavens sake, I stenciled portions of my Social Security number on my laundry bag in Iraq, where it was memorized by foreign-national laundry workers trying to enhance their customer service, he said. Id walk in and theyd say, Number 1234, heres your laundry, and they were very proud of that fact.
 A version of this article appears in print on December 7, 2010, on page A1 of the New York edition with the headline: Easy Numbers for ID Theft, Lightly Guarded by Military.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

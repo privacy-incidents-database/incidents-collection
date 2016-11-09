@@ -1,5 +1,5 @@
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-News about Homeland Security Department, including commentary and archival articles published in The New York Times.
+
+News about Homeland Security Department, including commentary and archival articles published in .
 New Rule Adding Wrinkle to Use of Drivers Licenses as Flight ID
 Homeland Security has imposed tougher requirements for such licenses to be valid for federal purposes. And several states remain out of compliance.
 Obama Administration Is Quietly Delaying Thousands of Deportation Cases
@@ -66,4 +66,4 @@ The Obama administration may designate the electronic ballot-casting system for 
 Preclearance at Foreign Airports Seen as a Necessity to Fight Terrorism
 American customs officials, who want to expand a program to include more European airports, say it would help identify and stop potential terrorists before they could enter the United States.
 This Washington correspondent covering homeland security practically lives at the airport, and he shares your concerns.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
