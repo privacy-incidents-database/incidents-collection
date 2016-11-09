@@ -1,4 +1,4 @@
-Criminal Software, Government-Grade Protection - The New York Times
+Criminal Software, Government-Grade Protection - 
 The arms race between criminal hackers and targeted companies just became a little more military, with serious implications for business.
 Researchers at a software security company say they have found a popular type of criminal software inside an extremely sophisticated evasion code, which they say was previously used by Russia to spy on one or more Eastern European governments.
 The evasion software, written in a painstaking way to avoid most conventional detection methods, was most likely detached from its original program and sold to a criminal gang by someone in Russian intelligence, the company said.

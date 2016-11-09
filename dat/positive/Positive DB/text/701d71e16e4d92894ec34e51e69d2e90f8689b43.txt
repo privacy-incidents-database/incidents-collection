@@ -1,5 +1,5 @@
-Code Known as Flash Cookies Raises Privacy Concerns - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Code Known as Flash Cookies Raises Privacy Concerns - 
+
 Technology|Code That Tracks Users Browsing Prompts Lawsuits
 Sandra Person Burns used to love browsing and shopping online. Until she realized she was being tracked by software on her computer that she thought she had erased.Ms. Person Burns, 67, a retired health care executive who lives in Jackson, Miss., said she is wary of online shopping: Instead of going to Amazon, Im going to the local bookstore.Ms. Person Burns is one of a growing number of consumers who are taking legal action against companies that track computer users activity on the Internet. At issue is a little-known piece of computer code placed on hard drives by the Flash program from Adobe when users watch videos on popular Web sites like YouTube and Hulu.The technology, so-called Flash cookies, is bringing an increasing number of federal lawsuits against media and technology companies and growing criticism from some privacy advocates who say the software may also allow the companies to create detailed profiles of consumers without their knowledge. Continue reading the main story
 Unlike other so-called HTML cookies, which store Web site preferences and can be managed by changing privacy settings in a Web browser, Flash cookies are stored in a separate directory that many users are unaware of and may not know how to control.
@@ -12,5 +12,5 @@ The suit says that the information collected by the unique ID, using a technolog
 said it had hosted a series of roundtable discussions about online and offline privacy challenges from December to March and planned to issue a report in the next few months to address those issues.The agency is investigating several companies, but Mr. Olson declined to comment on the specifics.Other efforts to address online privacy are taking place at the Congressional level. In July, Representative Bobby L. Rush, Democrat of Illinois, introduced an online privacy bill that would, among other things,
 require companies to disclose how they collect, use and maintain the personal information on users and to make those disclosures easy for users to understand.
 A version of this article appears in print on September 21, 2010, on page B3 of the New York edition with the headline: Code That Tracks Users Browsing Prompts Lawsuits.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

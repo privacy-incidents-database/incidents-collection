@@ -7,7 +7,7 @@ Meanwhile, department store Neiman Marcus has disclosed that it was also recentl
 We don't have anything close to the whole story, but so far, here's what we know, or can reasonably guess.
 A data breach is when an organization that's been entrusted with sensitive data loses control of that data. A breach doesn't necessarily involve theft; some data breaches occur when hard drives or spools of tape get lost during transport.
 Beginning Nov. 29, 2013, or "Black Friday," the start of the post-Thanksgiving U.S. shopping season, an unknown group or groups of hackers penetrated or infected at least two Target computer systems. That intrusion continued until Dec. 15, when Target discovered the penetration and shut it down.
-At around the same time, another attack infected or penetrated a Neiman Marcus computer system that processed credit- and debit-card transactions. (Update: The New York Times has heard from unnamed sources who said the Neiman Marcus breach may have begun in July 2013.)
+At around the same time, another attack infected or penetrated a Neiman Marcus computer system that processed credit- and debit-card transactions. (Update:  has heard from unnamed sources who said the Neiman Marcus breach may have begun in July 2013.)
 At least three other U.S. retailers, as yet unnamed, were also affected. It's possible there were many more.
 How many people were affected by these data breaches?
 Right now, we don't know, because other than Target, the affected retailers are not telling us.

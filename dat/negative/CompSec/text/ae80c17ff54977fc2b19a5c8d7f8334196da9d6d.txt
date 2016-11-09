@@ -1,4 +1,4 @@
-Hacking Group Says It Brought Down C.I.A. Site - The New York Times
+Hacking Group Says It Brought Down C.I.A. Site - 
 Adding background on denial of service attacks, update on availability of C.I.A. site.
 Lulz Security, a group of hackers who have been responsible for a number of recent online data breaches, took aim at some United States government agencies on Wednesday.
 The group saidvia Twitter that it had brought down the CentralIntelligenceAgency Web site, presumably with a so-called denial of service attack.

@@ -1,5 +1,5 @@
-Bank and Tech Shares Pull Wall Street Lower - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Bank and Tech Shares Pull Wall Street Lower - 
+
 Business Day|Bank and Tech Shares Pull Wall Street Lower
 Stocks experienced their biggest loss in a month-and-a-half on Thursday as shares of banks and technology companies tumbled. Equities have fallen three out of four days this week.Treasury rates moved lower, hurting financial stocks, as the dollar continued to fall against the Japanese yen.Stocks sharply reversed course after their gains a day earlier. Financial companies including Goldman Sachs and Citigroup took the largest losses. Technology and telecommunications companies also fell.The market has lost momentum over the last few weeks after a furious rally that wiped out most of its losses from early this year. Scott Wren, senior global equity strategist for Wells Fargos Investment Institute, said stocks were rising and falling based on how investors expect the global economy to do.People are worried about growth today, he said. Youre not getting much more than modest economic activity.
 Position of the Dow Jones industrial average at 1-minute intervals on Thursday.
@@ -11,5 +11,5 @@ obligation bonds and 25 revenue bonds, plotted weekly.
 The Labor Department said applications for unemployment benefits fell slightly last week. The figures showed that employers are not cutting jobs, even though economic growth remains tenuous.
 United States government bond prices rose. The yield on the 10-year Treasury note fell to 1.69 percent from 1.76 percent.The dollar continued to weaken against the yen, and is now at its lowest against the yen in almost a year and a half. On Wednesday it fell to 108.36 yen from 109.74 yen. The euro declined to $1.1370 from $1.1398.The price of gold rose $13.70 or 1.1 percent,to settle at $1,237.50 an ounce and silver gained 10 cents to $15.16 an ounce. Copper plunged seven cents, or 3.1 percent, to $2.08 a pound.Benchmark American crude fell 49 cents, or 1.3 percent, to $37.26 a barrel in New York. Brent crude, used to price international oils, dropped 41 cents to trade at $39.43 a barrel in London.In other energy trading, wholesale gasoline fell 1 cent to $1.38 a gallon. Heating oil slipped 1 cent to $1.13 a gallon. Natural gas rose 11 cents, or 5.6 percent, to $2.02 per 1,000 cubic feet.Germanys DAX fell 1 percent and the CAC-40 in France shed 0.9 percent. Britains FTSE 100 lost 0.4 percent. In Tokyo, the Nikkei 225 edged up 0.2 percent and Hong Kongs Hang Seng added 0.3 percent. In South Korea, the Kospi was barely changed, rising 0.1 percent.
 A version of this article appears in print on April 8, 2016, on page B6 of the New York edition with the headline: Decline in Bank and Tech Shares Drives the Market Lower.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

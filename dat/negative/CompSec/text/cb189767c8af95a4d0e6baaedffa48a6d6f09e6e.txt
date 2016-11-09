@@ -1,4 +1,4 @@
-The Secret Life of Passwords: Reporter's Notebook - The New York Times
+The Secret Life of Passwords: Reporter's Notebook - 
 Ian Urbina wrote an article about the secret life of passwords for the Nov. 23 Times Magazine. Interactive videos accompanied the piece, and The Times invited readers to share stories about their passwords. Here, Mr. Urbina provides a sense of the story behind the story.
 The idea for this story bubbled up about five years ago. I always suspected that while there was much to hate about passwords, there was also another side to them  something hidden inside these codes, not just behind them.
 It seemed to me that within the collection of passwords that most of us carry around there is a subspecies of meaning.
@@ -13,7 +13,7 @@ Throughout the reporting process, I found myself intrigued by broader questions 
 I eventually shared a version of the story with my colleague Leslye Davis, a Times video reporter. She liked it and began working on the amazing multimedia presentation that resulted. The finished product by Ms. Davis (and her editor, Nancy Donaldson) was an unusual wedding of form and function. It served as an ideal complement to the written article. The double exposure silhouettes mimicked the mix of anonymity and intimacy that I found in passwords. Animating the silhouettes with a combination of colorful textures and concrete images conveyed a central point of the article: that people are essentially carriers of stories, that passwords are secretly packed with keepsake emotions.
 Once the visuals and the story were ready, Josh Williams, a graphics editor, and Rumsey Taylor, a web designer, had to make it all fit together in a way that readers could experience in a new way. They wanted to make the visuals bigger and yet more integrated with the words, rather than just some small appendage to them. Oh, and they had about a week to do it.
 There was something oddly affirming in reporting this topic. It felt like a rare opportunity to explore how humans are creative and sentimental creatures, how we invent quirky routines and clever contraptions for everyday life, how we beautify even our shackles. And since the story ran, the delight of it all has continued. A dozen or so readers per week, from the farthest corners (Qatar, Ireland, Brazil, Norway), have been emailing me their keepsake stories.
-Times Insider takes readers behind the scenes of The New York Times newsroom to show how its journalists around the globe work and how decisions are made. Read more 
+Times Insider takes readers behind the scenes of  newsroom to show how its journalists around the globe work and how decisions are made. Read more 
 No More Sea Blindness: Covering Stowaways on a Lawless Ocean
 1943 | In Tehran, The Timess International Edition Is Born
 Military Exercises and Paranoia in West Texas: A Reporters Notebook

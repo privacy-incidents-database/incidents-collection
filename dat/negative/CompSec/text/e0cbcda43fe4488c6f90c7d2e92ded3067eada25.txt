@@ -1,5 +1,5 @@
-These Apps Promise to Encrypt Your Smartphone Communications - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+These Apps Promise to Encrypt Your Smartphone Communications - 
+
 Personal Tech|These Apps Promise to Encrypt Your Smartphone Communications
 These Apps Promise to Encrypt Your Smartphone Communications
 THE topic of smartphone security and secure communication is front and center these days, thanks to the battle between Apple and the F.B.I. over opening up an iPhone used by one of the San Bernardino, Calif., mass attackers.The case has raised questions about what means people might have to protect their mobile data, shining the spotlight on the many apps that promise secure emailing, messaging and more.Signal, one of the best known private messaging apps, is free on iOS and Android. Its makers promote it with the slogan privacy is possible, and it uses end-to-end encryption, ensuring that only the recipient of the communications can read them. Its encryption and privacy protections are highly rated by the Electronic Frontier Foundation, a digital rights group.
@@ -12,12 +12,12 @@ Despite its high security levels, ProtonMail looks like any other email app.
 All of these apps help augment the encryption that may already be built into your device. (Its worth checking through your phones settings to familiarize yourself with its privacy and security features.)
 Some secure messaging apps may be misused, which is why many of them ask upon sign-up that you wont use them for illegal purposes. And remember  theres no such thing as perfect security, particularly if you lose your phone.Quick CallCola is a new messaging app (not one that promotes itself for its encryption) with the aim of simplifying the business of sending texts. As well as traditional message chats, Cola has bubbles that give people access to extras like polls, a friend locator and a neat When can we meet? system for quickly arranging group meet-ups. Its fun to use and free on iOS, but is available only in the United States for now.
 A version of this article appears in print on March 24, 2016, on page B7 of the New York edition with the headline: Encryption by App Adds Security to Smartphones.
-Were interested in your feedback on this page. Tell us what you think.
+
 Checklists and Tips to Help Streamline Spring Cleaning
-A collection of App Smart columns published in The New York Times.
+A collection of App Smart columns published in .
 Keeping the Political Wool From Being Pulled Over Your Eyes
 After You Strengthen Your Passwords, Heres How to Store Them
 More Fun on Your Wrist With New Apps for the Apple Watch
 Here Come the iPhone 7 and iOS 10 Apps: What to Try First
 Checklists and Tips to Help Streamline Spring Cleaning
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

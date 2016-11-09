@@ -1,6 +1,6 @@
-Computer Security (Cybersecurity) - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
-News about Computer Security (Cybersecurity), including commentary and archival articles published in The New York Times.
+Computer Security (Cybersecurity) - 
+
+News about Computer Security (Cybersecurity), including commentary and archival articles published in .
 Daily Report: Hackers Have New Tools to Bring Down Websites
 The so-called internet of things has the potential to connect billions of objects to the internet. Thats good news for troublemakers.
 Revelations about Donald Trump and the Clinton campaign have pulled back the curtain on the political-celebrity mythmaking the media too often abets.
@@ -73,4 +73,4 @@ The senator from Oregon, a leading figure in the debate over encryption, talks o
 Daily Report: The Feds Cant Resist Silicon Valleys Data
 They also dont want anyone to talk about it, a fact that has riled a number of tech companies that are chafing under gag orders.
 The Russian leaders rogue behavior threatens America and the E.U.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

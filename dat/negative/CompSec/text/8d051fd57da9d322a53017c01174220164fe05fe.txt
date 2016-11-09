@@ -1,4 +1,4 @@
-U.S. Charges Three With Hacking - The New York Times
+U.S. Charges Three With Hacking - 
 3:22 p.m. | Updated to change name of one of the people indicted. He is Mihai Ionut Paunescu, not Ionut Paunescu.
 Federal authorities charged three Eastern European men with using a computer virus, nicknamed Gozi, that surreptitiously infected over a million computers worldwide, including at NASA, to steal what prosecutors said was at least tens of millions of dollars from personal bank accounts.
 The Justice Department unsealed indictments on Wednesday morning in Federal District Court for the Southern District of New York. The case highlights the multinational criminal networks that develop and rent out computer malware. In this case, a Russian national, Nikita Kuzmin, is accused of developing the virus. Dennis Calovskis of Latvia is accused of modifying it so it could mimic a banks Web page, prompting account holders to divulge their personal information. Mihai Ionut Paunescu of Romania is accused of hosting command and control servers, shielding them to evade detection.

@@ -1,5 +1,5 @@
-Will You Sprint, Stroll or Stumble Into a Career? - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Will You Sprint, Stroll or Stumble Into a Career? - 
+
 Education Life|Will You Sprint, Stroll or Stumble Into a Career?
 At the age of 18, G. Stanley Hall left his home in the tiny village of Ashfield, Mass., for Williams College, just 35 miles away, with a goal to do something and be something in the world. His mother wanted him to become a minister, but the young Stanley wasnt sure about that plan. He saw a four-year degree as a chance to explore.Though Hall excelled at Williams, his parents, who were farmers, considered his undergraduate years a bit erratic. He didnt think he had the requirements for a pastor, but nonetheless enrolled in Union Theological Seminary in New York after graduation. The big city was intoxicating, and living there persuaded him to abandon his religious studies. After securing a loan, he set off for Germany to study philosophy, travel and visit the theaters, bars and dance halls of Berlin.What exactly are you doing over there? his father sternly asked. Hall added physiology and physics to his academic pursuits and told his parents he was thinking about getting a Ph.D. in philosophy. Just what is a Doctor of Philosophy? his mother wanted to know.His parents wanted him to come home and get a real job, and even Hall, having scarcely tried my hand in the world to know where I can do anything, wondered what was next. He was out of money and in debt, so he returned home after his parents refused to support him financially. He was 27 years old.
 Percentage of Americans age 19 to 24 living with their parents.
@@ -23,7 +23,7 @@ What happens after they graduate? In their follow-up, Aspiring Adults Adrift, pu
 Too many students, he said, see college as a four-year vacation. Students in 1961 dedicated 24 hours a week to studying outside the classroom. By 2003, that fell to 14 hours. There are exceptional students, Dr. Arum said. There are just not enough of them.He is concerned about what he calls colleges vast middle. The system is not working for large numbers of students and I very much worry about their ability to be successful in the long run.
 This article is adapted from There Is Life After College: What Parents and Students Should Know About Navigating School to Prepare for the Jobs of Tomorrow, by Jeffrey J. Selingo, to be published April 12 by William Morrow, an imprint of HarperCollins.
 A version of this article appears in print on April 10, 2016, on page ED12 of Education Life with the headline: College and the Next Big Thing: Life.
-Were interested in your feedback on this page. Tell us what you think.
+
 Will You Sprint, Stroll or Stumble Into a Career? Readers Respond
 Stories to help you understand the world  and make the most of it.
 Im 29 and I never learned how money works. Its time to fix that.
@@ -32,4 +32,4 @@ Tips for handling a toxic co-worker (and how to avoid becoming one)
 Want to make your own app? There are free classes for that
 Five Easy Recipes to Impress Family and Friends (and Dates)
 Will You Sprint, Stroll or Stumble Into a Career? Readers Respond
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

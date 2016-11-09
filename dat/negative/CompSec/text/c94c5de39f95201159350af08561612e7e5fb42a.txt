@@ -1,4 +1,4 @@
-Technical Glitch Hits Yahoo Mail - The New York Times
+Technical Glitch Hits Yahoo Mail - 
 Many Yahoo users complained on Thursday about a glitch on the Yahoo Mail site that prevented them from logging in.
 on Thursday evening were told that the sites security certificate, which guarantees its authenticity, was no longer valid. On Twitter, some users reported that they were sent to yahoo.net instead of yahoo.com.
 Yahoos official Twitter account for customer service acknowledged the issue, saying,Were looking into it with highest priority. As of about 5:40 p.m. Eastern time, service was restored for some users.

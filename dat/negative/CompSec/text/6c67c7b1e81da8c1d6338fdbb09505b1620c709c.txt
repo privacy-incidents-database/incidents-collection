@@ -1,5 +1,5 @@
-Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I. - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I. - 
+
 Technology|Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
 Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
 Outside an Apple Store in New York. Apple is defying a federal order to help unlock a phone connected to shootings in California.
@@ -17,7 +17,7 @@ A handful of law enforcement groups also filed briefs supporting the governments
 They are worried that this software the government wants them to use will be used against millions of other innocent people, he wrote. I share their fear.
 Nick Wingfield reported from Seattle, and Katie Benner from San Francisco. Mike Isaac contributed reporting from New York.
 A version of this article appears in print on March 4, 2016, on page B1 of the New York edition with the headline: Tech Rivals Lining Up
-Were interested in your feedback on this page. Tell us what you think.
+
 Apple Gets Tech Industry Backing in iPhone Dispute, Despite Misgivings
 Defense Secretary Takes Position Against a Data Back Door
 White House Officials Soften Approach at RSA Conference
@@ -27,4 +27,4 @@ Model in Gucci Ad Is Deemed Unhealthily Thin by British Regulator
 Apple Gets Tech Industry Backing in iPhone Dispute, Despite Misgivings
 Defense Secretary Takes Position Against a Data Back Door
 White House Officials Soften Approach at RSA Conference
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

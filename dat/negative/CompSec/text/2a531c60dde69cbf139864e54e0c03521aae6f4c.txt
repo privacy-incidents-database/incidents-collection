@@ -1,4 +1,4 @@
-IBM Takes a Big Data Approach to Security - The New York Times
+IBM Takes a Big Data Approach to Security - 
 Companies will spend an estimated $50 billion on computer security this year, but they are not feeling particularly secure these days.
 Blame innovation, if you like. Every big digital advance opens the door to both opportunity and mischief. Smartphones, cloud computing and the data explosion promise a revolution in communications, cost-savings and knowledge discovery. But those three trends in technology also create security headaches.
 John Meakin, the global head of security for Deutsche Bank, speaks of the rising tempo and sophistication of security threats, and how applications delivered over the Internet and mobile devices take sensitive data beyond the traditional security stronghold  the fortress firewall, he calls it.

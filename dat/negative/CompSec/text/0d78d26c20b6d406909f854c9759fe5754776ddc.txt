@@ -1,5 +1,5 @@
-Security Software Makers Upset Over Windows Vista - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Security Software Makers Upset Over Windows Vista - 
+
 Technology|Security Software Makers Upset Over Windows Vista
 Leading security software companies, including Symantec and McAfee, are publicly pressing their concerns that Microsofts new Windows Vista operating system hinders them and steers users to Microsofts security offerings.The security software makers have not made any antitrust complaints, but they have talked to authorities at the European Commission and to the technical committee that oversees Microsofts antitrust settlement with the Justice Department, executives at the companies said yesterday.In Europe, F-Secure, a Finnish security software company, has joined American companies in criticizing the design of Windows Vista, which is scheduled to be available to business customers in November and to consumers in January.The issues raised by the companies, in interviews yesterday, touch on broad themes of consumer choice and innovations that surfaced in previous antitrust suits against Microsoft.Were trying to make sure that consumers have choice in security software and that future innovation is not prohibited in a Microsoft world, said Enrique T. Salem, group president for consumer products and services at Symantec.
 Microsoft says that it has made changes in Vista from previous
@@ -12,5 +12,5 @@ standard.Microsoft, industry analysts say, seems to have adopted a draconian app
 There ought to be a mechanism for introducing trusted code into the kernel. It should be doable.Even security companies that are working closely with Microsoft  and not publicly criticizing the company  have their doubts about Microsofts decision to prevent all outsiders from dipping deep into the Vista operating system.Trend Micro, a security software maker, collaborates with Microsoft, including supplying the virus-scanning software for Hotmail, Microsofts Web-based e-mail.Lane Bess, general manager for consumer products and services for Trend Micro, said he
 shared some of the concerns expressed by Symantec and McAfee.But we try to work through any issues we have with Microsoft, Mr. Bess said, not by taking a shot across the companys bow and suggesting that there might be antitrust action later.Trend Micros concern, he said, is the possibility that limiting access to the Vista kernel could limit the diversity of security-protection tools to fight malicious software.Im not sure that a company that has had as much trouble securing its users from malware as Microsoft should be going it alone, he said.
 A version of this article appears in print on , on page C2 of the New York edition with the headline: Security Software Makers Upset Over Windows Vista.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

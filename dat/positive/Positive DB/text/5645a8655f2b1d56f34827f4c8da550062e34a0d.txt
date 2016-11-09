@@ -1,5 +1,5 @@
-Privacy Concerns for ClassDojo and Other Tracking Apps for Schoolchildren - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Privacy Concerns for ClassDojo and Other Tracking Apps for Schoolchildren - 
+
 Technology|Privacy Concerns for ClassDojo and Other Tracking Apps for Schoolchildren
 Privacy Concerns for ClassDojo and Other Tracking Apps for Schoolchildren
 Connor Schiefer logs a point for good conduct with the ClassDojo app at Hunter Elementary School in Hunter, N.Y.
@@ -17,7 +17,7 @@ Melinda McCool, the schools principal, said she felt Mr. Fletcher used the app j
 Parents are also divided over ClassDojo.Some like being able to use the app to follow their childs progress and receive reports from teachers.Its a great way to get the prognosis on your child, said Gabrielle Canezin, whose daughter is in Mr. Fletchers class.But Tony Porterfield, a software engineer in Los Altos, Calif., asked a teacher to remove his sons information from ClassDojo. He said he was concerned that it might later be aggregated and analyzed in unforeseen ways.It creates a label for a child, he said. Its a little early to be doing that to my 6-year-old.
 ClassDojo has received nearly $10 million from investors, including General Catalyst Partners, Shasta Ventures, New Schools Venture Fund, Paul Graham and Yuri Milner. Mr. Chaudhary says he and his team have studied ClassDojos effectiveness by visiting classrooms, conducting weekly phone calls with a few dozen teachers, and surveying 1,000 teachers.Such an anecdotal approach does not sit well with evidence-based educators.Thats like polling people in McDonalds about how they like the food, said Brett Clark, the director of technology at Greater Clark County Schools in Jeffersonville, Ind. They are not asking the teachers who looked at the app, walked away and said, Not in my classroom.
 A version of this article appears in print on November 17, 2014, on page B1 of the New York edition with the headline: Clicks, Not Gold Stars.
-Were interested in your feedback on this page. Tell us what you think.
+
 New All-Digital Curriculums Hope to Ride High-Tech Push in Schoolrooms
 New All-Digital Curriculums Hope to Ride High-Tech Push in Schoolrooms
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

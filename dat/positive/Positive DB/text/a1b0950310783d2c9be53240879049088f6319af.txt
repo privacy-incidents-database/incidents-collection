@@ -1,5 +1,5 @@
-A Face Is Exposed for AOL Searcher No. 4417749 - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+A Face Is Exposed for AOL Searcher No. 4417749 - 
+
 Technology|A Face Is Exposed for AOL Searcher No. 4417749
 Buried in a list of 20 million Web search queries collected by AOL and recently released on the Internet is user No. 4417749. The number was assigned by the company to protect the searchers anonymity, but it was not much of a shield.No. 4417749 conducted hundreds of searches over a three-month period on topics ranging from numb fingers to 60 single men to dog that urinates on everything.And search by search, click by click, the identity of AOL user No. 4417749 became easier to discern. There are queries for landscapers in Lilburn, Ga, several people with the last name Arnold and homes sold in shadow lake subdivision gwinnett county georgia.It did not take much investigating to follow that data trail to Thelma Arnold, a 62-year-old widow who lives in Lilburn, Ga., frequently researches her friends medical ailments and loves her three dogs. Those are my searches, she said, after a reporter read part of the list to her. Continue reading the main story
 AOL removed the search data from its site over the weekend and apologized for its release, saying it was an unauthorized move by a team that had hoped it would benefit academic researchers.
@@ -15,5 +15,5 @@ is also used by AOL to improve the quality of its search technology. The three-m
 Several bloggers claimed yesterday to have identified other AOL users by examining data, while others hunted for particularly entertaining or shocking search histories. Some programmers made this easier by setting up Web sites that let people search the database of searches.John Battelle, the author of the 2005 book The Search: How Google and Its Rivals Rewrote the Rules of Business and Transformed Our Culture, said AOLs misstep, while unfortunate, could have a silver lining if people began to understand just what was at stake. In his book, he says search engines are mining the priceless database of intentions formed by the worlds search requests.Its only by these kinds of screw-ups and unintended behind-the-curtain views that we can push this dialogue along, Mr. Battelle said. As unhappy as I am to see this data on people leaked, Im heartened that we will have this conversation as a culture, which is long overdue.Ms. Arnold says she loves online research, but the disclosure of her searches has left her disillusioned. In response, she plans to drop her AOL subscription. We all have a right to privacy, she said. Nobody should have found this all out.
 Saul Hansell contributed reporting for this article.
 A version of this article appears in print on , on page A1 of the New York edition with the headline: A Face Is Exposed for AOL Searcher No. 4417749.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

@@ -1,4 +1,4 @@
-On Twitter, Securing Your Sessions - The New York Times
+On Twitter, Securing Your Sessions - 
 New Features on Twitter Let You Secure Your Sessions
 New Features on Twitter Let You Secure Your Sessions
 At the bottom of Twitters Settings page is a new checkbox that allows users to turn on HTTPS for everything.

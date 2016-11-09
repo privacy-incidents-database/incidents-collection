@@ -1,5 +1,5 @@
-Online Health Sites Share Personal Data, Privacy Groups Say - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Online Health Sites Share Personal Data, Privacy Groups Say - 
+
 Business Day|Privacy Groups Fault Online Health Sites for Sharing User Data With Marketers
 Privacy Groups Fault Online Health Sites for Sharing User Data With Marketers
 with more than 20 million registered users that offers online medical information and e-mail newsletters on a variety of topics, including diabetes, allergies, asthma and arthritis.But according to a complaint filed Tuesday with the Federal Trade Commission, site visitors who provide personal details about themselves might not be aware that QualityHealth collects information about peoples medical conditions, preferred medicines and treatment plans and uses it to profile its users for prescription drug marketing.Rob Rebak,
@@ -18,5 +18,5 @@ a spokesman for WebMD, said that WebMD had always been transparent and direct wi
 the director of the F.T.C.s bureau on consumer protection, said he had not yet read the complaint. But, he said, the F.T.C. plans to soon release a report about online privacy because it is concerned about sensitive personal information.Mr. Vladeck
 a core privacy question. Suppose someone goes online to read about depression, should that person get targeted with ads for antidepressants, for counseling services or books about depression?
 A version of this article appears in print on November 24, 2010, on page B3 of the New York edition with the headline: Privacy Groups Fault Online Health Sites for Sharing User Data With Marketers.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

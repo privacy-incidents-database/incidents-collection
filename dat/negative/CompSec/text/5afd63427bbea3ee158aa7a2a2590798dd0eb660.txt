@@ -1,5 +1,5 @@
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+
 Late last year, I wrote an article for the magazine, The Secret Life of Passwords, in which I looked at the humanity that often hides in a simple string of characters, and reflected on why we imbue these codes with meaning even when were explicitly told not to. A motivational mantra, a swipe at the boss, an ode to a lost love, an inside joke with ourselves, a defining emotional scar  there was something captivating, inspiring even, about these tchotchkes of our inner lives.
 When we published the article, I asked readers to submit their own password stories  and I received hundreds of responses from people around the world, who were exceptionally generous in offering me a glimpse into an intimate space rarely accessible to strangers. Here is a small selection of those submissions.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

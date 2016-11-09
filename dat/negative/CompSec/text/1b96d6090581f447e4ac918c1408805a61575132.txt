@@ -1,4 +1,4 @@
-The Twitter Hack Attack That Wasn't - The New York Times
+The Twitter Hack Attack That Wasn't - 
 screenshot via TwitterA number of the Twitter accounts leaked by Anonymous were already suspended or were duplicates.
 Hackers claiming to be part of the Anonymous group released what at first glance appeared to be usernames and passwords for 55,000 hacked Twitter accounts on Pastebin on Tuesday. But a closer look revealed that nearly half those accounts were duplicates and that the vast majority belonged to accounts that had been suspended by Twitter in the past.
 The breach was first reported on the blog, Air Demon, which aggregates news on hacking.

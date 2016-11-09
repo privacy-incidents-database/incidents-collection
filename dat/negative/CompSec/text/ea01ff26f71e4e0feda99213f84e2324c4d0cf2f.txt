@@ -1,4 +1,4 @@
-Apple Plugs Password Security Hole - The New York Times
+Apple Plugs Password Security Hole - 
 Apple has fixed a security hole that made it easy for someone to seize another persons Apple account, which controls access to iCloud, iTunes and other Apple services.
 The company made the password reset page for Apple ID accounts available again, not long after the discovery of the security hole forced it to take the site down. The Verge reported on Friday that the security hole allowed anybody who knows another users account name and date of birth to reset his password, without answering the customary security questions that usually accompany the process.
 The Verge, which said it verified the security hole after a tutorial about it was posted online, reported that it involved pasting a special Web address into a browser.

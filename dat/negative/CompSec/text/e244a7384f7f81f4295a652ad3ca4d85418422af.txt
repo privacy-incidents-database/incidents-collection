@@ -1,5 +1,5 @@
-At RSA Conference, Unlikely Allies Address Value of Digital Security - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+At RSA Conference, Unlikely Allies Address Value of Digital Security - 
+
 Technology|At RSA Conference, Unlikely Allies Address Value of Digital Security
 At RSA Conference, Unlikely Allies Address Value of Digital Security
 What surprised many of those attending the RSA Conference was the nuanced tone of former government officials who spoke at the event.
@@ -12,5 +12,5 @@ The tech industry has other unlikely allies in this debate.J. Michael McConnell,
 Many RSA conference attendees saw the dispute between Apple and the F.B.I. as an extension of a decades-long struggle.
 When you understand that level of extraction of intellectual property, Mr. McConnell said, its logical that ubiquitous encryption is something the nation needs to have.There is, of course, a business rationale for these concerns. The United States hardly has a monopoly on encryption technology. Consumers can pick from around 800 encryption tools from 55 countries. Some in the security business worry they will lose badly to competitors in other countries if it becomes clear the United States government has a way around their systems.The moral, economic, strategic and technical leadership of the United States is at stake here, Dan Kaminsky, a well-respected security researcher, wrote in Wired in a piece timed with the conference. Whoever masters making a secure, digital world not just possible, but practical, will own the next Silicon Valley.Others at the conference, including James A. Lewis, a leading digital strategist at the Center for Strategic and International Studies, a bipartisan research group in Washington, said the iPhone debate was the start of a much larger discussion about the use of end-to-end encryption. That is, technology that protects data behind cyphers at every point.He said this technology would make it difficult for corporations to see what employees were doing and for financial regulators to see what Wall Street was doing. It would, he added, put a veil over nearly everything.Mr. Lewis argued for a system not unlike Googles, which has deployed encryption but, unlike Apples encryption scheme, has yet to make it unrecoverable to authorities.End-to-end encryption does not make you safer, it creates legal problems, Mr. Lewis said. Thats what were really fighting about.But most at the conference disagreed with that premise.Were not going to stop this technology, Mr. McConnell said. Its already available in parts of the world.
 A version of this article appears in print on March 5, 2016, on page B1 of the New York edition with the headline: Digital Security Experts Find Unlikely Allies in Ex-Officials.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

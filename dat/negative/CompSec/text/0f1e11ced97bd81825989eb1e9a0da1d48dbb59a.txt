@@ -1,5 +1,5 @@
-Apple Policy on Bugs May Explain Why Hackers Would Help F.B.I. - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Apple Policy on Bugs May Explain Why Hackers Would Help F.B.I. - 
+
 Technology|Apple Policy on Bugs May Explain Why Hackers Would Help F.B.I.
 Apple Policy on Bugs May Explain Why Hackers Would Help F.B.I.
 Security flaws in Apple devices are prized by hackers.
@@ -13,10 +13,10 @@ An Apple spokeswoman referred to an editorial by Craig Federighi, the companys s
 For every Zerodium, there are a thousand other organizations like Zerodium that are far less vocal about doing what they do and will pay researchers who find this stuff to keep it a secret, said Casey Ellis, the founder of BugCrowd, a company in San Franciso that helps vendors manage bug bounty programs.The heated battle between the United States government and Apple over breaking into the iPhone used by the San Bernardino gunman may have inadvertently catalyzed the underground market for Apple code flaws. With the F.B.I. pushing Apple to help unlock the device with a court order and publicizing that it has been unable to get into the iPhone, hackers realized there was a blank check for them if they could accomplish it, said Jon Oberheide, the chief technology officer of Duo Security, a cloud security company.
 Some security researchers said no bounty Apple could offer now would match the reward they could expect from the underground market. Apple has waited so long that the black market for its flaws has become extremely lucrative, perhaps making any bug bounty program the company would create seem late to the game.Apple can embrace security researchers, or try to facilitate programs that will secure its operating system, but its never going to be able to compete with what is going on behind the scenes in the black market, said Jay Kaplan, a former N.S.A. analyst and co-founder of Synack, a company that deploys hackers to weed out vulnerabilities in clients systems. Its just not going to happen.
 A version of this article appears in print on March 23, 2016, on page A1 of the New York edition with the headline: Why Hackers Might Help F.B.I. and Not Apple.
-Were interested in your feedback on this page. Tell us what you think.
+
 With Finality, F.B.I. Opts Not to Share iPhone-Unlocking Method
 F.B.I. Director Suggests Bill for iPhone Hacking Topped $1.3 Million
 F.B.I. Says It Needs Hackers to Keep Up With Tech Companies
 F.B.I. Used Hacking Software Decade Before iPhone Fight
 F.B.I. Lawyer Wont Say if Data From Unlocked iPhone Is Useful
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

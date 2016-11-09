@@ -1,5 +1,5 @@
-In Tax Fight, Amazon Cites Privacy Concerns - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+In Tax Fight, Amazon Cites Privacy Concerns - 
+
 Media|In a States Search for Sales Tax, Amazon Raises Privacy Concerns
 In a States Search for Sales Tax, Amazon Raises Privacy Concerns
 NORTH CAROLINA last month began an audit of online businesses, assuming that millions of dollars in sales taxes owed to the state had disappeared into the Internet.This is really an issue of fairness and equity for small businesses, the brick and mortar, corner store operations, said Kenneth R. Lay, the states secretary of revenue. These businesses are at a competitive disadvantage when they have to collect sales taxes that other businesses do not.The response of one of those online businesses, Amazon.com, was succinct: back off.In a complaint filed in Federal District Court in Seattle, the company said that the audit violated the First Amendment and privacy rights of the customers, as well as the company itself.The case offers a glimpse at the changed landscape of
@@ -10,5 +10,5 @@ Amazon. For many isolated people, Amazon is the closest thing to a library. The 
 one hand, there is the detailed information held by companies like Amazon and
 Google, which have a strong business incentive to fight off the government. Yet even as they go to court to protect the information they have collected, that information still represents a honey pot for the government, Cindy Cohn, legal director of the Electronic Frontier Foundation, says.In cases where the government gains a courts approval, it would have access to a trove of material that 10 years ago would be unthinkable in its detail.Thats why we are trying to convince all people who store data not to do it, she said. We need to strengthen the law that when we collect information for one purpose, it isnt used for another.In addition, there is all the material that roams freely available on the Internet, particularly on social networks like Facebook, which are convinced that more sharing is what their users want.This information can find its way to the government without need of a warrant, Joel R. Reidenberg, a professor of law at Fordham University, says. And while each piece of data can seem innocuous, when collected and weaved into a personal profile, it can be quite revealing.If a private company has information, they can sell it, including to the government, he said. You need a warrant when there is a reasonable expectation of privacy, he added, but if a private company has the information, on what basis would someone expect it to be private from the government?The bleed from privately held data to state surveillance can happen very quickly, he said.
 A version of this article appears in print on May 3, 2010, on page B4 of the New York edition with the headline: In a States Search for Sales Tax, Amazon Raises Privacy Concerns.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

@@ -1,5 +1,5 @@
-Narrow Focus May Aid F.B.I. in Apple Case - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Narrow Focus May Aid F.B.I. in Apple Case - 
+
 Technology|Narrow Focus May Aid F.B.I. in Apple Case
 The fight between Apple and law enforcement reflects the growing tension between technology companies that have access to private customer data and the government, which has long sought greater access to that information.
 SAN FRANCISCO  In the months leading up to Apples standoff with the United States government over the unlocking of an iPhone, the technology industry braced itself for a big demand  a back door into all of Apples products, or a way to destroy the companys strong encryption.Instead, the F.B.I. took the industry by surprise and cleverly stopped short of expectations. The bureau asked Apple for something very specific: that it create an alternative operating system for just one phone that would help the government break into the device. The limited nature of the request has helped the government portray this case as a one-time demand, without ramifications beyond the case at hand.In public statements posted on Sunday, the F.B.I. director, James B. Comey Jr. wrote: We dont want to break anyones encryption or set a master key loose on the land.While the F.B.I. is pursuing a narrow focus, Apple is arguing its side as broadly as possible.The company has repeatedly said this case is about much more than the iPhone of one of the attackers from a mass shooting in San Bernardino, Calif., which killed 14. The company has framed the governments request as a larger discussion of privacy and civil liberties, and a slippery slope that could open the way to similar demands in the future. Continue reading the main story
@@ -15,11 +15,11 @@ Mr. Vance responded: Absolutely right.Even people who oppose the Justice Departm
 An article on Tuesday about the governments strategy in seeking to force Apple to help it open a terrorists iPhone misspelled the surname of one of Apples outside lawyers. He is Theodore B. Olson, not Olsen.
 Katie Benner reported from San Francisco and Matt Apuzzo from Washington. Mike Isaac contributed reporting from New York.
 A version of this article appears in print on February 23, 2016, on page B1 of the New York edition with the headline: Narrow Focus May Aid F.B.I. in Apple Case.
-Were interested in your feedback on this page. Tell us what you think.
+
 Apple Still Holds the Keys to Its Cloud Service, but Reluctantly
 Apple Letter on iPhone Security Draws Muted Tech Industry Response
 After a Massacre, San Bernardino Police Stare Down Crippling Cuts
 Apple Still Holds the Keys to Its Cloud Service, but Reluctantly
 Apple Letter on iPhone Security Draws Muted Tech Industry Response
 After a Massacre, San Bernardino Police Stare Down Crippling Cuts
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

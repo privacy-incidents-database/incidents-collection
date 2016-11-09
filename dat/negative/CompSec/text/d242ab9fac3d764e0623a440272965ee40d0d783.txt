@@ -1,5 +1,5 @@
-Belgium Fears Nuclear Plants Are Vulnerable - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Belgium Fears Nuclear Plants Are Vulnerable - 
+
 By ALISSA J. RUBIN and MILAN SCHREUERMARCH 25, 2016
 The nuclear power plant in Doel, Belgium. The country has a troubled history of security lapses at its nuclear power facilities.
 BRUSSELS  As a dragnet aimed at Islamic State operatives spiraled across Brussels and into at least five European countries on Friday, the authorities were also focusing on a narrower but increasingly alarming threat: the vulnerability of Belgiums nuclear installations.The investigation into this weeks deadly attacks in Brussels has prompted worries that the Islamic State is seeking to attack, infiltrate or sabotage nuclear installations or obtain nuclear or radioactive material. This is especially worrying in a country with a history of security lapses at its nuclear facilities, a weak intelligence apparatus and a deeply rooted terrorist network.On Friday, the authorities stripped security badges from several workers at one of two plants where all nonessential employees had been sent home hours after the attacks at the Brussels airport and one of the citys busiest subway stations three days earlier. Video footage of a top official at another Belgian nuclear facility was discovered last year in the apartment of a suspected militant linked to the extremists who unleashed the horror in Paris in November.Asked on Thursday at a London think tank whether there was a danger of the Islamic States obtaining a nuclear weapon, the British defense secretary, Michael Fallon, said that was a new and emerging threat.
@@ -20,7 +20,7 @@ While experts are doubtful that terrorists could steal the highly enriched urani
 Professor Bunn of Harvard noted that the Islamic State has an apocalyptic ideology and believes there is going to be a final war with the United States, expects to win that war and would need very powerful weapons to do so.And if they ever did turn to nuclear weapons, he added, they have more people, more money and more territory under their control and more ability to recruit experts globally than Al Qaeda at its best ever had.
 Alissa J. Rubin reported from Brussels, and Milan Schreuer from Paris.
 A version of this article appears in print on March 26, 2016, on page A1 of the New York edition with the headline: Belgium Fears Nuclear Plants Are Vulnerable.
-Were interested in your feedback on this page. Tell us what you think.
+
 2 Brussels Police Officers Are Stabbed in Potential Terrorist Attack
 Belgiums Interior Minister Visits New York Police to Discuss Terror Threats
 In Brussels, Art Museum Brings Hope to Muslim Neighborhood of Molenbeek
@@ -35,4 +35,4 @@ After Brussels Attacks, a Slow Process to Confirm Families Worst Fears
 Brussels Attack Lapses Acknowledged by Belgian Officials
 In Belgium, a Country of Divisions, Patriotism Remains Subdued
 Ibrahim and Khalid el-Bakraoui: From Bank Robbers to Brussels Bombers
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

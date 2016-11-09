@@ -1,5 +1,5 @@
-In War of Egos, Its One Hacker vs. Another - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+In War of Egos, Its One Hacker vs. Another - 
+
 Technology|Hackers Select a New Target: Other Hackers
 The hackers, calling themselves the A-Team, assembled a trove of private information and put it online for all to see: names, aliases, addresses, phone numbers, even details about family members and girlfriends.But their targets were not corporate executives, government officials or clueless bank customers. They were other hackers.And in trying to unmask the identities of the members of a group known as Lulz Security, the A-Team was aiming to take them down a peg  and, indirectly, to help law enforcement officials lock them up.The core members of Lulz Security lack the skill to do anything more than go after the low-hanging fruit, the A-Team sneered in its posting last month. Continue reading the main story
 In recent weeks, attacks on companies like Sony and government sites like senate.gov have raised concerns about increasingly organized and brazen hackers. On Monday, a Twitter account for Fox News was hijacked.
@@ -8,5 +8,5 @@ Despite the detailed profiling by the A-Team and other hacker groups including T
 Topiarys fellows do not seem to be in a mood to venture off into the north wind forever. Since announcing its dissolution, LulzSec has melted into a broader movement called AntiSec, which potentially has thousands of hackers on its side, including those associated with Anonymous. Hackers have continued to torment the Arizona police because of their role in a state crackdown on illegal immigrants, leaking officers personal e-mail last week.
 Security companies and government agencies have a long history of relying on current or former hackers in the fight against computer crimes. One new wrinkle is the way that attacks on government targets have given rise to a small but loud faction of patriotic, presumably American hackers who are fighting back on their own, said Gabriella Coleman, an assistant professor at New York University who is researching a book on Anonymous. The fights have also become more public and spectacular, in part because of platforms like Twitter.Warring becomes an art form itself, Ms. Coleman said. There is that game quality to it. Theyre claiming they cant be found. Its a huge trophy if you can.
 A version of this article appears in print on July 5, 2011, on page A1 of the New York edition with the headline: Hackers Select A New Target: Other Hackers.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

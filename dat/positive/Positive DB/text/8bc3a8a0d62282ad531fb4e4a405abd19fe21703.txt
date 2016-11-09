@@ -1,7 +1,7 @@
-What the Hacking at Yahoo Means for Verizon - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+What the Hacking at Yahoo Means for Verizon - 
+
 Technology|What the Hacking at Yahoo Means for Verizon
-Illustration by Andrea Zagata/The New York Times; photos by Getty Images and Associated Press
+Illustration by Andrea Zagata/; photos by Getty Images and Associated Press
 Questions swirl about whether Verizons $4.8 billion deal for Yahoos core business will be renegotiated, or happen at all.
 It was the kind of phone call no chief executive wants to make  or receive  in the middle of a multibillion-dollar deal.On Tuesday, Lowell McAdam, the head of Verizon Communications, was on the road. Marissa Mayer, the chief executive of Yahoo, was at work in Silicon Valley. Executives at both companies were moving forward on Verizons $4.8 billion acquisition of Yahoos core business.But Ms. Mayer had some unexpected bad news. She caught up with Mr. McAdam and Marni Walden, a rising star at Verizon who is expected to oversee the Yahoo business after the deal is complete, by phone, according to people briefed on the call, who spoke on the condition of anonymity.Yahoo recently discovered that at least 500 million of its user accounts had been breached by hackers two years ago, well before the two companies began talks. Yahoo and law enforcement officials were scrambling to unwind the intrusion. Continue reading the main story
 After calling Mr. McAdam and Ms. Walden, Ms. Mayer phoned Tim Armstrong, who leads the AOL business at Verizon and will be overseeing the integration with Yahoo, according to the people briefed on the conversation. Again, the news was not good.
@@ -15,11 +15,11 @@ More likely, Mr. Quinn said, Verizon could pressure Yahoo to renegotiate the ter
 With this concerted action and a series of high-profile strikes on businesses including eBay, Target and Yahoo, the risks of cyberattack are evident, they wrote.Yet as the global economy recovers and deal activity rises, the report continues, increasing awareness of cyber-risk has not resulted in meaningful changes to the mergers and acquisition process.Verizon is purchasing Yahoo in the hope that the internet portal will make it a major player in the digital media business, positioning the company to compete with Google and Facebook for ad dollars. The biggest wireless carrier in the United States, with roots going back to the first telephone call in history, Verizon is facing declining revenue and is looking to Silicon Valley for growth.Those motivations are unlikely to have changed in the course of two months. But it remains unclear whether this new information has made Yahoo a less desirable acquisition target.Some of Verizons executives have indicated they may be up to the challenge of a big hack. In a recent talk at Penn State University, Ms. McMahon, the telecom companys chief information security officer, suggested that she relished the cat-and-mouse game between hackers and companies.I love security,
 she said. I love the offense and the defense of it. The bad guys are innovating just as much as the good guys in terms of their defense. Our job as defenders is to see all that.
 A version of this article appears in print on September 24, 2016, on page B1 of the New York edition with the headline: Into the Breach.
-Were interested in your feedback on this page. Tell us what you think.
+
 Hackers Trawl User Data in Hopes a Small Target Will Lead to a Big One
 Yahoo Says Hackers Stole Data on 500 Million Users in 2014
 Email Hack Details Movements of Joe Biden, Michelle Obama and Hillary Clinton
 Hackers Trawl User Data in Hopes a Small Target Will Lead to a Big One
 Yahoo Says Hackers Stole Data on 500 Million Users in 2014
 Email Hack Details Movements of Joe Biden, Michelle Obama and Hillary Clinton
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

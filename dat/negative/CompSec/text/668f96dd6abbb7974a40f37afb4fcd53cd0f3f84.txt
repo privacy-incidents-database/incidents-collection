@@ -1,4 +1,4 @@
-New Security Features From Google - The New York Times
+New Security Features From Google - 
 Google is warning Web surfers if sites in its search results show signs of having been hacked.
 It is becoming increasingly perilous to surf the Web. Scores of poorly secured sites are being commandeered constantly by criminals and used to abuse visitors.
 Its a reality that is particularly alarming and threatening to Google, which often finds, unfortunately, that its search engine is directing Web users to malicious sites. So on Friday, Google said in a blog post that it is ratcheting up its effort to warn Web surfers when they are in danger of wading into a rip tide. It will now display a prominent warning that this site may be compromised on its search-results pages, below the hyperlinks for those sites, if it has detected signs it has been hacked.

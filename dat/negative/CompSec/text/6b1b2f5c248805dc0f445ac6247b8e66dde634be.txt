@@ -1,5 +1,5 @@
-Apple Encryption Engineers, if Ordered to Unlock iPhone, Might Resist - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+Apple Encryption Engineers, if Ordered to Unlock iPhone, Might Resist - 
+
 Technology|Apple Encryption Engineers, if Ordered to Unlock iPhone, Might Resist
 Apple Encryption Engineers, if Ordered to Unlock iPhone, Might Resist
 By JOHN MARKOFF, KATIE BENNER and BRIAN X. CHENMARCH 17, 2016
@@ -14,7 +14,7 @@ They include an engineer who developed software for the iPhone, iPad and Apple T
 Mr. DeMarco, who filed a friend of the court brief on behalf of law enforcement groups that supported the Justice Department, also noted that if the engineers refused to write the code, rather than outright quit, then I think that the court would be much more likely to find Apple in contempt, he said.Rather than contempt, Riana Pfefferkorn, a cryptography fellow at the Stanford Center for Internet and Society, said Apple could incur daily penalties if a judge thought it was delaying compliance.
 The government has cracked down on tech companies in the past. A judge imposed a $10,000-a-day penalty on the email service Lavabit when it did not give its digital encryption keys to investigators pursuing information on Edward J. Snowden, the former intelligence contractor who leaked documents about government surveillance.The small companys response could be indicative of how individual Apple employees reacted to a court order. When Lavabit was held in contempt, its owner shut down the company rather than comply.
 A version of this article appears in print on March 18, 2016, on page A1 of the New York edition with the headline: Reluctant Staff Could Impede IPhone Ruling .
-Were interested in your feedback on this page. Tell us what you think.
+
 With Finality, F.B.I. Opts Not to Share iPhone-Unlocking Method
 F.B.I. Director Suggests Bill for iPhone Hacking Topped $1.3 Million
 F.B.I. Says It Needs Hackers to Keep Up With Tech Companies
@@ -29,4 +29,4 @@ Apple and U.S. Bitterly Turn Up Volume in iPhone Privacy Fight
 Justice Dept. Appeals Ruling in Apple iPhone Case in Brooklyn
 Supreme Court Declines to Hear Apples Appeal in E-Book Pricing Case
 Apple Is Rolling Up Backers in iPhone Privacy Fight Against F.B.I.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+

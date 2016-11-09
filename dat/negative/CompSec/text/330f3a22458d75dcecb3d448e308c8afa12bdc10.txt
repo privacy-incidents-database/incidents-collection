@@ -1,4 +1,4 @@
-Company Denies Role in Recently Uncovered Spyware - The New York Times
+Company Denies Role in Recently Uncovered Spyware - 
 Adding discovery of latest sample of the spyware at end.
 An executive at Gamma Group, a British company that sells surveillance technologies, denied on Wednesday that a spyware program running on servers in 11 countries is part of his companys product line.
 Gamma Group makes FinFisher, spyware that, according to the companys promotional materials, can be used to access target systems, giving full access to stored information with the ability to take control of the target systems functions to the point of capturing encrypted data and communications.

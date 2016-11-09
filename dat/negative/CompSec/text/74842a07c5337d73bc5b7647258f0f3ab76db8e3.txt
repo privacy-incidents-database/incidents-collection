@@ -1,5 +1,5 @@
-On Security, Microsoft Reports Progress and Alarm - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+On Security, Microsoft Reports Progress and Alarm - 
+
 Companies|On Security, Microsoft Reports Progress and Alarm
 Microsoft plans to report on Monday that the security of its Windows operating system has significantly improved, while at the same time the threat of computer viruses, frauds
 and other online scourges has become much more serious.The company blames organized crime, nave users and its competitors for the deteriorating situation.In the latest edition of its twice-a-year Security Intelligence Report, Microsoft said that the amount of malicious or potentially harmful software removed from Windows computers grew by 43 percent during the first half of 2008.The company said improvements in security for its Windows Vista operating system and
@@ -8,5 +8,5 @@ Microsoft executives said they were pleased with the progress made since the com
 An Apple spokesman, Bill Evans, said Microsoft had previously issued similar reports and declined to comment beyond saying that the data was not supported by users experience of infections.Microsoft has a unique vantage point from which to monitor the world of malware and other threats because it receives automated data both from free software it has given to users, like the Malicious Software Removal Tool, and from specialized Internet reporting systems that monitor threats.
 It also receives data about crashes on more than a half-billion personal computers.The current report indicates that malware infection rates are generally higher in developing countries and regions than in developed ones. Infection rates range from 1.8 for every 1,000 computers in Japan to above 76.4 for every 1,000 in Afghanistan. The United States had an infection rate of 11.2 infected computers for every 1,000 scanned, an increase of 25.5 percent in the last six months.
 A version of this article appears in print on November 3, 2008, on page B9 of the New York edition with the headline: On Security, Microsoft Reports Progress and Alarm.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+

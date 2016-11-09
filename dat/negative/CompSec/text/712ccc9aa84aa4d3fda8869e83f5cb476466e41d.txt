@@ -1,4 +1,4 @@
-A Lie That's Good for Password Security - The New York Times
+A Lie That's Good for Password Security - 
 The other day, for some inexplicable reason, a Web site that uses responses to personal questions as password protection stopped accepting one of my answers. It just doesnt seem to like this word anymore, the tech assist told me.
 But how many different ways can you answer a question like, What was the first car you owned? Obviously, I couldnt change the first car I owned (unless my current car is a time-traveling DeLorean).
 But she made a brilliant point. Since the Web site doesnt know if my answer is correct, I could put in anything. In fact, she pointed out, a good security tip is to answer incorrectly.

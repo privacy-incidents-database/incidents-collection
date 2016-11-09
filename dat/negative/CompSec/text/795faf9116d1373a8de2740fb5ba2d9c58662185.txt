@@ -1,4 +1,4 @@
-Tip of the Week: Set Your Own Password Reminder - The New York Times
+Tip of the Week: Set Your Own Password Reminder - 
 Worried that you might forget your new password if you change it? You can have the computer give you a little hint to jog your memory at the login screen.
 In Windows 7, go to the Start menu to Control Panel and click on User Accounts and Family Safety (or User Accounts). Click on Change your password and type in your old one, then type in the new password you want to use and confirm it. In the box below, type in the password hint you want to use. Click the Change Password button to change the password and store the hint.
 In Mac OS X, go to the Apple menu and select System Preferences, or click on the gear-shaped System Preferences icon in the desktop Dock. Click on User Accounts (or Accounts) and the click the Change Password button.

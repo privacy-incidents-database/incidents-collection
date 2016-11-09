@@ -1,5 +1,5 @@
-The 0s and 1s of Computer Warfare - The New York Times
-NYTimes.com no longer supports Internet Explorer 9 or earlier. Please upgrade your browser.
+The 0s and 1s of Computer Warfare - 
+
 The Opinion Pages|The 0s and 1s of Computer Warfare
 response to a recent wave of cyberattacks that hit two dozen important Web sites in the United States and South Korea, we are already in the Brave New World of cyberwarfare.After all, what could be more disturbing than to find that someone
 anyone, actually, since the attacks relied on very unsophisticated technology
@@ -28,5 +28,5 @@ as an IT ghetto.Above all, we need to start a broad international debate about c
 a modicum of declassified information, such discussions quickly degenerate into a competition of emotional metaphors, meaningless
 serious international debate about cybersecurity is impossible if our only reference points are digital Pearl Harbors and e-Katrinas.What we need are common standards that all governments would adhere to, especially in terms of disclosure about the nature of
 is a fellow at the Open Society Institute and a blogger for Foreign Policy.
-Were interested in your feedback on this page. Tell us what you think.
-Accessibility concerns? Email us at accessibility@nytimes.com. We would love to hear from you.
+
+
