@@ -1,0 +1,39 @@
+Most Presidential Campaign Websites Fail Privacy Test, Survey Finds - NBC News
+Most Presidential Campaign Websites Fail Privacy Test, Survey Finds
+Political campaign websites are designed to raise money and collect personal information, such as email addresses, for future solicitations. The sites may also ask for your age, sex, education and ethnicity in order to better target this follow-up marketing.
+Ever wonder how well these campaign sites protect that information or if they share it?
+The nonprofit, nonpartisan Online Trust Alliance (OTA) recently audited the websites for 23 presidential candidates (including those of so-called third-party White House wannabes) to examine their security, consumer protection and privacy practices. This was done anonymously and without the sites' participation.
+Carly Fiorina's website got a failing grade. carlyforpresident.com
+Only six received a "passing" grade on privacy. The other 17 (74 percent) failed, mainly due to their privacy policies or absence of one. Four did not have a privacy policy at all.
+The OTA report (2016 Presidential Candidates Online Trust Audit) noted that since the infrastructure for these websites is new and for limited purposes, "the adoption of security and privacy best practices should be relatively straightforward."
+"We naively felt that they would have been more in tune with privacy principles, but based on the results, we were wrong," said Craig Spiezle, OTA's executive director. "The vast majority of these sites fail to adhere to fair information privacy practices (FIPPS), which ironically one of the candidates will have to uphold if they become president."
+The six sites making OTA's Honor Roll are those of Republicans Jeb Bush, Chris Christie, Rick Santorum and Scott Walker, who has ended his campaign, and Democrats Lincoln Chafee and Martin O'Malley.
+Christie had the only site that made it possible for supporters to opt out of having their personal information sold or shared, the report noted.
+Related: Would You Take a 'Digital' Pill? Bioethicist Warns About Privacy Risk
+The site for Republican Ted Cruz is at the other extreme, it said. Its privacy policy says the campaign "may periodically access your contact list and/or address book on your mobile device" and that by registering on the site you're giving them "your express consent" to do that.
+Spiezle told NBC News that OTA contacted all 23 presidential campaigns to ask for a comment and offer its help. Only one responded: the campaign of Republican candidate Bobby Jindahl  with a threat to take legal action, according to Spiezle.
+NBC News emailed all of the major candidates whose sites received failing grade but did not receive any responses.
+The report found that on the whole, the sites audited have "excellent security configurations," but it advised the campaigns not to be complacent.
+It warned the campaign sites that they are "breaches waiting to happen" as they are "prime targets for people motivated by the commercial value of the data, politics or hactivism."
+One area singled out for improvement: campaign email. The majority of the candidates' email systems "are still exposed to the possibility of email being spoofed or forged," the report concluded. This could result in scams or malware being delivered to their supporters.
+Related: NBC/WSJ Poll: 6 in 10 Oppose Defunding Planned Parenthood
+Privacy experts compare presidential primary campaigns to start-ups. Everyone is in a rush to get it done now and they may cut corners because they know they may not be around in a few months.
+"This is an incredibly temporary infrastructure for most, being thrown together as quickly as possible," said Chris Babel, CEO of TRUSTe, an online privacy management service. "When you reach out to 20 venders to assemble a campaign and you want it up and running in a matter of months, some of these things get dropped."
+That might explain why the privacy policy on the Bush campaign website includes a section on "contests, sweepstakes and other promotions."
+"On the Site, you may wish to participate in contests and other promotions that we may offer from time to time," it says. "Through these promotions, you may choose to participate in activities such as sharing information found on the Site with others and sending e-mail invitations. In connection with any contests and other promotions that we may offer from time to time via the Site, we use the information you provide to administer the contests and other promotions."
+OTA's Spiezle told NBC News the wording suggests that the site developer simply "copied and pasted a privacy policy from another site without any sensitivity or awareness of the context."
+"If this were any major site, it would be quite a cause for alarm," he said.
+The OTA audit found that most campaigns stated in their privacy policies that they might share any personal information collected from supporters with any "like-minded" organizations.
+For instance, the privacy policy on Democrat Hillary Clinton's website advises that personal information may be shared with a wide variety of people, businesses and organizations:
+"With vendors, consultants and other service providers or volunteers who need access to such information to carry out work on our behalf," it says. "With candidates, organizations, campaigns, groups or causes that we believe have similar goals and with organizations that facilitate communications and information sharing among such groups."
+So, if you share your personal information with a candidate, you should expect to receive solicitations from other candidates in that party, and maybe from the party itself.
+"It shouldn't be a surprise that candidates share information," said Jules Polonetsky, executive director of the Future of Privacy Forum.
+The privacy policy on Republican Carly Fiorina's campaign website is the only one that makes it clear the campaign reserves the right to do that:
+"Carly for President may provide or sell your email address or other personal information to third parties for fundraising or other purposes," it says. "Additionally, we may share your personal information with select third parties who offer goods or services we think may be of interest to you."
+The Clinton website also says it might sell personal information collected, but only in certain situations, such as reorganization or formation of a new or successor organization. It does not explain who it could sell the data to in those circumstances.
+Very few people read privacy policies. So it's best to assume that if you provide your personal information to a political candidate or party it's going to be shared. If this concerns you and you still want to help the campaign, you might consider using a disposable email address when you sign up on the website and limit the information you provide.
+Privacy experts would like to see the candidates take this issue more seriously. In an "Open Letter to the Presidential Candidates" OTA's Craig Spiezle calls on the parties and the candidates to make respect for privacy a part of their political platforms.
+It's a candidate's "duty to protect and be a steward of the data and personally identifiable information voters entrust to them," he wrote.
+Herb Weisbaum is The ConsumerMan. Follow him on Facebook and Twitter or visit The ConsumerMan website.
+Topics Consumer, 2016 Election, Internet, Politics News, U.S. news
+Obamacare Premiums Are Going Up. What Does That Really Mean?

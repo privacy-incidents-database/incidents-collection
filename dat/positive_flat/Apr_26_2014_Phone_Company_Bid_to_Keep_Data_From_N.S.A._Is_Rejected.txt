@@ -1,0 +1,17 @@
+WASHINGTON — A telephone company asked the Foreign Intelligence Surveillance Court in January to stop requiring it to give records of its customers’ calls to the National Security Agency, in light of a ruling by a Federal District Court judge that the N.S.A. program is likely unconstitutional, according to court papers declassified on Friday.
+
+But Judge Rosemary M. Collyer, another Federal District Court judge who also sits on the secret surveillance court, rejected the request — and her colleague’s legal analysis — in a 31-page ruling on March 20, the newly declassified papers show. The identity of the phone company was censored in the documents that were made public.
+
+The developments heighten the display of legal tensions over the program. Since 2006, a series of judges on the secret surveillance court have repeatedly ordered companies to participate in the program, but none of them produced a judicial opinion explaining why it was legally justified until after it became public in the leaks by the former N.S.A. contractor Edward J. Snowden.
+
+Since then, some outsiders have challenged the legality of the bulk records collection. The critics include Judge Richard J. Leon, who ruled in December that the program was likely to violate the Fourth Amendment. Judges Collyer and Leon were both appointed by President George W. Bush in 2002 for the Federal District Court for the District of Columbia.
+
+Advertisement Continue reading the main story
+
+On Jan. 22, the unnamed phone company asked the surveillance court to vacate the current order requiring it to turn over customers’ records in light of Judge Leon’s ruling. But Judge Collyer said she found Judge Leon’s analysis to be “unpersuasive.”
+
+The argument chiefly focused on Smith v. Maryland, a 1979 case in which the Supreme Court held that there was no Fourth Amendment protections for metadata — information like the numbers dialed and the duration of a call, but not its contents. Judge Leon argued that the precedent was not valid when applied to bulk collection of all Americans’ phone data in the modern era. But Judge Collyer said the Supreme Court precedent was still valid and that the bulk nature of the collection was irrelevant because what mattered was each individual caller’s expectation of privacy.
+
+Separately, the independent Privacy and Civil Liberties Oversight Board has issued a lengthy analysis rejecting the surveillance court’s view that a provision of the Patriot Act — which allows the F.B.I. to obtain business records that are relevant to an investigation — can be legitimately interpreted as authorizing bulk collection. The board issued its report after the phone company made its challenge, and neither it nor Judge Collyer’s ruling addressed that issue.
+
+In another lawsuit, Judge William H. Pauley III, of the Federal District Court for the Southern District of New York, upheld the program in December. Before the program’s public disclosure, Judge Pauley — who is also not on the surveillance court — had been briefed on the program and rejected Freedom of Information Act lawsuits by The New York Times and the American Civil Liberties Union seeking details about how the government was interpreting the Patriot Act.

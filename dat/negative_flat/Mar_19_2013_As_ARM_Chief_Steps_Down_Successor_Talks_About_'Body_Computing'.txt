@@ -1,0 +1,21 @@
+ARM Holdings, the specialist in low-power semiconductors, is looking to put computers everywhere around us, and even inside us.
+
+On Tuesday, Warren East, the company’s chief executive, announced that he would step down after 12 years at the helm. Mr. East, 51, will be succeeded by Simon Segars, 45, who has been with ARM since 1991.
+
+Mr. Segars said he would continue to develop Mr. East’s plan to make ARM chips a crucial element not just of smartphones and tablets, where most are now used, but also of computer servers, sensors and networking gear. “Our alliances have broadened,” he said. “There’s large growth potential ahead for ARM.”
+
+It is, the two men said, part of a decade-long plan. “We’ve got a long-term planning horizon, to 2020 and beyond,” said Mr. East. “At 2020, I’d have been C.E.O. for over 20 years — that is bordering on a problem.”
+
+ARM was originally a project inside Acorn Computer, a personal computer maker long since broken up. From relative obscurity, ARM’s chip designs now make up nearly one-third of new chip consumption, hurting companies like Intel. ARM’s designs for chips are used in computer servers that are made by Hewlett-Packard and others that are useful for high transaction computing. And theyare regarded as a potentially huge development for new Internet applications.
+
+The big coming focus, Mr. Segars said, will be deploying chips into a sensor-rich world. “Low-cost microcontrollers with a wireless interface,” he said. “There will be billions of these.” The sensor data will be processed both locally, on millions of small computers, with capabilities to make decisions locally, or collected and passed along to even bigger computer systems.
+
+“The systems will go through different aggregation points,” Mr. Segars said. “If an aggregator in the home can tell a fridge is using too much power, maybe it needs servicing.”
+
+The vision of lots of information being acted on across the network was akin to one described last week by Cisco Systems. In the ARM version, however, Cisco’s custom chips would face competition from cheaper versions from ARM, much the way that ARM’s chips have pressed Intel’s. Mr. Segars noted that LSI has already deployed a networking product with an ARM design.
+
+ARM also plans to get involved more deeply in solid state data storage, considered a crucial part of Big Data analysis inside servers.
+
+“It’s hard to get your head around” how many semiconductors will soon line the world, Mr. Segars said. “The car is ripe for a revolution. It will evolve into a consumer electronics device, paying for parking as you pull up to the curb.”
+
+Eventually, said Mr. East, “it’s getting into people’s bodies. Over the next several years, semiconductors will be so small and use so little power that they’ll run inside us as systems.”

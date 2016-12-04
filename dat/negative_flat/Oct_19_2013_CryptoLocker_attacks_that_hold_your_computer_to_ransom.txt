@@ -1,0 +1,33 @@
+The email from the bank looked innocent enough. It was from paymentsadmin@lloydsplc.co.uk, and Sarah Flanders, a 35-year-old charity worker from north London, didn't think twice about opening it. But the email contained software that immediately began encrypting every file on her computer – from precious family photos to private correspondence and work documents. In just a short time all her files were blocked, and then a frightening message flashed up on her screen: "Your personal files have been encrypted and you have 95 hours to pay us $300."
+
+Flanders is refusing to pay, but fears her personal files are now lost forever. She is one of the lastest victims of a particularly malacious piece of "ransomware" called CryptoLocker, which is estimated to have targeted nearly 1m computers over the past month alone.
+
+There is nothing new about ransomware – different forms of it have been circulating since as far back as 1989 – but in recent weeks internet security firms have reported a surge in computers affected. Some suggest the malware is "on the rampage", with commercial organisations targeted as often as individuals. One version is cleverly hidden in an email complaint from a supposedly unhappy customer.
+
+"If you haven't got a backup and you get hit by CryptoLocker, you may as well have dropped your PC over the side of a bridge," says Paul Ducklin, security adviser for anti-virus software company Sophos. Even if you had backed up your files, he says, if your back-up device was connected to your computer when CryptoLocker struck, you may not be able to recover them. Similarly, all the files in shared network drives that were connected at the time of the attack could also become encrypted and inaccessible.
+
+What's more, while you will no longer be able open, read or view your files, anyone with the decryption key could easily do so. That means any of your documents containing passwords or personal information, along with your photos and videos, could potentially be accessed by cyber-criminals – and although there is no evidence of encrypted files being uploaded or sold on for this purpose at the moment, it is theoretically possible.
+
+Flanders says she feels violated. "I am worried the criminals could steal my identity. I had anti-virus software on there, but the laptop is 18 months old and it wasn't up-to-date," she says, adding that she is now contemplating buying an external hard-drive. "I wouldn't consider paying the ransom on principle. The money would go to criminals who have done this to me and will carry on doing it to others."
+
+She is furious she opened the attachment in the email, but says it is easy to be fooled. "I was expecting a dividend payment from Lloyds for some Halifax shares I had sold, so I wasn't surprised to see an email from paymentsadmin@lloydsplc.co.uk. The attachment appeared to be the receipt for the payment. I feel pretty silly now that I clicked on it, but the email didn't go to my junk mail folder and appeared genuine, with no spelling mistakes and a realistic email address."
+
+The malicious software – CryptoLocker is technically not a virus, but a piece of software – can sneak into your machine via an email attachment or a "drive-by download", which you would not even be aware is taking place. If you don't have the latest security updates and anti-virus protection on your computer, all you would need to do is to visit a compromised website or click on a seemingly legitimate online advertisement.
+
+CryptoLocker currently only affects PCs and can easily be removed with anti-virus software, but its effects cannot. "I don't think anyone in the world could break the encryption," says Gavin O'Gorman, spokesman for internet security firm Symantec. "It has held up for more than 30 years."
+
+Ryan Rubin, MD of global risk consultancy Protiviti, agrees: "CryptoLocker has been designed to make money using well-known, publicly available cryptography algorithms that were developed by governments and other [legitimate] bodies. Unless you have the key, you simply cannot unlock the data that is encrypted."
+
+The malware uses a well-established form of asymmetric encryption, which means it utilises two keys: a "public key" to encrypt the data, and a "private key" to decrypt it. The malware downloads the public key on to your computer, but the private key is kept on the cybercriminals' "command and control" servers and cannot be found or recovered on your computer.
+
+It is possible to trace where the public key was downloaded from but, says O'Gorman, "often the server your PC connects to is a local proxy which doesn't contain the private key". This proxy server then connects to the criminals' command and control server via a second or third machine, which is constantly being shifted about in another country. "It is difficult for local law enforcement to seize the command and control server, because it takes them time to get there."
+
+Even when police do seize servers of international cyber-gangs, he says "it would not be a realistic or practical" for them to identify victims and give them their decryption keys.
+
+So should anyone hit by CryptoLocker pay up? "You'd be in the same situation if your laptop got stolen – it just feels worse because you know that there is someone out there who has got this key. If your data is worth $300 to you, it must be very tempting to pay up, just in case it works," Ducklin says.
+
+According to Symantec, around 3% of people hand over money in the hope of getting their data back. "But remember, you're dealing with criminals," Rubin says. "There is no guarantee they'll send you the key, and if they know you're susceptible to blackmail what is to stop them from doing it again?"
+
+Bear in mind that every penny you pay them will fund their endeavours to target other victims. "If even a few victims pay then the cybercriminals will think they have got a viable business model and keep infecting people and asking for ransoms. If nobody pays, they will stop these campaigns," says Dmitri Bestuzhev, spokesperson for Kaspersky anti-virus software.
+
+• Sarah Flanders is not her real name

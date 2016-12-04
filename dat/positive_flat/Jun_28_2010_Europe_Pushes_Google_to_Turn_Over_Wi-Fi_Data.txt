@@ -1,0 +1,41 @@
+Google disclosed the error after a data protection supervisor in Hamburg, Johannes Caspar, asked to look at the information Google had been collecting in Germany.
+
+French regulators said that at Google’s invitation, they had remotely looked June 4 at the Wi-Fi data compiled in their country. Officials in Hamburg began inspecting the German data on Thursday and the Spanish regulator looked at its data remotely within the past two weeks, Mr. Rallo said.
+
+Following these initial inspections, the agencies said their investigations remained open. Civil and criminal penalties are possible, including criminal proceedings in France and Germany and fines of as much as €600,000, or $738,000, in Spain.
+
+An official at one of the agencies, who did not want to be identified because the investigation was not over, said his agency had no way to verify the data it had seen. The official said that experts in his office were trying to check the information for completeness, looking for unexplained geographic voids where no data had been recorded.
+
+“Basically we have no way of knowing whether what we are looking at is authentic or not,” the privacy official said.
+
+Privacy lawyers were divided over whether Google’s offer to open the data to inspection remotely would settle the complaints. Twelve jurisdictions have asked Google to retain the data the company has collected in their countries or territories as they consider pursuing their own investigations. Those countries or territories are Belgium, Canada, the Czech Republic, Finland, France, Germany, Hong Kong, Italy, Greece, Spain, Switzerland and the United States.
+
+Advertisement Continue reading the main story
+
+On June 21, the attorney general of Connecticut, Richard Blumenthal, said his office would lead a 30-state investigation into Google’s Wi-Fi collection practices. A day later, a group in Britain, Privacy International, asked the Metropolitan Police in London to investigate whether Google should face criminal charges. The London police say they will investigate, joining prosecutors also weighing charges in Hamburg.
+
+“The outcome of these investigations is still unclear, and my sense is investigators are at the beginning of their efforts, not at the end,” said Christopher Kuner, a lawyer who heads the European privacy practice in Brussels for Hunton & Williams, a U.S. law firm that has represented Google in the past. “There are major questions still outstanding, including who owns the data and whether local wiretapping laws were broken.”
+
+Ulrich Börger, a privacy lawyer in Hamburg for the U.S. firm Latham & Watkins, said Google would most likely face a series of fines because of the episode, but it said it doubted that the investigation would lead to new legal restrictions on the collection of wireless data.
+
+“I think it’s probably fair to say that Google will likely end up facing some sanctions,” said Mr. Börger, whose firm has also advised Google. “But the laws in Europe are all different, domestically, so the outcome at this point is unclear.”
+
+Google said it had been mapping the location of Wi-Fi routers to enhance its geo-location services, which rely on pinpointing individuals on the go by detecting their mobile phones via Wi-Fi routers.
+
+In the course of logging the address details of the routers, Google said, it had inadvertently recorded snippets of unencrypted Internet information sent over the routers as its cars passed by, including passwords and the contents of some e-mails.
+
+On June 6, Eric Schmidt, the Google chief executive, told The Financial Times that his company had “screwed up” and was taking disciplinary action against the programmer, whose actions had led to the unauthorized recording of private data. Google has not identified the employee.
+
+The newspaper also reported that Mr. Schmidt had authorized Google to “hand over” the data to regulators.
+
+Advertisement Continue reading the main story
+
+“We screwed up. Let’s be very clear about that,” Mr. Schmidt said in the interview. “If you are honest about your mistakes, it is the best defense for it not happening again.”
+
+A Google spokesman in Brussels, William Echikson, said the company regretted its error in collecting the data and was working closely with investigators to resolve the situation. Google has destroyed the data collected in Ireland, Denmark and Austria at the request of officials in those countries.
+
+“As we have said before, this was a mistake,” Google said in a statement released by Mr. Echikson. “We are working with the relevant authorities to answer their questions and concerns.”
+
+Following its initial review of the data, the French data privacy regulator, the Commission Nationale de l’Informatique et des Libertés, admonished Google for collecting the information.
+
+French privacy regulators viewed the data collected in France a few weeks after their inspectors visited the Paris headquarters of Google on May 19. In its official statement on June 17, the French agency, while critical, did not mention sanctions, saying its investigation remained open. Under French law, the agency can reprimand Google, fine the company as much as €150,000 or refer the matter to a judge, who could pursue criminal charges and fines against Google employees.

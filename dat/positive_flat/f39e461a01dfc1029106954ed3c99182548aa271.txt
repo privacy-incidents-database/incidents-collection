@@ -1,0 +1,37 @@
+Google Busted With Hand in Safari-Browser Cookie Jar | WIRED
+Google Busted With Hand in Safari-Browser Cookie Jar
+Subscribe now to get 6 months for $5 - plus a FREE Portable Phone Charger.
+Meet the competitors who dominated the world's first-ever cyborg Olympics: bit.ly/2e7vujC
+Google Busted With Hand in Safari-Browser Cookie Jar
+Google intentionally circumvented the default privacy settings of Apples Safari browser, using a backdoor to set cookies on browsers set to reject them, in the latest privacy debacle for the search and advertising giant.
+Google immediately disabled the practice after the Wall Street Journal disclosed the practice Thursday night, which was discovered by Stanford researcher Jonathan Mayer and confirmed by security consultant Ashkan Soltani.
+Safari, which accounts for about 6% of desktop browsing and more than 50% of mobile browsing, is the only major browser to block so-called third-party cookies by default. When you visit a website, all browsers, including Safari, allow that site to put a small tracking file on your computer, which allows the site to identify a unique user, track what theyve done and remember settings. However, many sites also have Facebook Like buttons, ads served by third parties, weather widgets powered by other sites or comment systems run by a third party.
+Safari blocks the sites that power those services from setting or reading cookies, so a Facebook widget on a third-party site, for instance, cant tell if you are logged in, so it cant load a personalized widget. Google, along with a number of ad servers, were caught by Mayer avoiding this block, using a loophole in Safari that lets third parties set cookies if the browser thinks you are filling out an online form. (See a good technical overview here.)
+Googles rationale seems to be that Apples default settings dont adhere to standard web practices and dont actually reflect what users want, since the browser never asks users if thats the privacy setting they want. Facebook even goes so far as to suggest to outside developers that getting around the block is a best practice, linking to a developers blog postfrom 2010 that includes sample code on how to circumvent the block.
+Google said it used the backdoor so that it could place +1 buttons on ads it places around the web via its Adsense program, so that logged-in Google+ users could press the button to share an ad. Without the work-around, the button wouldnt be able to tell Google which Google account to link the button to.
+Now if Safari werent so dominant on mobile to the popularity of the iPhone, itd hardly be worth the code to get at the 6% of desktop users.
+But more to the point, if this is a problem for Google and Facebook, and if the defaults actually do mess with users expectations, it would seem that there are better ways to bring attention to the issue than getting busted working around them. It may not be Apples first priority to help Facebook and Google, but I likewise doubt that Apple is intentionally trying to ruin user experience in order to hobble Facebook, Google and online ad networks.
+As for Google, I would expect a new round of calls for hearings and perhaps even a fine from the FTC, which has already imposed mandatory privacy audits on Google for 20 years. And my new shorthand for how companies should deal with privacy  Dont be a secretive jerk  applies here as well. Google may or may not have been a jerk in this case  that depends on your perspective, but its clear it was sneaky and secretive.
+Given that Google announced it is backtracking on its privacy promises to users in order to create the mother of all online profiles by combining the data you give it to nearly all of its services, that secrecy may be more disturbing than the crime itself.
+Ubers Self-Driving Truck Makes Its First Delivery: 50,000 Beers
+Ubers Self-Driving Truck Makes Its First Delivery: 50,000 Beers
+SpaceXs Mysterious Rocket Explosion Gets a Little Bit Clearer
+SpaceXs Mysterious Rocket Explosion Gets a Little Bit Clearer
+Inside the Cyberattack That Shocked the US Government
+Inside the Cyberattack That Shocked the US Government
+Xiaomis Bezel-Free Mi MIX Phone Is Beautifully Bonkers
+Xiaomis Bezel-Free Mi MIX Phone Is Beautifully Bonkers
+AT&T Undercuts Cable TV With $35 Internet Streaming Service
+AT&T Undercuts Cable TV With $35 Internet Streaming Service
+Google Jamboard Is a Huge 4K Screen You Can Scribble On
+Google Jamboard Is a Huge 4K Screen You Can Scribble On
+Elegant Physics (and Some Down and Dirty Linux Tricks) Threaten Android Phones
+Hacker Lexicon: A Guide to Ransomware, the Scary Hack Thats on the Rise
+Security News This Week: Ecuador Takes Away Assanges Internet Privileges
+What We Know About Fridays Massive East Coast Internet Outage
+NASA Celebrates 10 Years of Staring Into the Damn Sun
+Subscribe now to get 6 months for $5 - plus a FREE Portable Phone Charger.
+Meet the competitors who dominated the world's first-ever cyborg Olympics: bit.ly/2e7vujC
+Meet the competitors who dominated the world's first-ever cyborg Olympics: bit.ly/2e7vujC
+We get it: Ads arent what youre here for. But ads help us keep the lights on. So, add us to your ad blockers whitelist or pay $1 per week for an ad-free version of WIRED. Either way, you are supporting our journalism. Wed really appreciate it.
+Use of this site constitutes acceptance of our user agreement (effective 3/21/12) and privacy policy (effective 3/21/12). Affiliate link policy. Your California privacy rights. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond Nast.

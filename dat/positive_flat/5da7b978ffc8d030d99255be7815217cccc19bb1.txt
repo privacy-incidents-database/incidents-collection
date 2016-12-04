@@ -1,0 +1,12 @@
+Cloud storage debacle marks hospital's third privacy incident in a year | FierceHealthcare
+Cloud storage debacle marks hospital's third privacy incident in a year
+Information for more than 3,000 patients at Oregon Health & Science University was put at risk when medical residents stored the data on a password protected cloud computing system, the institution announced this week. The potential data breach is the third such reported incident to occur at the university in less than a year, and the fifth since 2008.
+In May, a faculty member at the university's school of medicine found that residents in the Division of Plastic and Reconstructive Surgery were using Google Drive and Google Mail to maintain a spreadsheet of patients that was accessible among department members in real time. A subsequent investigation determined that similar practices had taken place in the hospital's Department of Urology and in Kidney Transplant Services. Those patients impacted--3,044 in all--were admitted to the hospital between Jan. 1, 2011 and July 3 of this year.
+Data posted to the various spreadsheets included patient names, medical record numbers, dates of service, age, provider name and diagnosis/prognosis; addresses were posted for 731 patients, as well. Social Security numbers, dates of birth and financial information such as bank account and credit card numbers were not among the stored information, according to the university.
+OHSU Chief Information Security Officer John Rasmussen said that the university does not foresee identity theft or financial harm resulting from the incident. All patients impacted were notified in letters sent July 26.
+In February, an unencrypted laptop containing information for more than 4,000 OHSU patients was stolen from a surgeon's vacation rental home in Hawaii. Last summer, meanwhile, 14,000 patients treated at OHSU had their information put at risk when aUSB drive was stolen during a burglaryof a hospital employee's home.
+Two more data breaches that impacted patients at hospital included laptops being stolen from a doctor's car in 2009 and from an employee attending a conference in Chicago in 2008, according to a PHIprivacy.net post.
+Mega-merger alert: CHI, Dignity Health may join forces
+Heres what physicians are saying about new MACRA payment system
+Benchmark ACA exchange premiums will rise by double digits in 2017
+Rural hospitals may have to repay Medicaid millions

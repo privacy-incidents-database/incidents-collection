@@ -1,0 +1,37 @@
+A cyberattack has sent doctors and nurses at a large Los Angeles hospital back to the dark ages – or at least back to the pre-electronic health record days of the 1990s.
+
+The computer systems at the Hollywood Presbyterian Medical Center were, according to a report on NBC, infected on 5 February with ransomware, a computer virus that encrypts a target’s files, locking the owner out of their own data until a bounty is paid.
+
+In this case, the hospital attackers are demanding a ransom of 9,000 Bitcoin (about $3.6m) to decrypt the files, unnamed sources have told NBC.
+
+Without access to their computer systems, doctors are communicating by fax, patients have to drive to the hospital to pick up test results in person, and nurses are recording patient information on old-fashioned paper charts.
+
+“Things are kind of slow,” said Tina Bordas, a licensed vocational nurse who represents the nurses at Hollywood Presbyterian through SEIU Local121RN, a union of nurses.
+
+Still, Bordas said that some “old school” nurses prefered the antiquated system of paper on pen.
+
+“It takes less time to write something on paper than put it in the computer,” said Bordas, who has been a nurse for 27 years. “A computer screen isn’t that friendly and as a nurse, there are certain things that you want to document that might not fit into a computer form.”
+
+
+
+Attempts to reach a hospital spokesperson were unsuccessful, but a voice message stated that “Patient care has not been compromised” by the attack.
+
+The FBI confirmed it was investigating the attack but would not comment further.
+
+In an interview with NBC, Hollywood Presbyterian CEO Allen Stefanek denied that the hospital had been targeted. “It was clearly not a malicious attack,” he said. “It was a random attack.”
+
+That may be true, but the FBI has raised concerns that the healthcare industry is particularly vulnerable to cyberattacks. In a private notice to the industry issued in April 2014, the bureau warned that healthcare providers were lagging behind the financial and retail sectors in cybersecurity, increasing the likelihood of hacks.
+
+David Ellis, vice-president of investigations at SecurityMetrics, a data security firm, says that the healthcare industry is vulnerable because there is no clear standard of data security, as there is in other areas, such as credit card processing.
+
+“Fortune 500 companies get it when it comes to the level of security that needs to surround your company and the amount of money that you need to invest,” Ellis said. “Healthcare industry security is all over the map.”
+
+Ellis pointed out that hospitals are particularly attractive because of the variety of information they possess, including credit card numbers for payments, personally identifiable information on patients, and sensitive medical information thanks to the nationwide push for hospitals to digitize medical records.
+
+In its 2015 Data Breach Industry Forecast, Experian wrote, “We expect healthcare breaches will increase – both due to potential economic gain and digitization of records.”
+
+
+
+Hollywood Presbyterian is not the only hospital to face such an attack. In January, a regional hospital in Mount Pleasant, Texas, was offline for over a week due to a ransomware attack. The hospital said that it did not submit to the ransom request. In September, a hospital in Florida was offline for five days due to ransomware.
+
+The Hollywood hack does point to an increased valuation of medical records by cybercriminals. In 2014, the South China Morning Post reported that records for 10,000 patients at a hospital in Hong Kong were held ransom for just 0.6 bitcoin, or about $350.

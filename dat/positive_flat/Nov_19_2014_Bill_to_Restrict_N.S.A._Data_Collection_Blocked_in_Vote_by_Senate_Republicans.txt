@@ -1,0 +1,53 @@
+Photo
+
+WASHINGTON — Senate Republicans on Tuesday blocked a sweeping overhaul of the once-secret National Security Agency program that collects records of Americans’ phone calls in bulk.
+
+Democrats and a handful of Republicans who supported the measure failed to secure the 60 votes they needed to take up the legislation. The vote was 58 to 42 for consideration.
+
+Senator Patrick J. Leahy, the Vermont Democrat who drafted the bill, blamed what he said was fear-mongering by the bill’s opponents for its defeat. “Fomenting fear stifles serious debate and constructive solutions,” he said. “This nation deserves more than that.”
+
+Senator Mitch McConnell, the Republican leader, worked hard to defeat the bill, which had the support of the Obama administration and a coalition of technology companies including Apple, Google, Microsoft and Yahoo.
+
+“This is the worst possible time to be tying our hands behind our backs,” Mr. McConnell said before the vote, expressing the concerns of those who argued that the program was a vital tool in the fight against terrorism.
+
+Advertisement Continue reading the main story
+
+But Tuesday’s vote only put off until next year a debate over security and personal liberties. While a Republican-controlled Senate is less likely to go along with the kinds of reforms that were in the bill, which sponsors had named the U.S.A. Freedom Act, the debate could further expose rifts between the party’s interventionist and more libertarian-leaning wings.
+
+The new Congress will also be working against a hard deadline because the legal authority for the data collection will expire next year.
+
+Under the bill, which grew out of the disclosures in June 2013 by Edward J. Snowden, the former intelligence contractor, the N.S.A. would have gotten out of the business of collecting Americans’ phone records. Instead, most of the records would have stayed in the hands of the phone companies, which would not have been required to hold them any longer than they already do for normal business purposes, which in some cases is 18 months.
+
+The N.S.A., Mr. Snowden revealed, was systematically collecting telephone metadata — information about who called whom, but not the content of what was said — from major American phone companies. The program began after the Sept. 11, 2001, terrorist attacks, based on an assertion of unilateral executive power by President George W. Bush. In 2006, the Foreign Intelligence Surveillance Court secretly brought the program under its authority and started issuing orders to the companies under the Patriot Act.
+
+The proposed legislation would still have allowed analysts to perform so-called contact chaining in which they trace a suspect’s network of acquaintances, but they would been required to use a new kind of court order to swiftly obtain only those records that were linked, up to two layers away, to a suspect — even when held by different phone companies.
+
+In January, President Obama announced some changes to the program, including requiring court approval before a new number could be used to query the database, and limiting analysts to scrutinizing the records of callers two — down from three — layers removed.
+
+The Republican-controlled House passed a version of the bill in May, but it was watered down before passage, losing the support of civil liberties groups. The deadline for new legislation is next June, when the legal basis for the phone records program, a provision of the Patriot Act, expires.
+
+After that, when the 90-day orders to phone companies requiring them to turn over their customers’ records expire, the surveillance court would be unable to issue a new round of orders.
+
+Advertisement Continue reading the main story
+
+The Obama administration, warning of the potential for “brinkmanship and uncertainty” next spring if the bill did not pass, had strongly urged the Senate to support it even though it initially resisted efforts on Capitol Hill to rein in the N.S.A. programs.
+
+And it may not be any easier for a compromise to be reached over the bill next year. Some of its opponents, like Senator Saxby Chambliss, Republican of Georgia, believe it went too far in curbing the N.S.A. Others, like Senator Rand Paul, Republican of Kentucky, thought it did not go far enough.
+
+One possibility would be a bill that is scaled back enough to win over more hawkish Republicans, while relying on the votes of some Democrats, like Senator Dianne Feinstein of California, who were more skeptical of broad-based reform.
+
+It is unknown how the 11 new Republicans who will join the Senate next year might alter the debate. For instance, Cory Gardner of Colorado, who will replace Senator Mark Udall, one of the Senate’s staunchest advocates of N.S.A. changes, has been supportive of ending bulk record collection. Steve Daines, the incoming Republican senator from Montana, also voted yes with Mr. Gardner on a contentious proposal to strip funding for bulk collection when the House took up the issue last year.
+
+Other Republican members of the House who will join the Senate next year — Shelley Moore Capito of West Virginia, Tom Cotton of Arkansas and James Lankford of Oklahoma — voted no.
+
+But resistance from inside the Republican Party has been unrelenting. Before Tuesday’s vote, two top former officials from the Bush administration — Michael B. Mukasey, the former attorney general, and Michael V. Hayden, the former N.S.A. and C.I.A. director, essentially called the bill a gift to terrorists in an op-ed article in The Wall Street Journal that carried the headline “N.S.A. Reform That Only ISIS Could Love.”
+
+The debate over curtailing the N.S.A.'s ability to collect telephone call data is just one example of how Republicans will continue to grapple with questions of privacy and security as the 2016 presidential elections near. At the center of the debate on Tuesday were three senators considering a run for president: Mr. Paul of Kentucky, Ted Cruz of Texas and Marco Rubio of Florida.
+
+Mr. Rubio voted against the measure, calling it “a reaction to misinformation and alarmism.” Mr. Paul also voted no, but because he believed it did not do enough to restrict the N.S.A. Supporters of the overhaul had worked all day to persuade him to switch his vote, to no avail. He said Tuesday he would prefer the entire Patriot Act be allowed to expire.
+
+Mr. Cruz voted yes, saying, “It is imperative that we stand together protecting the Bill of Rights.”
+
+Advertisement Continue reading the main story
+
+Four Republicans voted to advance the bill: Mr. Cruz, Mike Lee of Utah, Lisa Murkowski of Alaska and Dean Heller of Nevada. One Democrat voted no, Bill Nelson of Florida.

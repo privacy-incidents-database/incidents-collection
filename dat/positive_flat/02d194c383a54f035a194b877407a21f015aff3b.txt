@@ -1,0 +1,40 @@
+PlayStation Network hack: why it took Sony seven days to tell the world | Technology | The Guardian
+PlayStation Network hack: why it took Sony seven days to tell the world
+Sony's company blog says forensic analysis of the PlayStation Network hack took 'several days' to complete and extent of intrusion wasn't understood until Tuesday
+Sony's PlayStation Network was hacked in one of the largest internet security break-ins ever. Photograph: Yuriko Nakao/Reuters
+Sony has admitted that it shut down its PlayStation Network last week because it discovered a "non-gaming" intrusion into the system, but had not realised until late on Tuesday  following forensic security testing  that the breach had led to the theft of the data of the 77 million users.
+Security analysts said that the problem may mean that hackers have uncovered a fundamental flaw in Sony's networks which will be expensive and time-consuming to fix.
+The company has suggested that an "unauthorised person" carried out the attack against its servers, during which usernames, passwords, credit card details, security answers, purchase history and addresses are believed to have been stolen.
+The precise method by which the hacker broke into the systems has not been revealed, though earlier this year the encryption around the PlayStation 3 was cracked. That would have made software piracy on the PS3 simpler, but it's not clear if it would have enabled the wider break-in.
+The Anonymous activist group, which had criticised Sony over its legal threats to people who exploited the encryption crack, has insisted it was not involved in the attack that brought down the network.
+The breach has affected two separate Sony networks: the PlayStation Network (PSN), which serves the roughly 55m PS3 consoles, and PlayStation Portable owners, and its paid-for Qriocity music-streaming service.
+The company has hinted that it may refund users for lost services and games.
+Accounts on the PSN are free to start, and users only need to provide credit card details if they decide to purchase games. But the revelation that details have been stolen indicates that Sony was storing them in unencrypted form  which is a major security error that even small websites avoid.
+Having user emails and passwords could lead malicious users to steal all sorts of other personal details, especially because many people use the same password on multiple sites  a security failing caused by the problem of remembering multiple different logins.
+Alan Paller, research director of the SANS Institute, told Reuters that the breach might be the largest identity theft on record. Although bigger break-ins in terms of the number of credit cards potentially stolen have been recorded, those have been limited to names and card numbers. The detail here is a far richer trove which could be worth tens of millions of dollars if sold on the thriving online black market for credit cards and personal information.
+Paller suggested that Sony overlooked security in building the network with the PS3 launch five years ago. "They have to innovate rapidly. That's the business model," Paller said. "New software has errors in it. So they expose code with errors in it to large numbers of people, which is a catastrophe in the making."
+Elsewhere, the website VG247 said it had obtained a log of a hacker conversation from February in which two hackers said that it was easy to break into the PSN and defeat its encryption. "Sony is the biggest spy ever  they collect so much data," one hacker comments in the log. "All connected devices return values sent to Sony servers. it collects when I had a USB device attached. So if they ever sue someone for PSN stuff, they will be sued themselves as most of the data they collect is just not legal."
+Sony sought to explain to PlayStation owners why it has taken seven days to reveal the extent of last week's PSN hack. In a post on the company's blog, Nick Caplin, head of communications at Sony Computer Entertainment Europe issued this statement:
+"There's a difference in timing between when we identified there was an intrusion and when we learned of consumers' data being compromised. We learned there was an intrusion 19th April and subsequently shut the services down. We then brought in outside experts to help us learn how the intrusion occurred and to conduct an investigation to determine the nature and scope of the incident.
+It was necessary to conduct several days of forensic analysis, and it took our experts until yesterday to understand the scope of the breach. We then shared that information with our consumers and announced it publicly yesterday evening."
+Sony has also produced an FAQ to inform gamers about the security breach. It reiterates the huge extent of the intrusion: names, addresses, birthdates, PSN passwords and credit card numbers for any of the network's 77 million customers who provided such information may have been acquired.
+With thousands of gamers livid that their details have been compromised, the Sony FAQ does briefly address the question of refunds on subscriptions and purchases: "When the full services are restored and the length of the outage is known, we will assess the correct course of action."
+Anonymous says Sony accusations over PlayStation Network hack are lies
+Activist group denies link with theft of up to 100m personal and credit card details, saying its aims are political
+Anonymous says Sony accusations over PlayStation Network hack are lies
+As PlayStation Network tries to get back online, Sony points to Anonymous
+The company has written a letter to Congress saying the data theft came as it was defending itself against cyber-attacks. By David Batty
+As PlayStation Network tries to get back online, Sony points to Anonymous
+Inside 'Anonymous': tales from within the group taking aim at Amazon and Mastercard
+Though it sounds like a coordinated organisation, the reality is that it's more like a stampeding herd - and members are fearful of standing up and being counted
+Inside 'Anonymous': tales from within the group taking aim at Amazon and Mastercard
+Sony suffers second data breach with theft of 25m more user details
+Hacker attack on security of Sony Online Entertainment network preceded PlayStation Network breach but was only discovered on Monday, electronics company says
+Sony suffers second data breach with theft of 25m more user details
+PlayStation Network hackers access data of 77 million users
+PlayStation Network hackers access data of 77 million users
+PlayStation Network users fear identity theft after major data leak
+PlayStation Network users fear identity theft after major data leak
+PlayStation Network hack: what every user needs to know
+PlayStation Network hack: what every user needs to know
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.

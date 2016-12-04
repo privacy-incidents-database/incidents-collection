@@ -1,0 +1,19 @@
+Supervalu, a food retailer based in Minnesota, said on Thursday that its cash register system had been breached by hackers, possibly resulting in the theft of credit and debit card information from its supermarkets and liquor stores, as well as from an array of stores it sold last year.
+
+The company provided a list of 180 Supervalu stores and stand-alone liquor stores and 29 franchised Cub stores affected by the breach, which happened from June 22 to July 17. The company said it had delayed notifying customers because it was working closely with law enforcement and a third-party forensics company to determine the breach’s scope.
+
+The company said that it had been able to prevent the breach from affecting all its locations, which numbered 3,763 as of April.
+
+“The intrusion was identified by our internal team, it was quickly contained, and we have no evidence of any misuse of any customer data,” Sam Duncan, Supervalu’s chief executive, said in a statement.
+
+But the breach may have gone far beyond just Supervalu’s systems. Supervalu added that a related intrusion had reached the chain stores it sold to the private equity firm Cerberus Capital Management in March 2013. Supervalu continues to supply technology to those stores, and those that might have been affected include Albertsons, Jewel-Osco and Star Market.
+
+Advertisement Continue reading the main story
+
+Supervalu and its affiliates are the most recent major retail chain — after Target, P. F. Chang’s and others — to acknowledge that its payment systems were compromised by hackers in the last year. In those cases, criminals installed so-called malware on retailers’ systems, which fed customers’ payment details back to their computer servers.
+
+The issue, which first drew headlines in December when Target’s huge security breach went public, has become a retail scourge. Last month, a joint report by the Homeland Security Department and the Secret Service said hackers were actively scanning software tools that let employees and vendors gain access to corporate systems from afar, then deploying computers to guess at credentials until they find the right combination.
+
+After capturing the data, the hackers send it back to their computers, and eventually sell account numbers on the black market, where a credit card number can fetch as much as $100.
+
+“This looks much the same as the attack that impacted Target last year,” said Steve Hultquist, an executive at RedSeal Networks, a security firm. “These breaches continue to demonstrate the sophistication of the attackers and the reward they receive being worth the investment they make in their attacks.”

@@ -1,0 +1,13 @@
+Tip of the Week: Set Your Own Password Reminder - 
+Worried that you might forget your new password if you change it? You can have the computer give you a little hint to jog your memory at the login screen.
+In Windows 7, go to the Start menu to Control Panel and click on User Accounts and Family Safety (or User Accounts). Click on Change your password and type in your old one, then type in the new password you want to use and confirm it. In the box below, type in the password hint you want to use. Click the Change Password button to change the password and store the hint.
+In Mac OS X, go to the Apple menu and select System Preferences, or click on the gear-shaped System Preferences icon in the desktop Dock. Click on User Accounts (or Accounts) and the click the Change Password button.
+Type in your old password, the new password (twice) and the hint word or phrase you want to use. Click the Change Password button.
+When choosing a hint, make it an obscure reference that only you will connect with the actual password. The hints themselves may be visible in the systems registry or may appear on screen for someone sitting there trying to guess your password.
+Gadgetwise is a blog about everything related to buying and using tech products. From figuring out which gadget to buy and how to get the best deal on it to configuring it once its out of the box, Gadgetwise offers a mix of information, analysis and opinion to help you get the most out of your personal tech.
+All the regular features on the Gadgetwise blog can now be found on the Personal Tech section front. Thank you for reading.Readmore
+FX-Sport VR1 Programmable Personal Trainer Headphones are a smart concept  a pair of headphones with a built-in coach, or virtual competitor. Readmore
+Online file storage services like Dropbox let you share files with people who do not have an account with the company.Readmore
+Q&A: Revealing Your Location (or Not) to Mobile Apps
+Mobile apps may have useful reasons for requesting your location information, while others just want to show you local advertising.Readmore
+Amazons store for Android apps has a Test Drive feature that lets you see an app in action before you buy or download it.Readmore

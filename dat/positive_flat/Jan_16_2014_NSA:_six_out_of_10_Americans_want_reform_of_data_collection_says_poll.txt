@@ -1,0 +1,41 @@
+Fears are growing among civil libertarians that Barack Obama will allow the National Security Agency to retain its bulk databases of US phone call information, despite new polling that indicates substantial public appetite for restricting the spy agency’s powers.
+
+A poll by the Anzalone Liszt Grove Research firm, released Thursday, finds 59% of Americans oppose keeping the NSA’s widespread collection of data unchanged. Twenty-six percent of respondents “strongly” oppose keeping NSA current surveillance in place.
+
+A majority of respondents, 57%, say they have “not much” confidence in the government’s ability to prevent abuse of the NSA’s troves of US phone records. Similarly, 58% doubt that the government can keep the data safe from hackers.
+
+That scepticism of the NSA echoes concern voiced earlier this week by Geoffrey Stone, a law professor and member of Obama’s surveillance review panel, which recommended taking the bulk collection out of the hands of the NSA. “Government can do far more harm if it abuses information it has than private entities can,” Stone told the Senate judiciary committee on Tuesday.
+
+The findings also come the day before President Obama is set to deliver a major speech outlining his perspectives on the proper scope of NSA data collection. Civil libertarians, once hopeful that Obama would end the bulk collection of all records of calls made in the United States, are bracing for disappointment after a New York Times report suggested Obama would allow the NSA to maintain its sweeping databases when he makes his speech on Friday.
+
+But congressional critics are already gearing up for a fight to end the bulk collection legislatively, preparing to fight a president who had yet to clearly indicate which side of the argument he would pick.
+
+“The ball is in Congress’s court. In order to fix the NSA, rein in abuse and restore trust in the intelligence community we need a legislative solution,” Representative James Sensenbrenner, a Wisconsin Republican, told the Guardian.
+
+Sensenbrenner is the chief House co-author of a bill to end bulk phone data collection, known as the USA Freedom Act. Sensenbrenner, a longtime member of the House judiciary committee, said he was confident that it would receive the backing of his fellow lawmakers. “If brought up for a vote it would pass with broad bipartisan support,” he said.
+
+Representative Justin Amash, a Michigan Republican who led a revolt in July to stop the mass surveillance, which came close to succeeding, told the Guardian that the widespread controversy over the NSA’s reach meant that Obama “will not get away with mere cosmetic changes to the government's domestic spying program”.
+
+Amash said: “Either he favours spying on every person's communications or he doesn't. Americans are outraged by domestic spying, and they will watch the president's actions closely.”
+
+The White House’s official position is that Obama has yet to conclusively decide which spy powers he wants to restrict and which he wants to reaffirm. Numerous surveillance insiders said this week that they had not been briefed on concrete White House proposals, and indicated that the debate remains fluid.
+
+But the proposal to strip the NSA of its databases has hit a snag of opposition from telecommunications firms, who do not want to be required to hold customer data for longer than their current average 18 month maximum, fearing legal and financial liability. The NSA wants any searchable database of phone records, held either by itself or a private entity, to contain at least three years’ worth of data, to help it and the FBI detect connections to terrorism.
+
+That, civil libertarians argue, would outsource mass surveillance, rather than end it.
+
+Another idea under discussion would be to have a non-telecoms firm become the new data repository – an idea that privacy advocates and the NSA may find discomforting.
+
+Insiders suggest two potential models for a non-telecom private database. One would have a military information-technology firm become a metadata repository – a solution tinged with irony, since NSA whistleblower Edward Snowden, whose leaks prompted the reform discussion, worked for contractor Booz Allen Hamilton.
+
+Another would be modelled on a firm like Neustar, which maintains a database of routing instructions called the Number Portability Administration Center, which, among other things, allows phone customers who switch carriers to retain their phone numbers.
+
+Neustar, a former Lockheed Martin subsidiary, is a “neutral third party” that works with the phone companies on infrastructure issues, said communications director Kim Hart, who added that the firm had not itself been approached by the government about becoming a storehouse of phone metadata.
+
+Privacy advocates were sceptical of a new, expansive phone records database, fearing that “creating a large honeypot of private data” would be difficult to keep secure from hackers and would not actually end bulk surveillance, said Kevin Bankston of the Open Technology Institute.
+
+“If the president comes out in favor of mandatory data retention, either by a provider or a third party, that would require legislation such that we may very quickly be in trench warfare on that issue,” Bankston said.
+
+Amash said he hoped Obama “will work with us constructively,” but signaled that a legislative battle may be the ultimate resolution of the post-Snowden debate after Obama makes his speech on Friday at the Justice Department.
+
+"Congress must protect Americans' privacy regardless of what the President does,” Amash said.

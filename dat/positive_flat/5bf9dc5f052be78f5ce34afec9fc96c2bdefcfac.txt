@@ -1,0 +1,49 @@
+Philips Creates Shopping Assistant with LEDs and Smart Phone - IEEE Spectrum
+Philips Creates Shopping Assistant with LEDs and Smart Phone
+If you're like me, fumbling around the supermarket looking for obscure items is a pretty commonand frustratingoccurrence. Lighting giant Philips has developed a solution: smart lights.
+The company yesterday introduced a system that connects in-store LED lights with consumers' smart phones. Using a downloadable app, people will be able to locate items on their shopping lists or get coupons as they pass products on the aisles. Retailers can send targeted information such as recipes and coupons to consumers based on their precise location within stores, while gaining benefits of energy-efficient LED lighting, says Philips.
+The beauty of the system is that retailers do not have to invest in additional infrastructure to house, power and support location beacons for indoor positioning. The light fixtures themselves can communicate this information by virtue of their presence everywhere in the store," said Philips Lighting's Gerben van der Lugt in a statement.
+The company is demonstrating the retail lighting system at the EuroShop retail trade show in Dsseldorf, Germany, this week. Philips is already testing it with an undisclosed number of retailers.
+The system uses Visual Light Communications (VLC) to talk with consumers' smartphones. Unlike the wireless protocols Wi-Fi, Bluetooth, and Zigbee, which use radio waves to send information, VLC relies on the store lights to transmit data to the camera on a smart phone in fast pulses. The lights blink at frequencies that are undetectable by people, according to LEDs Magazine.
+There are already a number of other efforts aimed at adding communications and sensors to LED light fixtures. Last year, researchers at the University of Strathclyde in the U.K. demonstrated LED lights with optical communications, which they call Li-Fi. That setup was able to operate at gigabit-per-second speeds, according to a BBC article.
+Startup ByteLight has developed a system similar to Philips retail lighting network. It also uses light pulses to communicate with consumers smart phones in stores. Other companies, such as Silver Spring Networks, in Redwood City, Calif., have developed street lights with sensors and radios that allow city managers to remotely monitor traffic density or air quality.
+ today reported that the airport in Newark, New Jersey, is operating smart lighting systems with cameras that make it easier to monitor the facility. The lights allow personnel to spot long lines, look at license plate numbers, and potentially send alerts about suspicious activity.
+But these smart lighting systems, while powerful, are raising concerns about privacy and whether new policies are needed to address this emerging technology. There are some people in the commercial space who say, Oh, big datawell, lets collect everything, keep it around forever, well pay for somebody to think about security later, Justin Brookman from the Center for Democracy and Technology told the Times.
+In the case of Philips' retail lighting application, consumers would have to download an app, which indicates their willingness to have their movements tracked. But as lighting and other everyday items such as thermostats and streetlights are equipped with sensors and wireless networking, it raises new questions about what is an acceptable amount of monitoring and data collection.
+Businesses have a good economic incentive to network their lighting. By connecting lights with occupancy and daylight sensors to building management systems, they can greatly reduce electricity useand energy costsin commercial or institutional buildings.
+Regardless of whether retailers adopt Philips smart lighting system, one thing is clear: the mobile phone in your purse or pocket is just one of a growing number of connected, smart devices in our daily environment.
+href="http://disqus.com/?ref_noscript">comments powered by
+IEEE Spectrums general technology blog, featuring news, analysis, and opinions about engineering, consumer electronics, and technology and society, from the editorial staff and freelance contributors.
+Sign up for the Tech Alert newsletter and receive ground-breaking technology and science news from IEEE Spectrum every Thursday.
+Slipping a few lithium ions between layers of 2D materials changes how they conduct heat
+Inside the Development of Light, the Tiny Digital Camera That Outperforms DSLRs
+The creator of the new Light digital camera explains how he made it work
+Otto's Robotruck Hauls Budweiser While the Driver Twiddles His Thumbs in the Back
+The 200-kilometer trip raises the question: when will drinking while being driven be legal?
+ZCash Will Be a Truly Anonymous Blockchain-Based Currency
+Set to launch Friday, ZCash is built to do what Bitcoin can'tprovide privacy
+Which Path to IoT Security? Government Regulation, Third-Party Verification, or Market Forces
+The security flaws within the Internet of Things must be fixed, or denial-of-service attacks will only worsen
+You Can't Stop Robots With Furniture Barricades Anymore
+This Georgia Tech robot is smart enough to shove furniture out of the way to get where it wants to go
+Cypher: The Deep-Learning Software That Will Help Siri, Alexa, and Cortana Hear You
+This startup pivoted from cleaning up calls to helping machines discern speech
+Social Medias Dial-Up Ancestor: The Bulletin Board System
+The history of the BBS shows that pre-Internet social media was pretty great
+Previous record is nudged just slightly, but much higher conversion efficiencies should be achieved soon
+What Is a Distributed Denial-of-Service Attack and How Did It Break Twitter?
+On Friday, multiple distributed denial-of-service attacks hit a common Domain Name System provider for popular sites including Twitter and Netflix
+Replace Legos $190 Intelligent Brick with MITs Scratch and a $40 Raspberry Pi
+A low-cost way to program and control Lego machines
+Video Friday: Robot Toes, Wolverine Haptic Hand, and More From IROS 2016
+Arpa-E's $85 Million Plan to Build a Battery the Size of the Grid
+4 Steps to Turn Neural Dust Into a Medical Reality
+Tiny ultrasound-powered motes could record and adjust nerve activity
+Human beings are great at running because they are stupendous at sweating20Oct
+Video Microscopy Technique Reveals How Battery-Killing Dendrites Grow
+Video of how dendrites grow inside lithium-metal batteries promises a way to limit their growth and extend battery life
+New Computer Combines Electronic Circuits with Light Pulses
+A specialized computer based partly on light pulses could solve some of the trickiest problems for conventional computers
+A new technique called virtual oscillator control lets solar inverters help stabilize the power grid
+Terms & Conditions | Privacy & Opting Out of Cookies | Accessibility | Nondiscrimination Policy
+ Copyright 2016 IEEE  All rights reserved. Use of this Web site signifies your agreement to the IEEE Terms and Conditions.A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.

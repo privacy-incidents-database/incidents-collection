@@ -1,0 +1,25 @@
+Comcast to Protect Customer's Computers From Malware - 
+Comcast to Protect Customers Computers From Malware
+Comcast to Protect Customers Computers From Malware
+Comcast is expanding a test of a service that will monitor for signs of botnets, a particularly threatening form of malware that can invade its customers computers. It appears to be the first provider in the United States to do this.
+The service, called Constant Guard, monitors traffic over its system anonymously, looking for activity that indicates the presence of a bot, without looking into individual hard drives.
+Bots are one of the most serious threat we face today, said Mustaque Ahamad, director of the Information Security Center at Georgia Tech.
+The single bots that make up a botnet are a particular problem for home computers because they change more rapidly than viruses.
+Viruses are generally programmed to carry out a single function on the host computer, like being set to join in a denial of service attack on a specific company at a particular time. Bots reside on computers as a part of an invisible network which remains in contact with its creators, and can be reprogrammed to carry out different tasks, as well as be altered to avoid detection.
+Internet providers have usually tried to stop malware infections by handing out free antivirus software to customers. But antivirus software needs to be updated frequently to spot the newest viruses. Customers often forget to make the updates.
+Even if they do update, bots change identifying features, or signatures, so rapidly that it makes the antivirus software installed on a home machine ineffective. It is not a great success, said Mr. Ahamad, of the home software. It catches something like 50 percent. The signatures change too rapidly.
+It is much more effective to hunt down bots at the network level, said Mr. Ahamad. Networks can see a broader pattern of behavior fingerprints, and if they see that coming from your machine, they know its infected.
+Bots are usually used in one of two ways. One is to use its network to send out spam e-mail and phishing messages. The other is to collect personal account data.
+So the network is able to spot an unusual amount of mail coming from a individual machines, which is an indication of outgoing spam. In the second case, networks are aware of addresses where criminals have stolen information sent. If a machine is spotted connecting to that criminal address, its a sign that the machine has a bot on it.
+The number of bots at work and how quickly they are expanding is uncertain. Depending on who you talking to, we are talking about infected machines in the tens to hundreds of millions, said Mr. Ahamad.
+However an example of a single botnet that was disassembled in late 2009, the Mariposa Botnet, had installed its malware on 12 million machines, of which 800,000 were successfully controlled by Mariposa, resulting in the gathering of tens of millions of passwords, and personal credentials, said Gunter Ollmann, of Damballa, a company that tracks and thwarts botnets. Damballa sells its services to Comcast.
+When a bot is spotted on a customers computer, they will receive an e-mail with a link to a webpage offering do-it-yourself instructions on how to remove the bot, or the option of paying to have an expert remove it remotely by NortonLive for a $100 fee.
+It is also in Comcasts interest to reduce bots both to retain customers who might feel compromised if their personal information gets stolen, but also by reducing spam that uses Comcast bandwidth and could create a drag on the system. The most recent report from Internet security firm Symantec in September estimated that 92 percent of all e-mail globally was spam.
+botnets, bots, Comcast, damballa, Information Security Center at Georgia Tech, Symantec
+Gadgetwise is a blog about everything related to buying and using tech products. From figuring out which gadget to buy and how to get the best deal on it to configuring it once its out of the box, Gadgetwise offers a mix of information, analysis and opinion to help you get the most out of your personal tech.
+All the regular features on the Gadgetwise blog can now be found on the Personal Tech section front. Thank you for reading.Readmore
+FX-Sport VR1 Programmable Personal Trainer Headphones are a smart concept  a pair of headphones with a built-in coach, or virtual competitor. Readmore
+Online file storage services like Dropbox let you share files with people who do not have an account with the company.Readmore
+Q&A: Revealing Your Location (or Not) to Mobile Apps
+Mobile apps may have useful reasons for requesting your location information, while others just want to show you local advertising.Readmore
+Amazons store for Android apps has a Test Drive feature that lets you see an app in action before you buy or download it.Readmore

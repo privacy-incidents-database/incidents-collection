@@ -1,0 +1,36 @@
+Meritus Medical Center notifies patients of improper access to data
+Researchers gain root access to Android devices using Rowhammer attacks
+Revamped GM Bot mobile banking malware spotted in wild
+Learning experiences that count (or that mean the most or really matter)
+Mirai DDoS attacks not caused by state actors: FlashPoint
+Locky ransomware distributors reduced to potty talk
+Security and DevOps teams need closer integration to bake in security
+More and more workers today are bringing their personal devices such as laptops, mobile phones and tablets to the office to use for work. While this practice leads to greater productivity, it can pose a security risk.
+Cybersecurity preparedness requires threat intelligence information sharing
+Argentina, the United States and Vietnam were among the top producers of zombie IP addresses following Russia.
+Meritus Medical Center notifies patients of improper access to data
+Meritus Medical Center notifies patients of improper access to data
+Maryland-based Meritus Medical Center is notifying more than a thousand patients that an employee with one of its vendors may have accessed patient information outside of their normal job duties.
+What type of personal information? Names, dates of birth, ages, genders, medical record numbers, and treatments and/or diagnosis information. In some instances, health insurance information and Social Security numbers.
+What happened? An employee of a Meritus Medical Center vendor may have accessed patient information outside of their normal job duties.
+What was the response? Meritus suspended the employee's access to its systems and conducted an investigation. Meritus is working to further strengthen controls related to vendor access to patient information, and is enhancing its existing system monitoring capabilities with regard to vendor access. All potentially impacted patients are being notified.
+Details: The incident was discovered by Meritus on May 4 during its routine compliance and self-audit efforts. The employee may have accessed the data between July 2014 and April.
+Quote: Even though we have no evidence that any of this information has been misused, we began mailing letters to affected individuals on June 26, 2015, and have established a dedicated call center to answer any questions they may have, a notification posted to the Meritus website said.
+Source: meritushealth.com, Notice to Meritus Medical Center Patients Regarding Privacy Incident, June 26, 2015.
+Malware on Tactical Assault Gear website targets customer information
+Illinois insurer says software error resulted in data exposure
+Unity Recovery Group client data improperly disclosed
+Former Jacobi Medical Center employee improperly emails patient data
+Seattle Public Schools data improperly released, at least 8,000 students affected
+You must be a registered member of SC Magazine to post a comment.
+Illinois insurer says software error resulted in data exposure
+Texas school district's student data potentially compromised
+Katy Independent School District (ISD) in Texas is alerting select students that their information may have been compromised by a third-party vendor.
+Data breach and ransomware hit Hutchinson Community Foundation
+The Hutchinson Community Foundation in Kansas was hit with a data breach and ransomware attack.
+Central Ohio Urology Group reports 300K records compromised
+The Central Ohio Urology Group reported that in early August it became aware of an incident where an unauthorized posted patient and employee information to Twitter.
+SC Magazine arms information security professionals with the in-depth, unbiased business and technical information they need to tackle the countless security challenges they face and establish risk management and compliance postures that underpin overall business strategies.
+Copyright  2016 Haymarket Media, Inc. All Rights Reserved
+This material may not be published, broadcast, rewritten or redistributed in any form without prior authorization.
+Your use of this website constitutes acceptance of Haymarket Media's Privacy Policy and Terms & Conditions.

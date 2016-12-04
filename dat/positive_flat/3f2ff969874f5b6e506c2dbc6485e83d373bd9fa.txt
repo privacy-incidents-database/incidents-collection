@@ -1,0 +1,18 @@
+Google Play Shares Private Customer Data with Developers in Australia: Report | SocialTimes
+Google Play Shares Private Customer Data with Developers in Australia: Report
+NEXT:REVEALED: 10 Top Brands And Celebrities That Follow A LOT Of People On Twitter [STATS]
+PREVIOUS:Criminal case leads fastest-growing Facebook games by DAU
+Google Play Shares Private Customer Data with Developers in Australia: Report
+By Dianna Dilworthon Feb. 13, 2013 - 2:04 PMComment
+Australian developer Dan Nolan was playing around with his dashboard in Google Play and was surprised to learn that he had access to a number of personal details about his customers.
+If you bought the app on Google Play (even if you cancelled the order) I have your email address, your suburb, and in many instances your full name, he explained in a blog post. Each Google Play order is treated as a Google wallet transaction and as such software developers get all of the information (sans exact address) for an order of an app that they would get from the order of something physical.
+The shocking thing about this discovery, according to Nolan, is that Google does not disclose that it is sharing this information with developers to the customers making these purchases. Let me make this crystal clear, every App purchase you make on Google Play gives the developer your name, suburb and email address with no indication that this information is actually being transferred, continues Nolan on his blog.
+Googles explains on the Google Play terms of use page, you may be required to provide information about yourself such as your name, address, and billing details. Googlesprivacy policiesexplain how we treat your personal data and protect your privacy when using Google Play. The policy outlines what kinds of personal data Google collects, how it is used for advertising, how you can control it, but doesnt seem to answer the question as to what Google will be doing with this information if you purchase an app.
+Nolan expressed concern that this information would allow developers to go after people who give them bad reviews. (Via ZDNET).
+Please enable JavaScript to view the comments powered by Disqus.
+Receive news and offers from our friends and sponsors
+Thank you for subscribing.Please check your email to confirm
+This email address is already subscribed to the selected list(s).
+You have been opted out of all Adweek Blog Network Newsletters.
+Optimize your website through SEO, social media, and digital outreach
+Develop a unique name for any brand, product, or business

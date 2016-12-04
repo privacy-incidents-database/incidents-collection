@@ -1,0 +1,25 @@
+Personal data is a valuable asset that ought to be put to work.
+
+Fluid data markets will benefit economies, societies and individuals.
+
+Privacy rules should focus on how data is used rather than on the widespread collection of personal data.
+
+That is the gist of a new report from World Economic Forum’s Personal Data project, “Unlocking the Value of Personal Data: From Collection to Usage.”
+
+The modern digital world, with its explosion of data, has made the traditional approach to privacy based on “notice and consent” typically between two parties — a marketer and a consumer — obsolete, in the view of the report’s authors.
+
+“The technology has overrun the classical model,” said Craig Mundie, a senior adviser to Microsoft’s chief executive, Steven A. Ballmer.
+
+Mr. Mundie was on the five-member steering board for the report. All five people represent corporations that stand to gain from tapping personal data.
+
+Privacy advocates and regulators in Europe and the United States have been reluctant to give up on efforts to control the collection of data. Their concern is that once personal data is collected, its use is very difficult to monitor and control. Information brokers that consumers never see — and few know about — market personal data to advertisers, retailers, financial institutions and others. That problem prompted the Federal Trade Commission in a report last year to recommend that Congress enact legislation “to provide greater transparency for, and control over, the practices of information brokers.”
+
+But while recognizing the privacy challenges, the companies participating in the World Economic Forum project say what was needed was a careful balance. In a blog post on Wednesday, Raymond J. Baxter, a senior vice president of Kaiser Permanente, a major health care provider and insurer, emphasized the value of personal data, when used properly. He cited Kaiser’s use of personal medical data for research.
+
+For example, mining family data and outcomes over years, Kaiser scientists found that the children of women who took anti-depressant drugs while pregnant had more than twice the risk of developing autism disorders. “By discovering this correlation and leveraging this data in new ways, lives are improved,” Mr. Baxter wrote.
+
+According to Mr. Mundie of Microsoft, technology can help strike the right balance between individuals’ concerns about privacy and the benefit of a fluid market in personal data. He said independent organizations, most likely nonprofits, would develop automated privacy preference services that individuals could subscribe to. A person would check off what he or she wanted his data to be used for and not. Those preferences, he explained, would then be encoded as software tags that traveled with the person’s data.
+
+Those preferences, Mr. Mundie added, could vary depending on context. For example, a person might say he or she did not want personal medical data shared beyond a family doctor and one or two specialists — unless the person was taken to an emergency ward.
+
+“You can intelligently use computing technology to provide the benefits and curtail abuse,” Mr. Mundie said.

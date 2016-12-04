@@ -1,0 +1,9 @@
+Daily Report: Target Missed Warning Signs of Data Breach - 
+Daily Report: Target Missed Warning Signs of Data Breach
+Daily Report: Target Missed Warning Signs of Data Breach
+Target acknowledged on Thursday that its computer security system had alerted it to suspicious activity after hackers infiltrated its network last year, but the company decided to ignore it, allowing what would become one of the largest data breaches ever recorded to proceed without a hitch, Elizabeth A. Harris and Nicole Perlroth report.
+Before the attack, Target installed security software created by FireEye, a security firm based in Milpitas, Calif., according to two researchers who spoke on the condition of anonymity, citing client confidentiality.
+FireEyes software, as it turns out, worked as intended.
+It isolates incoming web traffic and looks for suspicious activity. In Targets case, the software sounded multiple alarms as criminals uploaded tools to siphon out customers credit and personal data. But the activity did not warrant immediate follow-up, according to a company spokeswoman. Read more 
+Techs Favorite Cartoonist Enters Mainstream Publishing
+Visit the Technology section for complete coverage of the industry. 

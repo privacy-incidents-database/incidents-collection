@@ -1,0 +1,15 @@
+On Twitter, Securing Your Sessions - 
+New Features on Twitter Let You Secure Your Sessions
+New Features on Twitter Let You Secure Your Sessions
+At the bottom of Twitters Settings page is a new checkbox that allows users to turn on HTTPS for everything.
+It might seem pointless to worry about someone snooping on your Twitter traffic. After all, wont everything you type end up on public display anyway?
+But there are reasons to secure your sessions. First, a hacker snooping on a coffeehouse Wi-Fi network may read your private direct messages to other users, or your protected posts if you use that option. Second, hackers have broken into Twitter accounts to conduct phishing scams aimed at getting, say, members personal e-mail addresses. Third, maybe the idea just creeps you out.
+Twitter already uses HTTPS encryption  the same protection used by e-commerce sites for your credit card info  for some transactions. This week, Twitter added an option to turn on HTTPS for everything. To turn it on, log in to your account and click Settings. At the bottom of the Settings page is a new checkbox: Always use HTTPS. Click that, and hit Save. From then on, whenever you use Twitter in any browser, or on the companys iPhone and iPad apps, the entire session will be encrypted.
+One important caveat: The setting doesnt currently work for mobile browsers that may use a public Wi-Fi connection (theres much less threat of someone hacking your cellular network). To access Twitter via HTTPS from your phone, open the URL https://mobile.twitter.com from its browser. The company plans to make Always use HTTPS work for mobile browsers as well in the near future. For now, bookmark the mobile URL and you wont have to think about it.
+Gadgetwise is a blog about everything related to buying and using tech products. From figuring out which gadget to buy and how to get the best deal on it to configuring it once its out of the box, Gadgetwise offers a mix of information, analysis and opinion to help you get the most out of your personal tech.
+All the regular features on the Gadgetwise blog can now be found on the Personal Tech section front. Thank you for reading.Readmore
+FX-Sport VR1 Programmable Personal Trainer Headphones are a smart concept  a pair of headphones with a built-in coach, or virtual competitor. Readmore
+Online file storage services like Dropbox let you share files with people who do not have an account with the company.Readmore
+Q&A: Revealing Your Location (or Not) to Mobile Apps
+Mobile apps may have useful reasons for requesting your location information, while others just want to show you local advertising.Readmore
+Amazons store for Android apps has a Test Drive feature that lets you see an app in action before you buy or download it.Readmore

@@ -1,0 +1,12 @@
+That Was Fast: Criminals Exploit LinkedIn Breach For Phishing Attacks - 
+That Was Fast: Criminals Exploit LinkedIn Breach For Phishing Attacks
+That Was Fast: Criminals Exploit LinkedIn Breach For Phishing Attacks
+After hackers posted millions of encoded LinkedIn passwords to a Russian hacker site on Wednesday, criminals used news of the breach to trick unsuspecting users into downloading malware that can be used to extract financial gain.
+Shortly after the breach surfaced, LinkedIn users began receiving e-mails from what, at first glance, looked like LinkedIn. The e-mails asked users to confirm their e-mail address by clicking on an embedded link. But the link took users to scam sites, such as an illegal online pharmaceutical site that sells Viagra and other products.
+Several security researchers confirmed that the e-mails were scams and advised users to avoid clicking on any links in e-mails from LinkedIn and to only navigate to the site by typing LinkedIn.com directly into their browsers.
+If users have not already, they should immediately change their LinkedIn password and the password to any other site where they might have used the same password.
+The phishing attack marks the third headache for the professional social network in 24 hours. On Tuesday, security researchers said that a LinkedIn mobile app had been leaking sensitive calendar information to LinkedIns Web servers without their knowledge. On Wednesday, the breach exposed vulnerabilities in LinkedIns data security practices, specifically that the social network did not isolate users credentials on separate, secure machines and failed to salt passwords by appending random characters to them before encoding them.
+Rob Rachwald, director of security at Imperva, said the incidents should be a wake-up call to companies to take appropriate security measures.
+Not salting passwords and keeping meeting data imply a broader indifference for data security that should make all LinkedIn users think twice about what they post, said Mr. Rachwald.
+Breach, hackers, LinkedIn, Phishing Attack, security
+Visit the Technology section for complete coverage of the industry. 

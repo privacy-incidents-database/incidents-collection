@@ -1,0 +1,27 @@
+Photo
+
+In the latest cyberattack on American retailers and restaurants, both Kmart and Dairy Queen said their computer systems were compromised in security intrusions involving customers’ credit and debit card information.
+
+Kmart, a subsidiary of Sears Holdings, said on Friday that it had been breached and that it was working with law enforcement as well as a forensics team. The company said that it appeared to have been attacked in early September and that malware was present on some of its in-store payment systems. The malware, like the type found at Home Depot recently, was meant to evade antivirus systems.
+
+The company did not indicate how many stores were affected or how many credit cards were potentially compromised but said the malware had been removed.
+
+Dairy Queen also said on Thursday that its in-store payment systems contained malware. The company said it was working with its franchisees to determine if and when each location was breached and posted a full list, with time frames, on its website. That information suggests hackers made their way into Dairy Queen payment systems in August.
+
+Based on early forensics reports, Sears and Dairy Queen said there was no no evidence that personal information, debit card PINs, email addresses or Social Security numbers were obtained in the attack. Only account numbers and expiration dates were taken.
+
+Sears and Dairy Queen join nearly a dozen retailers — including Target, Sally Beauty, Neiman Marcus, the United Parcel Service, Michaels, Albertsons, SuperValu, P.F. Chang’s and Home Depot — that have had their in-store payment systems compromised with malware over the last year.
+
+The Secret Service estimated this summer that 1,000 American merchants were affected by this kind of attack, and that many of them may not even know that they were breached. There have been no arrests to date.
+
+In each case, criminals scanned for tools that typically allow employees and vendors to work remotely, then broke into those tools, using their foothold to install malware on retailers’ systems. That malware, in turn, fed customers’ payment details back to the hackers’ computer servers.
+
+The same group of criminals in Eastern Europe is believed to be behind the earlier attacks, according to several people with knowledge of the results of forensics investigations who spoke on the condition of anonymity because of nondisclosure agreements.
+
+The entry point for each breach has differed, according to law enforcement officials. At Target, it was thought to be a Pennsylvania company that provided heating, air-conditioning and refrigeration services to the retailer. Criminals were able to use the company’s log-in credentials to gain access to Target’s systems and eventually to its point-of-sale systems.
+
+Studies have found that retailers, in particular, are unprepared for such attacks. A joint study by the Ponemon Institute, an independent security research firm, and DB Networks, a database security firm, found that a majority of computer security experts in the United States believed that their organizations lacked the technology and tools to quickly detect database attacks.
+
+Only one-third of those experts said they did the kind of continuous database monitoring needed to identify irregular activity in their databases, and another 22 percent acknowledged that they did no scanning at all.
+
+Sears said it would offer free credit-monitoring services to any customer who had used a credit or debit card at any of its affected store locations. Dairy Queen said it would offer free identity repair services for one year to affected customers.

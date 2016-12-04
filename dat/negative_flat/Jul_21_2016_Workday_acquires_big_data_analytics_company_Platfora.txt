@@ -1,0 +1,17 @@
+Publicly traded human capital management software company Workday today announced that it has acquired Platfora, a startup that built software for cleaning up and analyzing big data. Terms of the deal were not disclosed.
+
+“The acquisition will enable Workday to continually enhance our analytics capabilities — especially areas like managerial reporting and operational analytics where insights are gathered by collecting and connecting multiple data sources (Workday and non-Workday data) to make business decisions,” Workday said in a statement on the deal. “Customers want to drill down to transaction-level data and analyze it across multiple dimensions for calculating profitability, ROI, and other operational metrics.”
+
+Platfora offered companies a way to do business intelligence on top of data stored in the Hadoop open source big data software. Platfora inked partnerships with the Hadoop distribution companies Cloudera, Hortonworks, and MapR. Competitors include Clearstory Data and Datameer, among others.
+
+The rise of Hadoop over the years caused legacy business intelligence software providers to add support for Hadoop as Platfora and others picked up adoption.
+
+This deal follows Workday’s acquisition of online learning platform Zaption last month.
+
+Last year Platfora founder Ben Werther stepped down as the company’s chief executive; SAP veteran Jason Zintak replaced him.
+
+Platfora’s investors include Allegis Capital, Andreessen Horowitz, Battery Ventures, Cisco, In-Q-Tel, and Sutter Hill Ventures. As of last year Platfora had 130 employees. Customers include Citi, Disney, Sears, and Volkswagen Group. The Platfora team will remain in its headquarters in San Mateo, California.
+
+Workday will provide more information about how it will integrate Platfora’s technology into its existing offerings at the Workday Rising conference in Chicago in September.
+
+Facebook Get more stories like this on Twitter

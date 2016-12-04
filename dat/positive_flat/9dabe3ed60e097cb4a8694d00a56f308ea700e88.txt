@@ -1,0 +1,15 @@
+********************************************************
+********************************************************
+Content from the original version of the document such as
+headers, footers, footnotes, endnotes, graphics, and page numbers
+All text attributes such as bold, italic, underlining, etc. from the
+original document will not show up in this text version.
+columns, tables, line and letter spacing, pagination, and margins
+*****************************************************************
+NEWPORT TELEVISION TO PAY $35,000 FINE FOR BROADCASTING PRIVATE TELEPHONE CONVERSATION
+Newport admits violating FCC rules prohibiting broadcasters from invading consumer privacy and failing to respond promptly to investigative requests
+* Washington, D.C. - The Federal Communications Commission's Enforcement Bureau has settled an investigation of Newport Television LLC, former licensee of television station KTVX(DT) in Salt Lake City, Utah, involving the station's recording and broadcast of a consumer's telephone conversation as part of a news segment without first telling the person that the call was being recorded and would be broadcast. Broadcasts of telephone conversations without such notice are prohibited by the FCC's Telephone Broadcast Rule and threaten the privacy and reputation of consumers whose telephone conversations are broadcast to the public without their knowledge or consent.
+* "Consumers rightly expect that their phone conversations will not be surreptitiously recorded and broadcast to the public without their prior knowledge or consent," said Travis LeBlanc, Chief of the FCC's Enforcement Bureau. "We hold broadcasters to high standards and will ensure that they fully respect the privacy rights of consumers."
+* The Commission's Telephone Broadcast Rule protects the privacy of consumers when they answer the telephone. Specifically, it requires broadcast licensees to inform any party they call of their intent to broadcast the conversation. It also prohibits broadcast licensees from actually broadcasting a telephone conversation without first informing the party to that conversation that it is being broadcast or recorded for later broadcast. In August 2012, KTVX(DT) twice broadcast in a news report a recorded telephone conversation with a consumer without prior notification to or the consent of that consumer. In addition, Newport violated the FCC's requirement to respond fully and promptly to requests for information from the Enforcement Bureau. Under the terms of today's settlement, Newport admits that it violated the Telephone Broadcast Rule and that it failed to timely respond to Enforcement Bureau investigative requests. Newport will pay a $35,000 civil penalty for these violations.
+For more information about the FCC's Telephone Broadcast Rule visit http://transition.fcc.gov/eb/broadcast/telphon.html.
+The Order and Consent Decree are available at: https://apps.fcc.gov/edocs_public/attachmatch/DA-14-1676A1.pdf

@@ -1,0 +1,21 @@
+A Los Angeles hospital hit by ransomware swallowed the bitter pill: it paid off the hackers.
+
+Hollywood Presbyterian Medical Center had lost access to its computer systems since 5 February after hackers installed a virus that encrypted their computer files. The only out was if the hospital paid the hackers $17,000 worth of bitcoins, the digital currency.
+
+
+
+On Wednesday, the hospital announced that it had relented.
+
+“The quickest and most efficient way to restore our systems and administrative functions was to pay the ransom,” Allen Stefanek, president and chief executive of Hollywood Presbyterian, said in a letter Wednesday. “In the best interest of restoring normal operations, we did this.”
+
+The move is one of the most high-profile examples of a hacking victim paying the fee for so-called ransomware, a money-making favorite of eastern European hackers these days.
+
+
+
+Federal investigators often discourage victims from paying the ransom, out of fear that it just encourages hackers. But that message can be a tough sell. The fraudsters in these cases often customize the ransoms for each victim and set them just low enough to seem palatable, if a bit painful.
+
+At least two small Massachusetts police departments have paid off ransomware hackers after they lost access to their files.
+
+The problem for victims is they often lose all access to their computer networks. In the Hollywood Presbyterian case, some industrial nurses had turned to fax machines and recording patient notes with pen and paper.
+
+The FBI said it was investigating the breach but it is unclear what role, if any, it played in the decision to pay off the hackers.

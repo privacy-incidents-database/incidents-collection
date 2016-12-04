@@ -1,0 +1,51 @@
+Kevin Bleier, an amateur meteorologist, lugged a weather station up several precarious ladders to reach the peaked roof on his 40-foot-tall house in Alameda, Calif., then mounted it on a 15-foot pole to capture data for his personal weather site.
+
+But the data is not for Mr. Bleier’s site alone. His station and over 20,000 like it worldwide are part of the largest network of weather stations ever assembled, according to the meteorological Web site Weather Underground.
+
+The network is part of an audacious plan to crowd-source weather measurement and, Weather Underground hopes, to snatch viewers from its larger competitor, the Weather Channel’s Weather.com. In the last six months, Weather Underground has averaged about 14 million unique visitors a month in the United States, while Weather.com attracted about 42 million, according to Quantcast, an online metrics company.
+
+“What’s new right now is we’re taking that data and we’re generating forecasts from those stations,” said Alan Steremberg, president and co-founder of Weather Underground.
+
+Those predictions are being made through a tool, BestForecast, that analyzes the accuracy of different forecasting models and improves them over time by comparing their predictions with reported conditions. The tool considers 70 models before generating a forecast for each station using the best one, and then reports the precision of past forecasts to users.
+
+Advertisement Continue reading the main story
+
+The personal-station network will augment data from the 10,000 or so National Weather Service stations in the United States and national and international networks of stations (called mesonets), like the Meteorological Assimilation Data Ingest System, operated by the National Oceanic and Atmospheric Administration.
+
+Mr. Steremberg said he believed that his company’s network would lead to more accurate forecasts because there would be more real data points to verify predictions.
+
+“We’re just trying to build our own system that has more sensors,” he said. The “unfortunate downfall” of the Weather Channel’s system, he said “is they don’t have as many sensors as we have.”
+
+Ian Miller, the Weather Channel’s senior vice president for weather systems, disputed Mr. Steremberg’s assertion. He wrote in an e-mail that the Weather Channel’s proprietary forecasting tool, TruPoint, which relies on the United States’ “fairly dense network of high quality observations,” is “a different — and better — paradigm than gathering data from fixed sensors.”
+
+He said the Weather Channel decided against incorporating mesonets and personal stations because they “are not always reliable because installation and maintenance of sensors is crucial, and these unofficial results do not have a professional insight of a meteorologist.”
+
+Photo
+
+But, he conceded, “we periodically revisit this item because some could add value” in remote areas of Colorado, for example, or highly variable climates like the California coast. “We do plan to add them regionally on a very limited basis by applying our quality assurance rules.”
+
+David Robinson, New Jersey’s state climatologist and a professor of geography at Rutgers University, agreed with Mr. Miller’s assessment of the risks but was enthusiastic about the additional data.
+
+“The more observations and the better observations you have, the better the forecast will be,” Professor Robinson said.
+
+Advertisement Continue reading the main story
+
+The professor oversees two networks in New Jersey and emphasized that care had to be taken when placing stations because they provided unreliable information if poorly located, perhaps too near ventilation or air-conditioning, or in direct sunlight without a shield for temperature gauges.
+
+“The thing you need to ask yourself when you see stations for a network is, how are these stations situated?” Mr. Robinson said. “There’s a lot of potential useful data being gathered, but buyer beware.”
+
+Unlike observers for the National Weather Service, who are provided equipment, instruction and maintenance from the federal government, station owners like Mr. Bleier are on their own.
+
+Mr. Steremberg said a Weather Underground algorithm developed over the last decade culls incorrect data and removes the offending station from its grid, then contacts the malfunctioning station’s owner.
+
+“We apply what we call the sanity check and make sure that the variable is physically possible,” by cross-referencing it with nearby stations, Mr. Steremberg said. “So we drop the bad stations, even before the forecasting.” He said roughly 40,000 stations had joined the worldwide network since 2001, but about half had been removed for quality reasons or had since gone inactive.
+
+Another issue is that owners like Mr. Bleier must buy their own stations, which cost from about $110 to over $1,400, and use spare time to maintain them, without pay.
+
+Toby Skinner, Weather Underground’s marketing director, believes users are compensated for the expense.
+
+“They get a lot of archiving, they get map graphing and charts,” Mr. Skinner said. “A lot of these people may have their own local Web sites, community Web sites, and we provide the link to them so we’re providing some exposure.”
+
+But for the weather fans with stations, participation is often its own reward.
+
+“When I was a kid growing up in the ’60s, I would have died for this kind of information,” Mr. Robinson said. “There’s almost enough weather stations that people will be tripping over them.”

@@ -1,0 +1,11 @@
+Apple pulls 250 privacy-infringing apps from store | Technology | The Guardian
+The apps, mostly used by Chinese users, pulled private information from iPhones due to having used a malicious advertising toolkit
+Apple has pulled the affected apps, and says that it is working with developers.
+Apple has removed 250 apps from its store after discovering a widely-used advertising network was siphoning off private information such as email addresses in breach of the companys policies.
+The apps, which are largely from Chinese-based developers, all used a software development kit (SDK) called Youmi to build in advertising. But, apparently unknown to the developers, Youmi also built in code that would steal user data and upload it to Youmis own servers.
+The problem with Youmis code was first discovered by researchers from Purdue University, but gained attention when independently reported by research firm SourceDNA, which highlighted the fact that the malicious apps were the first that it had seen successfully bypass the app review process.
+At the heart of the issue is Youmis use of private APIs, commands which are built into iOS by Apple but which third-party developers are prohibited from using for reasons ranging from security to stability. Youmis code called four such commands: to receive the serial number of the device, the list of installed apps, the serial numbers of any peripherals, and the users Apple ID.
+In a statement, Apple said: Weve identified a group of apps that are using a third-party advertising SDK, developed by Youmi, a mobile advertising provider, that uses private APIs to gather private information, such as user email addresses and device identifiers, and route data to its company server. This is a violation of our security and privacy guidelines.
+The apps using Youmis SDK will be removed from the App Store and any new apps submitted to the App Store using this SDK will be rejected. We are working closely with developers to help them get updated versions of their apps that are safe for customers and in compliance with our guidelines back in the App Store quickly.
+Combined, SourceDNA estimates that the apps have over 1 million downloads.
+ 2016 Guardian News and Media Limited or its affiliated companies. Allrightsreserved.

@@ -1,0 +1,65 @@
+The lion’s share of business intelligence (BI) data analytics users in the United States taking part in a recent Clutch survey regard structured data like internal information as more important than unstructured data, such as social networks.
+
+In all, 83% of the 291 respondents who use BI data analytics tools – BI data refers to the process and tools used to analyze data – for their jobs say structured forms of data are more valuable than unstructured data.
+
+(Respondents who only used spreadsheets or free web analytics tools were eliminated.)
+
+More than half, 54%, of participants in Clutch’s 2016 BI Data Analytics Survey, conducted throughout February, work at companies with 500-plus employees and 35% at companies with 1,000-plus employees, B2B research firm Clutch reported Tuesday.
+
+While there is increasing emphasis on the untapped potential of unstructured forms of data – including the Internet of Things (IoT), social networks and external data – surveyed BI users still emphasize the importance of internal, business systems and structured data.
+
+“These traditional data types are popular with analysts because they are structured,” Clutch explains in the statement.
+
+“This means the information easily can be put into a database and searched and is more accessible than unstructured data, such as IoT and social networks data,” the company notes.
+
+“All the old-school data is in a structured form, so you can put it in the database, apply algorithms and get value from it much quicker,” Dean Abbott, co-founder and chief data scientist for SmarterHQ, points out.
+
+Conversely, newer types of data are not in “a user-friendly form,” Abbott says.
+
+“Sorting through vast amounts of data is not an easy task, especially with the increasing prevalence of unstructured data, such as text, music and images,” note the survey findings.
+
+Unstructured data is more difficult to work with because existing BI tools assume data is structured, the findings say. “To analyze unstructured data, analysts first must convert it into its structured form, an extra, often time-consuming task.”
+
+Even so, “as technology improves, it is easy to imagine the value of unstructured data surpassing that of structured data,” the survey findings note.
+
+“Eventually, we’ll be able to handle a lot of unstructured social data in an automatic way, instead of converting unstructured data into its structured form. Once we get there, we will see huge adoption,” Abbott contends.
+
+As it stands, beyond ease of use, data generated internally by an organization was seen as more valuable.
+
+In all, 65% of respondents rank internal data as more important than data collected outside the company, while 29% regard external data as more important.
+
+As well, 66% of respondents say business systems data is more valuable than IoT (17%) and social networks (16%) data.
+
+An organization’s internal data represented the most frequent stop for analysts collecting and analyzing BI data, cited by 70% of individuals polled.
+
+Internal data was followed by business systems data, noted by 59%, and structured data, reported by 58%.
+
+“Internal data is more popular because of its accessibility,” notes Clutch. Even so, it emphasizes that “a company can benefit from collecting external data as well.”
+
+Carl Paluszkiewicz, director of customer value at Denologix, maintains that “to understand your consumer, you need external data. It gives your company a 360-view of its business.”
+
+“If a company wants to grow its audience, it needs to collect and analyze external data – demographics, characteristics, buying habits – so it can target potential customers better,” the survey finding add.
+
+In terms of how BI tools are being used, 63% of those surveyed say they tend to adopt analytics software to facilitate statistical analysis, 62% to facilitate data management and 42% to facilitate data visualization.
+
+And while 70% of polled BI data users report they are effective at analyzing and managing company data, the ability of organizations to maximize the value of data is called into question by industry experts.
+
+Clutch offers a number of recommendations on selecting a BI analytics solution that will help create a comprehensive data strategy and establish clear metrics to track and maximize data value:
+
+define the degree of data analysis the organization needs from the tool;
+
+identify the level of technical expertise available within the organization;
+
+determine whether or not existing platforms will be integrated with the BI tool;
+
+create a clear, detailed data strategy before investing in BI tools for the company; and
+
+establish robust metrics to track and prove your data’s value to company executives.
+
+Tracking of metrics – considerations include data reliability and quality, data infrastructure (collection, organization and availability) and whether or not the data meets a business’ challenges – is a key part of a BI strategy, the survey findings note.
+
+“Although skilled data analytics users understand the value and opportunity BI data offers a company, business executives and employees who are unfamiliar with data analysis, may challenge the importance of investing both human and financial capital in BI tools,” the survey adds.
+
+“Today, you have endless sources of data that you can use to predict trends, so the value of this data is increasing,” John Keenan, founder and CEO of Anthem Marketing Solutions, notes in the survey findings.
+
+“The problem is that you don’t have full coverage of the data. You need a broad range of resources to collect and analyze it,” Keenan goes on to say.

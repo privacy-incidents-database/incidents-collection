@@ -1,0 +1,23 @@
+Companies are being urged to identify employees who could be blackmailed into revealing sensitive market information following the Ashley Madison data dump.
+
+After hackers leaked 37 million email addresses used by people who had accessed the Toronto-based adultery website, there are fears that blackmailers will start demanding money to keep the details of extra-marital affairs secret.
+
+Stephen Coty, security expert at IT security firm Alert Logic, who has analysed the leaked data, said that the much more significant problem came from employees being compromised into revealing confidential details about their employer’s activities.
+
+“Companies who have threat research and intelligence analysts should be looking at this data to see what user names or email addresses are related to their organisation,” Coty said. “They should modify their email filters to start monitoring any emails coming through that reference Ashley Madison, so that they can find if somebody is trying to coerce an employee to go ahead and release company secrets.”
+
+Facebook Twitter Pinterest Identity protection analyst Adam Levin says Ashley Madison members should come clean instead of waiting to be discovered or risking becoming the victim of extortion
+
+According to his analysis, more than 14,000 government officials globally had been compromised, a revelation that has sparked fears some could be extorted into revealing matters of national security. But Coty said the major threat came from targeting people who had access to market-sensitive information, especially those who worked in banks and other financial institutions. “If I’m a malicious actor, I’m not really interested in blackmailing these guys for money; I’m more interested in where they work, in their corporate information. To me that is more valuable. I can sell that on an underground market, I can sell it to a competitor, to a startup overseas, and make a lot more money than blackmailing a guy for a few thousand dollars.”
+
+Coty said his analysis had shown that hackers also leaked details of the internal structure of Ashley Madison’s owner, Avid Life Media, as well as its business performance and sensitive corporate information, including the fact that it had lent its chief executive, Noel Biderman, $3m.
+
+The leak revealed that more than 173 million credit cards had been used to pay for Avid Life services in 2014 – a 44% increase on the previous year. Some 9.7 million people had signed up, of whom more than 2 million had gone on to become active members. Visitors to the site came from 46 different countries.
+
+“They had every single credit card payment going all the way back to 2008,” Coty said. “You should not be holding that information.”
+
+While the focus has been on users of the Ashley Madison site, whose slogan is “Life is short. Have an affair”, Avid Life had several other adultery sites, including Cougar Life and Established Men. “The users of all these sites are now vulnerable,” Coty said.
+
+Even those who had used anonymous emails are at risk of exposure. “I randomly picked somebody out from one of the dumped lists and I found a credit card transaction,” Coty said. “I could trace it to an address that showed that he was living in a loft in Toronto. It showed he was who he was and that he participated in the programme.”
+
+Coty suggested Ashley Madison would disappear following the furore. “Tens of millions of people’s information is now floating out there. This site is supposed to be anonymous. That’s what they guarantee. Even if you paid to have your data deleted, it’s still there. I wouldn’t be surprised if they closed their sites sometime soon.”

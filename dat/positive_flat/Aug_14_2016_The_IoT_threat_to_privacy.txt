@@ -1,0 +1,35 @@
+As the Internet of Things becomes more widespread, consumers must demand better security and privacy protections that don’t leave them vulnerable to corporate surveillance and data breaches. But before consumers can demand change, they must be informed — which requires companies to be more transparent.
+
+The most dangerous part of IoT is that consumers are surrendering their privacy, bit by bit, without realizing it, because they are unaware of what data is being collected and how it is being used. As mobile applications, wearables and other Wi-Fi-connected consumer products replace “dumb” devices on the market, consumers will not be able to buy products that don’t have the ability to track them. It is normal for consumers to upgrade their appliances, and it most likely does not occur to them that those new devices will also be monitoring them.
+
+After an Electronic Frontier Foundation activist tweeted about the unsettling similarity of the Samsung Smart TV privacy policy — which warned consumers not to discuss sensitive topics near the device — to a passage from George Orwell’s 1984, widespread criticism caused Samsung to edit its privacy policy and clarify the Smart TV’s data collection practices.
+
+But most people do not read privacy policies for every device they buy or every app they download, and, even if they attempted to do so, most would be written in legal language unintelligible to the average consumer. Those same devices also typically come with similarly unintelligible terms of use, which include mandatory arbitration clauses forcing them to give up their right to be heard in court if they are harmed by the product. As a result, the privacy of consumers can be compromised, and they are left without any real remedy.
+
+Increased corporate transparency is desperately needed, and will be the foundation of any successful solution to increased privacy in the IoT. This transparency could be accomplished either by industry self-regulation or governmental regulation requiring companies to receive informed and meaningful consent from consumers before collecting data.
+
+Consumers must demand to know what data is collected and how it is used.
+
+Generally, industries will respond if their customers demand more privacy. For example, after surveys revealed that new-car buyers are concerned about the data privacy and security of connected cars, the Alliance of Automobile Manufacturers (a trade association of 12 automotive manufacturers) responded by developing privacy principles they agreed to follow.
+
+Businesses can self-regulate by developing and adopting industry-wide best practices on cybersecurity and data minimization. When companies collect user data, they must take responsibility for protecting their users; if they do not want to be responsible for the data, they should refrain from collecting it in the first place.
+
+Some companies, such as Fitbit, embed privacy into their technology. The benefit of industry self-regulation is that each industry can create standards specific to the needs of their customers and the sensitivity of the data they collect.
+
+Layered privacy policies should be a best practice adopted by many industries, and Creative Commons licenses could serve as useful models. Those licenses have a three-layer design: the “legal code” layer, the “human-readable” layer and the “machine-readable” layer.
+
+The “legal code” layer would be the actual policy, written by lawyers and interpreted by judges. The “human-readable” layer would be a concise and simplified summary of the privacy policy in plain language that an average consumer could read. The “machine-readable” layer would be the code that software, search engines and other kinds of technology can understand, and would only allow the technology to have access to information permitted by the consumer.
+
+These best practices would make tremendous progress in protecting the privacy of consumers, but they are not enough. Companies must be legally bound to the promises they make to their customers. The use of pre-dispute mandatory arbitration clauses in terms of use have become standard in many industries. These clauses deny consumers their right to pursue a remedy in a court of law, usually without their knowledge, because they are buried in indecipherable fine print.
+
+The Consumer Financial Protection Bureau has found that arbitration clauses’ bar on class actions further hurts the public interest because lawsuits often generate publicity about a corporate practice, and, without them, consumers may not have access to that information. The agency has therefore proposed prohibiting mandatory arbitration clauses for most consumer financial products and services.
+
+The Department of Education has also proposed a rule that would prohibit the use of pre-dispute mandatory arbitration agreements by for-profit schools, giving students who have been exploited the right to sue their schools. The Federal Trade Commission should consider proposing a similar rule that would prohibit the use of pre-dispute mandatory arbitration agreements by companies that sell IoT products.
+
+Because this is such a complex problem, involving countless industries and implicating various privacy concerns, an adequate solution will require participation by consumers, businesses and the government. Consumers must demand to know what data is collected and how it is used. Industries should develop best privacy practices that match their customers’ expectations.
+
+The Federal Trade Commission should bring enforcement actions for deceptive practices against companies that do not comply with their own privacy policies, holding them accountable to their customers. It should also consider prohibiting pre-dispute mandatory arbitration clauses, so that consumers can have a cause of action when their privacy is violated.
+
+But before this can happen, consumers must demand to know what data is collected by their devices in the IoT.
+
+Featured Image: SavaSylan/Shutterstock

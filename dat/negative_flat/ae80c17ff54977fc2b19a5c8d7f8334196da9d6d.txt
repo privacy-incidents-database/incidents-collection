@@ -1,0 +1,12 @@
+Hacking Group Says It Brought Down C.I.A. Site - 
+Adding background on denial of service attacks, update on availability of C.I.A. site.
+Lulz Security, a group of hackers who have been responsible for a number of recent online data breaches, took aim at some United States government agencies on Wednesday.
+The group saidvia Twitter that it had brought down the CentralIntelligenceAgency Web site, presumably with a so-called denial of service attack.
+This involves hitting the site with so much traffic that it cannot handle the load. On Wednesday evening the site was sometimes unavailable but at other times loaded slowly.
+The group also set up a series of hacks that allowed people who dialed a phone number to prank-call an office at the Federal Bureau of Investigation. F.B.I. in Detroit just got hundreds of calls. That woman was mad, the group wrote.
+The F.B.I and C.I.A did not respond to requests for comment. A C.I.A. spokeswoman told CNBC that the agency was looking into the report.
+On Monday, Lulz Security claimed two victims. It posted an internal file from the Senate Web site and data that it said was from the internal network of Bethesda Softworks, a gaming company.
+Lulz Security has also claimed responsibility for hacking a number of other Web sites and companies, including the sites of PBS and Sony Pictures and a Web site associated with the F.B.I.
+A distributed denial of service attack involves using many computers to bombard a Web site with an overload of traffic, knocking it offline. These types of attacks do not result in data being stolen or servers being breached.
+Tech Talk Podcast: Adding Addresses to the Internet
+Visit the Technology section for complete coverage of the industry. 

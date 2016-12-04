@@ -1,0 +1,33 @@
+SAN FRANCISCO — Google, Facebook and Microsoft on Tuesday asked the government for permission to reveal details about the classified requests they receive for the personal information of foreign users.
+
+They made the request after revelations about the National Security Agency’s secret Internet surveillance program, known as Prism, for collecting data from technology companies like e-mail messages, photos, stored documents, videos and online chats. The collection is legally authorized by the Foreign Intelligence Surveillance Act, which forbids companies from acknowledging the existence of requests or revealing any details about them.
+
+Google for the first time publicly acknowledged it had received FISA requests and said it had complied with far fewer of the requests than it received. Facebook and Microsoft did not go as far as discussing requests they had received but, like Google, said they wanted to be able to publish information on the volume and scope of the government requests.
+
+Christopher Soghoian, a senior policy analyst studying privacy, technology and surveillance at the American Civil Liberties Union, said that while he appreciated the statements from the companies, they were largely meant to save face with users and employees.
+
+Advertisement Continue reading the main story
+
+“If nothing else happens, this is a way of putting the government on the defensive and shifting the blame from the companies to the government,” he said.
+
+Many questions remain unanswered after the leak of N.S.A. documents about Prism, including precisely how the tech companies and the government cooperate. Prism refers to an automated system for electronically exchanging information regarding FISA requests, according to people briefed on how it works. On Tuesday, David Drummond, Google’s chief legal officer, said in an interview on British television that Google hands over the information to the government in person or by using a file-transferring technology called secure FTP.
+
+Photo
+
+But the companies say they are frustrated that they are unable, because of a government gag order, to give more details of sharing user data with the government.
+
+That gap in information has fed speculation that is untrue, Mr. Drummond wrote in a letter on Tuesday to Eric H. Holder Jr., the attorney general, and Robert S. Mueller, the director of the F.B.I. In the letter, Mr. Drummond asked for permission to publish both the number of national security requests, including FISA disclosures, that Google receives and their scope.
+
+“Google’s numbers would clearly show that our compliance with these requests falls far short of the claims being made,” Mr. Drummond wrote. “Google has nothing to hide.” Mr. Drummond was unavailable for an interview.
+
+In a statement, Leslie Miller, a Google spokeswoman, said “only a tiny fraction” of Google’s hundreds of millions of users worldwide were subject to government data requests each year.
+
+Google has said it scrutinizes each government request and narrows the scope if it is overly broad. In 2010, it became the first major tech company to publish a transparency report detailing certain government requests for user information. In March, after long negotiations with law enforcement, it added national security letters, which the F.B.I. uses to ask for information and which companies are generally not permitted to disclose. Still, Google was allowed to report only that it received zero to 999 such letters.
+
+Microsoft released its first transparency report in March. The company said on Thursday that the report went as far as it legally could and urged the government to allow it to publish more information.
+
+Facebook has never published a transparency report, despite pressure to do so. On Thursday, it said it would start publishing one if the government gave it permission to release information on the size and scope of national security requests.
+
+Advertisement Continue reading the main story
+
+“We have questioned the value of releasing a transparency report that, because of exactly these types of government restrictions on disclosure, is necessarily incomplete and therefore potentially misleading to users,” Ted Ullyot, Facebook’s general counsel, said in a statement.

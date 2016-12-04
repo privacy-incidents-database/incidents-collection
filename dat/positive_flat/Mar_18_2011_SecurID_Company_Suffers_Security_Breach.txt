@@ -1,0 +1,27 @@
+SAN FRANCISCO — The RSA Security division of the EMC Corporation said Thursday that it had suffered a sophisticated data breach, potentially compromising computer security products widely used by corporations and governments.
+
+The company, which pioneered an advanced cryptographic system during the 1980s, sells products that offer stronger computer security than simple password protection. Known as multifactor authentication, the technology is typically based on an electronic token carried by a user that repeatedly generates a time-based number that must be appended to a password when a user logs in to a computer system.
+
+RSA, which is based in Bedford, Mass., posted an urgent message on its Web site on Thursday referring to an open letter from its chairman, Art Coviello. The letter acknowledged that the company had suffered from an intrusion Mr. Coviello described as an “advanced persistent threat.”
+
+In recent years a number of United States companies and government agencies have been the victim of this type of attack, in which an intruder either exploits an unknown software vulnerability or in some way compromises the trust of an employee to take command of a computer or an entire network within a company.
+
+In 2009, for example, Google fell victim to an attack that it said had originated in China, and it ended commercial operations in the country in response.
+
+Advertisement Continue reading the main story
+
+Mr. Coviello said that the company’s investigation had revealed that the intruder successfully stole digital information from the company that was related to RSA’s SecurID two-factor authentication products. He did not give precise details about the nature of the information, but said it could potentially reduce the effectiveness of the system in the face of a “broader attack.” The company said that there was currently no indication that the information had been used to attack its customers.
+
+“We took a variety of aggressive measures against the threat to protect our business and our customers, including further hardening of our I.T. infrastructure,” Mr. Coviello said. “We also immediately began an extensive investigation of the attack and are working closely with the appropriate authorities.”
+
+Company officials did not return phone calls seeking comment on Thursday.
+
+Despite the lack of detail, several computer security specialists said the breach could pose a real threat to companies and government agencies who rely on the technology.
+
+One possibility, said Whitfield Diffie, a computer security specialist who was an inventor of cryptographic systems now widely used in electronic commerce, is that a “master key” — a large secret number used as part of the encryption algorithm — might have been stolen.
+
+The worst case, he said, would be that the intruder could produce cards that duplicate the ones supplied by RSA, making it possible to gain access to corporate networks and computer systems. Mr. Diffie is vice president for information security and cryptography at the Internet Corporation for Assigned Names and Numbers.
+
+In addition to posting the chairman’s letter, the company submitted a filing to the Securities and Exchange Commission in which it stated that it did not expect the theft to have a financial impact.
+
+RSA was founded in 1982 by a small group of technologists who at times were actively opposed by the National Security Agency, which was trying to limit the spread of sophisticated cryptography technology. In 2009, the company said publicly that its SecurID system was being used by 40 million customers. Last year it said its technology was used to secure the identities and assets of more than 250 million people.

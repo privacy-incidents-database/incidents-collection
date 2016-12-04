@@ -1,0 +1,39 @@
+Samsung changes Smart TV privacy policy in wake of spying fears - CNET
+Samsung changes Smart TV privacy policy in wake of spying fears
+Regulators could freeze AT&T's $85B plan to buy Time Warner
+How police body cameras became a budget battlefield
+Why it was so easy to hack the cameras that took down the web
+Samsung to Galaxy Note 7 holdouts: Stop. Right. Now.
+Spotify: You'd have to pry free tier from our cold, dead hands
+WiGig's ready to save you from congested wireless networks
+CNETSecuritySamsung changes Smart TV privacy policy in wake of spying fearsSamsung changes Smart TV privacy policy in wake of spying fearsTechnically Incorrect: Samsung says that it wants to make clearer what really happens when its Smart TVs capture your voice at home.by
+@ChrisMatyszczyk / February 10, 201512:35 PM PSTSecurityFebruary 10, 201512:35 PM PSTby Chris Matyszczyk @ChrisMatyszczykTechnically Incorrect offers a slightly twisted take on the tech that's taken over our lives.Samsung lets you take control. But is it worth it?
+Should you have a Samsung Smart TV, you may have been practicing sign language or deep whispering whenever someone was using its voice recognition feature. 	After all, last week the company's privacy policy
+was revealed to read, in part: "Please be aware that if your spoken words include personal or other
+sensitive information, that information will be among the data captured
+and transmitted to a third party through your use of Voice
+Recognition." 	The wording suggested troubling possibilities. Now Samsung has decided to change its privacy policy to, the company told me, "better explain what actually occurs." 	In a blog post titled "Samsung Smart TVs Do Not Monitor Living Room Conversations," Samsung said that its Smart TVs have two microphones. One is inside the TV set. The other sits inside your remote. 	The one in the TV responds to voice commands that are predetermined. The remote microphone, which you can use to find a particular program or type of program "works like most any other voice recognition service available on other products including smartphones and tablets." 	But what of the most contentious part of the privacy policy? What of the recording and transmitting of your living-room chatter? What of your personal or other sensitive information? 	Samsung has clarified -- and lengthened -- this particular aspect of its privacy policy. It now reads:If you enable Voice Recognition, you can interact with your Smart TV
+using your voice. To provide you the Voice Recognition feature, some
+interactive voice commands may be transmitted (along with information
+about your device, including device identifiers) to a third-party
+service provider (currently, Nuance Communications, Inc.) that converts
+your interactive voice commands to text and to the extent necessary to
+provide the Voice Recognition features to you. In addition, Samsung may
+collect and your device may capture voice commands and associated texts
+so that we can provide you with Voice Recognition features and evaluate
+and improve the features. Samsung will collect your interactive voice
+commands only when you make a specific search request to the Smart TV by
+clicking the activation button either on the remote control or on your
+screen and speaking into the microphone on the remote control.
+Samsung also makes it clear that voice recognition can be disabled, leaving you still with the power to use certain predetermined voice commands. Voice recognition data collection can also be disabled, but then certain features will be disabled with it. 	Samsung insists that it uses industry standard encryption to secure the data. The updated privacy wording was, of course, written by lawyers. So it should be held with an outstretched arm in just two fingers for examination.
+What remains unclear is whether the microphones can, indeed, capture background living-room conversations. The wording about "personal or other sensitive information" seems to have been removed. But what does this mean? Although Samsung's blog post insists that the software doesn't "monitor" living-room conversation, the question remains whether it does still record it, however inadvertently. 	I therefore asked Samsung to explain further and will update, should I hear. 	Any digital device with a microphone will surely be able to listen in to anything that's said when the microphone is on. 	The drift toward voice recognition and activation is one that people supposedly crave. It's not as if Samsung Smart TVs are alone
+in providing such a feature. Cars and phones have voice recognition. So does your Xbox One. I contacted both Philips and LG two days ago to ask what their specific smart-TV privacy policies are, but both companies have been worryingly quiet on the subject. 	At the heart of your interaction with all these devices is trust. When it comes to its voice assistant service, for example, Google creates random identifiers to block its servers from knowing that it's you making the voice request. 	However professional Nuance Communications is (and it works with many companies such as LG and Panasonic to, for example, turn speech into text), there is always going to be a little doubt. There's certainly a question as to what happens once Samsung has passed your data to Nuance. Nuance's privacy policy says, for example: "By using Nuance products and services, you acknowledge, consent and
+agree that Nuance may collect, process, and use the information that you
+provide to us and that such information shall only be used by Nuance or
+third parties acting under the direction of Nuance, pursuant to
+confidentiality agreements, to develop, tune, enhance, and improve
+Nuance services and products." Further in the privacy policy is a reference to data use for "advertising and marketing." I have contacted Nuance to ask whether it feels able to pass voice data information -- in whatever form -- obtained via Samsung Smart TVs to third parties. I will update, should I hear.
+Woman says she was fired via Twitter (before starting job)
+Man drives while using cell phone, headphones and laptop
+Microsoft, tired of bashing Apple, now says it's reinvented the laptop
+Personally, I'm very happy to shout at my TV once in awhile (Go Warriors, etc.) without feeling the need to talk to it to find a show to watch. 	Every time you commit any kind of data to digital technology, there's the possibility of recording and/or storing. As more and more data is being emitted, there are more and more permutations of that data out there. Equally, there is an increased potential for error, carelessness or subterfuge. 	We take the risk to give ourselves more amusement and convenience. We trust that our data will be used only for good and, hopefully, discarded when there's no further use for it. 	Actually, the truth is, we don't think about it at all. We just want the amusement and convenience.Tags: Technically IncorrectSecurityTech CultureHome EntertainmentSamsungDiscuss: Samsung changes Smart TV privacy policy in...Conversation powered by LivefyreShow CommentsHide CommentsFeatured VideoApple leaks the 'Magic Toolbar' for the new MacBook ProsNew MacBook Pro details are accidentally leaked by Apple in macOS Sierra for the rumored 'Magic Toolbar'by Brian TongSamsung aims to entice Note 7 owners, and iPhone 7 Plus gets an upgradeA new plan from Samsung attempts to retain customers. Meanwhile, a software update brings a much-touted feature to Apple's bigger phone.by Iyaz AkhtarCloseDrag

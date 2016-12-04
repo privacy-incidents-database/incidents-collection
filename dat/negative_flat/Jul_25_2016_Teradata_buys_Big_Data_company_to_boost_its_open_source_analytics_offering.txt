@@ -1,0 +1,25 @@
+Dive Brief:
+
+Teradata Corp. will buy Big Data Partnership, a Big Data solutions and training service provider, the company announced in a press release.
+
+Teradata said the acquisition will help it grow its open source analytics services. Big Data Partnership is designed to help companies capitalize on data using data science and Big Data technologies.
+
+Teradata said the Big Data Partnership purchase will also help it grow its consulting services, bringing Big Data analytics expertise to customers in Europe and Asia.
+
+Dive Insight:
+
+Data continues to be a hot topic as companies move to advance their enterprise capabilities and offerings. But as companies collect vast amounts of data, they struggle with analysis and its application. In some cases, they tap Big Data solutions providers to help manage and gather insight from their data troves.
+
+"Big Data analytics services represent a fast-growing market valued at $40 billion in 2015," according to Teradata’s press release.
+
+Teradata is preparing for a spike in demand for "multi-genre analytics, new data infrastructures and business models," as IoT takes off, according to the company. Gartner recently predicted there will be 25 billion or more IoT devices connected to the Internet by 2020.
+
+
+
+Terms of the agreement were not disclosed.
+
+Recommended Reading
+
+Dayton Business Journal: Teradata agrees to acquire data company, to expand services
+
+Teradata: Teradata Acquires Big Data Partnership Consultancy, Expands Open Source Analytics Services

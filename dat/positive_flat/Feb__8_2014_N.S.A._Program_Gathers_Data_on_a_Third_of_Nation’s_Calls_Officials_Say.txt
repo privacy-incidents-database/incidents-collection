@@ -1,0 +1,53 @@
+WASHINGTON — The National Security Agency’s once-secret program that is collecting bulk records of Americans’ domestic phone calls is taking in a relatively small portion of the total volume of such calls each day, officials familiar with the program said on Friday.
+
+While the agency is collecting a large amount of landline phone data, it has struggled to take in cellphone data, which has undergone explosive growth in recent years and presents additional technological hurdles, the officials said.
+
+The revelation came days after the nation’s secretive Foreign Intelligence Surveillance Court approved President Obama’s proposal to impose new restrictions on when and how analysts with the N.S.A. may gain access to the raw database containing the bulk phone records, according to the Office of the Director of National Intelligence.
+
+The bulk call records program began under the Bush administration and was based on claimed wartime powers. In 2006, the program was brought under the surveillance court’s authority. It came to light after leaks by the former N.S.A. contractor Edward J. Snowden.
+
+On Friday, The Washington Post reported that the N.S.A. is currently taking in data on less than 30 percent of phone calls. The article also said the agency had been collecting nearly all records about Americans’ phone calls in 2006, and that the N.S.A. was now trying to restore comprehensive coverage.
+
+Advertisement Continue reading the main story
+
+Officials partly confirmed The Post’s report, although they said it was difficult to put a precise number on the percentage. But they disputed that the agency had ever had near-universal access to phone data, saying cellphone records have always presented problems.
+
+The Wall Street Journal reported in June that T-Mobile and Verizon Wireless were not part of the N.S.A.’s data collection, and a report on surveillance policy last month by a review group appointed by Mr. Obama said that while the program “acquires a very large amount” of phone data each day, that was still “only a small percentage of the total” calls.
+
+One official said intelligence agencies have quietly chafed at assumptions that the N.S.A. was collecting all phone records. But they have been reluctant to correct the record because they did not want to draw attention to the gap and because it is, in fact, the agency’s goal to overcome technical hurdles that stop them from ingesting them all.
+
+The greater attention to the gap puts new light on claims about the effectiveness of the program. Critics say the gap may undermine the argument that the program, as it currently exists, can provide peace of mind about links to potential terrorists: a negative result might instead mean only that the data was missing.
+
+Supporters, however, say the gap might undermine the argument that the program is ineffective because it has thwarted no attacks and uncovered only a minor case in which some men sent several thousand dollars to a Somali terrorist group.
+
+“We should have a debate about how effective would it be if it were fully implemented,” one official said.
+
+Photo
+
+In a speech last month, Mr. Obama announced that he intended to find a way to get the government out of the business of holding onto the bulk records, but he also said that its capabilities should be preserved.
+
+Mr. Obama also announced that he wanted to immediately impose new limits on how the database is used, by requiring the N.S.A. to wait for a judge on the surveillance court to sign off before querying records associated with a number that is suspected of links to terrorism — except in emergencies — and by limiting analysts to only pulling up records of people who are up to two levels removed from that number.
+
+Advertisement Continue reading the main story
+
+Previously, the surveillance court had allowed the N.S.A. to decide that a search was justified, and had let analysts go up to three levels out — meaning an exponentially larger number of people’s calls would be scrutinized.
+
+On Wednesday, according to a statement issued late Thursday in the name of James R. Clapper Jr., the director of national intelligence, the surveillance court issued an order amending the rules in line with Mr. Obama’s proposed changes.
+
+On Friday, a judicial clerk announced that Chief Justice John G. Roberts Jr. had made his first selection to the main Foreign Intelligence Surveillance Court since Mr. Snowden’s revelations about spy programs that had been secretly approved by the court.
+
+The leaks have focused greater attention on how Chief Justice Roberts has used his unilateral authority to select judges to serve seven-year terms on the court. Of the 11 judges currently serving — all appointed by Chief Justice Roberts — 10 had been appointed to judgeships on other federal courts by Republican presidents.
+
+But in May, when the term expires for Judge Reggie B. Walton of the District of Columbia, Chief Justice Roberts has selected an Obama appointee, Judge James E. Boasberg, also of the District of Columbia, to fill the position until 2021. Judge Boasberg, a former federal prosecutor, was appointed to the Federal District Court by Mr. Obama in 2011. He has handled several cases involving national security and secrecy matters since joining the court.
+
+In 2012, for example, he sided with the Central Intelligence Agency, and rejected a Freedom of Information Act lawsuit seeking public disclosure of photographs of the corpse and burial of Osama Bin Laden.
+
+But last year, Judge Boasberg ruled against the Department of Homeland Security, saying it had to release documents explaining a secret policy about the government’s ability to shut down commercial and private wireless network services in certain circumstances. The Obama administration has appealed the ruling.
+
+Chief Justice Roberts also selected Judge Richard C. Tallman, of the United States Court of Appeals for the Ninth Circuit, to fill a vacancy on the three-member review panel that hears rare appeals of the surveillance court’s rulings.
+
+While Judge Tallman was appointed by President Bill Clinton, his nomination was part of a political deal over judicial nominations in which his seat would go to a person acceptable to Senator Slade Gorton, Republican of Washington.
+
+Advertisement Continue reading the main story
+
+Several members of Congress have proposed changing the way judges are selected to serve on the court to achieve greater ideological diversity in light of its evolving role and growing power, and Mr. Obama’s surveillance review group also recommended doing so.

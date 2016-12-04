@@ -1,0 +1,41 @@
+Both elements have the potential to hamper the data-harvesting engine that is at the heart of Facebook’s advertising-driven business, and of its value.
+
+Facebook said in a statement that its data practices followed European law and that the company had gone out of its way to meet Mr. Schrems’s request for personal information. The company also noted that Facebook users could easily obtain a copy of their information on Facebook by using a function within their personal account settings.
+
+The company said a report in December from an Irish regulator demonstrated “how Facebook adheres to European data protection principles and complies with Irish law.” It says it is not only fully compliant with E.U. data protection laws, but “we also strongly believe that every Facebook user owns his or her own data and should have simple and easy access to it.”
+
+Mr. Schrems appeared on Facebook’s radar last June when he filed a complaint against the company with the Irish regulator, the office of the Irish Data Protection Commissioner, in Port Arlington, Ireland. He alleged 22 violations of European law. Mr. Schrems filed the grievance after using a provision of Irish law to obtain from Facebook a copy of all of the information the company had been keeping on him.
+
+Photo
+
+Facebook sent Mr. Schrems a computer disc containing 1,222 pages of information.
+
+The disc, Mr. Schrems said, showed that Facebook was routinely collecting data that he had never consented to give, like his physical location, which he assumes was determined from his computer’s unique address identifiers, which can be traced geographically. Facebook was also retaining data he had deleted, Mr. Schrems said.
+
+Irish officials began an audit based on his complaints and in October visited Facebook’s offices in the Hanover Quay section of Dublin, where the company employs more than 400 workers to direct many of its global operations outside North America.
+
+Advertisement Continue reading the main story
+
+On Dec. 21, the Irish regulator, which has a staff of only 22 employees, released a 150-page report that gave Facebook until July to make a series of changes in the way it collects and retains data and how it explains to users how their information is being used.
+
+Mr. Schrems, during an interview last week, said the Irish inquiry and the regulator’s agreement with Facebook had not addressed “90 percent” of his complaints. Mr. Schrems said he planned to request a “formal decision” from Irish officials, which would give him the legal basis to challenge the regulator’s findings in Irish court.
+
+Gary Davis, the deputy Irish data commissioner who led the audit on Facebook, said his agency had obtained significant concessions from Facebook that had had positive effects for the 854 million active global users of the site. After 40,000 people requested their own data from Facebook Ireland, the company responded, Mr. Davis said, by creating a software tool in October on the Web site that gives all users a quick overview of the data being kept on file.
+
+Facebook announced improvements to that tool last week, Mr. Davis said, to provide more detailed information, and has committed to providing even more by July, when the regulator will revisit Facebook’s offices to check whether it has honored its commitments.
+
+That visit could coincide with Facebook’s I.P.O., which could take place as early as May, depending on the length of the regulatory review in the United States.
+
+Mr. Davis said that Facebook, as a result of Mr. Schrems’s campaign, had agreed to cut the amount of time it retains data on most user activities on the Web site to less than one year. Queries typed into Facebook’s search field are deleted within six months, in conformance with European law. Previously, Mr. Davis said, the company had no comprehensive policy on data retention, with times often dictated by the perceived level of security threats and cyberattacks on the business.
+
+“We still view Max very favorably for the issues he has raised, which were very specific and well prepared and have led to concrete improvements in how Facebook does business,” Mr. Davis said. “I obviously think we have achieved a lot in Ireland by getting Facebook to improve its transparency and data protection practices.”
+
+Mr. Schrems said the concessions from Facebook had been insufficient. At the time of its release, Thilo Weichert, the data protection commissioner in the German state of Schleswig-Holstein, criticized the Irish regulator, saying it had identified infractions in Facebook’s handling of consumer data but had not taken a harder line or imposed financial penalties.
+
+Advertisement Continue reading the main story
+
+The main issue, Mr. Schrems said, is that no one, including the Irish regulator, is independently verifying whether Facebook is doing what it says it will do in terms of permanently deleting personal information and shortening data retention times.
+
+“No one is actually looking into the computers,” Mr. Schrems said. “The regulators are just getting statements from different parties and deciding based on a vacuum.”
+
+Mr. Davis, the Irish regulator, said Facebook had given him full access to the data it kept.

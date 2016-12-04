@@ -1,0 +1,13 @@
+Zappos Says Hackers May Have Accessed Customer Account Details
+Zappos Says Hackers May Have Accessed Customer Account Details
+Zappos Says Hackers May Have Accessed Customer Account Details
+The account information for millions of customers at Zappos.com, an online shoe and clothing company, may have been compromised by a hacking attack, the companys chief executive, Tony Hsieh, wrote on Sunday in an e-mail to employees.
+In the message, posted on the Zappos Web site, Mr. Hsieh said a criminal gained access to parts of our internal network and systems through one of the companys servers in Kentucky.
+He wrote, in capital letters, that the database containing complete credit card and other payment information for Zappos customers had not been accessed.
+Mr. Hsieh said the company would send an e-mail notifying the more than 24 million accountholders of the incident, including details about the information that might have been obtained: names, e-mail addresses, billing and shipping addresses, phone numbers and the last four digits of credit cards. The messages will encourage customers to create a new password for both Zappos and any other Web site where you use the same or a similar password.
+The company had already reset all passwords, the e-mail said.
+Mr. Hsieh said the company made the hard decision to temporarily shut off its phones, directing customers to correspond by e-mail because the phone systems simply arent capable of handling the expected volume of inquiries.
+All employees at the companys headquarters in Henderson, Nev., would be asked to assist customers, regardless of department, he wrote.
+Weve spent over 12 years building our reputation, brand, and trust with our customers, Mr. Hsieh said. Its painful to see us take so many steps back due to a single incident.
+In 2009, Zappos was sold to Amazon.com for more than $1 billion.
+Visit the Technology section for complete coverage of the industry. 

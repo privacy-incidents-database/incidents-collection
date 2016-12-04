@@ -1,0 +1,42 @@
+Why Some Privacy Apps Get Blocked From the Android Play Store - Digits - WSJ
+News Corp is a network of leading companies in the worlds of diversified media, news, education, and information services.
+Dyn Says Cyberattack Has Ended, Investigation Continues
+Airbnb Revises New York Rules Amid Possible Legislation
+Russian Hacker Suspected of LinkedIn Attack Indicted in U.S.
+FCC Reaches Settlement With T-Mobile Over Unlimited Plans
+Snapchat to Revamp Ad Sales Agreements With Publishers
+IPO Hopeful Bloom Energy Enlisted Colin Powell for Tax-Credit Extension
+Google Pitches Survey Tool to Measure Effectiveness of Advertising, Branded Content
+Calling Tehran: Vodafone Leaps Into Iran With Internet-Service Deal
+This copy is for your personal, non-commercial use only. To order presentation-ready copies for distribution to your colleagues, clients or customers visit http://www.djreprints.com.
+http://blogs.wsj.com/digits/2014/08/28/why-some-privacy-apps-get-blocked-from-the-android-play-store/
+Why Some Privacy Apps Get Blocked From the Android Play Store
+Some developers of privacy apps believe Google is blocking their apps from the Android Play Store to protect its business model.
+Google Tuesday removed a smartphone app called Disconnect Mobile from its Android Play store because it violated a policy prohibiting software that interferes with other apps.
+Interference was precisely the point of Disconnect Mobile, a privacy tool aimed at stopping other apps from collecting data on users. In the six days it was available in Googles store, it was downloaded more than 5,000 times.
+Disconnect, a San Francisco startup that spent a year and $300,000 to develop the app, says it was careful to build its product according to Googles rules, but that the policies are so vague that Google could, in essence, ban any app in its store.
+Its like a Kafka novel  youre getting kicked out or arrested for reasons you dont even know, says Casey Oppenheim, Disconnects co-founder.
+Google has banned similar ad-blocking apps before because they, too, could interfere with other apps. When we were kicked out, virtually every other ad blocker was kicked out as well, said Ben Williams a spokesman for Eyeo, maker of Adblock Plus, which was removed from the Play store in March 2013.
+Google declined to comment on the removal of Disconnect and other privacy apps. Our policies are designed to provide a great experience for users and developers. Thats why we remove apps from Google Play that violate those policies, a Google spokeswoman said.
+The controversy reflects the control that Google and rival Apple exert through their app stores. Even at the height of its powers, by contrast, Microsoft did not control the distribution of apps for its Windows operating system for personal computers.
+There is no reason why you shouldnt have the same degree of control over the computer you have in your pocket as you do over your computer on your desktop, Oppenheim says.
+He and others suggest Google doesnt like ad-blocking apps because they interfere with its primary business of selling ads.
+The culture in the mobile space appears to be that theres a data free for all, says Peter Eckersley, technology projects director for the Electronic Frontier Foundation.
+Dozens of apps aimed at protecting users privacy are available in the Play store, promising to help users opt out of being tracked for ad targeting or spot which companies are tracking them.
+For instance, Ghosterys Ad Control app asks companies to opt users out of targeted advertising on mobile devices. However, users still see ads, and the app doesnt block tracking without first asking advertisers. AppBrain Ad Detector displays the advertising services embedded in apps that users have downloaded onto their mobile devices. However, AppBrain stresses that it does not block ads. The DuckDuckGo and Ixquick browsers block cookie tracking and block Google from collecting data on a users browsing behavior.
+The ability to collect data from users is one perk of developing apps for the Android ecosystem, developers say. Googles rules force users to agree to a blanket request for data before they use an app. On Apples iPhone, users can opt out of specific requests as they go.
+The Android permission requests can prompt their own concerns. Some Facebook users were alarmed earlier this month when they saw the disclosure for Facebooks Messenger app, which included permission to read users contacts and text messages download files without notification. Facebook said it wouldnt take advantage of the permissions, and said it had no control over the wording of the permissions, which were written by Google.
+Hillary Clinton Tells Tech Executives Not Everyone Is Sharing in Industry Gains
+Big U.S. Retail Bank Operations Under Scrutiny After Wells Scandal
+HBO Chief Agnostic on Where Content Goes Following Merger
+GOP Congressional Campaign Ads Pitch Candidates as a Check on Clinton White House
+If Monsanto Loses Its Name, What Will Its Haters Have Left to Hate?
+New Research Finds Antarcticas Ice Shelves Are Melting Rapidly
+The Biggest Money Mistakes We MakeDecade by Decade
+Trumps Electoral Math Veers Far From Latest Polling
+Have Big-Budget Airline Safety Videos Gone Too Far?
+The Biggest Money Mistakes We MakeDecade by Decade
+The Fatal Mistake That Doomed Samsungs Galaxy Note 7
+Copyright 2016 Dow Jones & Company, Inc. All Rights Reserved.
+Copyright 2014 Dow Jones & Company, Inc. All Rights Reserved
+This copy is for your personal, non-commercial use only. Distribution and use of this material are governed by our Subscriber Agreement and by copyright law. For non-personal use or to order multiple copies, please contact Dow Jones Reprints at 1-800-843-0008 or visit www.djreprints.com.

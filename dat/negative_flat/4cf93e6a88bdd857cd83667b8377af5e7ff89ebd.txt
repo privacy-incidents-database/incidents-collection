@@ -1,0 +1,20 @@
+Apple Issues Fix to Combat Malware - 
+Apple issued a security update on Tuesday to address persistent attacks that are taking aim at Mac users with a fake antivirus program.
+The update removes known versions of the scareware program, which is known as MacDefender. The update also adds detection capabilities to Apple s built-in malware monitoring feature to try to stop users from downloading the fake program in the first place. If the updated software sees an attack, it will cause a pop-up warning with a big red stop sign and white exclamation point.
+The update is available for only the most recent 10.6 versions of the Mac OS X computer and server operating systems. Users can get the update immediately by clicking on the Apple icon on the top left of their screen and selecting Software Update.
+Apple said in an advisory that its removal and blocking tools will be updated daily to catch any new versions of the scareware.
+And it looks like it will need to. Within hours of issuing its security update, a new version of MacDefender was spotted that evaded the new defenses, ZDNet reported. And antivirus company F-Secure said it was seeing a significant attack on American and British users of
+Facebook that was able to hit both Macs and Windows PCs. The Facebook attack was spreading virally using the sites Like feature and lures users with a promise of salacious videos, including of Dominique Strauss-Khans alleged rape attempt.
+MacDefender has been targeting Mac users for the last month using malicious Web pages. These pages use tactics that are commonly used by the online-marketing industry and malicious attackers alike. The most recent versions of the program have been able to install on Macs without users needing to enter their password, a layer of defense that helped slow earlier versions.
+MacDefender attempts to trick people into thinking their computer is infected with a virus and then tries to sell them security software, which is also fake. Mac users are pressured to supply their credit-card numbers and pay for licenses that cost $60 to $80. Apple provides instructions on how to manually remove the scareware on another page on its Web site.
+The spate of attacks has started debate about whether things are now bad enough that Mac users need to use antivirus software. Macs are theoretically as vulnerable to malware as other computers, but a smaller marketshare has long made going after the machines less fruitful and interesting for attackers. However, the rising popularity of Macs and other Apple products could be changing that.
+Apple is losing its security-by-obscurity luster, said Paul Henry, principle at consultancy vNet Security and a security and forensic analyst for Lumension Security.
+It helps that Apple provides its own antivirus protection, though its tool has been very basic to date. A number of companies offer security software for Macs. F-Secure sells a product for 32 euros a year ($46), Mac specialist Intego charges $50 and Sophos provides a free product.
+desktops, Personal Computing, PersonalComputing, portable computers, Security & Privacy,
+Gadgetwise is a blog about everything related to buying and using tech products. From figuring out which gadget to buy and how to get the best deal on it to configuring it once its out of the box, Gadgetwise offers a mix of information, analysis and opinion to help you get the most out of your personal tech.
+All the regular features on the Gadgetwise blog can now be found on the Personal Tech section front. Thank you for reading.Readmore
+FX-Sport VR1 Programmable Personal Trainer Headphones are a smart concept  a pair of headphones with a built-in coach, or virtual competitor. Readmore
+Online file storage services like Dropbox let you share files with people who do not have an account with the company.Readmore
+Q&A: Revealing Your Location (or Not) to Mobile Apps
+Mobile apps may have useful reasons for requesting your location information, while others just want to show you local advertising.Readmore
+Amazons store for Android apps has a Test Drive feature that lets you see an app in action before you buy or download it.Readmore

@@ -1,0 +1,10 @@
+Daily Report: More Than a Billion Passwords Stolen by Russian Hackers - 
+Daily Report: More Than a Billion Passwords Stolen by Russian Hackers
+Daily Report: More Than a Billion Passwords Stolen by Russian Hackers
+A Russian crime ring has amassed the largest known collection of stolen Internet credentials, including 1.2 billion user name and password combinations and more than 500 million email addresses, according to security researchers, Nicole Perlroth and David Gelles report.
+The records, discovered by Hold Security, a firm in Milwaukee, include confidential material gathered from 420,000 websites, including household names, and small Internet sites. Hold Security has a history of uncovering significant hacks, including the theft last year of tens of millions of records from Adobe Systems.
+Hold Security would not name the victims, citing nondisclosure agreements and a reluctance to name companies whose sites remained vulnerable. At the request of , a security expert not affiliated with Hold Security analyzed the database of stolen credentials and confirmed it was authentic. Another computer crime expert who had reviewed the data, but was not allowed to discuss it publicly, said some big companies were aware that their records were among the stolen information.
+Hackers did not just target U.S. companies, they targeted any website they could get, ranging from Fortune 500 companies to very small websites, said Alex Holden, the founder and chief information security officer of Hold Security. And most of these sites are still vulnerable. Read more 
+Computer Security, Cyberattacks and Hackers, Hold Security LLC, Russia
+Apple and Samsung Drop Patent Fights Outside the United States
+Visit the Technology section for complete coverage of the industry. 
